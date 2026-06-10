@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the framework
-#### 3.0 Construct knowledge hypercube 
+#### 3.0 Construct knowledge hypercube (i.e., multi-dimensional indexing)
 
 - If you want to run on our datasets, you can skip this step since we have constructed the hypercube and saved the results in `hypercube` folder.
 
