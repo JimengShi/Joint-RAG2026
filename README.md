@@ -1,12 +1,11 @@
-# Hypercube-based Retrieval-Augmented Generation
+# Joint-RAG: Jointly Structured Multi-Dimensional Indexing for Retrieval-Augmented Generation
 
-### Joint-RAG: Jointly Structured Multi-Dimensional Indexing for Retrieval-Augmented Generation
 <div align="left">
 <!-- <img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube-rag1.jpg" alt="hypercuberag" width="1000"/>  -->
 <img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/joint-rag-framework.png" alt="hypercuberag" width="1000"/>   
 </div>
 
-### Ours Framework vs. Baselines
+### Our Joint-RAG vs. Baselines
 <img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/ours_vs_baselines.png" alt="hypercuberag" width="1000"/>   
 
 
