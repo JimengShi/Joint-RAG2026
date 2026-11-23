@@ -96,7 +96,7 @@ python evaluation/nlp_metric.py --data nq --model gpt-4o-mini \
 ```
 
 #### 4.2 LLM-as-Judge
-Three LLM judges, GPT-4o (`gpt-4o-2024-11-20`), GPT-5.2 (`gpt-5.2-2025-12-11`) and GPT-6.1 (`gpt-6.1-sol`), rate each answer on correctness and completeness (0 or 1 each). For each judge we compute the average correctness, and the reported LLM-as-Judge score is the mean over the three judges. Per-sample judgments are saved to `*_judged.json`; re-running the script reuses them, so an interrupted run can be resumed.
+We use three LLM judges: GPT-4o (`gpt-4o-2024-11-20`), GPT-5.2 (`gpt-5.2-2025-12-11`) and GPT-6.1 (`gpt-6.1-sol`).
 ```
 python evaluation/llm_as_judge.py --data legalbench --model gpt-4o-mini --retrieval_method hypercube --k 5
 ```
