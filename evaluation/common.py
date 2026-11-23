@@ -25,7 +25,8 @@ def resolve_output_path(args):
     out_dir = f"output/{args.data}/{args.model}"
     if args.retrieval_method == "none":
         return f"{out_dir}/llm_output_no_rag_responses.json"
-    if args.data in ("nq", "popqa", "legalbench"):
+    # Baselines (baselines/*.py) and the NQ/PopQA/LegalBench Joint-RAG scripts use this name.
+    if args.data in ("nq", "popqa", "legalbench") or args.retrieval_method != "hypercube":
         return f"{out_dir}/llm_output_{args.retrieval_method}_k{args.k}_responses.json"
     if args.data == "aging_dam":
         return f"{out_dir}/llm_output_{args.retrieval_method}_nv.json"
