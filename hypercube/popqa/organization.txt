@@ -1,0 +1,1475 @@
+{"house of representatives": 1, "senate": 1, "country party of australia": 1}
+{}
+{"ruddiman's magazine": 1}
+{}
+{"conservative party": 1}
+{"minnesota senate": 1, "senate's business, industry and jobs committee": 1, "education committee": 2, "transportation committee": 1, "education committee's subcommittee on charter schools": 1, "business, industry and jobs subcommittees for bioscience and renewable energy development": 1, "workforce development": 1, "finance subcommittees for the e-12 education budget and policy division": 1, "transportation budget and policy division": 1, "transportation budget and policy division-transit subdivision": 1, "schools for equity in education": 1, "office of children and families": 1}
+{}
+{}
+{"social and economic council": 1, "democrats 66": 1, "senate": 1, "university of amsterdam": 1, "eye film institute netherlands": 1, "museum boerhaave": 1}
+{}
+{"hybe america": 1, "hybe corporation": 1, "rbmg records": 1, "schoolboy records": 1, "tq ventures": 1, "mythos studios": 1, "ithaca holdings": 1, "big machine records": 1, "march for our lives": 1, "hand in hand": 1, "fx": 1}
+{"the beatles": 1}
+{"belgian socialist party": 1, "flemish social-democratic party": 1}
+{"house of commons": 2, "lincoln's inn": 1, "christ church": 1}
+{"edda award": 1}
+{}
+{"televicentro": 1, "hoy mismo": 1}
+{"disney": 1, "family": 1}
+{}
+{}
+{"liberal party": 2, "queensland legislative assembly": 1, "commonwealth liberal party": 1, "nationalist party": 1, "australian house of representatives": 1}
+{}
+{"popular action": 1, "constitutional court": 1, "presidency of the republic": 1, "constitutional tribunal": 1}
+{"university of virginia": 1, "united states army": 1, "the penn": 1, "the stylus": 1, "mystery writers of america": 1}
+{}
+{"house of commons of canada": 1, "liberal": 1}
+{"georgia militia": 1, "georgia house of representatives": 1, "united states house of representatives": 1}
+{}
+{"social democratic party of germany": 1, "spd": 1, "gestapo": 1, "vorw\u00e4rts": 1, "die freiheit": 1, "die gesellschaft": 1}
+{"conservative party": 1}
+{"momoiro clover z": 1}
+{}
+{}
+{}
+{}
+{"american association of advertising agencies": 1}
+{}
+{"cbs": 1, "as the world turns": 1}
+{"global village institute for appropriate technology": 1, "ecovillage training center": 1, "plenty international": 1, "the farm ambulance service": 1}
+{"x japan": 4, "paranoia": 1, "media youth": 1, "dope headz": 1, "spread beaver": 1}
+{"musicrow": 1, "songquarters": 1, "rowfax": 1}
+{"toronto star": 1, "the globe and mail": 1, "cbc-tv": 1, "order of canada": 1, "second harvest": 1, "out of the cold program": 1}
+{"yen press": 2, "fresh gangan": 1}
+{"kodansha manga award": 1}
+{"the bayswater brasserie": 1, "tv one's asia downunder": 1, "soul bar & bistro": 1}
+{}
+{}
+{}
+{}
+{}
+{"liberal party": 1, "house of commons of canada": 2, "bradford": 1, "whitby collegiate institute": 1, "normal school": 1, "queen's university": 1, "royal college of dental surgeons": 1, "conservative party": 1, "18th canadian parliament": 1}
+{}
+{"royal society": 1}
+{}
+{"european broadcasting union": 1}
+{"fugazi": 1, "stylus magazine": 1}
+{"united states employment service": 1}
+{}
+{}
+{"university of copenhagen": 1}
+{"bouthaina magazine": 1}
+{}
+{"the doors": 2, "rolling stone": 1}
+{}
+{"acts of the apostles": 2, "new testament": 2, "christian communities": 1, "lutheran tradition": 1, "eastern catholic and orthodox traditions": 1}
+{"society of jesus": 1}
+{"house of representatives": 1}
+{}
+{"university of texas medical school": 1}
+{}
+{"organisation of the islamic conference": 1, "institut catholique d'arts et m\u00e9tiers": 1}
+{"united nations": 1}
+{"democratic party": 1, "chamber of deputies": 1, "luxembourg rugby federation": 1}
+{}
+{}
+{"department of health": 1, "the irish times": 1, "d\u00e1il": 1, "seanad": 2, "parliamentary committee": 1}
+{"labour": 1, "exeter college": 1}
+{"dept. of psychiatry & addiction medicine": 1, "dept. of psychiatry and behavioral sciences": 1, "global mental health faculty": 1, "harvard program in refugee trauma": 1, "faculdades integradas do oeste de minas": 1, "universit\u00e0 ambrosiana": 1}
+{}
+{"world war ii": 1}
+{}
+{"united states congress": 1}
+{"academy award": 1}
+{}
+{"la times today": 1, "good morning america": 1}
+{"gic trade, inc.": 1, "gic group": 1, "global food safety forum": 2, "bayer cropsciences": 1, "syngenta corporation": 1, "agrium, inc.": 1, "nutrien": 1, "white house/usaid": 1, "cnn": 1, "channel earth": 1, "today show": 1, "bbc": 1, "agrarian institute of russia": 1, "moscow state university": 1, "university of aix-en-provence": 1, "johns hopkins university sais": 2, "harvard university": 1, "georgetown university": 1, "american university": 1, "board of investment circle": 1, "volta rapids tilapia, ltd.": 1, "simplum group, ltd.": 1, "council on foreign relations": 1, "international advisory board of nesst": 1, "inter-american institute for cooperation on agriculture": 1, "johns hopkins sais advisory council": 1, "science advisory board of the conservation law foundation": 1, "president's business development council": 1, "harold w. rosenthal fellowship in international relations": 1, "carnegie endowment for international peace": 1, "rockefeller foundation": 1, "overseas development council": 1, "rand corporation": 1, "u.s. senate foreign relations committee": 1, "office of senator hubert h. humphrey": 1, "international labor organization's institute of labor studies": 1, "united states department of agriculture's economic research service": 1}
+{}
+{"norwegian centre party": 1}
+{}
+{}
+{"blackstreet": 2, "guy": 1, "billboard": 1, "swv": 1, "exo": 1, "girls' generation": 1, "super junior": 1, "grammy award": 1}
+{"logic pro": 1, "pro tools": 1, "studio one": 1}
+{"belgrade theatre": 2, "west end": 1, "tv series": 1}
+{"national assembly": 1, "panama canal authority board of directors": 1}
+{"pahang state legislative assembly": 2, "pahang state executive council": 1, "barisan nasional": 2, "united malays national organisation": 2, "umno": 2}
+{}
+{}
+{}
+{}
+{}
+{"royal navy": 1, "admiralty": 1, "royal society": 1, "hms endeavour": 1}
+{}
+{"stokes & sons": 1, "liberal party": 1, "victorian legislative assembly": 1}
+{"christian democratic appeal": 1, "first rutte cabinet": 1}
+{"cbc radio one": 2, "cbr": 1, "the 180": 1, "cbn": 1, "the current": 1, "sounds like canada": 1, "as it happens": 1, "the house": 1, "q": 1, "cbc": 1, "toronto international film festival": 1}
+{}
+{}
+{}
+{"bbc": 1, "doctor who": 1}
+{"united nations": 1}
+{"democratic party": 1, "republican party": 1, "american labor party": 1, "liberal party of new york": 1, "greek-american organizations": 1, "activist zionist groups": 1, "united states house of representatives": 1}
+{"odd future": 1, "golf wang": 1, "le fleur": 1, "lacoste": 1, "converse": 1, "louis vuitton": 1, "camp flog gnaw carnival": 1, "billboard": 1}
+{}
+{}
+{"al-bas company": 1, "fa\u1e6b\u0101\u1e6b al-jaz\u012brah": 1, "aden chronicle": 1, "free yemeni movement": 1, "united nations": 1}
+{}
+{}
+{"league of communists": 1, "frankfurt chapter": 1, "neue rheinische zeitung": 2, "westph\u00e4lisches dampfboot": 1, "die revolution": 1, "union army": 1}
+{}
+{"national book award": 1}
+{}
+{"government of portugal": 1, "social democratic party": 1, "parliamentary commission on ethics": 1, "first commission on fundamental rights": 1, "municipal assembly of cascais": 1, "youth institute": 1}
+{"rasmussen global": 1}
+{}
+{"the rally\u2013ump": 1, "congress of new caledonia": 1, "government of new caledonia": 1, "kanak and socialist national liberation front": 1, "front de lib\u00e9ration nationale kanak et socialiste": 1}
+{"sekine production": 1}
+{"playboy magazine": 2, "playboy home video": 1, "perfect 10": 1}
+{"royal mint of santiago": 1, "spanish government": 1, "national congress": 1, "agricultural society": 1, "maipo canal board": 1}
+{"atomic physics department": 1, "institute of physics": 1, "jagiellonian university": 1, "center for theoretical physics": 1, "polish academy of sciences": 1, "university of essen": 1, "university of maryland": 1, "perimeter institute": 1, "academia europaea": 1, "commission on european matters pau": 1, "polish academy of learning": 1, "council of the european union": 1}
+{}
+{"television broadcasts limited": 1, "tvb": 1, "new talent singing awards": 1}
+{"royal academy of french language and literature": 1}
+{"house of commons of canada": 1, "liberal party": 1, "waterloo regional council": 1}
+{"utrecht university": 2, "institute des hautes \u00e9tudes scientifiques": 1, "royal netherlands academy of arts and sciences": 1, "american mathematical society": 1, "international congress of mathematicians": 1}
+{"royal society": 1, "g\u00f6ttingen": 1, "russian academy of sciences": 1, "royal society of edinburgh": 1, "french": 1, "prussian academy of sciences": 1}
+{"liberal": 2, "conservative": 1, "stourport local board": 1}
+{"friend": 1, "thammasat university": 1, "channel 7": 1}
+{"federalist party": 1, "united states circuit court for the first circuit": 1, "new hampshire superior court of judicature": 1, "new hampshire supreme judicial court": 1}
+{"labour party": 1}
+{}
+{"msnbc": 2, "nbc news": 1, "cnn worldwide": 2, "mediaite": 1, "usa today": 1, "politico": 1, "the seattle times": 1, "detroit free press": 1, "san francisco chronicle": 1, "plan international usa": 1, "epilepsy foundation": 1, "food bank for new york city": 1, "aaja": 1, "wwaac": 1, "oca": 1, "citibank": 1, "business insider": 1}
+{}
+{"washington state house of representatives": 1, "washington state supreme court": 1}
+{"pbs": 1, "cox television": 1, "abc-affiliate": 1}
+{}
+{"united states": 1}
+{"abc": 1, "mkto": 1}
+{"ambassador": 1}
+{"united states senate": 2, "senate subcommittee on african affairs": 1, "senate committee on labor and human resources": 1}
+{"associated press": 1, "los angeles times": 2, "the wall street journal": 1, "bloomberg news": 1, "the washington post": 1, "the baltimore sun": 2, "blackwater worldwide": 1, "the medill school of journalism": 1}
+{"universit\u00e9 paris-sud 11": 1, "\u00e9cole normale sup\u00e9rieure": 1, "clay mathematics institute": 1, "cnrs": 1}
+{"national basketball association": 1, "the new york times": 2, "espn.com": 1, "hoopsworld.com": 1, "nba players association": 1, "sports illustrated": 1, "sports business classroom": 2, "cbafaq.com": 1}
+{}
+{"constitutional democratic party": 1, "house of councillors": 1, "diet": 1, "yokohama national university": 1}
+{}
+{}
+{"house of representatives": 2, "house of councillors": 2, "diet": 1, "fukushima prefectural assembly": 1, "liberal democratic party": 1, "waseda university": 1}
+{"republican": 1, "wisconsin state senate": 1, "union army": 1}
+{}
+{"nebraska legislature": 1, "republican party": 1}
+{}
+{}
+{}
+{"cbc television": 1, "this hour has 22 minutes": 1, "trailer park boys": 1}
+{"magyar zsid\u00f3 sz\u00e9mle": 1, "stern's ha-me\u1e25a\u1e33\u1e33er": 1}
+{"conservative judaism": 1, "reform": 1, "reconstructionist": 1, "renewal movements": 1}
+{"academy": 2, "nbc": 1, "billboard": 1}
+{}
+{"fels institute of government": 1, "democratic party": 1}
+{"vu": 1, "regards": 1}
+{"french interior minister": 1, "commission of the european atomic energy community": 1, "european economic community": 1, "chatenet commission": 1}
+{}
+{"bongo maffin": 1, "planet awards": 1, "bbc radio 3": 1, "metro fm music awards": 1}
+{"philippine constitutional convention": 1, "young philippines party": 1, "japanese military": 1}
+{}
+{"heir global": 1, "asap mob": 1}
+{"koha ditore": 1, "gazeta express": 1, "klan kosova": 1, "abc news albania": 1, "euronews albania": 1, "albanian post": 1}
+{}
+{"spd": 1}
+{"minnesota senate": 1, "republican": 1, "senate's capital investment committee": 1, "commerce and consumer protection committee": 1, "health, housing and family security committee": 1, "taxes committee": 1}
+{"rescue me": 1, "marvel": 1, "netflix": 1}
+{"benedictine": 1}
+{"catholicism": 1, "lutheranism": 1, "oriental orthodoxy": 1, "eastern orthodoxy": 1, "reformed christianity": 1, "anglicanism": 1, "methodism": 1}
+{"botchit and scarper": 1, "digital soundboy": 1, "chocolate weasel": 1}
+{"department of biochemistry and molecular biology": 1}
+{}
+{"d\u00e1il \u00e9ireann": 1, "farmers' party": 1}
+{}
+{}
+{"cuore e critica": 1, "la rivista repubblicana": 1, "l'educazione politica": 1, "italian republican party": 1, "societ\u00e0 di liberi pensatori": 1, "masonic lodge pontida": 1, "regular lodge carlo cattaneo": 1}
+{"constitutional party": 1}
+{"cbs": 1, "guiding light": 2}
+{"gold logie": 1}
+{}
+{}
+{}
+{"academy award": 1}
+{}
+{}
+{}
+{"national film award": 2, "bridgestone narrative award": 1, "sundance mahindra global filmmaker award": 2, "netpac award": 1, "charitable organisations": 1}
+{"worshipful company of distillers": 1, "holy trinity church": 1}
+{"liberal party": 1, "worshipful company of butchers": 1, "corporation of london": 1}
+{"miss universe puerto rico": 1, "miss universe": 1}
+{"united states assistant secretary of state": 1}
+{"sangkum party": 1, "national assembly of cambodia": 1}
+{"pendulum": 1}
+{}
+{"hbo": 1, "funny or die presents": 1}
+{}
+{"peabody award": 1, "academy award": 1, "bafta award": 1, "primetime emmy awards": 1, "showtime": 1}
+{"hellenic parliament": 1, "central committee of the communist party of greece": 1, "world peace council": 1, "european parliament": 1}
+{}
+{"trinity college": 1}
+{}
+{}
+{}
+{}
+{}
+{"d12": 1}
+{"democratic-republican": 3, "u.s. congress": 1, "north carolina house of commons": 1, "u.s. house of representatives": 1, "united states congress": 1}
+{"nazi regime": 1, "nazi party": 1}
+{"all elite wrestling": 2, "ring of honor": 2, "extreme championship wrestling": 1, "world championship wrestling": 1, "world wrestling federation": 1, "wwe": 3, "new japan pro-wrestling": 1, "fozzy": 1, "abc": 1, "revolver golden gods awards": 1, "metal hammer golden gods awards": 1}
+{}
+{"grand central records": 1, "babybird": 1}
+{}
+{"food network canada": 1, "cooking channel": 1, "riot grill": 1, "the menstruators": 1}
+{}
+{}
+{"roc-a-fella records": 1, "nike, inc.": 1, "louis vuitton": 1, "gap inc.": 1, "adidas": 1, "billboard": 3, "rolling stone": 1, "balenciaga": 1}
+{"the five heartbeats": 2, "speed": 1, "nypd blue": 1, "frasier": 1}
+{"peace and democracy party": 1, "bdp": 1, "peoples' democratic party": 1, "hdp": 1}
+{"house of commons": 1, "university college": 1, "middle temple": 1, "parliament": 1}
+{"fox": 1, "mtv": 1}
+{"call your girlfriend": 1, "the ann friedman weekly": 1, "the gentlewoman": 1, "the american prospect": 1, "good magazine": 1, "tomorrow magazine": 1}
+{"labour party": 1}
+{}
+{"classical theatre companies": 1}
+{"africa movie academy awards": 2, "nigeria entertainment awards": 1, "nollywood movies awards": 1}
+{"native women's association of the nwt": 1, "legislative assembly of the northwest territories": 2, "northwest territories legislature": 1}
+{}
+{"loyola academy": 1, "new york university": 1, "manhattan theatre club": 1, "mtv": 1, "q brothers productions": 1}
+{"daily mail": 1}
+{}
+{"emmy": 1}
+{"united states house of representatives": 2, "republican party": 1, "republican governance group": 1}
+{}
+{"oricon": 2, "super eurobeat": 1}
+{"swedish academy": 1}
+{"partito radicale": 1, "luca coscioni association": 1, "universit\u00e0 della tuscia": 1}
+{"executive council": 2, "council": 1}
+{"billboard": 2}
+{"pakistan people's party": 3, "movement for the restoration of democracy": 1, "islamic democratic alliance": 1, "salafi jihadist group al-qaeda": 1, "intelligence services": 1, "oxford union": 1}
+{"foreign and commonwealth office": 1, "british government": 1}
+{"christian democratic union": 1, "hamburg parliament": 1, "german federal diet": 1}
+{}
+{"netflix": 1, "fx": 1, "abc": 1, "nbc": 1}
+{"home army": 1, "historical museum of warsaw": 1}
+{"carleton university": 2, "national research council": 2, "atomic energy of canada limited": 1, "atomic energy control board": 1, "university of saskatchewan": 2, "university of british columbia": 1, "university of western ontario": 1, "university of ottawa": 1, "mcmaster university": 1, "queen's university": 1, "university of new brunswick": 1, "massey commission": 1}
+{}
+{"seventeen magazine": 1, "vivi": 1, "maquia magazine": 1, "opening ceremony": 1, "business of fashion": 1}
+{"bafta awards": 1, "academy award": 1}
+{"liberal party": 3, "conservative party": 1, "oxford dictionary of national biography": 1}
+{"vox novus": 1, "the american composer timeline": 1, "composer's voice concert series": 1, "fifteen minutes of fame": 1, "living music foundation": 1}
+{}
+{"church of england": 1, "university of cambridge": 1}
+{}
+{}
+{}
+{}
+{"australian labor party": 2, "house of representatives": 1, "australian council of trade unions": 1, "shadow cabinet": 1, "labor right faction": 1}
+{"atlantic records": 1, "warner music group": 1, "bet awards": 3, "apple music": 1, "all africa music awards": 1, "grammy awards": 2, "rolling stone": 1, "the headies": 1, "spotify": 1}
+{"new york republican state committee": 1}
+{"united nations": 1, "party for bosnia and herzegovina": 1}
+{"webber douglas academy of dramatic art": 1}
+{}
+{"parliament of sri lanka": 1}
+{"newspaper": 1}
+{"uppsala university": 1, "international code of zoological nomenclature": 1}
+{}
+{"nova scotia house of assembly": 1, "nova scotia new democratic party": 1}
+{"democratic party of serbia": 1, "serbian people's party": 1}
+{"social democratic party": 2, "federal ministry of labour and social affairs": 1, "young socialists": 1, "jusos": 1}
+{"univision puerto rico": 1, "walo-am": 1, "wiac-fm": 1, "university of michigan": 1, "university of puerto rico": 1, "national weather service": 1, "department of health of puerto rico": 1}
+{"aiadmk": 1, "amma makkal munnetra kazhagam": 2, "dmk": 1}
+{"sanremo music festival": 1, "eurovision song contest": 1}
+{}
+{}
+{"dateline nbc": 2, "the today show": 1, "nbc nightly news": 1, "abc news": 1, "the mank blog": 1}
+{}
+{"somali youth league": 1, "supreme revolutionary council": 1}
+{}
+{"united states embassy": 1, "united states foreign service": 1}
+{"monetary authority of singapore": 1, "world bank group": 1, "group of thirty": 1, "global commission on the economics of water": 1, "un water conference": 1, "world economic forum": 1, "people's action party": 1, "advisory board for the un human development report": 1}
+{"diet of finland": 1, "parliament of finland": 1, "swedish people's party of finland": 1}
+{"grand rapids tribune": 1, "wisconsin state assembly": 1}
+{"indian national congress": 1, "colors tv": 1}
+{"bbc radio 4": 1}
+{"miss a": 1}
+{}
+{}
+{"mtv australia": 1, "maybelline new york": 1, "australia's next top model": 1, "network ten": 1, "netflix": 1, "cw": 1}
+{"yukon legislative assembly": 1, "yukon progressive conservative party": 1, "yukon new democratic party": 1}
+{}
+{"rhode island school of design": 1, "afi conservatory": 1, "bangor films": 1, "film threat": 1}
+{}
+{"coll\u00e8ge des quatre-nations": 1}
+{"a review of general psychology": 1}
+{}
+{"film and television institute of india": 1, "national film development corporation of india": 1}
+{}
+{"house of romania": 1, "sigmaringen branch of the hohenzollern family": 1, "romanian royal family": 1, "romanian charities and organisations": 1}
+{}
+{"playboy": 1}
+{"playboy": 5, "vue magazine": 1}
+{"academy of magical arts": 1}
+{"independent republicans": 1, "union for french democracy": 1, "national assembly": 1}
+{"pure joy": 1, "flop": 1, "llama": 1, "cobirds unite": 1, "fastbacks": 1, "sub pop": 1, "model rockets": 1, "chemistry set": 1, "sick man of europe": 1}
+{"united states congress": 1, "united states secretary of state": 1}
+{"fianna f\u00e1il": 1, "progressive democrats": 1}
+{"united states supreme court": 1, "new york young men's antislavery society": 1, "american historical association": 1, "republican party": 1, "new york civil service commission": 1}
+{"people's deputy of ukraine": 1}
+{"european parliament": 1, "conservative party": 1, "liberal democrats": 1}
+{}
+{"america's next top model": 1}
+{"brazilian society of cinematographers": 1, "american society of cinematographers": 1, "academy of motion picture arts and sciences": 1}
+{}
+{}
+{"french": 1, "english": 2}
+{}
+{"north carolina house of representatives": 1, "east carolina university": 1, "north carolina turnpike authority": 1}
+{"movement for social democracy": 1, "european parliament": 1, "university of athens": 1}
+{"u. s. representative": 1}
+{"sherwood college": 1, "kirori mal college": 1, "university of delhi": 1, "the government of india": 1, "the government of france": 1, "bbc": 1, "time magazine": 1}
+{"aoni production": 1}
+{"voice animage": 1, "animec": 1, "newtype": 1}
+{"th\u00e9\u00e2tre saint-georges": 1}
+{"sinn f\u00e9in": 4, "anti-treaty ira": 1, "d\u00e1il \u00e9ireann": 1}
+{}
+{}
+{}
+{"lomi": 2, "leningrad department of the steklov mathematical institute": 2, "ussr academy of sciences": 1, "cnrs": 2, "journal computational complexity": 1, "journal of applicable algebra in engineering": 1, "communications and computations": 1, "groups": 1, "complexity": 1, "cryptology": 1, "max planck society": 1, "humboldt foundation": 1, "international congress of mathematicians": 1}
+{"reichstag": 2, "german conservative party": 1, "tivoli congress": 1, "german social reform party": 1, "antisemitic people's party": 1, "the new york times": 1}
+{"partido galeguista": 1}
+{}
+{"house of commons of canada": 1, "liberal party": 1}
+{"the world's strongest boy": 1}
+{"national democratic congress": 1, "parliament of ghana": 1}
+{"wcvb-tv": 1}
+{"my uncle napoleon": 1, "the carriage driver": 1}
+{"ravenscourt theatre school": 1, "urdang academy": 1, "academy of science of acting and directing": 1, "the actors temple": 2, "the open university": 1, "uk college of hypnosis & hypnotherapy": 1, "bbc": 1, "celebro media": 1, "the voice of russia": 1}
+{}
+{"parliament of moldova": 1}
+{}
+{"french air force": 1}
+{"barney miller": 2, "who's the boss?": 1, "dallas": 1, "cagney & lacey": 1, "murder, she wrote": 1, "night court": 1, "silver spoons": 1, "law & order": 1, "monk": 1, "jake and the fatman": 1, "the x-files": 1, "judging amy": 1, "curb your enthusiasm": 1}
+{}
+{"house of representatives": 1, "united democratic party": 1, "ministry of natural resources and the environment": 1, "ministry of public utilities, information and broadcasting": 1, "ministry of national security": 1}
+{"gekidan subaru": 2}
+{"university of the republic": 1}
+{"paramount": 1, "warner brothers": 1, "united states national film registry": 1, "library of congress": 1}
+{"panhellenic socialist movement": 1}
+{"national action party": 1, "lx legislature of the mexican congress": 1}
+{"nbc": 1, "days of our lives": 1}
+{"vizzion architects": 1, "vizzion europe": 1}
+{}
+{}
+{"mtv": 1, "comedy central": 1, "nbc": 1, "showtime": 1, "cbs": 1}
+{"australian communist party": 1}
+{"phillips academy": 1}
+{"jackson 5": 1, "motown": 2, "federal bureau of investigation": 1, "rock and roll hall of fame": 1, "national rhythm & blues hall of fame": 1, "vocal group hall of fame": 1, "songwriters hall of fame": 1, "dance hall of fame": 1}
+{}
+{}
+{"bigbang": 3, "yg entertainment": 1}
+{"florida atlantic university": 1, "florida house of representatives": 1, "florida senate": 1, "wesleyan college": 1, "fpl": 1}
+{"legislative assembly of british columbia": 1, "school board": 1, "hospital board": 1, "board of trade": 1}
+{"abs-cbn": 1, "star circle quest": 1}
+{"pakistan muslim league (nawaz)": 1, "national assembly of pakistan": 1, "abbasi cabinet": 1, "third sharif ministry": 1, "provincial assembly of khyber pakhtunkhwa": 1}
+{"mrs. florida america": 1, "miss new york usa": 1, "the scott stapp with arms wide open foundation": 1, "charm": 1, "creed": 1}
+{}
+{"democratic party": 1, "commission on human rights": 1}
+{"waikato farmers' cooperative": 1, "north new zealand farmers' co-operative association": 1, "auckland provincial council": 1, "auckland hospital and charitable aid board": 1, "waikato board": 1, "shipping company coombes and daldy": 1}
+{"academy award": 1}
+{}
+{"amar quartet": 1}
+{}
+{}
+{"victoria's secret": 1}
+{"new democratic party": 1, "legislative assembly of ontario": 1, "alberta liberal party": 1}
+{}
+{"gossip girl": 1, "chefs": 1}
+{"labour party": 1, "house of representatives": 1, "european parliament": 1, "senate": 1}
+{}
+{"the zoological record": 1}
+{}
+{"progress party": 3, "trondheim city council": 1, "storting": 1, "standing committee on transport and communications": 1, "trondheim progress party": 1, "s\u00f8r-tr\u00f8ndelag progress party": 2, "norges huseierforbund": 1, "s\u00f8r-tr\u00f8ndelag county council": 1}
+{"bbc2": 1}
+{}
+{"sveriges television": 1}
+{"ku klux klan": 1, "american eugenics society": 1, "american birth control league": 1, "planned parenthood federation of america": 1, "nazi government of germany": 1}
+{"hummingbird music": 1, "g-nation": 1, "forbes": 1, "ifpi hong kong record sales awards": 1, "golden melody awards": 1, "bbc": 1}
+{"brigitte bardot foundation": 1, "global 500 roll of honour": 1, "united nations environment programme": 1, "unesco": 1, "peta": 1}
+{"russian social democratic labor party": 1, "communist party of the soviet union": 1, "bolsheviks": 2, "menshevik faction": 1}
+{"unforgotten": 1}
+{}
+{"bloomberg news": 1, "national press club": 1, "north american agricultural journalists": 1}
+{}
+{}
+{}
+{"ram records": 1}
+{}
+{}
+{"rastriya janamorcha": 2, "communist party of nepal (fourth convention)": 1, "communist party of nepal (masal)": 2, "pratinidhi sabha": 1, "rashtriya jana morcha": 2, "samyukta janamorcha nepal": 1, "communist party of nepal (unity centre-masal)": 1, "seven party alliance": 1, "jmn": 3}
+{}
+{}
+{"conservative party": 1, "first lord of the admiralty": 1, "secretary of state for india": 1}
+{"miss venezuela": 1, "miss universe": 1}
+{"wfmu": 1}
+{}
+{"cartoon network": 1, "nickelodeon": 1}
+{"c. d. willard company": 1, "casino theatre": 3, "bijou theatre": 1, "fifth avenue theatre": 1, "garrick theatre": 1, "wallack's theatre": 2, "garden theatre": 1, "herald square theatre": 1, "lyceum theatre": 1}
+{"nbc": 1}
+{"morning musume": 1}
+{"aberdeen women's liberal association": 1}
+{"vh1": 3, "celebrity big brother": 1, "brunch with tiffany": 1, "fenty beauty": 1, "e!": 1}
+{}
+{"institute of life sciences": 1, "department of biotechnology": 1, "govt. of india": 1, "m. s. swaminathan research foundation": 1}
+{}
+{"polish army": 1}
+{"genie award": 1, "bafta scotland award": 1, "leo awards": 1}
+{"democratic party": 1, "philadelphia city council": 1}
+{"u.s. house of representatives": 1, "115th supply train": 1}
+{"socialist party of chile": 2, "popular unity coalition": 1, "communist party of chile": 1, "cia": 2, "government junta": 1, "congress": 2}
+{"hungarian academy of sciences": 1}
+{"tamil nadu legislative assembly": 1, "all india anna dravida munnetra kazhagam": 1}
+{"democratic party": 1, "kentucky house of representatives": 1, "house": 2}
+{"asylum press": 1}
+{"roman catholic": 1, "roman catholic archdiocese of jos": 1}
+{}
+{}
+{"royal astronomical society": 1, "royal society": 1}
+{"army of the republic of haiti": 1, "haitian act of independence": 1}
+{"commonwealth": 2}
+{}
+{"vesta's priestly college": 1, "cult of vesta": 1}
+{"grammy award": 1, "golden globe": 1, "academy award": 1}
+{"academy award": 1, "cbs": 1, "mirisch films": 1}
+{"house of commons of canada": 1, "liberal party": 3}
+{}
+{}
+{"konkret": 1}
+{"toritori office": 1}
+{}
+{}
+{"city of roxbury": 2, "city of boston": 1}
+{"d\u00e1il \u00e9ireann": 1, "sinn f\u00e9in": 2, "fianna f\u00e1il": 1, "5th seanad": 1}
+{"nigerien party for democracy and socialism": 1}
+{"nba": 4, "naismith memorial basketball hall of fame": 1, "nwo": 1, "celebrity championship wrestling": 1, "the rodman world tour": 1, "celebrity mole": 1}
+{"communist party": 1}
+{}
+{"labour party": 2, "second rutte cabinet": 1, "nieuwe wegen": 1}
+{"madhesi janadhikar forum": 1, "mjf": 2}
+{"jadavpur university": 1, "shanti bhavan": 1}
+{"new south wales legislative assembly": 2, "labor party": 1, "new south wales government railways": 1, "electrical trades union": 1, "new south wales parliament": 1}
+{"act wazalendo": 2, "civic united front": 1, "alliance for change and transparency": 1}
+{}
+{}
+{}
+{"liberal party": 1, "house of representatives": 1}
+{"house of commons": 1}
+{}
+{"french academy of sciences": 1, "jardin des plantes": 1, "mus\u00e9um national d'histoire naturelle": 1}
+{"east india company": 1, "the bee, or literary weekly intelligencer": 1}
+{}
+{"yugoslav people's army": 1, "university of ljubljana": 1, "academy for theatre, radio, film and television": 1, "drama theatre": 1, "alternative theatre stage 57": 1, "slovenian national radio and television broadcast": 1}
+{}
+{"house of commons": 1, "convention parliament": 1}
+{"bbc": 1, "hbo": 2, "apple tv+": 1, "emmys": 1, "writers guild of america": 1, "golden globe award": 1, "producers guild of america": 1}
+{}
+{}
+{"mass effect": 1, "final fantasy xiii": 1, "kid icarus: uprising": 1}
+{"newbery-caldecott award committee": 1}
+{}
+{}
+{}
+{}
+{}
+{"u.s. geological survey": 1}
+{}
+{"united states house of representatives": 1}
+{"republican party": 2, "university of pennsylvania": 1, "supreme court": 1, "international public health bodies": 1, "senate": 1, "cares act": 1}
+{"town and country planning act": 1}
+{"dra\u0161kovi\u0107 noble family": 1, "palatine of hungary": 1}
+{"orthodox church in america": 1, "st. tikhon's orthodox theological seminary": 2, "american carpatho-russian orthodox diocese": 1, "christ the saviour seminary": 2, "st. vincent college": 1, "duquesne university": 1, "villanova university": 1, "oca": 1, "holy synod": 1}
+{}
+{}
+{"aqu\u00ed no hay quien viva": 1, "la que se avecina": 1}
+{"nasa": 1, "united states army": 1}
+{"people's liberation army astronaut corps": 1, "space agencies": 1, "spaceshipone": 1}
+{"red hot chili peppers": 1}
+{"clearwater features": 1}
+{}
+{"snap inc": 1, "sony pictures entertainment": 1, "sony entertainment": 1, "warner music group": 1}
+{}
+{"abc": 1}
+{"norwegian association for women's rights": 2, "women's voting association": 1, "national association for women's suffrage": 1, "norwegian national women's council": 1, "liberal party": 1, "storting": 2, "nyl\u00e6nde": 1}
+{}
+{}
+{"la cambre school of art": 1, "international center for photography": 1}
+{"karnataka legislative assembly": 1, "bharatiya janata party": 1, "14th lok sabha": 1}
+{"government legislative council": 1, "petr ne\u010das' cabinet": 1}
+{}
+{"family productions": 1, "columbia records": 1, "billboard": 3, "songwriters hall of fame": 2, "rock and roll hall of fame": 1, "long island music hall of fame": 1, "disney": 1}
+{}
+{"metro-goldwyn-mayer": 1}
+{"ecologist green party of mexico": 1, "lxiii legislature of the mexican congress": 1}
+{"nbc": 1, "saturday night live": 3}
+{"provisional theatre": 1}
+{}
+{"house of commons": 1, "eton college": 1, "christ church, oxford": 1}
+{"member of parliament": 1, "leith volunteer corps": 1, "1st midlothian rifles": 1}
+{"mtv3": 3, "uusi suomi": 1, "iltalehti": 1, "tulosruutu": 1, "cmore": 1, "ilta-sanomat": 1, "maximusport.com": 1}
+{"stanford university": 1, "sun microsystems": 1, "silicon graphics": 1}
+{"seekers after truth institute": 1}
+{}
+{}
+{"artscience museum": 1, "the guardian": 1, "the hospital club 100 list": 1}
+{}
+{"member of parliament": 1}
+{}
+{"netflix": 1}
+{"angola national basketball team": 1, "2000 summer olympics": 1, "2002 fiba world championship": 1}
+{}
+{}
+{"insead": 1, "ch\u00e2teau de fontainebleau": 1}
+{"institute of physical and theoretical chemistry": 1}
+{}
+{"pennsylvania house of representatives": 1, "democratic": 1}
+{"continental army": 1, "first continental congress": 1, "second continental congress": 1, "u.s. constitution": 1, "philadelphia convention": 1, "fortune 500": 1, "big five u.s. venture capital hubs": 1, "philadelphia stock exchange": 1, "nasdaq": 1, "amtrak": 1, "philaport": 1, "interstate 95": 1, "philadelphia international airport": 1, "30th street station": 1}
+{"prince bernard cultural foundation": 1}
+{"unesco": 1, "amsterdam stock exchange": 1, "economist intelligence unit": 1, "mercer": 1, "uber": 1, "netflix": 1, "tesla": 1}
+{}
+{"cairo governorate": 1, "al-azhar university": 1, "arab league": 1, "cairo metro": 1}
+{"spiru haret university": 1, "music academy": 1}
+{"university of lisbon": 1}
+{}
+{}
+{"new road team": 1, "nepal national football team": 2, "south asian games": 2}
+{}
+{"key motorsports": 1}
+{}
+{}
+{"u.s. congress": 2, "house of representatives": 1, "u.s. senate": 1, "federal government": 2, "world bank": 1, "international monetary fund": 1, "organization of american states": 1}
+{"major league baseball": 1, "san francisco giants": 1}
+{"goucher college": 1, "stevenson university": 1, "towson university": 1, "university of maryland, baltimore county": 1}
+{"british army": 1}
+{"municipality of athens": 1, "city of athens": 1, "globalization and world cities research network": 1, "unesco": 1, "national archeological museum": 1, "acropolis museum": 1, "museum of cycladic art": 1, "benaki museum": 1, "byzantine and christian museum": 1}
+{}
+{"teatro persiani": 1}
+{"royal academy": 1, "water-colour gallery": 1}
+{"university of manchester": 1, "ira": 1, "commonwealth games": 1}
+{"sueddeutsche zeitung": 1, "bayerischer rundfunk": 1}
+{"university of cologne": 1, "technical university of cologne": 1, "german sport university cologne": 1, "max planck": 1, "german aerospace center": 1, "european astronaut centre": 1, "lufthansa": 1, "hansatic league": 1}
+{"indian national congress": 1, "thrissur municipal corporation": 1}
+{"vadakkunnathan temple": 1, "kerala sangeetha nadaka academy": 1, "kerala lalithakala akademi": 1, "kerala sahitya academy": 1, "thrissur pooram festival": 1, "academy of sharia and advanced studies": 1, "south indian bank ltd": 1, "catholic syrian bank": 1, "dhanalakshmi bank": 1, "esaf small finance bank": 1, "kerala kalamandalam": 1, "kerala agricultural university": 1, "kerala university of health sciences": 1, "college of veterinary and animal sciences": 1, "sree kerala varma college": 1, "st thomas college": 1, "jawahar bal bhavan thrissur": 1, "kerala institute of local administration": 1, "kerala forest research institute": 1, "kerala police academy": 1, "police dog training centre": 1, "kerala fire and rescue services academy": 1, "excise academy and research centre": 1, "government college of music and performing arts": 1, "government college of fine arts": 1, "government law college": 1, "government engineering college": 1, "government medical college": 1, "vaidyaratnam ayurveda college": 1, "unesco": 1}
+{"national aboriginal & torres strait islander art award": 2, "north adelaide school of art": 1, "australian national university": 1, "sydney college of the arts": 1, "museum of contemporary art": 1, "national indigenous art triennial": 2, "national museum of australia": 1}
+{"mackay festival of arts": 1, "jazz in the park": 1, "unesco world heritage site": 1}
+{}
+{}
+{}
+{"european institute of innovation and technology": 1, "european police college": 1, "china investment promotion agency": 1, "e\u00f6tv\u00f6s lor\u00e1nd university": 1, "corvinus university": 1, "semmelweis university": 1, "university of veterinary medicine budapest": 1, "budapest university of technology and economics": 1}
+{}
+{"government of russia": 1, "moscow international business center": 1, "unesco": 1}
+{"house of bonaparte": 1, "bureau of investigation": 1, "fbi": 1, "national municipal league": 1}
+{"second continental congress": 1, "baltimore and ohio railroad": 1, "johns hopkins hospital": 1, "johns hopkins university": 1, "baltimore orioles": 1, "major league baseball": 1, "baltimore ravens": 1, "national football league": 1, "national register": 2, "baltimore city archives": 1}
+{}
+{"tehran city council": 1, "imam khomeini international airport": 1, "mehrabad airport": 1}
+{}
+{}
+{"green party": 1, "riksdag": 1, "university of gothenburg": 1, "green league": 1}
+{"eskilstuna municipality": 2}
+{"parti canadien": 2, "legislative assembly of lower canada": 1, "parti patriote": 1, "federal house of commons": 1, "federal parliament buildings": 1}
+{"unesco": 1}
+{}
+{"hamburg airbus plant": 1}
+{"bulgarian orthodox church": 1}
+{"national opera and ballet of bulgaria": 1, "national palace of culture": 1, "vasil levski national stadium": 1, "ivan vazov national theatre": 1, "national archaeological museum": 1, "serdica amphitheatre": 1, "museum of socialist art": 1}
+{"persikota tangerang": 1, "persija jakarta": 1, "persib bandung": 1, "deltras sidoarjo": 1, "psis semarang": 1, "persikabo bogor": 1, "persiba balikpapan": 1, "persidafon dafonsoro": 1, "indonesia national team": 1}
+{"srivijaya": 1, "majapahit": 1, "united nations": 1, "world trade organization": 1, "g20": 1, "non-aligned movement": 1, "association of southeast asian nations": 1, "east asia summit": 1, "d-8": 1, "apec": 1, "organisation of islamic cooperation": 1}
+{"st. louis browns": 1, "washington senators": 1, "philadelphia phillies": 1}
+{"frederick municipal airport": 1, "fort detrick": 1, "u.s. army": 1}
+{"world orienteering championships": 1, "british orienteering championships": 1}
+{"scottish government": 1, "scottish parliament": 1, "palace of holyroodhouse": 1, "general assembly of the church of scotland": 1, "university of edinburgh": 1, "national museum of scotland": 1, "national library of scotland": 1, "scottish national gallery": 1, "edinburgh world heritage": 1, "city of edinburgh council": 1}
+{"orange county fc": 1, "national premier soccer league": 1}
+{"university of california, santa barbara": 1, "santa barbara city college": 1, "westmont college": 1, "antioch university santa barbara": 1, "amtrak": 1}
+{}
+{"borsa italiana": 1, "ac milan": 1, "inter milan": 1, "olimpia milano": 1}
+{}
+{"united nations": 1, "opec": 1, "osce": 1, "unesco": 1, "austrian empire": 1, "holy roman empire": 1}
+{"hermitage museum": 1}
+{"union of utrecht": 1, "dutch republic": 1, "utrecht university": 1, "lonely planet": 1}
+{"westminster school": 1, "clare hall": 1, "society of antiquaries": 1, "society for the relief of the north riding clergy": 1, "clarendon press": 1}
+{}
+{}
+{}
+{"trans-am championship": 1}
+{"united states census bureau": 1, "red river army depot": 1, "texarkana arkansas school district": 1, "university of arkansas hope-texarkana": 1, "texarkana college": 1}
+{"tour de france": 1, "giro d'italia": 1}
+{"unesco": 2, "oecd": 2, "international bureau of weights and measures": 1, "international energy agency": 1, "international federation for human rights": 1, "european space agency": 1, "european banking authority": 1, "european securities and markets authority": 1, "paris saint-germain": 1, "stade fran\u00e7ais": 1, "stade de france": 1}
+{"united nations": 1, "ukrainian ssr": 1}
+{}
+{"2008 summer olympics": 1, "wba": 1, "2008 european championships": 1, "2009 world championships": 1}
+{}
+{"commonwealth games": 1, "african games": 1}
+{"delta state government house": 1, "colony and protectorate of southern nigeria": 1}
+{"jive records": 1, "billboard": 3, "grammy award": 1}
+{}
+{"the football league": 1, "cray wanderers": 1}
+{"cammell laird": 1, "mersey railway": 1, "wirral waters": 1}
+{"om records": 1, "billboard": 1}
+{"los angeles aqueduct": 1, "treaty of guadalupe hidalgo": 1, "summer olympics": 2}
+{}
+{"umayyad caliphate": 1, "abbasid dynasty": 1, "ayyubid": 1, "mamluk": 1, "central government of syria": 1, "global liveability ranking": 2}
+{"colo colo": 1, "argentine primera divisi\u00f3n": 1}
+{"globalization and world cities research network": 1}
+{}
+{"united states of america": 1, "federal government": 1, "fortune 500": 1}
+{"summer olympics": 2}
+{"universit\u00e9 de haute bretagne": 1, "le cabinet des curieux": 1, "editons du riez": 1, "tor books": 1, "random house": 1, "harpercollins": 1, "applibot": 1, "gallimard": 1, "folio-sf": 1, "pocket": 1, "fleuve noir": 1, "mnemos": 1, "shannon associates": 1}
+{}
+{"stampede entertainment": 1}
+{"thirteen colonies": 1, "second continental congress": 1, "confederate states of america": 1, "union": 1, "u.s. national government": 1, "house of representatives": 1, "senate": 1, "world bank": 1, "organization of american states": 1, "nato": 1, "united nations": 1, "un security council": 1}
+{}
+{"arkansas museum of fine arts": 1, "arkansas repertory theatre": 1, "arkansas symphony orchestra": 1, "mosaic templars cultural center": 1, "dillard's": 1, "windstream communications": 1, "stephens inc.": 1, "university of arkansas for medical sciences": 1, "heifer international": 1, "winrock international": 1, "clinton foundation": 1, "rose law firm": 1}
+{"independent evangelical lutheran church in germany": 1}
+{"dresden university of technology": 1, "german universities excellence initiative": 1, "hamburg institute of international economics": 1, "berenberg bank": 1, "dresden state art collections": 1}
+{"atlantic coast conference": 1, "cleveland cavaliers": 1, "wake forest university": 1}
+{"united nations": 1, "new york stock exchange": 1, "nasdaq": 1}
+{"servants of india society": 1, "indian national congress": 1, "indian liberal party": 1, "madras legislative council": 1, "imperial legislative council of india": 1, "council of state": 1, "league of nations": 1, "privy council": 1, "order of the companions of honour": 1}
+{"town panchayat": 1, "valangaiman taluk": 1}
+{}
+{"zhytomyr urban hromada": 1, "zhytomyr raion": 1}
+{"icc": 3, "international cricket council": 1, "wisden cricketers' almanack": 1}
+{"stock exchange": 1}
+{"royal australian air force (raaf)": 1, "no. 23 squadron": 1, "no. 21 squadron": 1, "no. 75 squadron": 2, "no. 78 (fighter) wing": 1, "no. 8 operational training unit": 1, "air defence headquarters": 1}
+{"united states army": 1, "queensland cultural centre": 1, "queensland art gallery": 1, "gallery of modern art": 1, "queensland museum": 1, "state library of queensland": 1, "queensland performing arts centre": 1, "brisbane airport": 1, "port of brisbane": 1}
+{"conicet": 1, "mainz university": 1, "argentine association of ethical researches": 1, "national academy of sciences": 1, "argentine association of bioethics": 1}
+{}
+{"jefferis turner centre": 1, "queensland government": 1, "maternal and child welfare program": 1}
+{"canton fair": 1, "forbes": 1, "hurun global rich list": 1}
+{"royal aero club": 1}
+{"senedd": 2, "welsh parliament": 1, "eurocities": 1, "national geographic": 1, "bbc": 1}
+{}
+{"unesco": 1}
+{"national film board of canada": 1, "sesame street": 1, "nickelodeon": 1, "pbs": 1, "folkways records": 1}
+{"greater london authority": 1, "london stock exchange": 1, "imperial college london": 1, "london school of economics": 1, "university college london": 1, "london underground": 1, "british museum": 1, "national gallery": 1, "natural history museum": 1, "tate modern": 1, "british library": 1, "west end theatres": 1}
+{"moscow state institute of international relations": 1}
+{"armenian apostolic church": 1, "eurocities": 1, "unesco": 1}
+{"81 produce": 1}
+{"tokyo metropolitan government": 1, "national diet building": 1, "tokyo imperial palace": 1, "university of tokyo": 1, "tokyo stock exchange": 1, "globalization and world cities research network": 1, "fortune global 500": 1}
+{"ok linn\u00e9": 2, "ifk liding\u00f6": 1, "world orienteering championships": 2}
+{"church of sweden": 1, "uppsala university": 1}
+{}
+{}
+{"canadian pacific railway": 1, "greenpeace": 1, "ted conferences": 1}
+{}
+{}
+{"chamber of deputies": 2, "il risorgimento": 1}
+{"house of savoy": 1, "fiat": 1, "lancia": 1, "alfa romeo": 1, "university of turin": 1, "turin polytechnic": 1, "national museum of cinema": 1, "juventus": 1, "torino": 1}
+{}
+{}
+{"wimbledon": 1, "barnet": 1, "football league": 1}
+{"chertsey abbey": 1, "anglican church": 1, "south western railway": 1}
+{}
+{"unesco": 1}
+{"european free alliance": 3, "flemish popular movement": 1, "vlaamse volksbeweging": 1, "catholic university of brussels": 1, "nieuw-vlaamse alliantie": 1, "n-va": 1}
+{}
+{}
+{"federal institute of rio grande do sul": 1, "ulbra": 1, "uniritter": 1, "universidade la salle": 1, "ipuc": 1}
+{"people's liberation army astronaut corps": 1}
+{}
+{"major league baseball": 1, "boston red sox": 1, "baseball almanac": 1}
+{}
+{}
+{"bicycle card club": 1, "bicycle casino": 1, "full tilt poker": 1, "poker hall of fame": 1}
+{}
+{"latin grammy awards": 1, "grammy awards": 1, "latin billboard music award": 1}
+{"unesco": 1, "captaincy general of santo domingo": 1}
+{"derbyshire": 2, "lancashire": 1}
+{"bishops of winchester": 1, "museum of somerset": 1, "somerset military museum": 1, "somerset county cricket club": 1, "40 commando": 1, "royal marines": 1, "united kingdom hydrographic office": 1}
+{}
+{"jodhpur district": 1, "jodhpur division": 1, "kingdom of marwar": 1, "union of india": 1, "rajasthan state": 1, "rajputana agency": 1}
+{}
+{"indec": 1, "las colonias department": 1}
+{"winter olympics": 1}
+{"federal reserve bank of minneapolis": 1, "general mills": 1, "pillsbury": 1, "target corporation": 1, "thermo king": 1, "minneapolis institute of art": 1, "walker art center": 1, "guthrie theater": 1, "first avenue": 1, "university of minnesota": 1, "metro transit": 1, "minnesota democratic\u2013farmer\u2013labor party": 1}
+{"major league soccer": 1, "u.s. soccer team": 1, "summer olympics": 1}
+{"springfield metropolitan area": 1, "holyoke dam": 1, "massachusetts green high performance computing center": 1, "volleyball hall of fame": 1, "ymca": 1, "holyoke testing flume": 1, "holyoke canal system": 1}
+{"the wednesday": 2, "doncaster rovers": 2, "mexborough town": 1, "division 1": 2, "division 2": 1, "midland league": 1, "english football league": 1, "sheffield wednesday": 1, "fa cup": 1}
+{"newcastle city council": 1, "north east mayoral combined authority": 1}
+{"federal executive council of yugoslavia": 1, "presidency": 1}
+{"nu\u0161i\u0107ijada": 1}
+{}
+{"embassy world darts championship": 1, "winmau world masters": 1, "news of the world championship": 1, "butlins grand masters": 1, "mfi world matchplay": 1, "wdf europe cup": 1, "wdc uk masters": 1, "european masters": 1, "world darts council": 1, "british darts organisation": 1, "bdo": 1}
+{"unesco": 1, "great spa towns of europe": 1, "bath abbey": 1, "royal crescent": 2, "circus": 1, "pump room": 1, "assembly rooms": 1, "bath skyline": 1, "parade gardens": 1, "royal victoria park": 1, "southgate shopping centre": 1, "corridor arcade": 1, "theatre royal": 1, "museum of bath architecture": 1, "victoria art gallery": 1, "museum of east asian art": 1, "herschel museum of astronomy": 1, "fashion museum": 1, "holburne museum": 1, "university of bath": 1, "bath spa university": 1, "bath college": 1, "bath rugby": 1, "bath city": 1}
+{"summer olympics": 1, "pan american games": 1}
+{}
+{}
+{}
+{"minor counties championship": 4, "mcca knockout trophy": 1, "natwest trophy": 1, "cheltenham & gloucester trophy": 1}
+{"bromsgrove district": 1}
+{"l'uomo": 1, "louis und louisa": 1, "von mir!": 1, "ich bin ein star \u2013 holt mich hier raus!": 1}
+{"free and hanseatic city of hamburg": 1, "hanseatic league": 1, "holy roman empire": 1, "ndr": 1, "gruner + jahr": 1, "der spiegel": 1, "die zeit": 1, "berenberg bank": 1, "airbus": 1, "blohm + voss": 1, "aurubis": 1, "beiersdorf": 1, "lufthansa": 1, "unilever": 1, "deutsches elektronen-synchrotron laboratory desy": 1, "international tribunal for the law of the sea": 1, "eu-lac foundation": 1, "unesco institute for lifelong learning": 1, "g20": 1, "unesco": 1}
+{"green bay blizzard": 1, "spokane shock": 2, "cleveland gladiators": 1, "new orleans voodoo": 1}
+{"clewiston micropolitan area": 1, "clewiston museum": 1, "dixie crystal theatre": 1, "ah-tah-thi-ki seminole indian museum": 1}
+{}
+{"wabc-tv": 1, "actor's fund": 1}
+{"federal reserve bank of cleveland": 1, "cleveland museum of art": 1, "cleveland museum of natural history": 1, "cleveland orchestra": 1, "cleveland public library": 1, "playhouse square": 1, "rock and roll hall of fame": 1, "case western reserve university": 1, "cleveland browns": 1, "cleveland cavaliers": 1, "cleveland guardians": 1}
+{"oi va voi": 1}
+{}
+{}
+{"paris observatory": 1, "national assembly": 1, "french academy of sciences": 1, "royal society": 1, "academy of sciences": 2, "american academy of arts and sciences": 1, "atlas national": 1}
+{"metz": 1}
+{}
+{"stone et charden": 1}
+{}
+{"house of windsor": 1}
+{}
+{}
+{}
+{"globalization and world cities research network": 1, "port of antwerp": 1, "bourse at antwerp": 1}
+{"ottoman army": 1, "turkish army": 1}
+{"unesco": 1}
+{"theaterland": 1, "anton bruckner private university": 1, "de\u017eela gledali\u0161\u010da theatre": 1, "dramatic society": 1, "dramati\u010dno dru\u0161tvo": 1}
+{"university of sarajevo": 1, "young bosnia": 1, "lonely planet": 1, "unesco": 1}
+{"filmfare": 1, "mahabharat": 1}
+{"british east india company": 1}
+{"pueblo junior college": 1, "detroit pistons": 1, "san francisco warriors": 1, "milwaukee bucks": 1, "phoenix suns": 1, "los angeles stars": 1, "purex industries": 1, "youth sports foundation": 1, "buffalo bills": 1}
+{"united states census bureau": 1, "reader's digest": 1, "forbes": 1, "smart growth america": 1, "travel and leisure": 1}
+{"labour": 2}
+{"london plan": 1, "romford post town": 1, "liberty of havering": 1, "hornchurch urban district": 1}
+{}
+{"pennsylvania canal": 1, "pennsylvania railroad": 1, "state government": 1, "federal government": 1, "pennsylvania farm show": 1, "great american outdoor show": 1}
+{}
+{"finn harps": 1, "peterborough united": 1, "football league": 1}
+{}
+{"militia": 1, "schutterij": 1, "st adrian militia company": 1}
+{}
+{"p. c. hooft award": 1}
+{"leeds united": 2, "arsenal": 1, "leeds united f.c.": 1}
+{}
+{"national football league": 1, "washington redskins": 1, "paxton mustangs": 1, "loomis school": 1, "pelicans": 1, "cornell university": 1, "sphinx head society": 1}
+{}
+{}
+{"european union": 1, "nato": 1, "nordic council": 1, "oecd": 1, "osce": 1, "united nations": 1}
+{}
+{"warsaw chopin": 1, "warsaw modlin": 1, "warsaw radom airport": 1, "warsaw metro": 1, "warsaw stock exchange": 1, "frontex": 1, "odihr": 1, "organization for security and co-operation in europe": 1, "university of warsaw": 1, "warsaw university of technology": 1, "sgh warsaw school of economics": 1, "chopin university of music": 1, "polish academy of sciences": 1, "national philharmonic orchestra": 1, "national museum": 1, "warsaw grand theatre": 1, "legia warsaw": 1}
+{"honda racing corporation": 1, "astemo real racing": 1}
+{"unesco": 1}
+{"national association of manufacturers": 1, "vanderbilt commodores": 1, "vanderbilt university": 1}
+{"u.s. state": 1, "metropolitan statistical area": 1, "combined statistical area": 1}
+{"lion": 2, "dio": 1, "freak of nature": 1, "heavy bones": 1}
+{"new york mets": 1, "u.s. open": 1}
+{"medal of honor": 1}
+{}
+{}
+{"financial times": 1, "cbre": 1, "techcrunch": 1, "world monuments watch": 1, "mastercard global index of urban destinations": 1, "municipality of bucharest": 1}
+{"u.s. house of representatives": 1, "twenty-fourth congress": 1, "twenty-fifth congress": 1}
+{}
+{}
+{"church of santa maria della salute": 1}
+{"unesco": 1, "a2a": 1, "omr": 1, "lucchini": 1, "alfa acciai": 1, "camozzi": 1, "lonati": 1, "fausti": 1, "beretta": 1, "perazzi": 1, "sabaf": 1, "cavagna": 1, "il vittoriale": 1}
+{}
+{}
+{"university of berlin": 1, "astm": 1}
+{"humboldt university of berlin": 1, "technische universit\u00e4t berlin": 1, "berlin university of the arts": 1, "free university of berlin": 1, "babelsberg studio": 1}
+{}
+{"university of salamanca": 1, "unesco": 1, "cancer research center": 1, "institute of neurosciences of castile and le\u00f3n": 1, "center for water research and technological development": 1, "ultra-short ultra-intense pulsed laser center": 1}
+{}
+{"val saint lambert": 1, "arcelor": 1, "cockerill-sambre": 1}
+{"the kansas city star": 1}
+{}
+{"fc utrecht": 1, "fc emmen": 1, "vitesse arnhem": 1, "surinam airways": 1}
+{"unesco": 1}
+{"cia": 1, "university of buenos aires": 1, "marcha": 1, "la prensa": 1, "ips": 1, "latin american institute of latin american studies": 1}
+{}
+{"boston common": 1, "boston latin school": 1, "tremont street subway": 1}
+{"european parliament": 1, "committee of the regions": 1, "cor": 1}
+{}
+{"winter olympics": 1}
+{"bergen line": 1}
+{"asian taekwondo championships": 1, "pan arab games": 1, "summer olympics": 1, "yemeni sports team": 1}
+{"sanaa municipality": 1, "sanaa governorate": 1, "yemeni government": 1, "unesco": 2}
+{"gymnasium": 1, "bonn": 1}
+{}
+{}
+{"european city of sport": 1}
+{"the medical sciences university of iran": 1}
+{}
+{"just pro": 1, "oricon": 1}
+{"narita international airport": 1, "tokyo disney resort": 1, "keiy\u014d industrial zone": 1}
+{"dc comics": 2, "justice league": 1, "outsiders": 1, "vertigo": 1, "black label": 1}
+{"dc comics": 1}
+{"teachers college": 1, "spirituality mind body institute": 1}
+{}
+{"university of giessen": 1}
+{}
+{"rk nexe": 1, "yugoslavia national team": 1}
+{}
+{}
+{"unesco creative cities network": 1, "al-farabi kazakh national university": 1, "kazakh-british technical university": 1, "international information technology university": 1, "narxoz university": 1}
+{}
+{"german new guinea administration": 2, "british empire": 1, "australian-mandated territory of new guinea": 1}
+{"dundee united": 1, "st mirren": 1, "stranraer": 2, "queens park": 1, "partick thistle": 1, "greenock morton": 1, "montrose": 1, "ayr united": 1, "east fife": 1, "irvine meadow": 1}
+{}
+{"tortoise": 1, "brokeback": 1, "eleventh dream day": 1, "pullman": 1, "the sea and cake": 1}
+{"caterpillar inc.": 1, "dow jones industrial average": 1, "fortune 100": 1, "peoria historical society": 1, "peoria riverfront museum": 1, "pettengill\u2013morron house": 1, "john c. flanagan house": 1, "peoria playhouse children's museum": 1}
+{"new york daily news": 1, "chicago tribune": 1, "new york news syndicate": 1, "tv guide": 1}
+{"woman's college at greensboro": 1, "pulitzer prize": 1}
+{}
+{}
+{}
+{"xo": 1, "roc nation": 1, "music canada": 1, "recording industry association of america": 1, "society of composers, authors and music publishers of canada": 1}
+{"palestinian national authority": 1}
+{}
+{"parliament of scotland": 1, "parliament of great britain": 1, "scottish parliament": 1}
+{"united states house of representatives": 1, "united states senate": 1, "republican party": 1, "democratic party": 1, "farmer labor parties": 1, "naacp": 1}
+{}
+{}
+{"verbandsgemeinde": 1}
+{"danish national swimming team": 1, "vestegnens aqua team": 1, "university of kentucky": 2, "wildcats": 1, "boil": 1, "european short course championships": 1}
+{"royal theatre": 1, "royal academy of fine arts": 1, "copenhagen stock exchange": 1, "university of copenhagen": 2, "technical university of denmark": 1, "copenhagen business school": 1, "it university of copenhagen": 1, "f.c. copenhagen": 1, "br\u00f8ndby if": 1, "movia": 1, "copenhagen metro": 1, "copenhagen s-train": 1, "lokaltog": 1, "coast line": 1}
+{"states troops": 1}
+{"roman catholic diocese of roermond": 1}
+{"the urbanauts": 2, "montreal independent music awards": 1, "la tribu": 1, "cirque du soleil": 1}
+{"international civil aviation organization": 1, "unesco": 1, "economist intelligence unit": 1, "qs world university rankings": 1, "canadian grand prix": 1, "national hockey league": 1}
+{"juilliard school": 3, "national conservatory of athens": 1, "royal academy of music": 2, "guitar foundation of america": 1, "naxos records": 1, "timespan recordings": 1, "royal conservatory": 1, "san francisco performances": 1, "columbia university": 1, "the volterra project": 1}
+{"gsv maichingen": 1}
+{}
+{"bamberg state library": 1}
+{"unesco": 1, "holy roman empire": 1, "freikorps": 1, "bavarian soviet republic": 1, "bavarian": 1, "german": 1, "american military": 1}
+{"fenerbah\u00e7e": 1}
+{"university of tartu": 3, "estonian naturalists' society": 1, "jakob von uexk\u00fcll centre": 1, "international society for biosemiotic studies": 1}
+{"university of tartu": 1, "supreme court of estonia": 1, "ministry of education and research": 1, "estonian national museum": 1, "vanemuine": 1}
+{"f.c. civics windhoek": 1, "namibia national football team": 1}
+{"okakarara electoral constituency": 1}
+{"guild of st. luke": 1}
+{}
+{"royal audiencia of guadalajara": 1, "viceroyalty of new spain": 1, "university of guadalajara": 1, "universidad aut\u00f3noma de guadalajara": 1}
+{"lordi": 1, "punaiset messiaat": 1, "dolchamar": 1, "sampsa astala & qma": 1}
+{"helsinki metropolitan area": 1, "finnair": 1, "finavia": 1, "r-kioski": 1, "tikkurila oyj": 1, "veikkaus": 1, "mets\u00e4hallitus": 1, "heureka": 1}
+{"kraft group": 1, "new england patriots": 1, "national football league": 1, "new england revolution": 1, "major league soccer": 1, "boston uprising": 1}
+{"mbta": 1}
+{}
+{}
+{}
+{"institutional revolutionary party": 1, "mexican congress": 1, "lxi legislature": 1}
+{}
+{"double dare": 2, "finders keepers": 1, "history iq": 1, "gimme shelter": 2, "tlc": 1, "wioq": 1, "wmgk": 1}
+{"harvard university": 1, "boston society of natural history": 1, "museum of comparative zoology": 1, "harvard medical african expedition": 1, "harvard australian expedition": 1, "american academy of arts and sciences": 1, "american society of mammalogists": 1}
+{}
+{"buffalo bill's wild west": 1}
+{"u.s.": 1}
+{}
+{"world social forum": 1, "world council of churches": 1, "fisl": 1, "fifa": 2}
+{"eastern orthodox church": 1, "oriental orthodox church": 1}
+{"fatimid caliphate": 1, "mamluk sultanate": 1, "ottoman empire": 1, "british empire": 1, "united nations": 1, "non-aligned movement": 1, "arab league": 1, "african union": 1, "organisation of islamic cooperation": 1, "world youth forum": 1, "brics": 1}
+{"cassa depositi e prestiti": 1, "cc & soci srl": 1, "fti consulting": 1, "finarvedi": 1, "arvedi group": 1, "italiana petroli": 1, "salini costruttori": 1, "webuild": 1}
+{}
+{"the new yorker": 3, "vogue": 1, "vanity fair": 1}
+{"fortune 500": 1, "uconn stamford": 1, "norwalk community college": 1}
+{}
+{}
+{"meret oppenheim prize": 1}
+{"unesco": 1, "swiss confederacy": 1}
+{"samsung": 1}
+{}
+{"major league baseball": 1, "kansas city royals": 1}
+{"girardot municipality": 1}
+{"perth modern school": 1, "university of western australia": 1, "university of adelaide": 1, "australian national team": 1, "east perth": 1, "waca": 1, "south africans": 1, "sheffield shield": 1, "south australia": 1, "victoria's": 1, "east lancashire cricket club": 1, "lancashire league": 1, "worsley cup": 1}
+{"parliament house": 1, "government house": 1, "supreme court buildings": 1, "perth mint": 1, "royal australian navy": 1, "globalization and world cities research network": 1}
+{"communist press": 1, "western media": 1}
+{"el camino real": 1, "university of new mexico": 1, "albuquerque international balloon fiesta": 1, "gathering of nations": 1, "new mexico state fair": 1}
+{}
+{}
+{"major league baseball": 1, "san diego padres": 2, "cincinnati reds": 1, "nashville sounds": 1}
+{"texas medical center": 1, "nasa": 1, "johnson space center": 1, "mission control center": 1, "port of houston": 1}
+{}
+{}
+{"polish team": 1, "1972 summer olympics": 1}
+{"gmina jedlnia-letnisko": 1}
+{"groen!": 2, "agalev": 2, "flemish parliament": 1, "belgian chamber": 1, "belgian senate": 1}
+{"open vld": 1, "ghent festival": 1}
+{"united states air force": 4, "supreme headquarters allied powers europe": 2, "358th bombardment squadron": 1, "17th bombardment wing": 1, "388th tactical fighter wing": 1, "12th tactical reconnaissance squadron": 1, "air command and staff college": 2, "national war college": 2, "449th bombardment wing": 1, "office of the deputy chief of staff, plans and operations": 1, "headquarters u.s. air force": 1, "air training command": 1, "strategic air command": 1}
+{"italian water polo team": 2, "italy men's national team": 1}
+{"medici family": 1, "unesco": 1, "uffizi gallery": 1, "palazzo pitti": 1, "forbes": 1, "global language monitor": 1}
+{}
+{}
+{"black panthers": 1, "nation of islam": 1}
+{"united nations": 1, "university of california, san francisco": 1, "university of san francisco": 1, "san francisco state university": 1, "san francisco conservatory of music": 1, "de young museum": 1, "san francisco museum of modern art": 1, "san francisco symphony": 1, "san francisco ballet": 1, "san francisco opera": 1, "sfjazz center": 1, "california academy of sciences": 1, "salesforce": 1, "uber": 1, "airbnb": 1, "x": 1, "levi's": 1, "gap": 1, "dropbox": 1, "lyft": 1, "san francisco giants": 1, "golden state warriors": 1}
+{"national football league": 1, "san francisco 49ers": 1, "philadelphia eagles": 1, "wimberley brewing company": 1, "brewster's pizza": 1, "tim tebow bill": 1}
+{"bavarian ludwig railway": 1, "nuremberg subway": 1, "nuremberg airport": 1, "munich airport": 1, "university of erlangen-nuremberg": 1, "technische hochschule n\u00fcrnberg georg simon ohm": 1, "hochschule f\u00fcr musik n\u00fcrnberg": 1, "university of technology nuremberg": 1, "nuremberg exhibition centre": 1, "staatstheater n\u00fcrnberg": 1, "staatsphilharmonie n\u00fcrnberg": 1, "bavarian state opera": 1, "bavarian state orchestra": 1, "1. fc n\u00fcrnberg": 1}
+{}
+{}
+{}
+{}
+{"bc lions": 2, "hamilton tiger-cats": 2, "canadian football league": 1, "ubc thunderbirds": 1, "canada west": 1, "ubc": 1}
+{"metro vancouver": 1}
+{}
+{"states reorganisation act": 2, "national statistical office": 1, "niti aayog's sustainable development goals dashboard": 1, "reserve bank of india's handbook of statistics on indian economy": 1, "census of india": 1, "national geographic traveler": 1}
+{"social democratic party of germany": 1, "spd": 1, "memorial to the socialists": 1}
+{}
+{}
+{}
+{"royal society": 1, "american academy of arts and sciences": 1, "united states national academy of sciences": 1, "american philosophical society": 1, "botanical journal flora": 1}
+{}
+{"coll\u00e8ge de joliette": 1, "universit\u00e9 laval": 1, "universit\u00e9 de montr\u00e9al": 1, "alliance nationale": 1}
+{"d'autray regional county municipality": 1, "autoroute 40": 1}
+{"european championships": 1, "world championship": 1, "summer olympics": 1}
+{}
+{"roman catholic church": 1, "order of saint benedict": 1}
+{"portuguese empire": 2, "empire of brazil": 1, "petrobras": 1, "vale": 1, "grupo globo": 1, "g20": 1, "fifa": 3}
+{"major league baseball": 1, "new york yankees": 1, "atlanta braves": 1, "kentucky state university": 1}
+{"georgetown college": 1, "nfl": 1, "cincinnati bengals": 1, "toyota motor manufacturing kentucky": 1}
+{"cologne progressives": 1, "aaud": 1, "kapd": 1, "aaue": 2, "die proletarische revolution": 1}
+{}
+{"soci\u00e9t\u00e9 artistique et litt\u00e9raire of antwerp": 1, "national academy of design": 1, "society of american artists": 1, "salmagundi club": 2}
+{}
+{"japan national women's cricket team": 1}
+{"tokugawa shogunate": 1, "national diet": 1, "g7": 1}
+{"silvana tirinzoni rink": 1}
+{}
+{}
+{"european parliament": 2, "eurocorps": 1, "european ombudsman": 1, "council of europe": 1, "european court of human rights": 1, "european directorate for the quality of medicines": 1, "european audiovisual observatory": 1, "bank for international settlements": 1, "united nations": 2, "international court of justice": 1, "central commission for navigation on the rhine": 1, "international institute of human rights": 1}
+{"turkish national anthem": 1}
+{}
+{"gdr": 3, "gdr government": 1, "western allied powers": 1}
+{}
+{}
+{}
+{"bar municipality": 2}
+{"volkspolizei-pr\u00e4sidium": 1, "sc dynamo berlin": 1}
+{}
+{"major league baseball": 1, "major league baseball players association": 1, "mlbpa": 2}
+{}
+{}
+{}
+{"major league baseball": 3, "chicago colts": 1, "cincinnati reds": 1, "national league": 1, "brooklyn superbas": 1}
+{}
+{"duomo di pisa": 1, "church of the sacrament": 1, "church of san torpe": 1, "church of san nicola": 1, "church of santi quirico e giulitta": 1, "church of the santissima annunziata": 1, "bronconi family altar": 1, "church of san leone": 1, "palazzo dell'orologio": 1}
+{}
+{"british touring car championship": 1}
+{}
+{}
+{"eureka college": 1}
+{"uspro": 2}
+{"alticor": 1, "amway north america": 1, "amway": 1}
+{"eurovision song contest": 1}
+{"tel aviv-yafo municipality": 1, "tel aviv university": 1, "yishuv": 1, "unesco": 1}
+{"liberal alliance": 1, "\u00e5hus 1900": 1}
+{"eurostat": 1, "oecd": 1, "siemens gamesa renewable energy": 1, "alfa laval": 1, "aalborg portland": 1, "aalborg historical museum": 1, "aalborg museum of modern art": 1, "aalborg university": 2, "aau": 1, "university college of northern denmark": 1, "ucn": 1, "royal school of library and information science": 1, "rslis": 1, "tr\u00e6nregimentet": 1, "aalborg university hospital": 1, "aalborg bk": 1, "nordjyske arena": 1, "aalborg pirates": 1, "aalborg h\u00e5ndbold": 1, "aalborg rk": 1, "aalborg cricket club": 1, "aalborg railway station": 1, "european commission": 1}
+{"national basketball association": 1, "michigan sports hall of fame": 1}
+{"general motors": 1, "ford": 1, "stellantis north america": 1, "unesco": 1}
+{"washington supreme court": 1}
+{"mansfield metropolitan statistical area": 1, "mansfield\u2013ashland\u2013bucyrus, oh combined statistical area": 1}
+{"mayday": 2, "guitar society": 1, "rock and roll society": 1, "gibson": 2, "gibson signature artist club": 1}
+{"hsinchu science park": 1, "tsmc": 1, "mediatek": 1, "united microelectronics corporation": 1, "chenghuang temple of hsinchu": 1, "national yang ming chiao tung university": 1, "national tsing hua university": 1}
+{}
+{}
+{}
+{"fifa": 3}
+{}
+{"university of pennsylvania": 1}
+{"national conservatory of music": 1, "budapest state opera": 1, "hungarian national philharmonic orchestra": 1, "budapest philharmonic orchestra": 1, "vienna state opera": 1, "los angeles philharmonic": 1}
+{}
+{"tsb bank": 1, "taranaki savings bank": 1, "international awards for liveable communities": 1, "keep new zealand beautiful": 1, "government": 1}
+{"norceca beach volleyball circuit": 1, "swatch-fivb u-19 world championships": 1, "fivb women's international acapulco tournament": 2, "swatch-fivb u-21 women's world championship": 1, "u-20 mexico indoor women's national volleyball team": 1, "norceca women\u00b4s junior continental championship u-20": 1}
+{"federal district": 2, "unicameral legislative assembly": 1, "party of the democratic revolution": 1, "national regeneration movement": 1, "constitution of mexico": 1}
+{"united kingdom": 1}
+{"abeid amani karume international airport": 1, "world heritage site": 1}
+{}
+{"saint philip\u2019s parish church": 1, "anglican parish church": 1, "st. philip carnival": 1}
+{"warwickshire cricket board": 1, "berkshire": 1, "lancashire": 1, "cheltenham & gloucester trophy": 1}
+{"birmingham canal navigations": 1, "german luftwaffe": 1, "university of birmingham": 1, "city of birmingham symphony orchestra": 1, "birmingham royal ballet": 1, "birmingham repertory theatre": 1, "library of birmingham": 1, "barber institute of fine arts": 1}
+{}
+{}
+{"forsvarets stabsmusikkorps": 1, "oslo philharmonic": 1, "norwegian academy of music": 1}
+{"fetsund lenser": 1}
+{"metropolitan opera": 1}
+{}
+{"ioc": 2}
+{"psv": 1}
+{"daf trucks": 1, "philips": 2, "design academy eindhoven": 1}
+{"queensland lawn tennis association": 1, "methodist church": 1}
+{"icf canoe sprint world championships": 1}
+{"gisborne district council": 1}
+{"academy of sciences of the ussr": 1}
+{}
+{"asd frascati mini rugby 2001": 1, "zebre": 2, "top10": 1, "emerging italy": 1, "2019 rugby world cup": 1}
+{}
+{}
+{}
+{}
+{"pennsylvania house of representatives": 3, "republican": 1}
+{"american basketball association": 1, "national basketball association": 1, "virginia squires": 1, "new york nets": 1, "basketball hall of fame": 1, "sports illustrated": 1}
+{}
+{"university of glasgow": 1, "glasgow city council": 2, "the royal conservatoire of scotland": 1, "burrell collection": 1, "kelvingrove art gallery and museum": 1, "royal scottish national orchestra": 1, "bbc scottish symphony orchestra": 1, "scottish ballet": 1, "scottish opera": 1}
+{}
+{}
+{}
+{"city council": 1, "irish free state": 1, "globalization and world cities research network": 1}
+{"die form": 1, "canada": 1, "el club": 1}
+{"grand port maritime de marseille": 1, "cma cgm tower": 1, "museum of civilisations of europe and the mediterranean": 1, "olympique de marseille": 1, "university of aix-marseille": 1}
+{"taiwan people's party": 1, "national taiwan university hospital": 1, "national taiwan university college of medicine": 1, "democratic progressive party": 1, "taiwan solidarity union": 1, "kuomintang": 1}
+{"the bluetones": 1}
+{}
+{"hungarian development bank": 1, "hungarian socialist party": 1, "jobbik": 1, "politics can be different": 1, "mfb": 2, "origo.hu": 1, "index.hu": 1}
+{"glover park group": 2, "the harbour group": 1, "presidential campaign": 1}
+{}
+{"national football league": 1, "pittsburgh steelers": 2, "los angeles rams": 1, "green bay packers": 1, "washington redskins": 1, "new england patriots": 1}
+{}
+{"united states navy": 1}
+{}
+{"norwegian broadcasting corporation": 1, "dagsrevyen": 1}
+{}
+{"nascar": 1, "winston cup series": 1}
+{"general motors technical center": 1, "united states army detroit arsenal": 1, "united states army tacom life cycle management command": 1, "tank automotive research development and engineering center": 1, "asset acceptance": 1}
+{"innocence project": 1, "international forensic science services": 1, "\u00fcsk\u00fcdar university": 1, "crime & violence prevention center": 1, "united nations commission on narcotic drugs": 1, "international narcotics control board": 1, "tv2": 1, "kanal d": 1}
+{}
+{}
+{"united states court of appeals for the tenth circuit": 1, "united states district court for the district of new mexico": 1}
+{}
+{}
+{"soviet team": 1}
+{"unesco": 1, "european union": 2, "baltic cities": 1, "eurocities": 1, "union of the baltic cities": 1, "union of capitals of the european union": 1, "berec": 1, "nato": 1}
+{"british army": 2, "blues and royals": 2, "d squadron": 1, "military cross": 1}
+{"national basketball association": 1, "golden state warriors": 1, "utah jazz": 1, "dallas mavericks": 1, "portland trail blazers": 2, "denver nuggets": 2, "sacramento kings": 1}
+{}
+{"sarpay beikman manuscript awards": 3, "pakokku u ohn pe literary award": 2}
+{"pakokku township": 1, "pakokku district": 1, "pakokku bridge": 1, "india\u2013myanmar\u2013thailand trilateral highway": 1, "pakokku airport": 1, "computer university, pakokku": 1, "pakokku education college": 1, "technological university, pakokku": 1, "pakokku university": 1}
+{"nme": 1}
+{"lenape": 1, "national and michigan roads": 1, "unigov": 1, "city-county council": 1, "fortune 500": 1}
+{}
+{"ulster university": 1, "queens university": 1, "harland & wolff": 1, "unesco": 1}
+{}
+{"helsinki university": 1, "university of uppsala": 1, "university of st andrews": 1}
+{"university of oulu": 1, "finnish economic survey": 1, "european capital of culture": 1}
+{"marylebone cricket club": 2, "sussex": 2, "british army": 1}
+{"st. lawrence's church": 1, "chandos mausoleum": 1}
+{"ferdinand bordewijk prize": 1, "p. c. hooft award": 1, "j.m.a. biesheuvelprijs": 1}
+{"benelux tunnel": 1, "ketel one": 1}
+{"texas a&m university": 1, "pga tour": 1, "nationwide tour": 1, "champions tour": 1, "chicago cubs": 1, "high meadow ranch golf club": 1}
+{"illinois state government": 1}
+{"major league baseball": 1, "boston red sox": 1}
+{}
+{"gyeongnam fc": 1}
+{"republic of korea": 2, "empire of japan": 1, "united nations command": 1, "people's volunteer army": 1, "national assembly": 1, "oecd's development assistance committee": 1, "g20": 1, "ipef": 1, "paris club": 1}
+{"united states house of representatives": 2, "united states house appropriations subcommittee on defense": 1, "st. john's law school": 1, "democrat": 1, "republican": 1}
+{"minister of justice and human rights": 1}
+{"gowa sultanate": 1, "portuguese naval base": 1, "dutch east india company": 1, "dutch east indies": 1, "state of east indonesia": 1, "national development planning agency": 1, "bank indonesia": 1}
+{"institutional revolutionary party": 1, "mexican congress": 1, "lxi legislature": 1}
+{}
+{}
+{"university of california, riverside": 1, "riverside national cemetery": 1, "federal district court for the central district of california": 1, "riverside sports complex": 1, "fox performing arts center": 1, "museum of riverside": 1, "california museum of photography": 1, "california citrus state historic park": 1, "castle park": 1}
+{}
+{}
+{}
+{}
+{"oireachtas": 1, "d\u00e1il \u00e9ireann": 1, "seanad \u00e9ireann": 1, "irish free state": 1, "united nations": 1, "european communities": 1, "partnership for peace": 1, "pesco": 1, "north/south ministerial council": 1}
+{}
+{"university of aberdeen": 1, "hsbc": 1, "paymentsense": 1}
+{"soviet armed forces": 1, "moscow state forest university": 1, "alfa group": 3, "alfa-bank": 1, "president of the russian federation": 1, "russian presidential administration": 1, "supreme council of united russia party": 1, "security council of russia": 1, "dmitry medvedev's cabinet": 1, "alfa bank": 1}
+{}
+{"sendai university": 1, "fibt world championships": 1}
+{"sapporo dome": 1, "fifa world cup": 1, "rugby world cup": 1, "hokkaido university": 1, "sapporo beer museum": 1, "sapporo tv tower": 1, "sapporo snow festival": 1}
+{"summer olympics": 1, "sports clubs": 1}
+{"jovem guarda": 1}
+{"aoni production": 1, "81 produce": 1, "tokyo actor's consumer's cooperative society": 1}
+{"european athletics championships": 1, "world championships": 2, "world indoor championships": 1, "hochsprung mit musik": 1}
+{}
+{}
+{"bharatiya janata party": 1, "rajasthan legislative assembly": 1, "housing and urban development minister": 1, "vasundhara raje cabinet": 1}
+{}
+{"romanian national team": 1}
+{"babe\u0219-bolyai university": 1, "national theatre": 1, "opera": 1, "unesco creative cities network": 1, "unesco city of film": 1}
+{"university of heidelberg": 1, "free university of berlin": 1, "saarland university": 1, "otto-suhr-institut": 1, "university of mainz": 1}
+{"free democratic party (germany)": 1}
+{"aaa national championship": 1}
+{"uc san diego": 1, "san diego state university": 1, "university of san diego": 1}
+{"delft university of technology": 1, "royal institute of british architects": 1}
+{"boston bees": 1, "brooklyn dodgers": 1, "philadelphia phillies": 1}
+{}
+{}
+{}
+{"port of koper": 1, "municipality of koper": 1}
+{"liga ii club arge\u0219 pite\u0219ti": 1}
+{}
+{"rap-a-lot records": 1, "grand hustle records": 1, "angel by nature": 1, "relief gang": 1}
+{"united states district court": 1, "american philosophical society": 1}
+{"italian labour union": 1, "uil": 1, "italian socialist party": 1, "psi": 1, "italian senate": 1}
+{}
+{}
+{}
+{}
+{"university of oxford": 1, "university of cambridge": 1}
+{"archbishop tenison's library school": 1, "royal academy": 1, "acad\u00e9mie des beaux-arts": 1}
+{"frco": 1, "old clee parish church": 1, "st. matthew's anglican church": 1, "durham university": 1, "church of the ascension": 1, "all saints": 2, "church of england": 1, "christ church cathedral": 2, "vancouver bach choir": 1, "british columbia institute of music and drama": 1, "st. andrew's cathedral": 1, "king's college": 1, "all saints' church": 1, "all saints' cathedral": 1, "department of music of the university of alberta": 1, "canadian music centre": 1}
+{"the trainline": 1}
+{"herrnhuter br\u00fcdergemeine": 1, "moravian church": 1, "moravian brethren": 1}
+{"moravian church": 1, "communion of protestant churches in europe": 1, "world heritage list": 1}
+{"simmering swimming club": 1, "schwimmverein schwechat simmering": 1}
+{}
+{"republican party": 1, "democrats": 1, "congress": 1}
+{}
+{"british": 1, "mongol empires": 1, "house of romanov": 1, "house of holstein-gottorp-romanov": 1, "state duma": 1, "allies": 1, "russian provisional government": 1, "bolsheviks": 1, "whites": 1, "soviet union": 1}
+{"national party": 1, "house of representatives": 1}
+{"australian grand prix": 1, "fia formula one world championship": 1, "australian space agency": 1, "globalization and world cities research network": 1}
+{"chicago surrealist group": 1}
+{"chicago school": 1, "city beautiful movement": 1, "o'hare international airport": 1, "chicago symphony orchestra": 1, "lyric opera of chicago": 1, "art institute of chicago": 1, "university of chicago": 1, "northwestern university": 1, "university of illinois chicago": 1}
+{"ukrainian insurgent army": 1, "nachtigall battalion": 1, "german schutzmannschaft 201": 1}
+{"lviv urban hromada": 1, "lviv university": 1, "lviv polytechnic": 1, "philharmonic orchestra": 1, "lviv theatre of opera and ballet": 1}
+{}
+{}
+{"state council": 1, "fortune global 500": 1, "beijing capital international airport": 1, "beijing daxing international airport": 1, "asian infrastructure investment bank": 1, "shanghai cooperation organisation": 1, "silk road fund": 1, "chinese academy of sciences": 1, "chinese academy of engineering": 1, "chinese academy of social sciences": 1, "central academy of fine arts": 1, "central academy of drama": 1, "central conservatory of music": 1, "red cross society of china": 1}
+{"cambridgeshire county cricket club": 1, "cheltenham & gloucester trophy": 2, "wisbech cricket club": 1, "gdf bats": 1}
+{}
+{"grand trunk railway": 1, "department of public works": 1, "parliament of canada": 1, "royal canadian academy of arts": 1}
+{}
+{"monterrey foundry": 1}
+{"linguist list": 1, "graduate interdisciplinary programs": 1, "graduate college": 2, "university's graduate center": 1, "university's graduate faculty": 1}
+{"statistics canada": 1}
+{"twin peaks": 3, "b-52's": 1, "off-broadway": 1}
+{}
+{"chinese academy of sciences": 1, "shanghaitech university": 1, "people's republic of china": 1}
+{"kuomintang": 1, "chinese communist party": 1, "shanghai stock exchange": 1, "fortune global 500": 1, "global financial centres index": 1, "globalization and world cities research network": 1, "double first-class universities": 1, "fudan university": 1, "shanghai jiaotong university": 1, "shanghai metro": 1}
+{}
+{}
+{"catholic church": 2, "holy see": 1, "roman kingdom": 1, "roman republic": 1, "roman empire": 1, "kingdom of italy": 1, "italian republic": 1, "unesco": 1, "united nations": 2, "food and agriculture organization": 1, "world food programme": 1, "international fund for agricultural development": 1, "un system network on rural development and food security": 1, "european union": 1, "delegation to the united nations": 1, "secretariat of the parliamentary assembly of the union for the mediterranean": 1, "eni": 1, "enel": 1, "tim": 1, "leonardo": 1, "bnl": 1, "fendi": 1, "cinecitt\u00e0 studios": 1}
+{}
+{"fide": 1, "internet chess club": 1}
+{}
+{}
+{"borough of stafford": 1, "urban district council": 1, "rural district council": 1}
+{"ael 1964": 1, "gamma ethniki": 1}
+{}
+{}
+{"verbandsgemeinde": 1}
+{"state services commission": 1}
+{"canterbury association": 1, "university of canterbury": 1, "christchurch airport": 1}
+{"facebook": 1}
+{"county of grande prairie no. 1": 1}
+{"senate": 1, "executive council": 1}
+{"museum of old and new art": 1}
+{}
+{}
+{"savemoney": 1, "the social experiment": 1, "billboard": 2}
+{"tipperary senior team": 1, "tipperary minor team": 1, "under-21 side": 1, "toomevara": 1}
+{"roman catholic diocese of killaloe": 1}
+{}
+{}
+{"black press group ltd": 1, "british columbia and yukon community newspaper association": 1, "canadian community newspaper association": 2, "canadian newspaper association": 1, "american press institute": 1, "business laureates of british columbia hall of fame": 1}
+{"house of commons of canada": 1, "liberal": 1, "minister of national defence": 3, "solicitor general of canada": 1, "associate minister of national defence": 1}
+{"picton pirates": 1, "provincial junior hockey league tod division": 1}
+{}
+{"universit\u00e9 de montr\u00e9al": 1}
+{"major league soccer": 1, "los angeles galaxy": 1}
+{"esmeraldas canton": 1, "esmeraldas province": 1, "ecuador national football team": 1}
+{"china league two": 1, "sichuan jiuniu": 1}
+{"keio university": 2, "junet": 1, "wide project": 1, "ieee": 1, "internet hall of fame": 1, "japan network information center": 1, "french government": 1}
+{"4ad": 2, "village voice": 1}
+{"kerry senior team": 2, "rathmore": 1, "east kerry": 1, "munster inter-provincial team": 1}
+{"gaa": 1, "rathmore gaa": 1, "sag": 1, "rathmore community school": 1, "university college cork": 1, "university of limerick": 1}
+{}
+{"un human settlements program": 1, "unesco global network of learning cities": 1}
+{"parti bleu": 1}
+{}
+{}
+{"down senior team": 2, "national hurling league": 1, "christy ring cup": 1, "ardsmen": 1}
+{"exploris aquarium": 1, "portaferry marina": 1, "portaferry \u2013 strangford ferry": 1, "queen's university of belfast": 1, "minesto": 1, "rnli": 1}
+{"konami": 1, "treasure": 1, "q-mhz": 1, "unison square garden": 1, "heisei anison grand prize": 1}
+{"paralympic games": 4, "men's giant slalom lw12": 1}
+{"national association football league": 1, "first american soccer league": 1, "national soccer hall of fame": 1}
+{}
+{"catholic trade union": 1, "centre party": 1, "reichstag": 1}
+{}
+{}
+{"metropolis of lyon": 1, "departmental council of rh\u00f4ne": 1, "unesco": 1, "interpol": 1, "international agency for research on cancer": 1, "euronews": 1}
+{"national football league": 1, "pittsburgh steelers": 1}
+{}
+{"abeam consulting team": 1, "international sailing federation": 1}
+{}
+{"oxford companion to music": 1, "james tait black memorial prize": 1}
+{"city of leeds metropolitan borough": 1, "globalization and world cities research network": 1, "four universities": 1}
+{"irish catholic confederation": 1, "roman catholic bishop of ferns": 1}
+{}
+{}
+{"golden state warriors": 2, "national basketball association": 1, "nba": 3, "u.s. national team": 1, "arizona wildcats": 1, "pac-10": 1, "pac-12": 1, "ncaa": 1, "phoenix suns": 2, "chicago bulls": 1, "san antonio spurs": 1, "nba on tnt": 1}
+{"globalization and world cities research network": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cronica c\u00e2rcota\u015filor": 1, "prima tv": 1, "matei bal\u015f hospital": 1}
+{}
+{"world fencing championships": 1}
+{}
+{"oath inc.": 1, "verizon communications": 2, "aol": 2, "aol inc.": 1, "disney": 1, "starwave": 1, "snowball": 1, "google": 1, "google americas": 1}
+{"theatre academy": 1, "jurkka theatre": 1}
+{"tampere\u2013pirkkala airport": 1, "pendolino": 1, "smart city world congress": 1, "suomi-k\u00e4sikirja": 1}
+{"government of vojvodina": 1, "serbian progressive party": 1, "national assembly": 1, "serbian radical party": 1, "people's party": 1}
+{"informatika agency": 1, "unesco": 1}
+{}
+{"ecole des beaux-arts": 1, "la mode pratique": 1, "expositions universelles": 2}
+{"eurostat": 1, "grand gen\u00e8ve": 2, "glct": 1, "united nations": 1, "icrc": 1, "ifrc": 1, "red cross": 1, "league of nations": 1, "geneva conventions": 1, "bank for international settlements": 1, "council of europe": 1, "global financial centres index": 1, "mercer": 1, "ubs": 1}
+{"j-wave": 1, "hakuhodo": 1, "fukuoka softbank hawks": 1, "aoyama gakuin university": 1}
+{"inspector general de sanidad de la defensa": 1, "asociaci\u00f3n espa\u00f1ola de endoscopia digestiva": 1, "nato": 1}
+{}
+{"national hockey league": 1, "boston bruins": 1, "pittsburgh penguins": 1}
+{}
+{"none": 0}
+{"empire laboratories": 1}
+{"house of commons": 1, "parliament of the united kingdom": 1, "commonwealth realm": 1}
+{"english football league": 1, "merthyr town": 1, "walsall": 1}
+{}
+{"six nations": 1, "gloucester rugby": 1, "saracens": 2}
+{"creem magazine": 1, "newsday": 1, "the village voice": 1, "rolling stone": 1, "rock and roll hall of fame": 1}
+{"canadian rhythmic gymnastics": 1, "u.s.a. rhythmic gymnastics": 1}
+{"toronto city council": 1, "toronto stock exchange": 1}
+{"shell trophy": 1, "hawke cup": 1}
+{"university of otago": 1, "otago polytechnic": 1, "unesco": 1}
+{"tottenham hotspur": 1, "sheffield united": 1, "scunthorpe united": 1}
+{"local government district of basildon": 1, "c2c": 1}
+{}
+{"city of miami": 1, "ubs": 1, "university of miami": 2, "jackson memorial hospital": 1, "miller school of medicine": 1}
+{"academy of sciences of the ussr": 1}
+{}
+{"kommersant newspaper": 1, "kommersant publishing house": 1}
+{"instituto de extensi\u00f3n musical": 1, "university of chile": 2, "sociedad chilena del derecho de autor": 1}
+{"chilean government": 1, "congress": 1}
+{"wibf": 1}
+{"rai 1": 1}
+{}
+{}
+{}
+{"university of granada": 1, "f\u00eds alpine world ski championships": 1}
+{}
+{"university of missouri": 1, "stephens college": 1, "columbia college": 1, "shelter insurance": 1, "carfax": 1, "veterans united home loans": 1, "slackers cds and games": 1, "dungarees": 1, "state historical society of missouri": 1, "museum of art and archaeology": 1, "true/false film festival": 1, "roots n blues festival": 1, "missouri tigers": 1, "southeastern conference": 1}
+{"national football league": 1, "colorado buffaloes": 1, "atlanta falcons": 1, "houston oilers": 1, "green bay packers": 1}
+{"northwest college": 1}
+{}
+{"city municipality of celje": 1}
+{}
+{"hungarian programme of the year": 1}
+{"warsaw music institute": 1}
+{"zapata racing": 1}
+{"marquis who's who in america": 1, "marquis who's who in american art": 1, "marquis who's who in the world": 1, "united states navy": 1}
+{}
+{"episcopal church": 1, "anglican communion": 1, "episcopal diocese of massachusetts": 1, "hynes convention center": 1}
+{"world championships": 1, "summer olympics": 1}
+{"new york stock exchange": 1, "sulzbacher, granger & co.": 1, "ingalls & snyder": 1, "museum of the city of new york": 1, "cathedral of st. john the divine": 1, "english-speaking union": 1}
+{"brain/mind bulletin": 1, "institute of noetic sciences": 1}
+{"colorado mesa university": 1, "denver & rio grande western railroad": 1}
+{}
+{"legambiente": 1, "unesco": 1, "european city of sport": 1, "i borghi pi\u00f9 belli d'italia": 1}
+{"\u00e9cole des beaux-arts": 1}
+{}
+{"ulster defence association": 1, "ulster democratic party": 1, "apprentice boys of derry": 1}
+{"metropolitan newtownabbey settlement": 1, "antrim and newtownabbey borough council": 1}
+{}
+{"talysh khanate": 1, "provisional military dictatorship of mughan": 1, "mughan soviet republic": 1}
+{"american football league": 1, "national football league": 1}
+{"university of southern mississippi": 1, "william carey university": 1, "mississippi normal college": 1, "us national guard": 1}
+{}
+{}
+{}
+{}
+{}
+{"cathedral of barcelona": 1}
+{"unesco": 1}
+{}
+{"communaut\u00e9 d'agglom\u00e9ration troyes champagne m\u00e9tropole": 1}
+{"newington f.c.": 1, "holy family club": 1, "sky sports": 1, "sunday people": 1}
+{"billboard": 3, "united states army air forces": 1, "decca records": 1, "grammy awards": 1, "new york pro musica": 1}
+{}
+{"bangor international airport": 1, "bangor air national guard base": 1}
+{"dravidar kazhagam": 2, "dravida munnetra kazhagam": 1, "congress": 1, "all india anna dravida munnetra kazhagam": 1}
+{"government of india": 1, "kanchi matha": 1, "hriday": 1}
+{}
+{}
+{"national football league": 1, "buffalo bills": 1, "new orleans saints": 1, "minnesota vikings": 1, "phi beta sigma fraternity": 1}
+{"congress": 1, "united states company": 1, "italian company": 1, "public-school system": 1, "berry college": 1, "shorter university": 1, "georgia northwestern technical college": 1, "georgia highlands college": 1}
+{"hungarian national gallery": 1, "tornyai museum of h\u00f3dmez\u0151v\u00e1s\u00e1rhely": 1, "r\u00e1kospalota museum": 1, "kiscell museum": 1}
+{"abs-cbn": 1, "pinoy big brother": 1, "philippine school of business administration": 1}
+{}
+{"esteghlal": 1, "1. fsv mainz 05": 1}
+{"major league baseball": 1, "los angeles dodgers": 1, "chicago cubs": 1, "tulsa world": 1}
+{"dundee united": 1}
+{"statistics norway": 1}
+{"cincinnati reds": 1, "new york giants": 1, "national league": 2, "cleveland indians": 1, "boston red sox": 1, "american league": 1}
+{}
+{"nobel prize for peace": 1, "paris institute of political studies": 1, "sciences po": 1}
+{}
+{}
+{}
+{"guatemala national team": 1}
+{"banff world television festival": 1, "european film awards": 1}
+{"catholic church": 1, "government of quebec": 2, "l'\u00e9tat qu\u00e9b\u00e9cois": 1, "quebec charter of human rights and freedoms": 1, "charter of the french language": 1, "civil code of quebec": 1}
+{"mythopoeic scholarship awards": 1}
+{"sherman fairchild professor of humanities": 1, "warsaw university": 1, "oxford university": 1, "robert college": 1, "dartmouth college": 1}
+{"c.a. bella vista": 1}
+{"mercosur": 1, "aladi": 1, "fifa": 1}
+{"porsche": 2, "flying lizard motorsports": 1, "grand-american rolex series": 1, "porsche carrera cup": 1, "porsche supercup": 1, "german cup": 1, "fia gt2 european championship": 1, "24 hours of daytona": 2, "24 hours of le mans": 1, "bms scuderia italia": 1}
+{"bayer": 1, "bayer 04 leverkusen": 1}
+{}
+{}
+{"compromise of nobles": 1, "leiden university": 1}
+{"norwich city council": 1}
+{"cleveland browns": 1, "notre dame": 1}
+{"washington & jefferson college": 1, "pony league": 1}
+{"tag finance s.a.": 1, "le mans series": 1, "24 hours of le mans": 1}
+{"dukla praha": 1}
+{"habsburg monarchy": 1, "austria-hungary": 1, "unesco": 1, "charles university": 1, "mercers": 1, "picsa index": 1}
+{"swiss post": 1}
+{"ehc arosa": 1}
+{"bath festival of blues and progressive music": 1}
+{"naked city": 1, "cornish college of the arts": 1}
+{"warner brothers records": 1, "dream street": 1, "eagles": 1, "backstreet boys": 1, "reebok": 1, "matrix": 1, "let's hear it records": 1, "the voice": 1, "big house band": 1, "kids' wb": 1}
+{}
+{"international workingmen's association": 1, "affiche rouge": 1, "national assembly": 1, "chamber of deputies": 1, "french section of the workers' international": 1, "sfio": 2}
+{}
+{"frankfurter zeitung": 1, "red army": 1, "cologne main station": 2, "german railway authority": 1, "deutsche bundesbahn": 1}
+{"university of michigan": 1}
+{}
+{"royal museum for central africa": 1, "museum of natural sciences": 1}
+{}
+{"tehran conservatory of music": 1, "nirt chamber orchestra": 1, "persian ballets organization": 1, "tehran conservatory": 1}
+{"major league baseball": 1, "triple-a international league": 1, "international league hall of fame": 1}
+{"united states census bureau": 1, "national register of historic places": 1}
+{}
+{}
+{"university of the basque country": 1, "university of g\u00f6teborg": 1, "fridhems folkh\u00f6gskola": 1}
+{"swedish east india company": 1, "volvo": 2, "volvo group": 1, "volvo car corporation": 1, "astrazeneca": 1, "ericsson": 1, "skf": 1, "university of gothenburg": 1, "chalmers university of technology": 1, "gothia cup": 1, "gothenburg film festival": 1}
+{"hittman (band)": 1}
+{"government school of art": 1, "science and art department": 1, "national trust": 1}
+{"as monaco": 1, "asc jeanne d'arc": 1, "sporting club toulon": 1, "pescara calcio": 1}
+{}
+{}
+{"johns hopkins hospital": 1, "history of medicine society": 1, "royal society of medicine": 1, "medical library association of great britain and ireland": 1, "association of medical librarians": 1, "medical library association": 1}
+{}
+{"kuroko's basketball": 1, "jojo's bizarre adventure": 1, "aldnoah.zero": 1, "yu-gi-oh! arc-v": 1, "magi: the labyrinth of magic": 1, "seraph of the end": 1, "harry potter film series": 1, "spider-man: into the spider-verse": 1, "spider-man: across the spider-verse": 1, "prince of tennis": 1}
+{}
+{"major league baseball": 3, "baseball hall of fame": 1, "washington senators/texas rangers": 1, "igfa fishing hall of fame": 1, "jimmy fund": 1}
+{"halton peel cruisers sports for the physically disabled": 1, "canada men's national ice sledge hockey team": 1, "st. thomas aquinas secondary school": 1}
+{"macroeconomics and financial management institute of eastern & southern africa": 1, "bank of uganda": 1}
+{"protectorate of uganda": 1, "national resistance movement": 1, "united nations": 1, "african union": 1, "g77": 1, "east african community": 1, "organisation of islamic cooperation": 1}
+{"charneaux": 1, "raf": 1}
+{"british crown colony": 1, "executive council": 1, "high commissioner": 1, "british resident commissioners": 1}
+{"british army": 1}
+{"domesday book": 1, "royal pavilion": 1, "brighton and hove": 2, "unitary authority of brighton and hove": 1}
+{"government service insurance system": 1, "philippine justice department": 1}
+{"crown of castile": 1, "spanish empire": 1, "united nations": 1, "world trade organization": 1, "asean": 1, "asia-pacific economic cooperation forum": 1, "east asia summit": 1, "non-aligned movement": 1}
+{"theresianum": 1}
+{"lands of the bohemian crown": 1, "holy roman empire": 1, "austrian empire": 1, "archdiocese of olomouc": 1}
+{"major league baseball": 2, "philadelphia phillies": 3, "national baseball hall of fame": 1, "the broadcast pioneers of philadelphia hall of fame": 1, "philadelphia sports hall of fame": 1}
+{}
+{}
+{"tokugawa shogunate": 1, "asics": 1, "kawasaki heavy industries": 1, "kobe steel": 1, "eli lilly and company": 1, "procter & gamble": 1, "boehringer ingelheim": 1, "nestl\u00e9": 1, "kobe university": 1}
+{"bachman-turner overdrive": 1, "crosstown bus": 1}
+{}
+{"burewala tehsil": 1}
+{"complutense university of madrid": 1, "universidad carlos iii de madrid": 1, "harvard university": 1, "london school of economics": 1, "cemfi": 1, "centre for economic policy research": 1, "european corporate governance institute": 1, "editorial board of the review of finance": 1}
+{"telefonica": 1, "iberia": 1, "bbva": 1, "fcc": 1, "un's world tourism organization": 1, "ibero-american general secretariat": 1, "organization of ibero-american states": 1, "public interest oversight board": 1, "association of spanish language academies": 1, "royal spanish academy": 1, "instituto cervantes": 1, "foundation of urgent spanish": 1, "people's party": 1}
+{"kruger united": 1, "south african national first division": 1}
+{}
+{}
+{"major league baseball": 1, "national league": 1, "philadelphia phillies": 2, "minor leagues": 1}
+{}
+{"societ\u00e0 promotrice of fine arts": 1, "accademia albertina": 1}
+{"columbia university": 1}
+{}
+{"oxford university": 1, "royal greek ambassador": 1, "royal theater of athens": 1}
+{"university of naples": 1, "botanical garden of naples": 1, "accademia nazionale delle scienze": 1, "accademia pontaniana": 1}
+{"nato": 1, "allied joint force command naples": 1, "parliamentary assembly of the mediterranean": 1, "fascist regime": 1, "michelin guide": 1, "serie a": 1}
+{}
+{"karlstad municipality": 1, "coop": 1}
+{"world championship wrestling": 1}
+{"globalization and world cities research network": 1, "u.s. state department": 1, "statista": 1}
+{}
+{"u.s. military": 1, "cheyenne nation": 1}
+{"united states census bureau": 1, "treaty of guadalupe hidalgo": 1, "union": 1}
+{"major league baseball": 1, "oakland athletics": 2, "new york yankees": 3, "texas rangers": 2, "chicago white sox": 1}
+{}
+{"escuderia bandeirantes": 1}
+{"union army": 2, "florida constitutional convention": 2, "florida house of representatives": 2, "u. s. commissioner": 1}
+{}
+{}
+{"delft university of technology": 1, "tu delft": 1, "house of orange-nassau": 1}
+{"association of flemish and dutch artists in rome": 1, "bentvueghels": 1}
+{}
+{"vaxholm municipality": 2}
+{"montreal expos": 1, "major league baseball": 1}
+{"united states census": 1, "path mass transit system": 1, "ny waterway": 1}
+{"tiger aspect": 1, "hartswood films": 1, "bbc two": 1, "red nose day": 1}
+{}
+{}
+{"illinois senate": 1, "western illinois university": 1, "united states navy": 2, "sieben hybrids": 1, "illinois house of representatives": 1, "northern illinois university": 1, "campbell center": 1, "assistant republican leader": 1}
+{}
+{}
+{"lisburn city and castlereagh district": 1}
+{}
+{"saint-jean-baptiste society of montreal": 1, "mouvement national des qu\u00e9b\u00e9coises et des qu\u00e9b\u00e9cois": 1, "bloc qu\u00e9b\u00e9cois": 1}
+{"germany national team": 1, "bayern munich": 1}
+{"unesco": 1, "hanseatic league": 1, "university of erfurt": 1, "public television children's channel kika": 1}
+{"summer olympics": 1}
+{}
+{}
+{"democratic party": 1}
+{"summer olympics": 2}
+{"university of cincinnati": 1, "cincinnati reds": 1, "cincinnati bengals": 1, "fc cincinnati": 1, "cincinnati cyclones": 1, "kroger": 1, "procter & gamble": 1, "fifth third bank": 1, "sixth circuit court of appeals": 1}
+{"painters' guild of mal\u00e1 strana": 1}
+{"parliament": 1, "left alliance": 1, "communist party of finland": 1, "university of helsinki": 1, "tiedonantaja": 1, "federation of green youth and students": 1, "kgb": 1, "churchill archives centre": 1, "council of europe": 2, "parliamentary assembly": 1}
+{"royal academy of turku": 1, "university of helsinki": 1}
+{"sunday times": 1}
+{"unesco": 1}
+{}
+{"ukrainian soviet socialist republic": 1, "morozov design bureau": 1, "malyshev factory": 1, "khartron": 1, "turboatom": 1, "antonov": 1, "national university of kharkiv": 1}
+{"v\u00e4xj\u00f6 lakers hockey": 2, "bofors hc": 1, "karlskoga hc": 1, "bofors ik": 1, "hockeyallsvenskan": 1, "swedish elitserien": 2, "fr\u00f6lunda hc": 1}
+{"karlskoga municipality": 1, "bofors": 2, "bj\u00f6rkborn manor": 1, "bj\u00f6rkborn works": 1, "nobel prize": 1, "nobel laboratory": 1, "karlskoga church": 1, "m\u00e4ssen": 1, "bofors hotel": 1}
+{"u.s. representative": 1}
+{"united states census": 1, "metropolitan statistical area": 1}
+{"national football league": 1, "san francisco 49ers": 1, "cincinnati bengals": 1, "new orleans saints": 1, "clemson university": 1}
+{"u.s. census bureau": 1, "lagrange college": 1, "methodist church": 1, "north georgia conference of the united methodist church": 1, "national register of historic places": 1}
+{"poly prep country day school": 1, "manhattanville college": 1, "pace university": 1, "parsons the new school for design": 1, "school of visual arts": 1, "sotheby's": 1, "whitney museum of american art": 2, "american folk art museum": 1, "federal reserve bank of new york": 1, "barneys": 1, "west elm": 2, "the new york times": 1, "stuart weitzman": 1, "rockwell group": 1, "jonathan adler": 1, "starbucks": 2, "w hotel": 1, "one medical": 1, "the advisory board": 1, "bddw": 1, "kinder modern": 1, "brad ford's fair": 1, "timothy yarger fine art": 1}
+{"city university of new york": 1, "brooklyn college": 1, "medgar evers college": 1, "college of technology": 1, "new york university tandon school of engineering": 1}
+{"dynamo sports society": 1, "national olympic committee of lithuania": 1}
+{"unesco": 1, "eurostat": 1, "kaunas city municipality": 1, "kaunas district municipality": 1, "roman catholic archdiocese of kaunas": 1, "kaunas territorial health insurance fund": 1}
+{"national hockey league": 1, "hockey hall of fame": 1}
+{}
+{"offaly senior team": 1, "offaly": 1, "kinnitty": 1}
+{}
+{"nottinghamshire": 3, "marylebone cricket club": 1}
+{}
+{"major league baseball": 1, "science hill high school": 1, "milligan college": 1, "los angeles angels": 1, "minnesota twins": 1}
+{}
+{"democratic party": 1, "detroit police department": 1}
+{"new england patriots": 1, "amsterdam admirals": 1}
+{}
+{}
+{"accademia di santa cecilia": 1, "teatro alla scala": 2, "metropolitan opera": 2}
+{"university of salento": 1}
+{"european parliament": 1, "socialist party": 1, "greens": 1, "acp-eu joint parliamentary assembly": 1}
+{"globalization and world cities research network": 1, "european commission": 1}
+{}
+{}
+{"catholic church": 1}
+{"constitutional court of peru": 1, "unesco": 1}
+{}
+{}
+{"order of the golden fleece": 1}
+{"bank of saint george": 1, "unesco": 1, "house of grimaldi": 1, "university of genoa": 1, "fincantieri": 1, "leonardo": 1, "ansaldo energia": 1, "ansaldo sts": 1, "erg": 1, "piaggio aerospace": 1, "mediterranean shipping company": 1, "costa cruises": 1}
+{"bedford baptist church": 1}
+{}
+{"summer olympics": 1, "world championships": 1, "european championships": 1}
+{"norsk hydro": 1, "notodden blues festival": 1, "motst\u00f8y festivalen": 1, "notodden fk": 1}
+{"national football league": 1, "nfl": 1, "denver broncos": 1, "atlanta falcons": 1}
+{"griffin technical college": 1, "southern crescent technical college": 1, "griffin synodical female college": 1, "university of georgia": 1}
+{"house of holstein-gottorp": 1}
+{"house of oldenburg": 1}
+{"bodleian library": 1}

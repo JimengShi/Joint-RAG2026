@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "question": "What is George Rankin's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 2,
+    "question": "What is John Mayne's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 3,
+    "question": "What is Henry Feilden's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 4,
+    "question": "What is Kathy Saltzman's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 5,
+    "question": "What is Eleanor Davis's occupation?",
+    "answer": "cartoonist, graphic artist, animator, illustrator"
+  },
+  {
+    "id": 6,
+    "question": "What is Alexander Rinnooy Kan's occupation?",
+    "answer": "mathematician, economist, economists"
+  },
+  {
+    "id": 7,
+    "question": "What is Scooter Braun's occupation?",
+    "answer": "talent manager, artist manager, band manager, music manager, musician manager, manager, pop entrepreneur"
+  },
+  {
+    "id": 8,
+    "question": "What is Leona Detiège's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 9,
+    "question": "What is William Murray, 1st Earl of Mansfield's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 10,
+    "question": "What is Þorsteinn Bachmann's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 11,
+    "question": "What is Herlyn Espinal's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 12,
+    "question": "What is Jacob Kraemer's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 13,
+    "question": "What is Fred C. Newmeyer's occupation?",
+    "answer": "film director, movie director, director, motion picture director, film producer, movie producer, producer, actor, actress, actors, actresses"
+  },
+  {
+    "id": 14,
+    "question": "What is Edward Corser's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 15,
+    "question": "What is Bae Geu-rin's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 16,
+    "question": "What is Javier Alva Orlandini's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 17,
+    "question": "What is Edgar Allan Poe's occupation?",
+    "answer": "journalist, journo, journalists, playwright, dramatist, playwrite, scriptwriter, poet, poetess, bard"
+  },
+  {
+    "id": 18,
+    "question": "What is John Finlay's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 19,
+    "question": "What is John Floyd's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 20,
+    "question": "What is Sachiko Kokubu's occupation?",
+    "answer": "actor, actress, actors, actresses, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 21,
+    "question": "What is Rudolf Hilferding's occupation?",
+    "answer": "economist, economists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 22,
+    "question": "What is Charles Strachey, 4th Baron O'Hagan's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 23,
+    "question": "What is Akari Hayami's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 24,
+    "question": "What is Richard Martin's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 25,
+    "question": "What is Harvey Peltier, Sr.'s occupation?",
+    "answer": "lawyer, attorney, solicitor, barrister, lawyers, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 26,
+    "question": "What is Paris's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 27,
+    "question": "What is Fairfax M. Cone's occupation?",
+    "answer": "businessperson, business person, dealer, businesswoman, business man, business woman, businessman"
+  },
+  {
+    "id": 28,
+    "question": "What is Colleen Zenk Pinter's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 29,
+    "question": "What is Albert Bates's occupation?",
+    "answer": "lawyer, attorney, solicitor, barrister, lawyers"
+  },
+  {
+    "id": 30,
+    "question": "What is Heath's occupation?",
+    "answer": "songwriter, song writer"
+  },
+  {
+    "id": 31,
+    "question": "What is Stevie Cameron's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 32,
+    "question": "What is Yoshiki Tonogai's occupation?",
+    "answer": "mangaka, manga artist"
+  },
+  {
+    "id": 33,
+    "question": "What is Geeling Ng's occupation?",
+    "answer": "restaurateur, gastronomist, restauranteur"
+  },
+  {
+    "id": 34,
+    "question": "What is Thomas R. Whitney's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 35,
+    "question": "What is Edwin Wallock's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 36,
+    "question": "What is Tsutomu Seki's occupation?",
+    "answer": "astronomer"
+  },
+  {
+    "id": 37,
+    "question": "What is Matthew McKay's occupation?",
+    "answer": "dentist, dentists, dental surgeon"
+  },
+  {
+    "id": 38,
+    "question": "What is William Watson's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 39,
+    "question": "What is Sarah Dawn Finer's occupation?",
+    "answer": "actor, actress, actors, actresses, songwriter, song writer"
+  },
+  {
+    "id": 40,
+    "question": "What is Brendan Canty's occupation?",
+    "answer": "composer, musician, musical artist"
+  },
+  {
+    "id": 41,
+    "question": "What is María Elena Marqués's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 42,
+    "question": "What is Patrick O'Brien Demsey's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 43,
+    "question": "What is Ole Krarup's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 44,
+    "question": "What is Boutheina Jabnoun's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 45,
+    "question": "What is Robert Viharo's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 46,
+    "question": "What is Robby Krieger's occupation?",
+    "answer": "guitarist, guitar player, guitarists"
+  },
+  {
+    "id": 47,
+    "question": "What is Paul's occupation?",
+    "answer": "missionary, Christian missionary"
+  },
+  {
+    "id": 48,
+    "question": "What is Shozaburo Nakamura's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 49,
+    "question": "What is Esquerita's occupation?",
+    "answer": "pianist, songwriter, song writer"
+  },
+  {
+    "id": 50,
+    "question": "What is Herman A. Barnett's occupation?",
+    "answer": "surgeon, surgeons"
+  },
+  {
+    "id": 51,
+    "question": "What is Modou Dia's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 52,
+    "question": "What is Alex Krieps's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 53,
+    "question": "What is Veronica Franco's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 54,
+    "question": "What is Maev-Ann Wren's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 55,
+    "question": "What is Norman Crowther Hunt, Baron Crowther-Hunt's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 56,
+    "question": "What is Vincenzo Di Nicola's occupation?",
+    "answer": "psychiatrist, alienist, head-shrinker, shrinker, psychologist, psychologists"
+  },
+  {
+    "id": 57,
+    "question": "What is Henry Tizard's occupation?",
+    "answer": "chemist, chemists"
+  },
+  {
+    "id": 58,
+    "question": "What is Thomas Hinds's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 59,
+    "question": "What is Tobias Lindholm's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 60,
+    "question": "What is Lisa McRee's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 61,
+    "question": "What is Rick Gilmore's occupation?",
+    "answer": "economist, economists"
+  },
+  {
+    "id": 62,
+    "question": "What is Jon Eikemo's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 63,
+    "question": "What is Jilly Cooper's occupation?",
+    "answer": "journalist, journo, journalists, novelist"
+  },
+  {
+    "id": 64,
+    "question": "What is Ingrid Martinez's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 65,
+    "question": "What is Teddy Riley's occupation?",
+    "answer": "record producer, music producer, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 66,
+    "question": "What is Gillian Raine's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 67,
+    "question": "What is Marco Ameglio's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 68,
+    "question": "What is Mohd Sharkar Shamsudin's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 69,
+    "question": "What is Anthony Sharp's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 70,
+    "question": "What is Valgerður Bjarnadóttir's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 71,
+    "question": "What is Wallace Dollase's occupation?",
+    "answer": "horse trainer, racehorse trainer"
+  },
+  {
+    "id": 72,
+    "question": "What is Claire Berlinski's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 73,
+    "question": "What is James Cook's occupation?",
+    "answer": "sailor, seaman, mariner, seafarer, merchant sailor, merchant seaman, merchant mariner"
+  },
+  {
+    "id": 74,
+    "question": "What is Russell Stokes's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 75,
+    "question": "What is Henk Bleker's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 76,
+    "question": "What is Jim Brown's occupation?",
+    "answer": "radio personality, radio presenter, radio hostess, host, hostess, radio host, radio jockey, radio program boss, RJ"
+  },
+  {
+    "id": 77,
+    "question": "What is Christoph Schlingensief's occupation?",
+    "answer": "theatrical director, stage director, theatre director, play director, director, theater director"
+  },
+  {
+    "id": 78,
+    "question": "What is C. E. Webber's occupation?",
+    "answer": "playwright, dramatist, playwrite, scriptwriter"
+  },
+  {
+    "id": 79,
+    "question": "What is Gladwyn Jebb's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 80,
+    "question": "What is Dean Alfange's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 81,
+    "question": "What is Tyler, the Creator's occupation?",
+    "answer": "record producer, music producer, actor, actress, actors, actresses, graphic designer"
+  },
+  {
+    "id": 82,
+    "question": "What is Edwin E. Ellis's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 83,
+    "question": "What is Muhammad Ali Luqman's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 84,
+    "question": "What is Ivo Perilli's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 85,
+    "question": "What is Nathan Purdee's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 86,
+    "question": "What is Joseph Weydemeyer's occupation?",
+    "answer": "journalist, journo, journalists, revolutionary, insurrectionist, revolutionist, revolutioner"
+  },
+  {
+    "id": 87,
+    "question": "What is Ai's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 88,
+    "question": "What is Francis Howard, 5th Baron Howard of Effingham's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 89,
+    "question": "What is Luís Marques Guedes's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 90,
+    "question": "What is Nigel Sheinwald's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 91,
+    "question": "What is Ge You's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 92,
+    "question": "What is Annie Beustes's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 93,
+    "question": "What is Kazuyoshi Sekine's occupation?",
+    "answer": "playwright, dramatist, playwrite, scriptwriter"
+  },
+  {
+    "id": 94,
+    "question": "What is Elisa Bridges's occupation?",
+    "answer": "actor, actress, actors, actresses, Playboy Playmate, Playmate"
+  },
+  {
+    "id": 95,
+    "question": "What is Domingo Eyzaguirre's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 96,
+    "question": "What is Karol Życzkowski's occupation?",
+    "answer": "physicist, mathematician"
+  },
+  {
+    "id": 97,
+    "question": "What is Joyce Tang's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 98,
+    "question": "What is Suzanne Lilar's occupation?",
+    "answer": "playwright, dramatist, playwrite, scriptwriter"
+  },
+  {
+    "id": 99,
+    "question": "What is Karen Redman's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 100,
+    "question": "What is Eduard Looijenga's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 101,
+    "question": "What is Petrus Camper's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 102,
+    "question": "What is Charles Harrison's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 103,
+    "question": "What is Pathit Pisitkul's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 104,
+    "question": "What is Jeremiah Smith's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 105,
+    "question": "What is Harold Lever, Baron Lever of Manchester's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 106,
+    "question": "What is Peter Murnoy's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 107,
+    "question": "What is Richard Lui's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 108,
+    "question": "What is Charlotte von Hagn's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 109,
+    "question": "What is James M. Geraghty's occupation?",
+    "answer": "lawyer, attorney, solicitor, barrister, lawyers, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 110,
+    "question": "What is Michael Hutchings's occupation?",
+    "answer": "chef, chef de cuisine"
+  },
+  {
+    "id": 111,
+    "question": "What is Gideon Olin's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 112,
+    "question": "What is Malcolm David Kelley's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 113,
+    "question": "What is James Alex Msekela's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 114,
+    "question": "What is Nancy Landon Kassebaum's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 115,
+    "question": "What is Del Quentin Wilber's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 116,
+    "question": "What is Pierre Pansu's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 117,
+    "question": "What is Larry Coon's occupation?",
+    "answer": "computer scientist"
+  },
+  {
+    "id": 118,
+    "question": "What is Masayoshi Nataniya's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 119,
+    "question": "What is Leonida Tonelli's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 120,
+    "question": "What is Judith Rakers's occupation?",
+    "answer": "journalist, journo, journalists, television presenter, host, hostess, TV host, television host, TV presenter, TV anchor, television anchor"
+  },
+  {
+    "id": 121,
+    "question": "What is Hiroyuki Arai's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 122,
+    "question": "What is Ernst Timme's occupation?",
+    "answer": "farmer, agriculturist, grower, raiser, cultivator, agriculturer, farmer (occupation), politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 123,
+    "question": "What is Bill Kintner's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 124,
+    "question": "What is Francesco Vettori's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 125,
+    "question": "What is Melinda Mullins's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 126,
+    "question": "What is Tachibana no Moroe's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 127,
+    "question": "What is Susan Kent's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 128,
+    "question": "What is Ludwig Lichtschein's occupation?",
+    "answer": "rabbi, Rav"
+  },
+  {
+    "id": 129,
+    "question": "What is Will Smith's occupation?",
+    "answer": "record producer, music producer, film director, movie director, director, motion picture director, film producer, movie producer, producer, actor, actress, actors, actresses"
+  },
+  {
+    "id": 130,
+    "question": "What is Marjorie Margolies-Mezvinsky's occupation?",
+    "answer": "journalist, journo, journalists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 131,
+    "question": "What is Władysław Sławny's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 132,
+    "question": "What is Pierre Chatenet's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 133,
+    "question": "What is Luciano Vincenzoni's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 134,
+    "question": "What is Thandiswa Mazwai's occupation?",
+    "answer": "songwriter, song writer"
+  },
+  {
+    "id": 135,
+    "question": "What is Wenceslao Vinzons's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 136,
+    "question": "What is Maurizio Belpietro's occupation?",
+    "answer": "journalist, journo, journalists, television presenter, host, hostess, TV host, television host, TV presenter, TV anchor, television anchor"
+  },
+  {
+    "id": 137,
+    "question": "What is Dash's occupation?",
+    "answer": "record producer, music producer"
+  },
+  {
+    "id": 138,
+    "question": "What is Baton Haxhiu's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 139,
+    "question": "What is Samuel Wells Williams's occupation?",
+    "answer": "missionary, Christian missionary"
+  },
+  {
+    "id": 140,
+    "question": "What is Walter Köbel's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 141,
+    "question": "What is Debbie Johnson's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 142,
+    "question": "What is John Scurti's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 143,
+    "question": "What is John Barnes's occupation?",
+    "answer": "monk, monks"
+  },
+  {
+    "id": 144,
+    "question": "What is T Power's occupation?",
+    "answer": "record producer, music producer"
+  },
+  {
+    "id": 145,
+    "question": "What is Adil Shamoo's occupation?",
+    "answer": "biochemist, biological chemist"
+  },
+  {
+    "id": 146,
+    "question": "What is Patrick Mulvany's occupation?",
+    "answer": "farmer, agriculturist, grower, raiser, cultivator, agriculturer, farmer (occupation), politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 147,
+    "question": "What is Graham Collier's occupation?",
+    "answer": "composer, bandleader, Wind band conductor, Harmony orchestra leader"
+  },
+  {
+    "id": 148,
+    "question": "What is Arcangelo Ghisleri's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 149,
+    "question": "What is Carlos María Ramírez's occupation?",
+    "answer": "journalist, journo, journalists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 150,
+    "question": "What is Tina Sloan's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 151,
+    "question": "What is Gerard Kennedy's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 152,
+    "question": "What is Giora Godik's occupation?",
+    "answer": "impresario, Talent Manager"
+  },
+  {
+    "id": 153,
+    "question": "What is Lillian Lawrence's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 154,
+    "question": "What is Philip Rosenberg's occupation?",
+    "answer": "production designer, art director, artistic coordinator"
+  },
+  {
+    "id": 155,
+    "question": "What is Sudarshan Faakir's occupation?",
+    "answer": "lyricist, singer-lyricist"
+  },
+  {
+    "id": 156,
+    "question": "What is Shonali Bose's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 157,
+    "question": "What is Archibald Thomas Pechey's occupation?",
+    "answer": "lyricist, singer-lyricist"
+  },
+  {
+    "id": 158,
+    "question": "What is Thomas Challis's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 159,
+    "question": "What is Mariana Vicente's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 160,
+    "question": "What is Huntington Wilson's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 161,
+    "question": "What is Ek Yi Oun's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 162,
+    "question": "What is Benjamin Mount's occupation?",
+    "answer": "record producer, music producer"
+  },
+  {
+    "id": 163,
+    "question": "What is Bala's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 164,
+    "question": "What is Steve Tom's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 165,
+    "question": "What is Ilja Rosendahl's occupation?",
+    "answer": "record producer, music producer, actor, actress, actors, actresses"
+  },
+  {
+    "id": 166,
+    "question": "What is Ron Nyswaner's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 167,
+    "question": "What is Thanasis Pafilis's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 168,
+    "question": "What is Nicholas Sanduleak's occupation?",
+    "answer": "astronomer"
+  },
+  {
+    "id": 169,
+    "question": "What is Christopher Butson's occupation?",
+    "answer": "priest, reverend, priestess"
+  },
+  {
+    "id": 170,
+    "question": "What is Otto Frankel's occupation?",
+    "answer": "geneticist"
+  },
+  {
+    "id": 171,
+    "question": "What is Rich Brightman's occupation?",
+    "answer": "singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 172,
+    "question": "What is Mr. Porter's occupation?",
+    "answer": "record producer, music producer"
+  },
+  {
+    "id": 173,
+    "question": "What is Felix Walker's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 174,
+    "question": "What is Franz Seitz Sr.'s occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, film producer, movie producer, producer"
+  },
+  {
+    "id": 175,
+    "question": "What is Chris Jericho's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 176,
+    "question": "What is Frederick Dundas's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 177,
+    "question": "What is Aim's occupation?",
+    "answer": "disc jockey, DJ, dee jay, dj, D.J., disk jockey, dee-jay, deejay, disquaire, discaire"
+  },
+  {
+    "id": 178,
+    "question": "What is Nadia Giosia's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 179,
+    "question": "What is Adele Capell, Countess of Essex's occupation?",
+    "answer": "socialite, prominent person"
+  },
+  {
+    "id": 180,
+    "question": "What is Kanye West's occupation?",
+    "answer": "record producer, music producer, songwriter, song writer"
+  },
+  {
+    "id": 181,
+    "question": "What is Hawthorne James's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 182,
+    "question": "What is Sırrı Süreyya Önder's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 183,
+    "question": "What is Edward Norton's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 184,
+    "question": "What is Linden Ashby's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 185,
+    "question": "What is Ann Friedman's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 186,
+    "question": "What is Olav T. Laake's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 187,
+    "question": "What is Carolyn Eisele's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 188,
+    "question": "What is Jonathan Le Billon's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 189,
+    "question": "What is Mildred Okwo's occupation?",
+    "answer": "film director, movie director, director, motion picture director"
+  },
+  {
+    "id": 190,
+    "question": "What is Eliza Lawrence's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 191,
+    "question": "What is Charles Combe's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 192,
+    "question": "What is GQ's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 193,
+    "question": "What is John D. Maurice's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 194,
+    "question": "What is Harvey Benge's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 195,
+    "question": "What is William Greaves's occupation?",
+    "answer": "film director, movie director, director, motion picture director"
+  },
+  {
+    "id": 196,
+    "question": "What is David Joyce's occupation?",
+    "answer": "lawyer, attorney, solicitor, barrister, lawyers, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 197,
+    "question": "What is Zhu Houren's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 198,
+    "question": "What is Ayumi Hamasaki's occupation?",
+    "answer": "actor, actress, actors, actresses, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter, songwriter, song writer, lyricist, singer-lyricist"
+  },
+  {
+    "id": 199,
+    "question": "What is Kristina Lugn's occupation?",
+    "answer": "playwright, dramatist, playwrite, scriptwriter"
+  },
+  {
+    "id": 200,
+    "question": "What is Luca Coscioni's occupation?",
+    "answer": "economist, economists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 201,
+    "question": "What is Raymond S. Burton's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 202,
+    "question": "What is Beth Hart's occupation?",
+    "answer": "singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 203,
+    "question": "What is Benazir Bhutto's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 204,
+    "question": "What is Alan Huckle's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 205,
+    "question": "What is Gunnar Uldall's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 206,
+    "question": "What is Alfred Mombert's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 207,
+    "question": "What is Famke Janssen's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 208,
+    "question": "What is Sylwester Braun's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 209,
+    "question": "What is Jack Mackenzie's occupation?",
+    "answer": "civil engineer"
+  },
+  {
+    "id": 210,
+    "question": "What is Kiko Mizuhara's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 211,
+    "question": "What is Michael Radford's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 212,
+    "question": "What is Henry Campbell-Bannerman's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 213,
+    "question": "What is Robert Voisey's occupation?",
+    "answer": "composer"
+  },
+  {
+    "id": 214,
+    "question": "What is Richard Vaughan's occupation?",
+    "answer": "bishop"
+  },
+  {
+    "id": 215,
+    "question": "What is Debra Weeks's occupation?",
+    "answer": "journalist, journo, journalists, television producer, TV producer, producer, Tv producer, Series Producer, Producer (television), Television executive producer"
+  },
+  {
+    "id": 216,
+    "question": "What is Bedřich Feigl's occupation?",
+    "answer": "graphic designer"
+  },
+  {
+    "id": 217,
+    "question": "What is Richard Marles's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 218,
+    "question": "What is Burna Boy's occupation?",
+    "answer": "songwriter, song writer"
+  },
+  {
+    "id": 219,
+    "question": "What is Edward F. Cox's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 220,
+    "question": "What is Sven Alkalaj's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 221,
+    "question": "What is Alex Reid's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 222,
+    "question": "What is Isabelle Adriani's occupation?",
+    "answer": "journalist, journo, journalists, actor, actress, actors, actresses"
+  },
+  {
+    "id": 223,
+    "question": "What is Edward Gunasekara's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 224,
+    "question": "What is David M. Westcott's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 225,
+    "question": "What is Carl Linnaeus's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 226,
+    "question": "What is Firaq Gorakhpuri's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 227,
+    "question": "What is Gordie Gosse's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 228,
+    "question": "What is Nenad Popović's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 229,
+    "question": "What is Björn Böhning's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 230,
+    "question": "What is Susan Soltero's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 231,
+    "question": "What is P. Palaniappan's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 232,
+    "question": "What is Alice's occupation?",
+    "answer": "pianist, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 233,
+    "question": "What is J. Da Silva's occupation?",
+    "answer": "cricket umpire, umpire"
+  },
+  {
+    "id": 234,
+    "question": "What is Josh Mankiewicz's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 235,
+    "question": "What is Shiva Nageswara Rao's occupation?",
+    "answer": "film director, movie director, director, motion picture director"
+  },
+  {
+    "id": 236,
+    "question": "What is Abdirizak Haji Hussein's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 237,
+    "question": "What is Fritz Goos's occupation?",
+    "answer": "astronomer, physicist"
+  },
+  {
+    "id": 238,
+    "question": "What is Charles A. Gillespie, Jr.'s occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 239,
+    "question": "What is Tharman Shanmugaratnam's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 240,
+    "question": "What is Alexander Gadolin's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 241,
+    "question": "What is Levi P. Powers's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 242,
+    "question": "What is Kamya Panjabi's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 243,
+    "question": "What is Robert Gwilym's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 244,
+    "question": "What is Min's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 245,
+    "question": "What is John Strange's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 246,
+    "question": "What is Everley Gregg's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 247,
+    "question": "What is Ruby Rose's occupation?",
+    "answer": "disc jockey, DJ, dee jay, dj, D.J., disk jockey, dee-jay, deejay, disquaire, discaire, actor, actress, actors, actresses, television presenter, host, hostess, TV host, television host, TV presenter, TV anchor, television anchor"
+  },
+  {
+    "id": 248,
+    "question": "What is Meg McCall's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 249,
+    "question": "What is Walter de la Pole's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 250,
+    "question": "What is Todd Verow's occupation?",
+    "answer": "cinematographer, director of photography, DOP, film director, movie director, director, motion picture director, actor, actress, actors, actresses"
+  },
+  {
+    "id": 251,
+    "question": "What is Kyaw Swe's occupation?",
+    "answer": "film director, movie director, director, motion picture director, actor, actress, actors, actresses"
+  },
+  {
+    "id": 252,
+    "question": "What is Guillaume du Tillot's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 253,
+    "question": "What is James J. Gibson's occupation?",
+    "answer": "psychologist, psychologists"
+  },
+  {
+    "id": 254,
+    "question": "What is Edwin H. Knopf's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, film producer, movie producer, producer"
+  },
+  {
+    "id": 255,
+    "question": "What is Apurba Kishore Bir's occupation?",
+    "answer": "cinematographer, director of photography, DOP, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 256,
+    "question": "What is Prince Radu of Romania's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 257,
+    "question": "What is Tatiana Doronina's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 258,
+    "question": "What is Marina Baker's occupation?",
+    "answer": "Playboy Playmate, Playmate"
+  },
+  {
+    "id": 259,
+    "question": "What is Naathan Phan's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 260,
+    "question": "What is Paul Caillaud's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 261,
+    "question": "What is Rusty Willoughby's occupation?",
+    "answer": "songwriter, song writer"
+  },
+  {
+    "id": 262,
+    "question": "What is Ebenezer Webster's occupation?",
+    "answer": "farmer, agriculturist, grower, raiser, cultivator, agriculturer, farmer (occupation), politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 263,
+    "question": "What is Bridie O'Flaherty's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 264,
+    "question": "What is John Jay's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 265,
+    "question": "What is Ivan Kulichenko's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 266,
+    "question": "What is Christopher Beazley's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 267,
+    "question": "What is Christine Juarbe's occupation?",
+    "answer": "actor, actress, actors, actresses, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 268,
+    "question": "What is Affonso Beato's occupation?",
+    "answer": "cinematographer, director of photography, DOP"
+  },
+  {
+    "id": 269,
+    "question": "What is Scott Z. Burns's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 270,
+    "question": "What is Vanessa Angel's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 271,
+    "question": "What is Atsushi Kaneko's occupation?",
+    "answer": "mangaka, manga artist"
+  },
+  {
+    "id": 272,
+    "question": "What is William Molyneux's occupation?",
+    "answer": "astronomer, philosopher, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 273,
+    "question": "What is E. David Redwine's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 274,
+    "question": "What is Kyriakos Mavronikolas's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 275,
+    "question": "What is John Blake, Jr.'s occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 276,
+    "question": "What is Amitabh Bachchan's occupation?",
+    "answer": "film producer, movie producer, producer, actor, actress, actors, actresses"
+  },
+  {
+    "id": 277,
+    "question": "What is Mami Matsui's occupation?",
+    "answer": "seiyū, Japanese voice actress, seiyuu, seiyu, Japanese voice actor"
+  },
+  {
+    "id": 278,
+    "question": "What is Marie-France Mignal's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 279,
+    "question": "What is P. J. Moloney's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 280,
+    "question": "What is Robert Lewis's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 281,
+    "question": "What is Guillem Ramon de Gironella's occupation?",
+    "answer": "troubadour"
+  },
+  {
+    "id": 282,
+    "question": "What is Dima Grigoriev's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 283,
+    "question": "What is Hermann Ahlwardt's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 284,
+    "question": "What is Alexandre Bóveda's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 285,
+    "question": "What is Paddy Mullins's occupation?",
+    "answer": "horse trainer, racehorse trainer"
+  },
+  {
+    "id": 286,
+    "question": "What is Harvey William Burk's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 287,
+    "question": "What is Richard Sandrak's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 288,
+    "question": "What is Amin Amidu Sulemana's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 289,
+    "question": "What is Jim Boyd's occupation?",
+    "answer": "journalist, journo, journalists, actor, actress, actors, actresses"
+  },
+  {
+    "id": 290,
+    "question": "What is Nosrat Karimi's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 291,
+    "question": "What is Ashlie Walker's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 292,
+    "question": "What is Jörg A. Eggers's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 293,
+    "question": "What is Petru Vlah's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 294,
+    "question": "What is Giovanni Grasso's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 295,
+    "question": "What is Pierre Abraham's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 296,
+    "question": "What is Paul Lieber's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 297,
+    "question": "What is Rumi's occupation?",
+    "answer": "philosopher, poet, poetess, bard"
+  },
+  {
+    "id": 298,
+    "question": "What is Elvin Penner's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 299,
+    "question": "What is Keiko Aizawa's occupation?",
+    "answer": "actor, actress, actors, actresses, seiyū, Japanese voice actress, seiyuu, seiyu, Japanese voice actor"
+  },
+  {
+    "id": 300,
+    "question": "What is Rodrigo Arocena's occupation?",
+    "answer": "mathematician"
+  },
+  {
+    "id": 301,
+    "question": "What is Robert Florey's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses"
+  },
+  {
+    "id": 302,
+    "question": "What is Petros Efthymiou's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 303,
+    "question": "What is Fidel Antuña Batista's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 304,
+    "question": "What is Billy Flynn's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 305,
+    "question": "What is Şefik Birkiye's occupation?",
+    "answer": "architect"
+  },
+  {
+    "id": 306,
+    "question": "What is Isobel Pravda's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 307,
+    "question": "What is Natasha Leggero's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 308,
+    "question": "What is Dorothy Hewett's occupation?",
+    "answer": "playwright, dramatist, playwrite, scriptwriter, poet, poetess, bard, novelist"
+  },
+  {
+    "id": 309,
+    "question": "What is William Phillips, Sr.'s occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 310,
+    "question": "What is Michael Jackson's occupation?",
+    "answer": "record producer, music producer, beatboxing, Human beat box, film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses, composer, businessperson, business person, dealer, businesswoman, business man, business woman, businessman, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter, poet, poetess, bard, musician, musical artist, songwriter, song writer"
+  },
+  {
+    "id": 311,
+    "question": "What is Rodrigo Cortés's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 312,
+    "question": "What is Richard Rishi's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 313,
+    "question": "What is Seungri's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 314,
+    "question": "What is Toni Jennings's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 315,
+    "question": "What is Thomas Gifford's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 316,
+    "question": "What is DM Sevilla's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 317,
+    "question": "What is Sardar Muhammad Yousaf Zaman's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 318,
+    "question": "What is Jaclyn Stapp's occupation?",
+    "answer": "model, fashion model, sitter, poser"
+  },
+  {
+    "id": 319,
+    "question": "What is Thomas Jefferson Kaye's occupation?",
+    "answer": "record producer, music producer, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 320,
+    "question": "What is Pietro Marcenaro's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 321,
+    "question": "What is William Australia Graham's occupation?",
+    "answer": "farmer, agriculturist, grower, raiser, cultivator, agriculturer, farmer (occupation), politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 322,
+    "question": "What is Richard Myers's occupation?",
+    "answer": "songwriter, song writer"
+  },
+  {
+    "id": 323,
+    "question": "What is Conrad Weiser's occupation?",
+    "answer": "diplomat"
+  },
+  {
+    "id": 324,
+    "question": "What is Paul Hindemith's occupation?",
+    "answer": "composer, concertmaster, principal violin, principal violinist, first chair, leader"
+  },
+  {
+    "id": 325,
+    "question": "What is Carlo Giustini's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 326,
+    "question": "What is Alfredo Narciso's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 327,
+    "question": "What is Lindsay Ellingson's occupation?",
+    "answer": "model, fashion model, sitter, poser"
+  },
+  {
+    "id": 328,
+    "question": "What is Shelley Wark-Martyn's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 329,
+    "question": "What is José Feliciano's occupation?",
+    "answer": "composer"
+  },
+  {
+    "id": 330,
+    "question": "What is Hugo Becker's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 331,
+    "question": "What is Frits Castricum's occupation?",
+    "answer": "journalist, journo, journalists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 332,
+    "question": "What is John Bell's occupation?",
+    "answer": "surgeon, surgeons"
+  },
+  {
+    "id": 333,
+    "question": "What is David Sharp's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 334,
+    "question": "What is Galina Starovoytova's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 335,
+    "question": "What is Per Risvik's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 336,
+    "question": "What is Eleanor Yule's occupation?",
+    "answer": "film director, movie director, director, motion picture director"
+  },
+  {
+    "id": 337,
+    "question": "What is Claire Adams's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 338,
+    "question": "What is Agneta Bolme Börjefors's occupation?",
+    "answer": "journalist, journo, journalists, television presenter, host, hostess, TV host, television host, TV presenter, TV anchor, television anchor"
+  },
+  {
+    "id": 339,
+    "question": "What is Lothrop Stoddard's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 340,
+    "question": "What is G.E.M.'s occupation?",
+    "answer": "singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 341,
+    "question": "What is Brigitte Bardot's occupation?",
+    "answer": "actor, actress, actors, actresses, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 342,
+    "question": "What is Alexander Bogdanov's occupation?",
+    "answer": "economist, economists, journalist, journo, journalists, physician, physicians, medical doctor, medical practitioner, doctor, medical doctors, philosopher"
+  },
+  {
+    "id": 343,
+    "question": "What is Chris Lang's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 344,
+    "question": "What is Pamela Winslow's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 345,
+    "question": "What is Alan Bjerga's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 346,
+    "question": "What is Tadhg Dall Ó hUiginn's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 347,
+    "question": "What is Leigh Whannell's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses"
+  },
+  {
+    "id": 348,
+    "question": "What is Yannis Ritsos's occupation?",
+    "answer": "poet, poetess, bard"
+  },
+  {
+    "id": 349,
+    "question": "What is Andy C's occupation?",
+    "answer": "disc jockey, DJ, dee jay, dj, D.J., disk jockey, dee-jay, deejay, disquaire, discaire, record producer, music producer"
+  },
+  {
+    "id": 350,
+    "question": "What is Frequency's occupation?",
+    "answer": "disc jockey, DJ, dee jay, dj, D.J., disk jockey, dee-jay, deejay, disquaire, discaire, record producer, music producer"
+  },
+  {
+    "id": 351,
+    "question": "What is Zoran Rankić's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 352,
+    "question": "What is Chitra Bahadur K.C.'s occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 353,
+    "question": "What is Ski Beatz's occupation?",
+    "answer": "record producer, music producer"
+  },
+  {
+    "id": 354,
+    "question": "What is Siegfried Czapski's occupation?",
+    "answer": "physicist"
+  },
+  {
+    "id": 355,
+    "question": "What is Lord George Hamilton's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 356,
+    "question": "What is Mariángel  Carolina Ruiz Diaz's occupation?",
+    "answer": "actor, actress, actors, actresses, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 357,
+    "question": "What is Michael Shelley's occupation?",
+    "answer": "singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 358,
+    "question": "What is Anjali Sudhakar's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 359,
+    "question": "What is Greg Miller's occupation?",
+    "answer": "cartoonist, graphic artist, animator, illustrator, animator, animation artist, cartoonist, graphic artist, storyboard artist, story artist, visualizer"
+  },
+  {
+    "id": 360,
+    "question": "What is Rose Beaudet's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 361,
+    "question": "What is Ava Deluca-Verley's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 362,
+    "question": "What is Sayaka Ichii's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 363,
+    "question": "What is George Birnie Esslemont's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 364,
+    "question": "What is Tiffany Pollard's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 365,
+    "question": "What is Shorty Hamilton's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 366,
+    "question": "What is Ajay Kumar Parida's occupation?",
+    "answer": "biologist, biologists"
+  },
+  {
+    "id": 367,
+    "question": "What is Baruch Steinberg's occupation?",
+    "answer": "rabbi, Rav"
+  },
+  {
+    "id": 368,
+    "question": "What is Charles Martin Smith's occupation?",
+    "answer": "film director, movie director, director, motion picture director, actor, actress, actors, actresses"
+  },
+  {
+    "id": 369,
+    "question": "What is Bobby Henon's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 370,
+    "question": "What is John Andrew Martin's occupation?",
+    "answer": "lawyer, attorney, solicitor, barrister, lawyers, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 371,
+    "question": "What is Salvador Allende's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 372,
+    "question": "What is Nandor Balazs's occupation?",
+    "answer": "physicist"
+  },
+  {
+    "id": 373,
+    "question": "What is T. P. Poonatchi's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 374,
+    "question": "What is Joni Jenkins's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 375,
+    "question": "What is Martin Shapiro's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 376,
+    "question": "What is Gabriel Gonsum Ganaka's occupation?",
+    "answer": "priest, reverend, priestess"
+  },
+  {
+    "id": 377,
+    "question": "What is Max Fechner's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 378,
+    "question": "What is Augustine Steward's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 379,
+    "question": "What is Andrew Ure's occupation?",
+    "answer": "chemist, chemists"
+  },
+  {
+    "id": 380,
+    "question": "What is Guy Joseph Bonnet's occupation?",
+    "answer": "major general, major-general, MG, Maj.Gen., M.Gen., two-star general, Major general"
+  },
+  {
+    "id": 381,
+    "question": "What is Rhea Silvia's occupation?",
+    "answer": "Vestal Virgin"
+  },
+  {
+    "id": 382,
+    "question": "What is Jason Reitman's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 383,
+    "question": "What is Lewis J. Rachmil's occupation?",
+    "answer": "film producer, movie producer, producer"
+  },
+  {
+    "id": 384,
+    "question": "What is René Bégin's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 385,
+    "question": "What is Johann Heinrich Lambert's occupation?",
+    "answer": "astronomer, physicist, mathematician"
+  },
+  {
+    "id": 386,
+    "question": "What is Robert Jonckheere's occupation?",
+    "answer": "astronomer"
+  },
+  {
+    "id": 387,
+    "question": "What is Klaus Rainer Röhl's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 388,
+    "question": "What is Yuki Kaida's occupation?",
+    "answer": "seiyū, Japanese voice actress, seiyuu, seiyu, Japanese voice actor"
+  },
+  {
+    "id": 389,
+    "question": "What is Tracy Coogan's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 390,
+    "question": "What is Arafan Camara's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 391,
+    "question": "What is George Lewis's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 392,
+    "question": "What is Louis O'Dea's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 393,
+    "question": "What is Mohamed Bazoum's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 394,
+    "question": "What is Dennis Rodman's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 395,
+    "question": "What is Guo Gengmao's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 396,
+    "question": "What is Derek Ingram Hill's occupation?",
+    "answer": "priest, reverend, priestess"
+  },
+  {
+    "id": 397,
+    "question": "What is Jacques Monasch's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 398,
+    "question": "What is Sebaki Devi Das Tatma's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 399,
+    "question": "What is Robert Antoine's occupation?",
+    "answer": "missionary, Christian missionary"
+  },
+  {
+    "id": 400,
+    "question": "What is Howard Fowles's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 401,
+    "question": "What is Seif Sharif Hamad's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 402,
+    "question": "What is Fernanda Vasconcellos's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 403,
+    "question": "What is Julia de Asensi's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 404,
+    "question": "What is Đurđa Ivezić's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 405,
+    "question": "What is Rick Wilson's occupation?",
+    "answer": "farmer, agriculturist, grower, raiser, cultivator, agriculturer, farmer (occupation), politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 406,
+    "question": "What is John Campbell, 3rd Earl of Breadalbane and Holland's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 407,
+    "question": "What is Ya'akov Ahimeir's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 408,
+    "question": "What is Jean-Baptiste de Lamarck's occupation?",
+    "answer": "biologist, biologists"
+  },
+  {
+    "id": 409,
+    "question": "What is James Anderson's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 410,
+    "question": "What is Jeet Ganguly's occupation?",
+    "answer": "composer"
+  },
+  {
+    "id": 411,
+    "question": "What is Žarko Petan's occupation?",
+    "answer": "film director, movie director, director, motion picture director, screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 412,
+    "question": "What is Akimasa Nakamura's occupation?",
+    "answer": "astronomer"
+  },
+  {
+    "id": 413,
+    "question": "What is Thomas Widdrington's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 414,
+    "question": "What is Will Smith's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter, actor, actress, actors, actresses"
+  },
+  {
+    "id": 415,
+    "question": "What is Eckart von Hirschhausen's occupation?",
+    "answer": "physician, physicians, medical doctor, medical practitioner, doctor, medical doctors"
+  },
+  {
+    "id": 416,
+    "question": "What is Enos Thompson Throop's occupation?",
+    "answer": "diplomat, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 417,
+    "question": "What is Ali Hillis's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 418,
+    "question": "What is Virginia Haviland's occupation?",
+    "answer": "librarian, library staff"
+  },
+  {
+    "id": 419,
+    "question": "What is Val McLane's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 420,
+    "question": "What is Frances Josephy's occupation?",
+    "answer": "journalist, journo, journalists, politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 421,
+    "question": "What is Uri Nakayama's occupation?",
+    "answer": "singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter, hairdresser, hairstylist, hair stylist, hair dresser, beautician, hairdressers"
+  },
+  {
+    "id": 422,
+    "question": "What is Edward Drinker Cope's occupation?",
+    "answer": "geologist"
+  },
+  {
+    "id": 423,
+    "question": "What is Edwin N. Hubbell's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 424,
+    "question": "What is Donald Trump's occupation?",
+    "answer": "actor, actress, actors, actresses, socialite, prominent person, real estate development, property development, Real estate development, politician, political leader, political figure, polit., pol, business magnate, businessperson, tycoon, magnate"
+  },
+  {
+    "id": 425,
+    "question": "What is Ivan III Drašković's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 426,
+    "question": "What is Michael's occupation?",
+    "answer": "priest, reverend, priestess"
+  },
+  {
+    "id": 427,
+    "question": "What is Jorge Traverso's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 428,
+    "question": "What is Peter's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 429,
+    "question": "What is Mariví Bilbao's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 430,
+    "question": "What is Mark T. Vande Hei's occupation?",
+    "answer": "astronaut, spacionaut, astronauts, space traveller"
+  },
+  {
+    "id": 431,
+    "question": "What is Dick Rude's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 432,
+    "question": "What is Robert D. Cardona's occupation?",
+    "answer": "animator, animation artist, cartoonist, graphic artist"
+  },
+  {
+    "id": 433,
+    "question": "What is Michael Lynton's occupation?",
+    "answer": "chief executive officer, CEO, CE, CEx, chief executive"
+  },
+  {
+    "id": 434,
+    "question": "What is Brent Huff's occupation?",
+    "answer": "film director, movie director, director, motion picture director, model, fashion model, sitter, poser"
+  },
+  {
+    "id": 435,
+    "question": "What is Gina Krog's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 436,
+    "question": "What is Arkady Chernetsky's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 437,
+    "question": "What is Shirley Palmer's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 438,
+    "question": "What is Paolo Pellizzari's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 439,
+    "question": "What is G. Karunakara Reddy's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 440,
+    "question": "What is Petr Mlsna's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 441,
+    "question": "What is Neville Ashenheim's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 442,
+    "question": "What is Billy Joel's occupation?",
+    "answer": "composer, pianist, singer-songwriter, singer songwriter, singer/songwriter, singersongwriter, singer-songwriter"
+  },
+  {
+    "id": 443,
+    "question": "What is Nina Varlamova's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 444,
+    "question": "What is Ruth Harriet Louise's occupation?",
+    "answer": "photographer, photog, photographers"
+  },
+  {
+    "id": 445,
+    "question": "What is Lorena Corona Valdés's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 446,
+    "question": "What is Darrell Hammond's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 447,
+    "question": "What is Bedřich Smetana's occupation?",
+    "answer": "composer, pianist"
+  },
+  {
+    "id": 448,
+    "question": "What is Sir Thomas Clarges, 3rd Baronet's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 449,
+    "question": "What is Donald Robert Macgregor's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 450,
+    "question": "What is Jari Porttila's occupation?",
+    "answer": "journalist, journo, journalists"
+  },
+  {
+    "id": 451,
+    "question": "What is David J. Brown's occupation?",
+    "answer": "computer scientist"
+  },
+  {
+    "id": 452,
+    "question": "What is Claudio Naranjo's occupation?",
+    "answer": "psychiatrist, alienist, head-shrinker, shrinker"
+  },
+  {
+    "id": 453,
+    "question": "What is Eric Flynn's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 454,
+    "question": "What is Honor Harger's occupation?",
+    "answer": "curator, museum curator, keeper"
+  },
+  {
+    "id": 455,
+    "question": "What is Clement Baker's occupation?",
+    "answer": "politician, political leader, political figure, polit., pol"
+  },
+  {
+    "id": 456,
+    "question": "What is Alleppey Vincent's occupation?",
+    "answer": "actor, actress, actors, actresses"
+  },
+  {
+    "id": 457,
+    "question": "What is Mike Flanagan's occupation?",
+    "answer": "screenwriter, scenarist, writer, screen writer, script writer, scriptwriter"
+  },
+  {
+    "id": 458,
+    "question": "In what city was Belarmino Mario Chipongue born?",
+    "answer": "Lubango"
+  },
+  {
+    "id": 459,
+    "question": "In what city was Antoine Richard born?",
+    "answer": "Fontainebleau, Fontaine-la-Montagne, Fontaine-le-Vallon"
+  },
+  {
+    "id": 460,
+    "question": "In what city was Sigrid D. Peyerimhoff born?",
+    "answer": "Rottweil"
+  },
+  {
+    "id": 461,
+    "question": "In what city was Charles Hammock born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 462,
+    "question": "In what city was Izhar Elias born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 463,
+    "question": "In what city was Karim Abdel Aziz born?",
+    "answer": "Cairo, Cairo, Egypt"
+  },
+  {
+    "id": 464,
+    "question": "In what city was Petru Stoianov born?",
+    "answer": "Vinga"
+  },
+  {
+    "id": 465,
+    "question": "In what city was Rafael Reyes born?",
+    "answer": "Cotija de la Paz, Cotija, Cotija de la Paz"
+  },
+  {
+    "id": 466,
+    "question": "In what city was Raju Kaji Shakya born?",
+    "answer": "Dharan"
+  },
+  {
+    "id": 467,
+    "question": "In what city was Lance Hooper born?",
+    "answer": "Palmdale, Palmdale, California"
+  },
+  {
+    "id": 468,
+    "question": "In what city was Jerrold Katz born?",
+    "answer": "Washington, D.C., Washington, Washington DC, Washington, DC, DC, D.C., District of Columbia, Washington, District of Columbia, Washington D.C., The District"
+  },
+  {
+    "id": 469,
+    "question": "In what city was Roger McCardell born?",
+    "answer": "Baltimore County, County of Maryland, Baltimore County, Maryland"
+  },
+  {
+    "id": 470,
+    "question": "In what city was Alastair Heathcote born?",
+    "answer": "Athens"
+  },
+  {
+    "id": 471,
+    "question": "In what city was Antonio Calcagni born?",
+    "answer": "Recanati"
+  },
+  {
+    "id": 472,
+    "question": "In what city was William Marshall Craig born?",
+    "answer": "Manchester, Manchester, England"
+  },
+  {
+    "id": 473,
+    "question": "In what city was Philipp Crone born?",
+    "answer": "Cologne, Köln, Kreisfreie Stadt Köln, Cologne, Germany, Cologne (Germany)"
+  },
+  {
+    "id": 474,
+    "question": "In what city was I.P. Paul born?",
+    "answer": "Thrissur, Thrichur, Thrissivaperur"
+  },
+  {
+    "id": 475,
+    "question": "In what city was Danie Mellor born?",
+    "answer": "Mackay, Mackay, Queensland, Mackay, Queensland, Australia"
+  },
+  {
+    "id": 476,
+    "question": "In what city was Constantine of Kostenets born?",
+    "answer": "Kostenets"
+  },
+  {
+    "id": 477,
+    "question": "In what city was Endre Bálint born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 478,
+    "question": "In what city was Aleksandr Nekrasov born?",
+    "answer": "Moscow, Moskva, Moscow, Russia, Moskva Federal City, Russia, Moscow, USSR, Moskva, Russia, City of Moscow, Moscow, Russian Federation, Moscow, Soviet Union, Moscow, Russian SFSR, Muscovite, Moscovite"
+  },
+  {
+    "id": 479,
+    "question": "In what city was Charles Joseph Bonaparte born?",
+    "answer": "Baltimore, Baltimore, Maryland, City of Baltimore, Baltimore City, Charm City, B more"
+  },
+  {
+    "id": 480,
+    "question": "In what city was Shahrzad Sepanlou born?",
+    "answer": "Tehran, Teheran"
+  },
+  {
+    "id": 481,
+    "question": "In what city was Louis François Antoine Arbogast born?",
+    "answer": "Mutzig"
+  },
+  {
+    "id": 482,
+    "question": "In what city was Maria Wetterstrand born?",
+    "answer": "Eskilstuna"
+  },
+  {
+    "id": 483,
+    "question": "In what city was Austin Cuvillier born?",
+    "answer": "Quebec City, Quebec, Ville de Québec, Québec, City of Québec, City of Quebec, Ville de Quebec, 3rd Summit of the Americas"
+  },
+  {
+    "id": 484,
+    "question": "In what city was Eduard Bargheer born?",
+    "answer": "Finkenwerder"
+  },
+  {
+    "id": 485,
+    "question": "In what city was Neophyte of Bulgaria born?",
+    "answer": "Sofia, Serdica, Sredez, Sofija, Sredets"
+  },
+  {
+    "id": 486,
+    "question": "In what city was Andrian Mardiansyah born?",
+    "answer": "Indonesia, Republic of Indonesia, id, ID, INA, IDN"
+  },
+  {
+    "id": 487,
+    "question": "In what city was Bert Myers born?",
+    "answer": "Frederick, Frederick, Maryland, Frederick, MD"
+  },
+  {
+    "id": 488,
+    "question": "In what city was Scott Fraser born?",
+    "answer": "Edinburgh, Edinburg, Edinburgh, Scotland, City of Edinburgh, Edina, Modern Athens"
+  },
+  {
+    "id": 489,
+    "question": "In what city was Dakota Collins born?",
+    "answer": "Santa Barbara, Santa Barbara, California"
+  },
+  {
+    "id": 490,
+    "question": "In what city was Giuseppe Castelli born?",
+    "answer": "Milan, Milano, Milan, Italy, Milano, Italy, Milano, Italia, Mailand, Milan Records"
+  },
+  {
+    "id": 491,
+    "question": "In what city was Johann Christian Brand born?",
+    "answer": "Vienna, Wien, Vienna, Austria, W"
+  },
+  {
+    "id": 492,
+    "question": "In what city was Jacob Duck born?",
+    "answer": "Utrecht, Utreg, Utrecht (city)"
+  },
+  {
+    "id": 493,
+    "question": "In what city was Darley Waddilove born?",
+    "answer": "Boroughbridge, Boroughbridge, North Yorkshire, Boroughbridge, West Riding of Yorkshire, Boroughbridge, Yorkshire"
+  },
+  {
+    "id": 494,
+    "question": "In what city was Harold Reetz born?",
+    "answer": "Watseka, Watseka, Illinois"
+  },
+  {
+    "id": 495,
+    "question": "In what city was Parnelli Jones born?",
+    "answer": "Texarkana, Texarkana, Arkansas"
+  },
+  {
+    "id": 496,
+    "question": "In what city was Fernand Cornez born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 497,
+    "question": "In what city was Volodymyr O. Kravets born?",
+    "answer": "Cherkasy Oblast, Cherkas'ka oblast', Cherkashchyna"
+  },
+  {
+    "id": 498,
+    "question": "In what city was Jack Culcay-Keth born?",
+    "answer": "Ambato, Juan Bautista de Ambato, San Juan de Ambato, San Juan Bautista de Ambato"
+  },
+  {
+    "id": 499,
+    "question": "In what city was Yinka Ayenuwa born?",
+    "answer": "Warri"
+  },
+  {
+    "id": 500,
+    "question": "In what city was Chris Brown born?",
+    "answer": "Tappahannock, Tappahannock, Virginia"
+  },
+  {
+    "id": 501,
+    "question": "In what city was Phil Williams born?",
+    "answer": "Birkenhead"
+  },
+  {
+    "id": 502,
+    "question": "In what city was Samantha James born?",
+    "answer": "Los Angeles, Los Angeles, California, Pink City, The town of Our Lady the Queen of the Angels of the Little Portion, La La Land, Tinsel Town, City of Angels, City of Los Angeles, LA, California, L.A., LA, Double Dubuque, Los Ángeles, Los Angeles, CA"
+  },
+  {
+    "id": 503,
+    "question": "In what city was Jack Kachkar born?",
+    "answer": "Damascus, Sham city, Jasmine city"
+  },
+  {
+    "id": 504,
+    "question": "In what city was Gustavo Grondona born?",
+    "answer": "Buenos Aires, Buenos Ayres, Autonomous City of Buenos Aires, CABA, Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "id": 505,
+    "question": "In what city was Bob Geddins born?",
+    "answer": "Texas, TX, Lone Star State, Texas, United States, State of Texas, US-TX, Tex."
+  },
+  {
+    "id": 506,
+    "question": "In what city was Ferenc Paragi born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 507,
+    "question": "In what city was Bastien Lecouffe-Deharme born?",
+    "answer": "Vannes, Cité des Vénètes, Gwened"
+  },
+  {
+    "id": 508,
+    "question": "In what city was Brent Maddock born?",
+    "answer": "United States of America, the United States of America, America, U.S.A., USA, U.S., US, the US, the USA, US of A, the United States, U. S. A., U. S., the States, the U.S., 'Merica, U.S, United States, 'Murica"
+  },
+  {
+    "id": 509,
+    "question": "In what city was Betty Francisco born?",
+    "answer": "Little Rock, Little Rock, Arkansas, Little Rock, AR, Little Rock, Ark., the Little Rock"
+  },
+  {
+    "id": 510,
+    "question": "In what city was Hans-Jörg Voigt born?",
+    "answer": "Dresden, Elbflorenz, Drezda"
+  },
+  {
+    "id": 511,
+    "question": "In what city was Charlie Davis born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 512,
+    "question": "In what city was V. S. Srinivasa Sastri born?",
+    "answer": "Valangaiman"
+  },
+  {
+    "id": 513,
+    "question": "In what city was Yuriy Vernydub born?",
+    "answer": "Zhytomyr, Zhitomir, Žytómyr, Žitómir, Żytomierz, Žitomir"
+  },
+  {
+    "id": 514,
+    "question": "In what city was Marnus Labuschagne born?",
+    "answer": "Klerksdorp"
+  },
+  {
+    "id": 515,
+    "question": "In what city was Leslie Douglas Jackson born?",
+    "answer": "Brisbane, Brisbane, Queensland"
+  },
+  {
+    "id": 516,
+    "question": "In what city was Ricardo Maliandi born?",
+    "answer": "La Plata"
+  },
+  {
+    "id": 517,
+    "question": "In what city was Alfred Jefferis Turner born?",
+    "answer": "Guangzhou, Canton, Kwangchow, Kwongchow"
+  },
+  {
+    "id": 518,
+    "question": "In what city was Ernest Willows born?",
+    "answer": "Cardiff, Caerdydd, Cardiff, Wales"
+  },
+  {
+    "id": 519,
+    "question": "In what city was Afonso II of Portugal born?",
+    "answer": "Coimbra, Coimbra Municipality"
+  },
+  {
+    "id": 520,
+    "question": "In what city was Derek Lamb born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 521,
+    "question": "In what city was Andranik Migranyan born?",
+    "answer": "Yerevan, Erivan, Erevan, The Pink City, Irevan, Iravan"
+  },
+  {
+    "id": 522,
+    "question": "In what city was Runa Akiyama born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 523,
+    "question": "In what city was Annika Billstam born?",
+    "answer": "Uppsala, Upsala"
+  },
+  {
+    "id": 524,
+    "question": "In what city was Suad Nasr born?",
+    "answer": "Cairo, Cairo, Egypt"
+  },
+  {
+    "id": 525,
+    "question": "In what city was Jason Bourque born?",
+    "answer": "Vancouver, City of Vancouver, Vancouver, BC, Vancouver, British Columbia"
+  },
+  {
+    "id": 526,
+    "question": "In what city was Kurt Baschwitz born?",
+    "answer": "Offenburg, Imperial City of Offenburg"
+  },
+  {
+    "id": 527,
+    "question": "In what city was Camillo Benso di Cavour born?",
+    "answer": "Turin, Torino, Turin, Italy"
+  },
+  {
+    "id": 528,
+    "question": "In what city was Beniamino Di Giacomo born?",
+    "answer": "Porto Recanati"
+  },
+  {
+    "id": 529,
+    "question": "In what city was Tim Alexander born?",
+    "answer": "Chertsey, Chertsey, Surrey"
+  },
+  {
+    "id": 530,
+    "question": "In what city was Léopold Robert born?",
+    "answer": "La Chaux-de-Fonds, La Chaux-de-Fonds NE, Chaux-de-Fonds, La Chaux de Fonds, La Chaux-de-Fonds (Switzerland)"
+  },
+  {
+    "id": 531,
+    "question": "In what city was Eric Defoort born?",
+    "answer": "Ypres, leper"
+  },
+  {
+    "id": 532,
+    "question": "In what city was Reinaldo Dalcin born?",
+    "answer": "Canoas"
+  },
+  {
+    "id": 533,
+    "question": "In what city was Wang Yaping born?",
+    "answer": "Yantai, Chefoo, Zhifu, Chi-Fu"
+  },
+  {
+    "id": 534,
+    "question": "In what city was Bob Cremins born?",
+    "answer": "Pelham Manor, Pelham Manor, New York"
+  },
+  {
+    "id": 535,
+    "question": "In what city was Léon-Lévy Brunswick born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 536,
+    "question": "In what city was David Oppenheim born?",
+    "answer": "Calabasas, Calabasas, California"
+  },
+  {
+    "id": 537,
+    "question": "In what city was Juan Luis Guerra born?",
+    "answer": "Santo Domingo, Santo Domingo, Dominican Republic, Santo Domingo de Guzman, Santo Domingo de Guzmán"
+  },
+  {
+    "id": 538,
+    "question": "In what city was Luis Reece born?",
+    "answer": "Taunton"
+  },
+  {
+    "id": 539,
+    "question": "In what city was Jaswant Singh of Marwar born?",
+    "answer": "Jodhpur"
+  },
+  {
+    "id": 540,
+    "question": "In what city was Eduardo Gudiño Kieffer born?",
+    "answer": "Esperanza, Esperanza, Santa Fe"
+  },
+  {
+    "id": 541,
+    "question": "In what city was Greg Windsperger born?",
+    "answer": "Minneapolis, Minneapolis, Minnesota, Minneapolis, MN, the 612"
+  },
+  {
+    "id": 542,
+    "question": "In what city was Nelson Vargas born?",
+    "answer": "Holyoke, The Paper City, The Venice of America, The Birthplace of Volleyball, The Chicago of Massachusetts, Holyoke, Massachusetts"
+  },
+  {
+    "id": 543,
+    "question": "In what city was Matt Moralee born?",
+    "answer": "Newcastle upon Tyne, Newcastle, Newcastle-on-Tyne, Newcastle upon Tyne (parish), Newcastle-upon-Tyne"
+  },
+  {
+    "id": 544,
+    "question": "In what city was Petar Stambolić born?",
+    "answer": "Ivanjica"
+  },
+  {
+    "id": 545,
+    "question": "In what city was Josephus Nicolaus Laurenti born?",
+    "answer": "Vienna, Wien, Vienna, Austria, W"
+  },
+  {
+    "id": 546,
+    "question": "In what city was Mike Gregory born?",
+    "answer": "Bath, Bath, Somerset, City of Bath"
+  },
+  {
+    "id": 547,
+    "question": "In what city was Jorge Betancourt born?",
+    "answer": "Matanzas, Matanza"
+  },
+  {
+    "id": 548,
+    "question": "In what city was Neil Robinson born?",
+    "answer": "Walton, Walton-on-the-Hill, Walton, Liverpool"
+  },
+  {
+    "id": 549,
+    "question": "In what city was Paul Humphries born?",
+    "answer": "Bromsgrove"
+  },
+  {
+    "id": 550,
+    "question": "In what city was Barbara Engel born?",
+    "answer": "Hamburg, Free and Hanseatic City of Hamburg, Hamburg, Germany, Hamburg, Freie und Hansestadt"
+  },
+  {
+    "id": 551,
+    "question": "In what city was Quorey Payne born?",
+    "answer": "Clewiston, Clewiston, Florida"
+  },
+  {
+    "id": 552,
+    "question": "In what city was Lloyd Ultan born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 553,
+    "question": "In what city was Joseph Bova born?",
+    "answer": "Cleveland, Cleveland, Ohio, Cleveland, OH"
+  },
+  {
+    "id": 554,
+    "question": "In what city was Oi Va Voi born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 555,
+    "question": "In what city was Elena Romagnolo born?",
+    "answer": "Borgosesia"
+  },
+  {
+    "id": 556,
+    "question": "In what city was Dominique, comte de Cassini born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 557,
+    "question": "In what city was Joris Delle born?",
+    "answer": "Briey"
+  },
+  {
+    "id": 558,
+    "question": "In what city was Stone born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 559,
+    "question": "In what city was Margaret, Countess of Pembroke born?",
+    "answer": "Windsor Castle"
+  },
+  {
+    "id": 560,
+    "question": "In what city was Ferdinand Elle born?",
+    "answer": "Mechelen, Mechlin, Malines"
+  },
+  {
+    "id": 561,
+    "question": "In what city was Maarten van Severen born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 562,
+    "question": "In what city was Refet Bele born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 563,
+    "question": "In what city was Zijah Sokolović born?",
+    "answer": "Sarajevo, City of Sarajevo"
+  },
+  {
+    "id": 564,
+    "question": "In what city was Rahi Masoom Raza born?",
+    "answer": "Ghazipur, Ghazeepore, Gauspur, Ghazipour, Gadjipur, Ghazipoor, Gazipoor"
+  },
+  {
+    "id": 565,
+    "question": "In what city was Bob Warlick born?",
+    "answer": "Hickory, Hickory, North Carolina"
+  },
+  {
+    "id": 566,
+    "question": "In what city was Dick Leonard born?",
+    "answer": "Romford"
+  },
+  {
+    "id": 567,
+    "question": "In what city was Clarence Beck born?",
+    "answer": "Harrisburg, Capital of Pennsylvania, Harrisburg, Pennsylvania"
+  },
+  {
+    "id": 568,
+    "question": "In what city was Aloïs Boudry born?",
+    "answer": "Ypres, leper"
+  },
+  {
+    "id": 569,
+    "question": "In what city was Tony Shields born?",
+    "answer": "Strabane, Straban, An Srath Bán, An Srath Ban"
+  },
+  {
+    "id": 570,
+    "question": "In what city was Hendrik Gerritsz Pot born?",
+    "answer": "Haarlem, Haarlem, North Holland, Haerlem"
+  },
+  {
+    "id": 571,
+    "question": "In what city was Amoene van Haersolte born?",
+    "answer": "Utrecht, Utreg, Utrecht (city)"
+  },
+  {
+    "id": 572,
+    "question": "In what city was Jim Baker born?",
+    "answer": "Ilkeston"
+  },
+  {
+    "id": 573,
+    "question": "In what city was Pete Larson born?",
+    "answer": "Wilmington, Wilmington, Delaware, Wilmington, DE"
+  },
+  {
+    "id": 574,
+    "question": "In what city was Valdemar III of Denmark born?",
+    "answer": "Denmark, DK, Danmark, DNK, DEK, dk, Denmark proper, metropolitan Denmark, 🇩🇰, DEN, TAN, Realm of Denmark, Kingdom of Denmark"
+  },
+  {
+    "id": 575,
+    "question": "In what city was Piotr Balcerzak born?",
+    "answer": "Warsaw, Warszawa, Varshe, Warschau, Varshava, Varšava, Varsó, Varsavia, Varsovie, Varsovia, Varšuva"
+  },
+  {
+    "id": 576,
+    "question": "In what city was Koudai Tsukakoshi born?",
+    "answer": "Tochigi Prefecture"
+  },
+  {
+    "id": 577,
+    "question": "In what city was John Edgerton born?",
+    "answer": "Johnston County, Johnston County, North Carolina"
+  },
+  {
+    "id": 578,
+    "question": "In what city was Jerry Best born?",
+    "answer": "Queens, Queens, New York City, Queens, New York"
+  },
+  {
+    "id": 579,
+    "question": "In what city was Jim born?",
+    "answer": "Arizona Territory"
+  },
+  {
+    "id": 580,
+    "question": "In what city was Barbu Ștefănescu Delavrancea born?",
+    "answer": "Bucharest, Little Paris, Paris of the East, București, Bucureşti, Bucuresti, Буцуреșти"
+  },
+  {
+    "id": 581,
+    "question": "In what city was Michael Woolston Ash born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 582,
+    "question": "In what city was Gustavo A. Madero born?",
+    "answer": "Parras de la Fuente, Parras"
+  },
+  {
+    "id": 583,
+    "question": "In what city was Andrea di Alessandro born?",
+    "answer": "Brescia, Lioness of Italy"
+  },
+  {
+    "id": 584,
+    "question": "In what city was Alison Cockburn born?",
+    "answer": "Selkirkshire, County of Selkirk"
+  },
+  {
+    "id": 585,
+    "question": "In what city was Karl Wilhelm Rosenmund born?",
+    "answer": "Berlin, Berlin, Germany, Berlin (Germany), DE-BE"
+  },
+  {
+    "id": 586,
+    "question": "In what city was Francisco Maldonado born?",
+    "answer": "Salamanca"
+  },
+  {
+    "id": 587,
+    "question": "In what city was Gilbert Bodart born?",
+    "answer": "Seraing"
+  },
+  {
+    "id": 588,
+    "question": "In what city was Roy A. Roberts born?",
+    "answer": "Muscotah, Muscotah, Kansas"
+  },
+  {
+    "id": 589,
+    "question": "In what city was Edu Nandlal born?",
+    "answer": "Paramaribo"
+  },
+  {
+    "id": 590,
+    "question": "In what city was Gregorio Selser born?",
+    "answer": "Buenos Aires, Buenos Ayres, Autonomous City of Buenos Aires, CABA, Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "id": 591,
+    "question": "In what city was Donald De Lue born?",
+    "answer": "Boston, Beantown, The Cradle of Liberty, The Hub, The Cradle of Modern America, The Athens of America, The Walking City, The Hub of the Universe, Bostonia, Boston, Massachusetts, Boston, MA, Boston, Mass., Puritan City"
+  },
+  {
+    "id": 592,
+    "question": "In what city was Ramón Luis Valcárcel Siso born?",
+    "answer": "Murcia"
+  },
+  {
+    "id": 593,
+    "question": "In what city was Anne Brusletto born?",
+    "answer": "Geilo"
+  },
+  {
+    "id": 594,
+    "question": "In what city was Tameem Al-Kubati born?",
+    "answer": "Sanaa, Sanaa, Sana, Ṣan‘ā’, Sana‘a, Amanat Al-Asemah, Amanat al-Asimah, Amanat Al Asimah"
+  },
+  {
+    "id": 595,
+    "question": "In what city was August Brand born?",
+    "answer": "Berlin, Berlin, Germany, Berlin (Germany), DE-BE"
+  },
+  {
+    "id": 596,
+    "question": "In what city was Arthur Thomson born?",
+    "answer": "Edinburgh, Edinburg, Edinburgh, Scotland, City of Edinburgh, Edina, Modern Athens"
+  },
+  {
+    "id": 597,
+    "question": "In what city was Miloš Žeravica born?",
+    "answer": "Zrenjanin, Bečkerek"
+  },
+  {
+    "id": 598,
+    "question": "In what city was Mohammad Esfahani born?",
+    "answer": "Tehran, Teheran"
+  },
+  {
+    "id": 599,
+    "question": "In what city was Brandon Bays born?",
+    "answer": "United States of America, the United States of America, America, U.S.A., USA, U.S., US, the US, the USA, US of A, the United States, U. S. A., U. S., the States, the U.S., 'Merica, U.S, United States, 'Murica"
+  },
+  {
+    "id": 600,
+    "question": "In what city was Aina Kusuda born?",
+    "answer": "Chiba Prefecture"
+  },
+  {
+    "id": 601,
+    "question": "In what city was Batman born?",
+    "answer": "Gotham City, Gotham"
+  },
+  {
+    "id": 602,
+    "question": "In what city was Lisa Miller born?",
+    "answer": "United States of America, the United States of America, America, U.S.A., USA, U.S., US, the US, the USA, US of A, the United States, U. S. A., U. S., the States, the U.S., 'Merica, U.S, United States, 'Murica"
+  },
+  {
+    "id": 603,
+    "question": "In what city was Giovanni Speranza born?",
+    "answer": "Gießen, Giessen"
+  },
+  {
+    "id": 604,
+    "question": "In what city was William Collins born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 605,
+    "question": "In what city was Veselin Vujović born?",
+    "answer": "Cetinje"
+  },
+  {
+    "id": 606,
+    "question": "In what city was Vitaly Arkhangelsky born?",
+    "answer": "Almaty, Алматы, Almatı, Alma-Ata, City of Almaty"
+  },
+  {
+    "id": 607,
+    "question": "In what city was Anton Lui born?",
+    "answer": "Rabaul"
+  },
+  {
+    "id": 608,
+    "question": "In what city was Paul Walker born?",
+    "answer": "Kilwinning, The Crossroads of Ayrshire"
+  },
+  {
+    "id": 609,
+    "question": "In what city was Doug McCombs born?",
+    "answer": "Peoria, Peoria, Illinois, Peoria IL"
+  },
+  {
+    "id": 610,
+    "question": "In what city was Ed Sullivan born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 611,
+    "question": "In what city was Margaret Coit born?",
+    "answer": "Norwich, Norwich, Connecticut"
+  },
+  {
+    "id": 612,
+    "question": "In what city was Serhiy Zayets born?",
+    "answer": "Berdychiv, Berdichev, Barditchev, Berdyczów, Berdyczow, Berdicev, Berditchev, Berditchov, Berditschew, Berdytschiw, Berdyciv, Berdychiv (Ukraine)"
+  },
+  {
+    "id": 613,
+    "question": "In what city was Belly born?",
+    "answer": "Jenin"
+  },
+  {
+    "id": 614,
+    "question": "In what city was William Anderson born?",
+    "answer": "Scotland, Alba, Scotland, United Kingdom, SCT, Caledonia, Scot"
+  },
+  {
+    "id": 615,
+    "question": "In what city was Thomas D. Schall born?",
+    "answer": "Reed City, Reed City, Michigan"
+  },
+  {
+    "id": 616,
+    "question": "In what city was Johann Heinrich Roos born?",
+    "answer": "Otterberg"
+  },
+  {
+    "id": 617,
+    "question": "In what city was Kristian Outinen born?",
+    "answer": "Copenhagen, København, CPH, Köpenhamn, Kööpenhamina, Kopenhagen, Kobenhavn, Köbenhavn, Hafnia, Hafn, Havn"
+  },
+  {
+    "id": 618,
+    "question": "In what city was Matthijs Dulken born?",
+    "answer": "Roermond, Remunj"
+  },
+  {
+    "id": 619,
+    "question": "In what city was Dee born?",
+    "answer": "Montreal, Montréal, City of Montreal, Montreal, Quebec, Ville de Montréal, Ville de Montreal"
+  },
+  {
+    "id": 620,
+    "question": "In what city was Antigoni Goni born?",
+    "answer": "Athens"
+  },
+  {
+    "id": 621,
+    "question": "In what city was Sebastian Hofmann born?",
+    "answer": "Sinsheim"
+  },
+  {
+    "id": 622,
+    "question": "In what city was Emil Marschalk von Ostheim born?",
+    "answer": "Bamberg, Town of Bamberg"
+  },
+  {
+    "id": 623,
+    "question": "In what city was Şeref Has born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 624,
+    "question": "In what city was Kalevi Kull born?",
+    "answer": "Tartu, Dorpat, Dörpt, Derpt, Tarbatu, Jurjev, Tartto, Tartus"
+  },
+  {
+    "id": 625,
+    "question": "In what city was Esau Tjiuoro born?",
+    "answer": "Okakarara"
+  },
+  {
+    "id": 626,
+    "question": "In what city was Gerard Thomas born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 627,
+    "question": "In what city was Ricardo Sánchez born?",
+    "answer": "Guadalajara, Guadalajara, Jalisco, Guadalajara, Jalisco, Mexico, Guadalajara, Mexico, Guadalajara, México"
+  },
+  {
+    "id": 628,
+    "question": "In what city was Leena Peisa born?",
+    "answer": "Vantaa, Vanda, Helsingin maalaiskunta, Helsinge kommun, Helsinge, Helsingin pitäjä"
+  },
+  {
+    "id": 629,
+    "question": "In what city was Robert Kraft born?",
+    "answer": "Brookline, Brookline, Massachusetts"
+  },
+  {
+    "id": 630,
+    "question": "In what city was Germaine Aussey born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 631,
+    "question": "In what city was Bruno Nöckler born?",
+    "answer": "Prettau, Predoi"
+  },
+  {
+    "id": 632,
+    "question": "In what city was Gloria Porras Valles born?",
+    "answer": "Baja California Sur, South Lower California, Free and Sovereign State of Baja California Sur, South Territory of Baja California, MX-BCS, BCS, MX03, Estado de Baja California Sur"
+  },
+  {
+    "id": 633,
+    "question": "In what city was Harvey born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 634,
+    "question": "In what city was Glover Morrill Allen born?",
+    "answer": "Walpole, Walpole, New Hampshire, Walpole N.H., Walpole NH"
+  },
+  {
+    "id": 635,
+    "question": "In what city was Annie Oakley born?",
+    "answer": "Darke County, Darke County, Ohio"
+  },
+  {
+    "id": 636,
+    "question": "In what city was Gabriella Di Laccio born?",
+    "answer": "Porto Alegre"
+  },
+  {
+    "id": 637,
+    "question": "In what city was Moses the Black born?",
+    "answer": "Egypt, Republic of Egypt, eg, EGY, 🇪🇬, Arab Republic of Egypt, Arab Rep. Egypt, Rep. Egypt"
+  },
+  {
+    "id": 638,
+    "question": "In what city was Claudio Costamagna born?",
+    "answer": "Milan, Milano, Milan, Italy, Milano, Italy, Milano, Italia, Mailand, Milan Records"
+  },
+  {
+    "id": 639,
+    "question": "In what city was Andries Bonger born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 640,
+    "question": "In what city was Lois Bancroft Long born?",
+    "answer": "Stamford, Stamford, Connecticut"
+  },
+  {
+    "id": 641,
+    "question": "In what city was Edward Drinker Cope born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 642,
+    "question": "In what city was Robert B. Scarborough born?",
+    "answer": "Chesterfield, Chesterfield, South Carolina, Chesterfield, SC"
+  },
+  {
+    "id": 643,
+    "question": "In what city was Manon born?",
+    "answer": "Bern, Berne, city of Bern, Berna"
+  },
+  {
+    "id": 644,
+    "question": "In what city was Liz born?",
+    "answer": "Tarzana, Tarzana, Los Angeles, Tarzana, California"
+  },
+  {
+    "id": 645,
+    "question": "In what city was Dilson Torres born?",
+    "answer": "Maracay"
+  },
+  {
+    "id": 646,
+    "question": "In what city was Ray Strauss born?",
+    "answer": "Perth, Perth, Western Australia, Perth, Australia, Perth, W.A."
+  },
+  {
+    "id": 647,
+    "question": "In what city was Charles Hyder born?",
+    "answer": "Albuquerque, Albuquerque, New Mexico, ABQ, Albuquerque, NM, Albiuquerque, NM, The Duke City, Burque, La Villa de Alburquerque"
+  },
+  {
+    "id": 648,
+    "question": "In what city was Mark Holzemer born?",
+    "answer": "Littleton, LIttleton, Colorado, Littleton, Colorado"
+  },
+  {
+    "id": 649,
+    "question": "In what city was Doug Gwosdz born?",
+    "answer": "Houston, Houston, Texas, Space City, H-Town, City of Houston, USHOU, Houston, TX"
+  },
+  {
+    "id": 650,
+    "question": "In what city was Hieronymous Francken I born?",
+    "answer": "Herentals"
+  },
+  {
+    "id": 651,
+    "question": "In what city was Robert Zawada born?",
+    "answer": "Jedlnia-Letnisko"
+  },
+  {
+    "id": 652,
+    "question": "In what city was Vera Dua born?",
+    "answer": "Ghent, Gent, Gand"
+  },
+  {
+    "id": 653,
+    "question": "In what city was John A. Shaud born?",
+    "answer": "Cleveland, Cleveland, Ohio, Cleveland, OH"
+  },
+  {
+    "id": 654,
+    "question": "In what city was Gianni Lonzi born?",
+    "answer": "Florence, Firenze, Florence, Italy, Florence, Tuscany, Florencia, Florentia, Florenz, Firenca, Florencie, Fiuränza, Florentzia, Firense, Firenz, Firenzi"
+  },
+  {
+    "id": 655,
+    "question": "In what city was Maksim Andreyevich Fyodorov born?",
+    "answer": "Rasskazovo"
+  },
+  {
+    "id": 656,
+    "question": "In what city was Paris born?",
+    "answer": "San Francisco, San Francisco, California, The City by the Bay, SF, SFO, The Golden City, Paris of the West, Baghdad by the Bay, San Francisco County, San Francisco County, California, San Fran, Frisco, City and County of San Francisco"
+  },
+  {
+    "id": 657,
+    "question": "In what city was Bruce Collie born?",
+    "answer": "Nuremberg, Nürnberg, Kreisfreie Stadt Nürnberg, Nüremberg"
+  },
+  {
+    "id": 658,
+    "question": "In what city was Joseph Urban born?",
+    "answer": "Vienna, Wien, Vienna, Austria, W"
+  },
+  {
+    "id": 659,
+    "question": "In what city was Peter Philpott born?",
+    "answer": "Manly, Manly, New South Wales, Manly, New South Wales, Australia"
+  },
+  {
+    "id": 660,
+    "question": "In what city was Martyn Liadov born?",
+    "answer": "Moscow, Moskva, Moscow, Russia, Moskva Federal City, Russia, Moscow, USSR, Moskva, Russia, City of Moscow, Moscow, Russian Federation, Moscow, Soviet Union, Moscow, Russian SFSR, Muscovite, Moscovite"
+  },
+  {
+    "id": 661,
+    "question": "In what city was Scott McCuaig born?",
+    "answer": "Surrey, Surrey, British Columbia"
+  },
+  {
+    "id": 662,
+    "question": "In what city was K. M. Beenamol born?",
+    "answer": "Kerala, Keralam, IN-KL, God's Own Country, Land of coconuts"
+  },
+  {
+    "id": 663,
+    "question": "In what city was Paul Singer born?",
+    "answer": "Berlin, Berlin, Germany, Berlin (Germany), DE-BE"
+  },
+  {
+    "id": 664,
+    "question": "In what city was Nikolai Kinski born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 665,
+    "question": "In what city was Athīr al-Dīn al-Abharī born?",
+    "answer": "Abhar"
+  },
+  {
+    "id": 666,
+    "question": "In what city was Otto Renner born?",
+    "answer": "Neu-Ulm"
+  },
+  {
+    "id": 667,
+    "question": "In what city was Louis-Arsène Lavallée born?",
+    "answer": "Berthierville"
+  },
+  {
+    "id": 668,
+    "question": "In what city was Róbert Fazekas born?",
+    "answer": "Szombathely, Steinamanger"
+  },
+  {
+    "id": 669,
+    "question": "In what city was Clemente Isnard born?",
+    "answer": "Rio de Janeiro, Rio, Rio de Janeiro city, Río, Río de Janeiro"
+  },
+  {
+    "id": 670,
+    "question": "In what city was Dale Polley born?",
+    "answer": "Georgetown, Georgetown, KY, Georgetown, Kentucky"
+  },
+  {
+    "id": 671,
+    "question": "In what city was Gerd Arntz born?",
+    "answer": "Remscheid, Kreisfreie Stadt Remscheid"
+  },
+  {
+    "id": 672,
+    "question": "In what city was Robert Crannell Minor born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 673,
+    "question": "In what city was Walter Gay born?",
+    "answer": "Boston, Beantown, The Cradle of Liberty, The Hub, The Cradle of Modern America, The Athens of America, The Walking City, The Hub of the Universe, Bostonia, Boston, Massachusetts, Boston, MA, Boston, Mass., Puritan City"
+  },
+  {
+    "id": 674,
+    "question": "In what city was Izumi Iimura born?",
+    "answer": "Japan, State of Japan, Land of the Rising Sun, Nihon, Nippon, JP, Nippon-koku, Nihon-koku, JA, JPN, jp, JAP, Ja, Jap"
+  },
+  {
+    "id": 675,
+    "question": "In what city was Pierre Charette born?",
+    "answer": "Masson-Angers"
+  },
+  {
+    "id": 676,
+    "question": "In what city was Jean Arp born?",
+    "answer": "Strasbourg, Straßburg, Strassburg, Schdroosburi, Strossburi, Strossburig, Strosburi"
+  },
+  {
+    "id": 677,
+    "question": "In what city was Edgar Manas born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 678,
+    "question": "In what city was Reinhard Jirgl born?",
+    "answer": "East Berlin, Soviet zone of Berlin, Berlin-Ost, Ostberlin, Soviet sector of Berlin, Berlin, Hauptstadt der DDR, Berlin Hauptstadt der DDR"
+  },
+  {
+    "id": 679,
+    "question": "In what city was Paul Brill born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 680,
+    "question": "In what city was Simon Callery born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 681,
+    "question": "In what city was Aleksandar Madžar born?",
+    "answer": "Bar, Tivar, Tivari, Antivari, Antibari, Stari Bar"
+  },
+  {
+    "id": 682,
+    "question": "In what city was Roland Wieser born?",
+    "answer": "Zschopau"
+  },
+  {
+    "id": 683,
+    "question": "In what city was Tony Clark born?",
+    "answer": "Newton, Newton, Kansas"
+  },
+  {
+    "id": 684,
+    "question": "In what city was Víctor Rabú born?",
+    "answer": "Agen"
+  },
+  {
+    "id": 685,
+    "question": "In what city was Doc Parker born?",
+    "answer": "Theresa, Theresa, New York"
+  },
+  {
+    "id": 686,
+    "question": "In what city was Giovanni Stefano Marucelli born?",
+    "answer": "Florence, Firenze, Florence, Italy, Florence, Tuscany, Florencia, Florentia, Florenz, Firenca, Florencie, Fiuränza, Florentzia, Firense, Firenz, Firenzi"
+  },
+  {
+    "id": 687,
+    "question": "In what city was Willem van Herp born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 688,
+    "question": "In what city was Matt Hamilton born?",
+    "answer": "Hemel Hempstead, Hemel"
+  },
+  {
+    "id": 689,
+    "question": "In what city was William Perry Hay born?",
+    "answer": "Eureka, Eureka, Illinois"
+  },
+  {
+    "id": 690,
+    "question": "In what city was Kirk O'Bee born?",
+    "answer": "Ada Township, Ada"
+  },
+  {
+    "id": 691,
+    "question": "In what city was Offer Nissim born?",
+    "answer": "Tel Aviv, Tel Aviv-Yafo, Tel-Aviv, Tel Aviv City, Tel Aviv-Jaffa, Tel-aviv, Tel aviv, Tel-Aviv Jaffa, Tel Aviv Jaffa, Tel Aviv-Jafo, Tel Aviv, Israel, TLV"
+  },
+  {
+    "id": 692,
+    "question": "In what city was Joachim Olsen born?",
+    "answer": "Aalborg, Ålborg"
+  },
+  {
+    "id": 693,
+    "question": "In what city was Shawn Respert born?",
+    "answer": "Detroit, Motor City, Detroit, Michigan, Detroiit, Detroit, MI, The D"
+  },
+  {
+    "id": 694,
+    "question": "In what city was John Robinson born?",
+    "answer": "Mansfield, Mansfield, Ohio"
+  },
+  {
+    "id": 695,
+    "question": "In what city was Monster born?",
+    "answer": "Hsinchu, Xinzhu"
+  },
+  {
+    "id": 696,
+    "question": "In what city was Anders Orvin born?",
+    "answer": "Hattfjelldal"
+  },
+  {
+    "id": 697,
+    "question": "In what city was Nelson Faria born?",
+    "answer": "Belo Horizonte"
+  },
+  {
+    "id": 698,
+    "question": "In what city was Willem van Nieulandt II born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 699,
+    "question": "In what city was Hermann Vezin born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 700,
+    "question": "In what city was János Ferencsik born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 701,
+    "question": "In what city was Florence Marie Harsant born?",
+    "answer": "New Plymouth"
+  },
+  {
+    "id": 702,
+    "question": "In what city was Diana Estrada born?",
+    "answer": "Mexico City, Mexico D.F., Ciudad de México, City of Mexico, Mexico City, Mexico, CDMX, Mexico"
+  },
+  {
+    "id": 703,
+    "question": "In what city was Khalid bin Barghash of Zanzibar born?",
+    "answer": "Zanzibar, Menuthias"
+  },
+  {
+    "id": 704,
+    "question": "In what city was Terry Hunte born?",
+    "answer": "Saint Philip"
+  },
+  {
+    "id": 705,
+    "question": "In what city was Steve McDonald born?",
+    "answer": "Birmingham, Birmingham, England, Birmingham, West Midlands"
+  },
+  {
+    "id": 706,
+    "question": "In what city was Izaskun Zubizarreta Gerendiain born?",
+    "answer": "Oiartzun"
+  },
+  {
+    "id": 707,
+    "question": "In what city was Harry W. Kvebæk born?",
+    "answer": "Fetsund"
+  },
+  {
+    "id": 708,
+    "question": "In what city was Rose Bampton born?",
+    "answer": "Lakewood, Lakewood, Ohio"
+  },
+  {
+    "id": 709,
+    "question": "In what city was Mélonin Noumonvi born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 710,
+    "question": "In what city was Geert Brusselers born?",
+    "answer": "Eindhoven, Eindhoven, North Brabant"
+  },
+  {
+    "id": 711,
+    "question": "In what city was Emily Hood Westacott born?",
+    "answer": "Brisbane, Brisbane, Queensland"
+  },
+  {
+    "id": 712,
+    "question": "In what city was Grant Bramwell born?",
+    "answer": "Gisborne, Gisborne, New Zealand"
+  },
+  {
+    "id": 713,
+    "question": "In what city was Valentin Avrorin born?",
+    "answer": "Tambov"
+  },
+  {
+    "id": 714,
+    "question": "In what city was Giulio Bisegni born?",
+    "answer": "Frascati"
+  },
+  {
+    "id": 715,
+    "question": "In what city was Alfred Frank Hardiman born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 716,
+    "question": "In what city was Baptiste Lecaplain born?",
+    "answer": "Mortain"
+  },
+  {
+    "id": 717,
+    "question": "In what city was Matthew J. Ryan born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 718,
+    "question": "In what city was Julius Erving born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 719,
+    "question": "In what city was Billy McGinty born?",
+    "answer": "Glasgow, Glasgow, Scotland"
+  },
+  {
+    "id": 720,
+    "question": "In what city was Estevan Peléè born?",
+    "answer": "Brou-sur-Chantereine"
+  },
+  {
+    "id": 721,
+    "question": "In what city was James Keddy born?",
+    "answer": "Dublin, Dublin city, City of Dublin, Baile Átha Cliath"
+  },
+  {
+    "id": 722,
+    "question": "In what city was Erick Benzi born?",
+    "answer": "Marseille, Massaliotes, Massalia, Marsailles, Marseilles, Marsielles, Marsielle, City of Marseille, Marsaille, Marsiglia, Marseille, France, Ville-sans-Nom, Sans-Nom"
+  },
+  {
+    "id": 723,
+    "question": "In what city was Ko Wen-je born?",
+    "answer": "Hsinchu, Xinzhu"
+  },
+  {
+    "id": 724,
+    "question": "In what city was Sugar Ray Norcia born?",
+    "answer": "Stonington, Stonington, Connecticut"
+  },
+  {
+    "id": 725,
+    "question": "In what city was Zsuzsanna Németh born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 726,
+    "question": "In what city was Joel Johnson born?",
+    "answer": "Elmore, Elmore, Ohio"
+  },
+  {
+    "id": 727,
+    "question": "In what city was Dick Arndt born?",
+    "answer": "Bonners Ferry, Bonners Ferry, Idaho"
+  },
+  {
+    "id": 728,
+    "question": "In what city was Robley Dunglison Evans born?",
+    "answer": "Floyd County, Floyd County, Virginia"
+  },
+  {
+    "id": 729,
+    "question": "In what city was Ingvild Bryn born?",
+    "answer": "Voss"
+  },
+  {
+    "id": 730,
+    "question": "In what city was John Anderson born?",
+    "answer": "Warren, Warren, Michigan"
+  },
+  {
+    "id": 731,
+    "question": "In what city was Sevil Atasoy born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 732,
+    "question": "In what city was Tsugumi Higasayama born?",
+    "answer": "Saitama Prefecture, Saitama-ken"
+  },
+  {
+    "id": 733,
+    "question": "In what city was Bobby Ray Baldock born?",
+    "answer": "Rocky, Rocky, Oklahoma"
+  },
+  {
+    "id": 734,
+    "question": "In what city was Hansi Niese born?",
+    "answer": "Vienna, Wien, Vienna, Austria, W"
+  },
+  {
+    "id": 735,
+    "question": "In what city was Raimonds Vilde born?",
+    "answer": "Riga, Rīga, Ryga, Rige, Riia, Rija, Rīgõ"
+  },
+  {
+    "id": 736,
+    "question": "In what city was Mick Flynn born?",
+    "answer": "Cardiff, Caerdydd, Cardiff, Wales"
+  },
+  {
+    "id": 737,
+    "question": "In what city was Wayne Cooper born?",
+    "answer": "Milan, Milan, Georgia"
+  },
+  {
+    "id": 738,
+    "question": "In what city was Nay Myo Thant born?",
+    "answer": "Pakokku"
+  },
+  {
+    "id": 739,
+    "question": "In what city was Babyface born?",
+    "answer": "Indianapolis, Circle City, Indy, Naptown, Crossroads of America, Racing Capital of the World, Amateur Sports Capital of the World, INDPLS, Indianapolis, Indiana, India-no-place, Railroad City"
+  },
+  {
+    "id": 740,
+    "question": "In what city was Zara Turner born?",
+    "answer": "Belfast, Béal Feirste, Beal Feirste, Belfast, Ireland"
+  },
+  {
+    "id": 741,
+    "question": "In what city was Doris Bell Collier born?",
+    "answer": "Manchester, Manchester, England"
+  },
+  {
+    "id": 742,
+    "question": "In what city was Aarno Maliniemi born?",
+    "answer": "Oulu, Uleåborg, Uleaborg"
+  },
+  {
+    "id": 743,
+    "question": "In what city was Charles Plumer born?",
+    "answer": "Canons Park"
+  },
+  {
+    "id": 744,
+    "question": "In what city was Maarten Biesheuvel born?",
+    "answer": "Schiedam"
+  },
+  {
+    "id": 745,
+    "question": "In what city was David Ogrin born?",
+    "answer": "Waukegan, Waukegan, Illinois"
+  },
+  {
+    "id": 746,
+    "question": "In what city was Kevin Morton born?",
+    "answer": "Norwalk, Norwalk, Connecticut, Norwalk, CT"
+  },
+  {
+    "id": 747,
+    "question": "In what city was Moon Joo-won born?",
+    "answer": "South Korea, Republic of Korea, ROK, kr, Rep. Korea, S. Korea, Korea Republic, 🇰🇷, KOR"
+  },
+  {
+    "id": 748,
+    "question": "In what city was Joseph Patrick Addabbo born?",
+    "answer": "Queens, Queens, New York City, Queens, New York"
+  },
+  {
+    "id": 749,
+    "question": "In what city was Amir Syamsuddin born?",
+    "answer": "Makassar, Ujungpandang, Kota Makassar, Macassar"
+  },
+  {
+    "id": 750,
+    "question": "In what city was Leobardo Soto born?",
+    "answer": "Puebla, Free and Sovereign State of Puebla, Estado de Puebla"
+  },
+  {
+    "id": 751,
+    "question": "In what city was Hailey McCann born?",
+    "answer": "Riverside, Riverside, California, City of Riverside"
+  },
+  {
+    "id": 752,
+    "question": "In what city was Helene Liebmann born?",
+    "answer": "Berlin, Berlin, Germany, Berlin (Germany), DE-BE"
+  },
+  {
+    "id": 753,
+    "question": "In what city was Tuomo Suomalainen born?",
+    "answer": "Gogland, Suursaari, Hogland"
+  },
+  {
+    "id": 754,
+    "question": "In what city was Donnchad mac Briain born?",
+    "answer": "Ireland, Éire, IE, IRL, Republic of Ireland, Hibernia, Ireland, Republic of, ie, ireland, 🇮🇪, Eire, Southern Ireland"
+  },
+  {
+    "id": 755,
+    "question": "In what city was William Jack born?",
+    "answer": "Aberdeen, Aiberdeen, Granite City, The Silver City"
+  },
+  {
+    "id": 756,
+    "question": "In what city was Oleg Govorun born?",
+    "answer": "Bratsk"
+  },
+  {
+    "id": 757,
+    "question": "In what city was Masaru Inada born?",
+    "answer": "Sapporo"
+  },
+  {
+    "id": 758,
+    "question": "In what city was Vladimir Korotkov born?",
+    "answer": "Moscow, Moskva, Moscow, Russia, Moskva Federal City, Russia, Moscow, USSR, Moskva, Russia, City of Moscow, Moscow, Russian Federation, Moscow, Soviet Union, Moscow, Russian SFSR, Muscovite, Moscovite"
+  },
+  {
+    "id": 759,
+    "question": "In what city was Erasmo Carlos born?",
+    "answer": "Rio de Janeiro, Rio, Rio de Janeiro city, Río, Río de Janeiro"
+  },
+  {
+    "id": 760,
+    "question": "In what city was Ryūzaburō Ōtomo born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 761,
+    "question": "In what city was Yaroslav Rybakov born?",
+    "answer": "Mogilev, Mahilyow, Molev, Mohylew, Mohyliv, Mohylów, Mahileu, Mohilev, Mahiliou, Mohliv, Mogilev-na-Dniepr, Mahilioŭ"
+  },
+  {
+    "id": 762,
+    "question": "In what city was Pierre Petit born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 763,
+    "question": "In what city was Shrichand Kriplani born?",
+    "answer": "Chittorgarh, Chittaurgarh, Chittor"
+  },
+  {
+    "id": 764,
+    "question": "In what city was Cristina Laslo born?",
+    "answer": "Cluj-Napoca, Kolozsvár, Klausenburg, Cluj, Claudiopolis, Kolozsvar, Kluyzenburg, Napoca, Kluž, Kluzh, Kolozhvar, Kolozvar"
+  },
+  {
+    "id": 765,
+    "question": "In what city was Jürgen W. Falter born?",
+    "answer": "Heppenheim"
+  },
+  {
+    "id": 766,
+    "question": "In what city was Billy Carlson born?",
+    "answer": "San Diego, San Diego, California, SD, America's Finest City, Sandi, the birthplace of California"
+  },
+  {
+    "id": 767,
+    "question": "In what city was Herman Hertzberger born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 768,
+    "question": "In what city was Stan Andrews born?",
+    "answer": "Lynn, Lynn, Massachusetts"
+  },
+  {
+    "id": 769,
+    "question": "In what city was Alexandre-Marie Colin born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 770,
+    "question": "In what city was Spartaco Schergat born?",
+    "answer": "Koper, Capodistria"
+  },
+  {
+    "id": 771,
+    "question": "In what city was Bogdan Andone born?",
+    "answer": "Aiud, Nagyenyed, Straßburg am Mieresch"
+  },
+  {
+    "id": 772,
+    "question": "In what city was Trae tha Truth born?",
+    "answer": "Houston, Houston, Texas, Space City, H-Town, City of Houston, USHOU, Houston, TX"
+  },
+  {
+    "id": 773,
+    "question": "In what city was Louis H. Pollak born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 774,
+    "question": "In what city was Italo Viglianesi born?",
+    "answer": "Caltagirone"
+  },
+  {
+    "id": 775,
+    "question": "In what city was Nathaniel Boyden born?",
+    "answer": "Conway, Conway, Massachusetts"
+  },
+  {
+    "id": 776,
+    "question": "In what city was John of Garland born?",
+    "answer": "England"
+  },
+  {
+    "id": 777,
+    "question": "In what city was Abraham Raimbach born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 778,
+    "question": "In what city was H. Hugh Bancroft born?",
+    "answer": "Cleethorpes"
+  },
+  {
+    "id": 779,
+    "question": "In what city was Heinrich August Jäschke born?",
+    "answer": "Herrnhut"
+  },
+  {
+    "id": 780,
+    "question": "In what city was Nina Dittrich born?",
+    "answer": "Vienna, Wien, Vienna, Austria, W"
+  },
+  {
+    "id": 781,
+    "question": "In what city was Erika M. Anderson born?",
+    "answer": "South Dakota, SD, South Dakota, United States, State of South Dakota, SoDak, S. Dakota, The Mount Rushmore State, The Coyote State, S. Dak., S.D."
+  },
+  {
+    "id": 782,
+    "question": "In what city was Georg Baumann born?",
+    "answer": "Russian Empire, Tsarist Russia, Imperial Russia, Russia, Empire of Russia"
+  },
+  {
+    "id": 783,
+    "question": "In what city was Clarrie Millar born?",
+    "answer": "Adelaide, Greater Adelaide"
+  },
+  {
+    "id": 784,
+    "question": "In what city was Franklin Rosemont born?",
+    "answer": "Chicago, Chicago, Illinois, The Windy City, City by the Lake, The Queen of the West, Chi-Town, Chitown, The Second City, City of Chicago, City of Broad Shoulders, Chi-Raq, Chicago, IL"
+  },
+  {
+    "id": 785,
+    "question": "In what city was Roman Shukhevych born?",
+    "answer": "Krakovets, Lviv, Lwów, Lemberg, Lvov, Lwow, L'viv, Lemberik, L'vov, Leopol, Lemberg, Austria"
+  },
+  {
+    "id": 786,
+    "question": "In what city was Julia Jones born?",
+    "answer": "Droitwich Spa, Droitwich Spa, Worcestershire, Droitwich"
+  },
+  {
+    "id": 787,
+    "question": "In what city was Ge You born?",
+    "answer": "Beijing, Peking, Beiping, Peiping, Yanjing, Zhongdu, Khanbaliq, BJ, Shun Tian Fu, Pekin, beijing"
+  },
+  {
+    "id": 788,
+    "question": "In what city was Gary Freear born?",
+    "answer": "King's Lynn, Lynn, Bishop's Lynn"
+  },
+  {
+    "id": 789,
+    "question": "In what city was Thomas Seaton Scott born?",
+    "answer": "Birkenhead"
+  },
+  {
+    "id": 790,
+    "question": "In what city was Alfredo Ramos Martínez born?",
+    "answer": "Monterrey, Monterrey, Nuevo Leon, Monterrey, Mexico, La sultana del norte, La ciudad de las montañas"
+  },
+  {
+    "id": 791,
+    "question": "In what city was Andrew Carnie born?",
+    "answer": "Calgary, City of Calgary, Calgary, Alberta, Calgary, AB, Calgary, Canada"
+  },
+  {
+    "id": 792,
+    "question": "In what city was Julee Cruise born?",
+    "answer": "Creston, Creston, Iowa"
+  },
+  {
+    "id": 793,
+    "question": "In what city was Jiang Mianheng born?",
+    "answer": "Shanghai, Hu, Shang Hai, Shanghai, China"
+  },
+  {
+    "id": 794,
+    "question": "In what city was Jaime de Angulo born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 795,
+    "question": "In what city was John XIX born?",
+    "answer": "Rome, The Eternal City, Roma, Rome Italy"
+  },
+  {
+    "id": 796,
+    "question": "In what city was Irving Amen born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 797,
+    "question": "In what city was Paweł Blehm born?",
+    "answer": "Olkusz"
+  },
+  {
+    "id": 798,
+    "question": "In what city was Keri Lees born?",
+    "answer": "Stone, Stone, Staffordshire"
+  },
+  {
+    "id": 799,
+    "question": "In what city was Christos Mitsis born?",
+    "answer": "Marousi"
+  },
+  {
+    "id": 800,
+    "question": "In what city was Karl-Hans Riehm born?",
+    "answer": "Konz"
+  },
+  {
+    "id": 801,
+    "question": "In what city was Robin Williams born?",
+    "answer": "Christchurch, Christchurch, New Zealand"
+  },
+  {
+    "id": 802,
+    "question": "In what city was Mike Shaver born?",
+    "answer": "Grande Prairie"
+  },
+  {
+    "id": 803,
+    "question": "In what city was John Keating born?",
+    "answer": "Hobart, Hobart Town, Hobarton, Hobart, Tasmania, Hobart, Tas."
+  },
+  {
+    "id": 804,
+    "question": "In what city was Dawson Turner born?",
+    "answer": "Great Yarmouth, Yarmouth"
+  },
+  {
+    "id": 805,
+    "question": "In what city was Chance the Rapper born?",
+    "answer": "Chicago, Chicago, Illinois, The Windy City, City by the Lake, The Queen of the West, Chi-Town, Chitown, The Second City, City of Chicago, City of Broad Shoulders, Chi-Raq, Chicago, IL"
+  },
+  {
+    "id": 806,
+    "question": "In what city was John O'Brien born?",
+    "answer": "Toomyvara, Toomevara"
+  },
+  {
+    "id": 807,
+    "question": "In what city was Diotima of Mantinea born?",
+    "answer": "Mantineia, Mantinia, Ancient Mantineia"
+  },
+  {
+    "id": 808,
+    "question": "In what city was David Holmes Black born?",
+    "answer": "Vancouver, City of Vancouver, Vancouver, BC, Vancouver, British Columbia"
+  },
+  {
+    "id": 809,
+    "question": "In what city was Ralph Campney born?",
+    "answer": "Picton, Picton, Ontario"
+  },
+  {
+    "id": 810,
+    "question": "In what city was Leonard Shure born?",
+    "answer": "Los Angeles, Los Angeles, California, Pink City, The town of Our Lady the Queen of the Angels of the Little Portion, La La Land, Tinsel Town, City of Angels, City of Los Angeles, LA, California, L.A., LA, Double Dubuque, Los Ángeles, Los Angeles, CA"
+  },
+  {
+    "id": 811,
+    "question": "In what city was Roger Gaudry born?",
+    "answer": "Quebec City, Quebec, Ville de Québec, Québec, City of Québec, City of Quebec, Ville de Quebec, 3rd Summit of the Americas"
+  },
+  {
+    "id": 812,
+    "question": "In what city was Eduardo Hurtado born?",
+    "answer": "Esmeraldas, Esmeraldas (Ecuador), Esmeraldas, Ecuador, San Mateo de las Esmeraldas"
+  },
+  {
+    "id": 813,
+    "question": "In what city was Xue Fei born?",
+    "answer": "Beijing, Peking, Beiping, Peiping, Yanjing, Zhongdu, Khanbaliq, BJ, Shun Tian Fu, Pekin, beijing"
+  },
+  {
+    "id": 814,
+    "question": "In what city was Jun Murai born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 815,
+    "question": "In what city was Indians born?",
+    "answer": "Denmark, DK, Danmark, DNK, DEK, dk, Denmark proper, metropolitan Denmark, 🇩🇰, DEN, TAN, Realm of Denmark, Kingdom of Denmark"
+  },
+  {
+    "id": 816,
+    "question": "In what city was Din Joe Crowley born?",
+    "answer": "Rathmore, County Kerry"
+  },
+  {
+    "id": 817,
+    "question": "In what city was Olatubosun Oladapo born?",
+    "answer": "Ibadan"
+  },
+  {
+    "id": 818,
+    "question": "In what city was Narcisse-Fortunat Belleau born?",
+    "answer": "Quebec City, Quebec, Ville de Québec, Québec, City of Québec, City of Quebec, Ville de Quebec, 3rd Summit of the Americas"
+  },
+  {
+    "id": 819,
+    "question": "In what city was Joachim Zachris Duncker born?",
+    "answer": "Ristiina, Kristina, Kristina kommun"
+  },
+  {
+    "id": 820,
+    "question": "In what city was Paul Braniff born?",
+    "answer": "Portaferry, Portaferry, County Down"
+  },
+  {
+    "id": 821,
+    "question": "In what city was Aki Hata born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 822,
+    "question": "In what city was Scott Patterson born?",
+    "answer": "Vancouver, City of Vancouver, Vancouver, BC, Vancouver, British Columbia"
+  },
+  {
+    "id": 823,
+    "question": "In what city was George Tintle born?",
+    "answer": "Harrison, Harrison, New Jersey, Harrison, Hudson County, New Jersey"
+  },
+  {
+    "id": 824,
+    "question": "In what city was Jakob Kaiser born?",
+    "answer": "Hammelburg"
+  },
+  {
+    "id": 825,
+    "question": "In what city was Emmanuel Biron born?",
+    "answer": "Lyon, Lyons, Commune-Affranchie"
+  },
+  {
+    "id": 826,
+    "question": "In what city was Henry C Bailey JR born?",
+    "answer": "Suffolk, Suffolk, Virginia, Suffolk, VA"
+  },
+  {
+    "id": 827,
+    "question": "In what city was Yugo Yoshida born?",
+    "answer": "Karatsu, Katatu"
+  },
+  {
+    "id": 828,
+    "question": "In what city was Percy Scholes born?",
+    "answer": "Leeds"
+  },
+  {
+    "id": 829,
+    "question": "In what city was Nicholas French born?",
+    "answer": "Wexford"
+  },
+  {
+    "id": 830,
+    "question": "In what city was David Harris Willson born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 831,
+    "question": "In what city was Steve Kerr born?",
+    "answer": "Beirut"
+  },
+  {
+    "id": 832,
+    "question": "In what city was Ed Parker Jr. born?",
+    "answer": "Glendale, Glendale, CA, Glendale, California, Glendale, California, USA"
+  },
+  {
+    "id": 833,
+    "question": "In what city was Montxu Miranda born?",
+    "answer": "Santurtzi, Santurce"
+  },
+  {
+    "id": 834,
+    "question": "In what city was Isaac born?",
+    "answer": "Canaan"
+  },
+  {
+    "id": 835,
+    "question": "In what city was Cornelis Springer born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 836,
+    "question": "In what city was Gerard Reve born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 837,
+    "question": "In what city was Alois Rašín born?",
+    "answer": "Nechanice"
+  },
+  {
+    "id": 838,
+    "question": "In what city was Toni Tecuceanu born?",
+    "answer": "Bucharest, Little Paris, Paris of the East, București, Bucureşti, Bucuresti, Буцуреșти"
+  },
+  {
+    "id": 839,
+    "question": "In what city was Joseph Moncure March born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 840,
+    "question": "In what city was Aleksandra Socha born?",
+    "answer": "Pabianice, Pabianitz, Burgstadt"
+  },
+  {
+    "id": 841,
+    "question": "In what city was Tim Armstrong born?",
+    "answer": "United States of America, the United States of America, America, U.S.A., USA, U.S., US, the US, the USA, US of A, the United States, U. S. A., U. S., the States, the U.S., 'Merica, U.S, United States, 'Murica"
+  },
+  {
+    "id": 842,
+    "question": "In what city was Juha Jokela born?",
+    "answer": "Tampere, Tammerfors"
+  },
+  {
+    "id": 843,
+    "question": "In what city was Maja Gojković born?",
+    "answer": "Novi Sad, Нови Сад, Újvidék, Ujvidek"
+  },
+  {
+    "id": 844,
+    "question": "In what city was Giuseppe Bezzuoli born?",
+    "answer": "Florence, Firenze, Florence, Italy, Florence, Tuscany, Florencia, Florentia, Florenz, Firenca, Florencie, Fiuränza, Florentzia, Firense, Firenz, Firenzi"
+  },
+  {
+    "id": 845,
+    "question": "In what city was Maurice Reymond de Broutelles born?",
+    "answer": "Geneva, Genève, Geneva GE, Geneve, Genf"
+  },
+  {
+    "id": 846,
+    "question": "In what city was Rie Oh born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 847,
+    "question": "In what city was Juan Manuel Montero Vázquez born?",
+    "answer": "Palencia"
+  },
+  {
+    "id": 848,
+    "question": "In what city was Bruce Crowder born?",
+    "answer": "Essex, Essex, Ontario"
+  },
+  {
+    "id": 849,
+    "question": "In what city was Can Bartu born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 850,
+    "question": "In what city was Louis Lloyd Winter born?",
+    "answer": "Canada, Dominion of Canada, British North America, CAN, CA, ca, can, Can."
+  },
+  {
+    "id": 851,
+    "question": "In what city was Evan Abraham born?",
+    "answer": "Swansea, Abertawe"
+  },
+  {
+    "id": 852,
+    "question": "In what city was Carlos Nieto born?",
+    "answer": "La Plata"
+  },
+  {
+    "id": 853,
+    "question": "In what city was Dave Marsh born?",
+    "answer": "Detroit, Motor City, Detroit, Michigan, Detroiit, Detroit, MI, The D"
+  },
+  {
+    "id": 854,
+    "question": "In what city was Mary Sanders born?",
+    "answer": "Toronto, City of Toronto, The Six, T-O, The 416, Hogtown"
+  },
+  {
+    "id": 855,
+    "question": "In what city was Ian Rutherford born?",
+    "answer": "Dunedin, Dunedin, NZ, Dunedin, New Zealand, Dunedin City"
+  },
+  {
+    "id": 856,
+    "question": "In what city was Andy Keeley born?",
+    "answer": "Basildon"
+  },
+  {
+    "id": 857,
+    "question": "In what city was Teri DeSario born?",
+    "answer": "Miami, City of Miami, Miami, Florida, Miami, FL"
+  },
+  {
+    "id": 858,
+    "question": "In what city was Alexander Butlerov born?",
+    "answer": "Çistay"
+  },
+  {
+    "id": 859,
+    "question": "In what city was Vladimir Yakovlev born?",
+    "answer": "Moscow, Moskva, Moscow, Russia, Moskva Federal City, Russia, Moscow, USSR, Moskva, Russia, City of Moscow, Moscow, Russian Federation, Moscow, Soviet Union, Moscow, Russian SFSR, Muscovite, Moscovite"
+  },
+  {
+    "id": 860,
+    "question": "In what city was Fernando García born?",
+    "answer": "Santiago, Santiago de Chile, Santiago, Chile"
+  },
+  {
+    "id": 861,
+    "question": "In what city was Michele Aboro born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  },
+  {
+    "id": 862,
+    "question": "In what city was Bianca Guaccero born?",
+    "answer": "Bitonto"
+  },
+  {
+    "id": 863,
+    "question": "In what city was Viator of Lyons born?",
+    "answer": "Lyon, Lyons, Commune-Affranchie"
+  },
+  {
+    "id": 864,
+    "question": "In what city was Alonso Cano born?",
+    "answer": "Granada"
+  },
+  {
+    "id": 865,
+    "question": "In what city was William Franklin Switzler born?",
+    "answer": "Columbia, Columbia, Missouri"
+  },
+  {
+    "id": 866,
+    "question": "In what city was Dennis Havig born?",
+    "answer": "Powell, Powell, Wyoming"
+  },
+  {
+    "id": 867,
+    "question": "In what city was Alma Karlin born?",
+    "answer": "Celje"
+  },
+  {
+    "id": 868,
+    "question": "In what city was Petros Tabouris born?",
+    "answer": "Athens"
+  },
+  {
+    "id": 869,
+    "question": "In what city was György Kárpáti born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 870,
+    "question": "In what city was Szymon Kataszek born?",
+    "answer": "Warsaw, Warszawa, Varshe, Warschau, Varshava, Varšava, Varsó, Varsavia, Varsovie, Varsovia, Varšuva"
+  },
+  {
+    "id": 871,
+    "question": "In what city was Franky Zapata born?",
+    "answer": "Marseille, Massaliotes, Massalia, Marsailles, Marseilles, Marsielles, Marsielle, City of Marseille, Marsaille, Marsiglia, Marseille, France, Ville-sans-Nom, Sans-Nom"
+  },
+  {
+    "id": 872,
+    "question": "In what city was Rolland Golden born?",
+    "answer": "New Orleans, NOLA, New Orleans, Louisiana, New Orleans, LA, The Big Easy, Crescent City"
+  },
+  {
+    "id": 873,
+    "question": "In what city was Barbara Harris born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 874,
+    "question": "In what city was Huo Liang born?",
+    "answer": "Shanghai, Hu, Shang Hai, Shanghai, China"
+  },
+  {
+    "id": 875,
+    "question": "In what city was David Granger born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 876,
+    "question": "In what city was Marilyn Ferguson born?",
+    "answer": "Grand Junction, Grand Junction, Colorado"
+  },
+  {
+    "id": 877,
+    "question": "In what city was Andrea Magi born?",
+    "answer": "Pesaro"
+  },
+  {
+    "id": 878,
+    "question": "In what city was Gérard Fromanger born?",
+    "answer": "Jouars-Pontchartrain"
+  },
+  {
+    "id": 879,
+    "question": "In what city was Joe English born?",
+    "answer": "Newtownabbey"
+  },
+  {
+    "id": 880,
+    "question": "In what city was Mukhtar Mukhtarov born?",
+    "answer": "Lankaran"
+  },
+  {
+    "id": 881,
+    "question": "In what city was Hank Autry born?",
+    "answer": "Hattiesburg, Hattiesburg, Mississippi"
+  },
+  {
+    "id": 882,
+    "question": "In what city was Renato Bartilotti born?",
+    "answer": "Villahermosa"
+  },
+  {
+    "id": 883,
+    "question": "In what city was Mapy Cortés born?",
+    "answer": "Santurce, San Mateo de Cangrejos, Santurce Barrio, Santurce, San Juan, Santurce, Puerto Rico"
+  },
+  {
+    "id": 884,
+    "question": "In what city was Michelle Renaudddd born?",
+    "answer": "Mexico City, Mexico D.F., Ciudad de México, City of Mexico, Mexico City, Mexico, CDMX, Mexico"
+  },
+  {
+    "id": 885,
+    "question": "In what city was Olegarius born?",
+    "answer": "Barcelona, BCN, B'na, Barcelona, Spain, Tarragona, Tarraco, Tarqon, Tarragona, Spain, Tarragona Spain"
+  },
+  {
+    "id": 886,
+    "question": "In what city was Philibert Orry born?",
+    "answer": "Troyes, Troyes, Aube, Troyes, Aube France"
+  },
+  {
+    "id": 887,
+    "question": "In what city was Sam Storey born?",
+    "answer": "Belfast, Béal Feirste, Beal Feirste, Belfast, Ireland"
+  },
+  {
+    "id": 888,
+    "question": "In what city was Israel Horowitz born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 889,
+    "question": "In what city was Everett Glass born?",
+    "answer": "Bangor, Bangor, Maine"
+  },
+  {
+    "id": 890,
+    "question": "In what city was C. N. Annadurai born?",
+    "answer": "Kanchipuram, Kancheepuram"
+  },
+  {
+    "id": 891,
+    "question": "In what city was Frederick Mackenzie born?",
+    "answer": "Montreal, Montréal, City of Montreal, Montreal, Quebec, Ville de Montréal, Ville de Montreal"
+  },
+  {
+    "id": 892,
+    "question": "In what city was Brian Kerwin born?",
+    "answer": "Chicago, Chicago, Illinois, The Windy City, City by the Lake, The Queen of the West, Chi-Town, Chitown, The Second City, City of Chicago, City of Broad Shoulders, Chi-Raq, Chicago, IL"
+  },
+  {
+    "id": 893,
+    "question": "In what city was Ken Irvin born?",
+    "answer": "Rome, Rome, Georgia"
+  },
+  {
+    "id": 894,
+    "question": "In what city was Gyula Czimra born?",
+    "answer": "Budapest, Buda Pest, Buda-Pest, Budapešť, Budapesta, Budapeszt, Buda, Ofen, Budín, Budim, Budon, Pest, Pešť, Pešta, Óbuda, Alt-Ofen, Kőbánya"
+  },
+  {
+    "id": 895,
+    "question": "In what city was JB Magsaysay born?",
+    "answer": "San Juan"
+  },
+  {
+    "id": 896,
+    "question": "In what city was Serjik Teymourian born?",
+    "answer": "Tehran, Teheran"
+  },
+  {
+    "id": 897,
+    "question": "In what city was Dick Calmus born?",
+    "answer": "Los Angeles, Los Angeles, California, Pink City, The town of Our Lady the Queen of the Angels of the Little Portion, La La Land, Tinsel Town, City of Angels, City of Los Angeles, LA, California, L.A., LA, Double Dubuque, Los Ángeles, Los Angeles, CA"
+  },
+  {
+    "id": 898,
+    "question": "In what city was Erik Pedersen born?",
+    "answer": "Porsgrunn"
+  },
+  {
+    "id": 899,
+    "question": "In what city was Pete Donohue born?",
+    "answer": "Athens, Athens, Texas"
+  },
+  {
+    "id": 900,
+    "question": "In what city was Louis Renault born?",
+    "answer": "Autun, Bibracte"
+  },
+  {
+    "id": 901,
+    "question": "In what city was Tjokorda Ngurah Wim Sukawati born?",
+    "answer": "Ubud"
+  },
+  {
+    "id": 902,
+    "question": "In what city was Luis Fernando Tena born?",
+    "answer": "Mexico City, Mexico D.F., Ciudad de México, City of Mexico, Mexico City, Mexico, CDMX, Mexico"
+  },
+  {
+    "id": 903,
+    "question": "In what city was Damian Pettigrew born?",
+    "answer": "Quebec, Québec, QC, Province of Quebec, Quebec, Canada, Quebec Province"
+  },
+  {
+    "id": 904,
+    "question": "In what city was Wayne G. Hammond born?",
+    "answer": "Cleveland, Cleveland, Ohio, Cleveland, OH"
+  },
+  {
+    "id": 905,
+    "question": "In what city was Walter W. Arndt born?",
+    "answer": "Istanbul, İstanbul"
+  },
+  {
+    "id": 906,
+    "question": "In what city was Christian Vaquero born?",
+    "answer": "Montevideo"
+  },
+  {
+    "id": 907,
+    "question": "In what city was Jörg Bergmeister born?",
+    "answer": "Leverkusen"
+  },
+  {
+    "id": 908,
+    "question": "In what city was David Watson born?",
+    "answer": "Quebec City, Quebec, Ville de Québec, Québec, City of Québec, City of Quebec, Ville de Quebec, 3rd Summit of the Americas"
+  },
+  {
+    "id": 909,
+    "question": "In what city was Giancarlo Santi born?",
+    "answer": "Rome, The Eternal City, Roma, Rome Italy"
+  },
+  {
+    "id": 910,
+    "question": "In what city was Catherine Tishem born?",
+    "answer": "Norwich, Norwich, England, Norwich, Norfolk"
+  },
+  {
+    "id": 911,
+    "question": "In what city was Travis Thomas born?",
+    "answer": "Washington, Washington, Pennsylvania"
+  },
+  {
+    "id": 912,
+    "question": "In what city was Karim Ojjeh born?",
+    "answer": "Geneva, Genève, Geneva GE, Geneve, Genf"
+  },
+  {
+    "id": 913,
+    "question": "In what city was Jiří Vyčichlo born?",
+    "answer": "Prague, Praha, Hlavní město Praha, City of Prague"
+  },
+  {
+    "id": 914,
+    "question": "In what city was Youri Messen-Jaschin born?",
+    "answer": "Arosa, Arosa GR"
+  },
+  {
+    "id": 915,
+    "question": "In what city was Dr. John born?",
+    "answer": "New Orleans, NOLA, New Orleans, Louisiana, New Orleans, LA, The Big Easy, Crescent City"
+  },
+  {
+    "id": 916,
+    "question": "In what city was Wayne Horvitz born?",
+    "answer": "New York City, NYC, New York, the five boroughs, Big Apple, City of New York, NY City, New York, New York, New York City, New York, New York, NY, New York City (NYC)"
+  },
+  {
+    "id": 917,
+    "question": "In what city was Lindsay Pagano born?",
+    "answer": "Philadelphia, Philly, City of Brotherly Love, Cradle of Liberty, Philadelphia, Pennsylvania, City of Philadelphia, Philadelphia, PA"
+  },
+  {
+    "id": 918,
+    "question": "In what city was Jan van de Cappelle born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 919,
+    "question": "In what city was Édouard Vaillant born?",
+    "answer": "Vierzon"
+  },
+  {
+    "id": 920,
+    "question": "In what city was Gerhard Ludwig born?",
+    "answer": "Berlin, Berlin, Germany, Berlin (Germany), DE-BE"
+  },
+  {
+    "id": 921,
+    "question": "In what city was James A. Peters born?",
+    "answer": "Durant, Durant, Iowa"
+  },
+  {
+    "id": 922,
+    "question": "In what city was Gaston-François de Witte born?",
+    "answer": "Antwerp, Antwerpen, City of Antwerp, Anvers"
+  },
+  {
+    "id": 923,
+    "question": "In what city was Rita Cadillac born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 924,
+    "question": "In what city was Farman Behboud born?",
+    "answer": "Tehran, Teheran"
+  },
+  {
+    "id": 925,
+    "question": "In what city was Bill Short born?",
+    "answer": "Kingston, Kingston, New York"
+  },
+  {
+    "id": 926,
+    "question": "In what city was Francisco María Oreamuno Bonilla born?",
+    "answer": "Cartago, Cartago, Costa Rica"
+  },
+  {
+    "id": 927,
+    "question": "In what city was Martin Simonson born?",
+    "answer": "Gothenburg, Göteborg"
+  },
+  {
+    "id": 928,
+    "question": "In what city was Hittman born?",
+    "answer": "Los Angeles, Los Angeles, California, Pink City, The town of Our Lady the Queen of the Angels of the Little Portion, La La Land, Tinsel Town, City of Angels, City of Los Angeles, LA, California, L.A., LA, Double Dubuque, Los Ángeles, Los Angeles, CA"
+  },
+  {
+    "id": 929,
+    "question": "In what city was William Bell Scott born?",
+    "answer": "Edinburgh, Edinburg, Edinburgh, Scotland, City of Edinburgh, Edina, Modern Athens"
+  },
+  {
+    "id": 930,
+    "question": "In what city was Roger Mendy born?",
+    "answer": "Dakar"
+  },
+  {
+    "id": 931,
+    "question": "In what city was Mimoun Ouled Radi born?",
+    "answer": "Amsterdam, Mokum, Amsterdam, NL, Amsterdam, Netherlands, A'dam"
+  },
+  {
+    "id": 932,
+    "question": "In what city was William Osler born?",
+    "answer": "Ontario, ONT, ON"
+  },
+  {
+    "id": 933,
+    "question": "In what city was Kensho Ono born?",
+    "answer": "Fukuoka Prefecture"
+  },
+  {
+    "id": 934,
+    "question": "In what city was Ted Williams born?",
+    "answer": "San Diego, San Diego, California, SD, America's Finest City, Sandi, the birthplace of California"
+  },
+  {
+    "id": 935,
+    "question": "In what city was Anthony Gale born?",
+    "answer": "Toronto, City of Toronto, The Six, T-O, The 416, Hogtown"
+  },
+  {
+    "id": 936,
+    "question": "In what city was Louis Kasekende born?",
+    "answer": "Uganda, Republic of Uganda, ug, 🇺🇬, UGA"
+  },
+  {
+    "id": 937,
+    "question": "In what city was Jeanne de Casalis born?",
+    "answer": "Basutoland"
+  },
+  {
+    "id": 938,
+    "question": "In what city was Henry Soames born?",
+    "answer": "Brighton, Brighthelmston, Brighthelmstone, Brighton, East Sussex, Brighton, England"
+  },
+  {
+    "id": 939,
+    "question": "In what city was Merceditas Gutierrez born?",
+    "answer": "Philippines, Republic of the Philippines, PH, ph, the Philippines, Philippine Islands, PHL, RP, 🇵🇭, PHI, Pinas"
+  },
+  {
+    "id": 940,
+    "question": "In what city was Karl Bartholomaeus Heller born?",
+    "answer": "Moravia"
+  },
+  {
+    "id": 941,
+    "question": "In what city was Richie Ashburn born?",
+    "answer": "Tilden, Tilden, Nebraska"
+  },
+  {
+    "id": 942,
+    "question": "In what city was Yoshifumi Tajima born?",
+    "answer": "Kōbe, Kobe, Japan, Kobe"
+  },
+  {
+    "id": 943,
+    "question": "In what city was Blair Thornton born?",
+    "answer": "Vancouver, City of Vancouver, Vancouver, BC, Vancouver, British Columbia"
+  },
+  {
+    "id": 944,
+    "question": "In what city was Azharullah born?",
+    "answer": "Burewala"
+  },
+  {
+    "id": 945,
+    "question": "In what city was Javier Suárez born?",
+    "answer": "Madrid, City of Madrid, Madrid, Spain"
+  },
+  {
+    "id": 946,
+    "question": "In what city was George Maluleka born?",
+    "answer": "Tembisa"
+  },
+  {
+    "id": 947,
+    "question": "In what city was Martin Behaim born?",
+    "answer": "Nuremberg, Nürnberg, Kreisfreie Stadt Nürnberg, Nüremberg"
+  },
+  {
+    "id": 948,
+    "question": "In what city was Rogers McKee born?",
+    "answer": "Shelby, Shelby, North Carolina"
+  },
+  {
+    "id": 949,
+    "question": "In what city was Domenico Bologna born?",
+    "answer": "Turin, Torino, Turin, Italy"
+  },
+  {
+    "id": 950,
+    "question": "In what city was Bruce Charles Heezen born?",
+    "answer": "Vinton, Vinton, Iowa"
+  },
+  {
+    "id": 951,
+    "question": "In what city was Alexandros Matsas born?",
+    "answer": "Athens"
+  },
+  {
+    "id": 952,
+    "question": "In what city was Michele Tenore born?",
+    "answer": "Naples, Napoli, Neapolis"
+  },
+  {
+    "id": 953,
+    "question": "In what city was Hans Tikkanen born?",
+    "answer": "Karlstad"
+  },
+  {
+    "id": 954,
+    "question": "In what city was Halloween born?",
+    "answer": "Tijuana"
+  },
+  {
+    "id": 955,
+    "question": "In what city was Kazuhiro Suzuki born?",
+    "answer": "Tokyo, Tōkyō, Tôkyô, Tokyo-to, Tokyo Metropolitan prefecture, Tōkyō-to, Tôkyô-to, Tokyo Metropolis, Tokio, Tokyo Prefecture"
+  },
+  {
+    "id": 956,
+    "question": "In what city was Roman Nose born?",
+    "answer": "Colorado, CO, State of Colorado, Colo."
+  },
+  {
+    "id": 957,
+    "question": "In what city was Jim Roland born?",
+    "answer": "Franklin, Franklin, North Carolina"
+  },
+  {
+    "id": 958,
+    "question": "In what city was Gino Bianco born?",
+    "answer": "Milan, Milano, Milan, Italy, Milano, Italy, Milano, Italia, Mailand, Milan Records"
+  },
+  {
+    "id": 959,
+    "question": "In what city was Marcellus Stearns born?",
+    "answer": "Lovell, Lovell, Maine"
+  },
+  {
+    "id": 960,
+    "question": "In what city was Egbert van der Poel born?",
+    "answer": "Delft"
+  },
+  {
+    "id": 961,
+    "question": "In what city was Pieter van Laer born?",
+    "answer": "Haarlem, Haarlem, North Holland, Haerlem"
+  },
+  {
+    "id": 962,
+    "question": "In what city was Gösta Eriksson born?",
+    "answer": "Vaxholm"
+  },
+  {
+    "id": 963,
+    "question": "In what city was Rob Lukachyk born?",
+    "answer": "Jersey City, Jersey City, New Jersey"
+  },
+  {
+    "id": 964,
+    "question": "In what city was Sue Vertue born?",
+    "answer": "Surrey"
+  },
+  {
+    "id": 965,
+    "question": "In what city was Pierre-Yves Barré born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 966,
+    "question": "In what city was Todd Sieben born?",
+    "answer": "Geneseo, Geneseo, Illinois"
+  },
+  {
+    "id": 967,
+    "question": "In what city was John Edward Campbell born?",
+    "answer": "Lisburn"
+  },
+  {
+    "id": 968,
+    "question": "In what city was Louis Joseph Troost born?",
+    "answer": "Paris, City of Light, Paris, France"
+  },
+  {
+    "id": 969,
+    "question": "In what city was Jean Dorion born?",
+    "answer": "Montreal, Montréal, City of Montreal, Montreal, Quebec, Ville de Montréal, Ville de Montreal"
+  },
+  {
+    "id": 970,
+    "question": "In what city was Klaus Wunder born?",
+    "answer": "Erfurt"
+  },
+  {
+    "id": 971,
+    "question": "In what city was Heiko Balz born?",
+    "answer": "Burg, Burg bei Magdeburg, Burg (bei Magdeburg), Burg (b Magdeburg), Stadt Burg"
+  },
+  {
+    "id": 972,
+    "question": "In what city was KK born?",
+    "answer": "Minnesota, MN, Land of 10,000 Lakes, Minnesota, United States, State of Minnesota, Minn., US-MN"
+  },
+  {
+    "id": 973,
+    "question": "In what city was Margot Shumway born?",
+    "answer": "Cincinnati, Cincy, Cincinnati, Ohio, Cinti, Cincinnati, OH, Cin City"
+  },
+  {
+    "id": 974,
+    "question": "In what city was Norbert Grund born?",
+    "answer": "Prague, Praha, Hlavní město Praha, City of Prague"
+  },
+  {
+    "id": 975,
+    "question": "In what city was Jaakko Laakso born?",
+    "answer": "Turku, Åbo, Aboa"
+  },
+  {
+    "id": 976,
+    "question": "In what city was John Spencer-Churchill, 11th Duke of Marlborough born?",
+    "answer": "Blenheim Palace"
+  },
+  {
+    "id": 977,
+    "question": "In what city was Vitaliy Sobko born?",
+    "answer": "Kharkiv, Kharkov, Chárkiv, Harkov, Khar'kov, Kharkoff"
+  },
+  {
+    "id": 978,
+    "question": "In what city was Mikael Eriksson born?",
+    "answer": "Karlskoga"
+  },
+  {
+    "id": 979,
+    "question": "In what city was James W. Owens born?",
+    "answer": "Franklin County, Franklin County, Indiana"
+  },
+  {
+    "id": 980,
+    "question": "In what city was John Johnson born?",
+    "answer": "LaGrange, LaGrange, Georgia, La Grange"
+  },
+  {
+    "id": 981,
+    "question": "In what city was Rodger Stevens born?",
+    "answer": "Brooklyn, Brooklyn, New York"
+  },
+  {
+    "id": 982,
+    "question": "In what city was Gintautas Umaras born?",
+    "answer": "Kaunas, Kovno, Kovne, Kovna, Kowno, Kauen"
+  },
+  {
+    "id": 983,
+    "question": "In what city was Cooper Smeaton born?",
+    "answer": "Carleton Place"
+  },
+  {
+    "id": 984,
+    "question": "In what city was Liam Carroll born?",
+    "answer": "Kinnitty"
+  },
+  {
+    "id": 985,
+    "question": "In what city was George Chambers born?",
+    "answer": "Kimberley, Kimberley, Nottinghamshire"
+  },
+  {
+    "id": 986,
+    "question": "In what city was Will Little born?",
+    "answer": "Fall Branch, Fall Branch, Tennessee"
+  },
+  {
+    "id": 987,
+    "question": "In what city was Benny Napoleon born?",
+    "answer": "Detroit, Motor City, Detroit, Michigan, Detroiit, Detroit, MI, The D"
+  },
+  {
+    "id": 988,
+    "question": "In what city was Corey Bramlet born?",
+    "answer": "Wheatland, Wheatland, Wyoming"
+  },
+  {
+    "id": 989,
+    "question": "In what city was Daniel Hynes born?",
+    "answer": "Chicago, Chicago, Illinois, The Windy City, City by the Lake, The Queen of the West, Chi-Town, Chitown, The Second City, City of Chicago, City of Broad Shoulders, Chi-Raq, Chicago, IL"
+  },
+  {
+    "id": 990,
+    "question": "In what city was Cloe Elmo born?",
+    "answer": "Lecce"
+  },
+  {
+    "id": 991,
+    "question": "In what city was Marie-Hélène Aubert born?",
+    "answer": "Nantes"
+  },
+  {
+    "id": 992,
+    "question": "In what city was Johann Gregor Memhardt born?",
+    "answer": "Linz"
+  },
+  {
+    "id": 993,
+    "question": "In what city was Juan Landázuri Ricketts born?",
+    "answer": "Arequipa"
+  },
+  {
+    "id": 994,
+    "question": "In what city was Nissim of Gerona born?",
+    "answer": "Girona, Girona, Spain, Gérone, Gerone, Gerona, Gerona, Spain, Girona, Catalonia"
+  },
+  {
+    "id": 995,
+    "question": "In what city was Francisco Fernández de la Cueva, 10th Duke of Alburquerque born?",
+    "answer": "Genoa, Genoa, Italy, Genova, Italy, Genova"
+  },
+  {
+    "id": 996,
+    "question": "In what city was Archibald Willard born?",
+    "answer": "Bedford, Bedford, Ohio"
+  },
+  {
+    "id": 997,
+    "question": "In what city was Stig Kleven born?",
+    "answer": "Notodden"
+  },
+  {
+    "id": 998,
+    "question": "In what city was Alton Montgomery born?",
+    "answer": "Griffin, Griffin, Georgia"
+  },
+  {
+    "id": 999,
+    "question": "In what city was Joanna Elisabeth of Holstein-Gottorp born?",
+    "answer": "Gottorf Castle"
+  },
+  {
+    "id": 1000,
+    "question": "In what city was Richard Rawlinson born?",
+    "answer": "London, London, UK, London, United Kingdom, London, England, Modern Babylon"
+  }
+]

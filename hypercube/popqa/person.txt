@@ -1,0 +1,1475 @@
+{"george rankin": 2, "george james rankin": 1}
+{"politician": 1}
+{"john mayne": 1, "walter ruddiman": 1, "robert burns": 1, "walter scott": 1}
+{"journalist": 1}
+{"henry master feilden": 1, "henry feilden (conservative politician)": 1, "henry feilden": 1}
+{"kathy l. saltzman": 1, "ted lillie": 1, "norm coleman": 1, "kathy saltzman": 1}
+{"eleanor mccutcheon davis": 1, "eleanor davis": 1}
+{"cartoonist": 1}
+{"alexander hendrik george rinnooy kan": 1, "alexander rinnooy kan": 1}
+{"mathematician": 1}
+{"scott samuel \"scooter\" braun": 1, "justin bieber": 1, "usher": 1, "ariana grande": 1, "kanye west": 1, "demi lovato": 1, "j balvin": 1, "ozuna": 1, "dan + shay": 1, "the kid laroi": 1, "taylor swift": 1, "scooter braun": 1}
+{"brian epstein": 1, "talent manager": 1}
+{"leona deti\u00e8ge": 1, "marleen temmerman": 1, "frans deti\u00e8ge": 1, "maya deti\u00e8ge": 1}
+{"william murray": 2, "sir dudley ryder": 1, "william murray, 1st earl of mansfield": 1}
+{"\u00feorsteinn bachmann": 2}
+{"william shakespeare": 1, "lucrezia di siena": 1, "vincenza armani": 1, "barbara flaminia": 1, "actor": 1}
+{"herlyn iv\u00e1n espinal mart\u00ednez": 1, "herlyn espinal": 1}
+{"jacob kraemer": 1, "ben harrison": 1, "jared \"coop\" cooper": 1}
+{"fred c. newmeyer": 1}
+{"film director": 1}
+{"edward bernard cresset corser": 1, "edward corser": 1}
+{"bae geu-rin": 1}
+{"javier alva orlandini": 1, "fernando bela\u00fande": 1, "alan garc\u00eda": 1}
+{"edgar allan poe": 5, "david poe": 1, "elizabeth poe": 1, "john allan": 2, "frances allan": 2, "virginia clemm": 1}
+{"ben jonson": 1, "william shakespeare": 1, "playwright": 1}
+{"john finlay": 2, "john finlay (canadian politician)": 1}
+{"john floyd": 2, "john floyd (georgia politician)": 1}
+{"sachiko kokubu": 1}
+{"rudolf hilferding": 2, "karl marx": 1, "eugen von b\u00f6hm-bawerk": 1, "vladimir lenin": 1, "nikolai bukharin": 1}
+{"charles towneley strachey": 1, "charles strachey, 4th baron o'hagan": 1}
+{"akari hayami": 2}
+{"richard martin": 1, "tim holt": 1, "robert mitchum": 1, "richard martin (actor)": 1}
+{"harvey andrew peltier sr.": 1, "huey pierce long, jr.": 1, "harvey peltier sr.": 1}
+{"lawyer": 1}
+{"paris": 4, "domitian": 3, "juvenal": 1, "domitia longina": 1, "martial": 1, "philip massinger": 1, "paris (actor under domitian)": 1}
+{"fairfax mastick cone": 1, "fax cone": 1, "fairfax m. cone": 1}
+{"businessperson": 1}
+{"colleen zenk": 2, "barbara ryan": 1}
+{"albert kealiinui bates": 1, "bates": 2, "albert bates": 1}
+{"hiroshi morie": 1, "heath": 5, "taiji": 1, "pata": 1, "i.n.a.": 1, "heath (musician)": 1}
+{"songwriter": 1}
+{"stevie cameron": 1, "brian mulroney": 1, "robert pickton": 1}
+{"yoshiki tonogai": 1, "atsushi ohkubo": 1}
+{"naoko takeuchi": 1, "osamu tezuka": 1, "manga artist": 1}
+{"geeling ng": 1, "geeling ching": 1, "david bowie": 1}
+{"restaurateur": 1}
+{"thomas richard whitney": 1, "thomas r. whitney": 1}
+{"edwin wallock": 2}
+{"tsutomu seki": 2}
+{"astronomer": 1}
+{"matthew mckay": 2, "ira delbert cotnam": 2, "matthew mckay (politician)": 1}
+{"dentist": 1}
+{"william watson": 2, "carl linnaeus": 1, "dufay": 1, "benjamin franklin": 1, "william watson (scientist)": 1}
+{"physician": 1}
+{"sarah dawn finer": 1, "edward af sill\u00e9n": 1}
+{"brendan canty": 2, "stylus magazine": 1}
+{"musician": 1}
+{"mar\u00eda elena marqu\u00e9s rangel": 1, "mar\u00eda elena marqu\u00e9s": 1}
+{"patrick o'brien demsey": 1}
+{"ole krarup": 2}
+{"boutheina jabnoun marai": 1}
+{"robert viharo": 1, "harry": 1, "zachary kane": 1, "col. ernesto dorio": 1}
+{"robert alan krieger": 1, "robby krieger": 1, "jim morrison": 1, "john densmore": 1, "ray manzarek": 1}
+{"guitarist": 1}
+{"paul": 7, "saul of tarsus": 1, "jesus": 3, "ananias of damascus": 1, "stephen": 1, "paul the apostle": 1}
+{"jesus christ": 1, "missionary": 1}
+{"shozaburo nakamura": 1}
+{"eskew reeder, jr.": 1, "esquerita": 1, "s.q. reeder": 1, "the magnificent malochi": 1, "little richard": 1}
+{"herman aladdin barnett iii": 1, "herman a. barnett": 1}
+{"surgeon": 1}
+{"modou dia": 5}
+{"diplomat": 1}
+{"alexandre krieps": 1, "niki bettendorf": 1, "\u00e9mile krieps": 1, "alex krieps": 1}
+{"veronica franco": 3}
+{"poet": 1}
+{"maev-ann wren": 1, "roisin shortall": 1}
+{"norman crowther hunt": 1, "baron crowther-hunt": 1, "harold wilson": 1, "norman crowther hunt, baron crowther-hunt": 1}
+{"vincenzo di nicola": 3}
+{"psychologist": 1}
+{"henry tizard": 2}
+{"chemist": 1}
+{"thomas hinds": 2}
+{"tobias lindholm": 1}
+{"screenwriter": 1}
+{"lisa mcree": 1}
+{"richard gilmore": 1, "hubert h. humphrey": 1, "rick gilmore": 1}
+{"economist": 1}
+{"jon eikemo": 2}
+{"jilly cooper": 1, "jill sallitt": 1}
+{"ingrid martz": 1, "\u00edngrid martz": 1}
+{"edward theodore riley": 1, "teddy riley": 1, "michael jackson": 2, "bobby brown": 2, "heavy d": 1, "keith sweat": 1, "hi-five": 1, "the jackson 5": 1, "joe": 1, "dr. dre": 1, "queen pen": 1, "pharrell williams": 1}
+{"les paul": 1, "george martin": 1, "phil spector": 1, "brian eno": 1, "record producer": 1}
+{"gillian mary lorraine": 1, "gillian raine": 2, "leonard rossiter": 2, "camilla": 1, "josephine tewson": 1, "nigel havers": 1}
+{"marco antonio ameglio samudio": 1, "marco ameglio": 1}
+{"mohd sharkar bin shamsudin": 1, "adnan yaakob": 1, "wan rosdy wan ismail": 1, "mohd sharkar shamsudin": 1}
+{"dennis anthony john sharp": 1, "anthony sharp": 1}
+{"valger\u00f0ur bjarnad\u00f3ttir": 2}
+{"wallace dollase": 1, "wally dollase": 1, "jewel princess": 1, "itsallgreektome": 1, "cincy": 1, "cynthia": 1, "craig": 2, "michelle": 1, "carrie": 1, "aimee": 2}
+{"horse trainer": 1}
+{"claire berlinski": 2}
+{"james cook": 5, "kalani\u02bb\u014dpu\u02bbu": 1}
+{"sailor": 1}
+{"russell newton stokes": 1, "henry richmond stokes": 1, "emma rowdon wippell": 1, "margaret black": 1, "russell stokes": 1}
+{"hinderk bleker": 1, "henk bleker": 1}
+{"jim brown": 1, "gary burns": 1, "jim brown (radio host)": 1}
+{"radio personality": 1}
+{"christoph maria schlingensief": 1, "wagner": 1, "christoph schlingensief": 1}
+{"theatre director": 1}
+{"cecil edwin webber": 1, "bunny": 1, "c. e. webber": 1}
+{"hubert miles gladwyn jebb": 1, "1st baron gladwyn": 1, "gladwyn jebb": 1}
+{"dean alfange": 2, "thomas e. dewey": 1}
+{"tyler gregory okonma": 5, "tyler, the creator": 1, "lil wayne": 1, "kanye west": 2, "drake": 1, "kendrick lamar": 1, "lana del rey": 1, "billie eilish": 1, "wolf haley": 1, "the wall street journal": 1, "los angeles times": 1}
+{"edwin e. ellis": 1, "edwin earle ellis": 1}
+{"photographer": 1}
+{"muhammad ali luqman": 1, "ahmad bin abdullah al saqqaf": 1, "imam yahya": 1, "farouk luqman": 1}
+{"ivo perilli": 2}
+{"nathan purdee": 2}
+{"joseph arnold weydemeyer": 1, "karl marx": 1, "friedrich engels": 1, "louis napoleon": 1, "joseph weydemeyer": 1}
+{"revolutionary": 1}
+{"ai ogawa": 1, "florence anthony": 1, "ai (poet)": 1, "ai": 1}
+{"francis howard": 1, "william howard": 1, "francis howard, 5th baron howard of effingham": 1}
+{"lu\u00eds maria de barros serra marques guedes": 1, "pedro passos coelho": 1, "armando marques guedes": 1, "lu\u00eds marques guedes": 1}
+{"nigel sheinwald": 1}
+{"ge you": 1, "zhang yimou": 1}
+{"annie beustes": 1, "jean l\u00e8ques": 1, "d\u00e9w\u00e9 gorodey": 1}
+{"kazuyoshi sekine": 2, "izumi aki": 1}
+{"elisa rebeca bridges": 1, "elisa bridges": 1}
+{"domingo de eyzaguirre y arechavala": 1, "domingo eyzaguirre escutasolo": 1, "mar\u00eda rosa de arechavala y alday": 1, "domingo eyzaguirre": 1}
+{"karol \u017cyczkowski": 2, "wojciech s\u0142omczy\u0144ski": 1}
+{"physicist": 1}
+{"joyce tang": 2, "chan sam yuen": 1, "hung sheung sin": 1}
+{"suzanne lilar": 1, "suzanne verbist": 1, "albert lilar": 1, "fran\u00e7oise mallet-joris": 1, "marie fredericq-lilar": 1}
+{"karen redman": 1}
+{"eduard jacob neven looijenga": 1, "nicolaas kuiper": 1, "eduard looijenga": 1}
+{"petrus camper": 2}
+{"charles harrison": 1, "benjamin harrison": 1, "hannah king": 1, "george harris": 1, "augustus anson": 1, "stanley leighton": 1, "k e webster": 1, "elizabeth augusta kempson": 1, "charles harrison (bewdley mp)": 1}
+{"pathit pisitkul": 2, "sith thantipisitkul": 1}
+{"jeremiah smith": 5, "jeremiah smith (lawyer)": 1}
+{"norman harold lever": 1, "harold lever, baron lever of manchester": 1}
+{"peter murnoy": 1}
+{"richard lui": 5, "freida pinto": 1, "marcia cross": 1, "warren buffett": 1, "mark cuban": 1, "jill biden": 1}
+{"charlotte von hagn": 1}
+{"james m. geraghty": 1, "clarence d. martin": 1}
+{"michael hutchings": 1, "julia child": 1, "jeanne berg": 1, "michael hutchings (chef)": 1}
+{"chef": 1}
+{"gideon olin": 2}
+{"malcolm david kelley": 1, "malcolm kelley": 1, "walt lloyd": 1}
+{"james alex msekela": 1, "jakaya mrisho kikwete": 1, "james msekela": 1}
+{"nancy kassebaum": 1, "alf landon": 1, "howard baker": 1, "lugar": 1, "roth": 1, "mcconnell": 1, "dole": 1}
+{"del quentin wilber": 5, "ted stevens": 1, "ed norris": 1, "ronald reagan": 1}
+{"pierre pansu": 3, "mikhail gromov": 1, "f\u00e9lix esclangon": 1, "ernest esclangon": 1, "robert pansu": 1}
+{"larry coon": 5, "james naismith": 1, "bill simmons": 1, "david aldridge": 1}
+{"computer scientist": 1}
+{"masayoshi nataniya": 2}
+{"leonida tonelli": 2, "fubini": 1}
+{"judith deborah rakers": 1, "judith rakers": 1}
+{"hiroyuki arai": 1}
+{"ernst gerhardt timme": 1, "ernst timme": 1}
+{"farmer": 1}
+{"bill kintner": 1}
+{"francesco vettori": 1, "niccol\u00f2 machiavelli": 2}
+{"melinda mullins": 1}
+{"tachibana no moroe": 1, "emperor sh\u014dmu": 1, "empress k\u014dken": 1, "tachibana no naramaro": 1, "fujiwara no hirotsugu": 1}
+{"susan kent": 3, "susan kent (actress)": 1}
+{"ludwig lichtschein": 1, "lichtstein lajos": 1, "lichstein lajos": 1, "kossuth lajos": 1}
+{"rabbi": 5}
+{"will smith": 5, "dj jazzy jeff": 1, "muhammad ali": 1, "chris gardner": 1, "jada pinkett smith": 1, "chris rock": 1}
+{"film producer": 1}
+{"marjorie margolies": 1, "bill clinton": 1}
+{"w\u0142adys\u0142aw s\u0142awny": 2}
+{"pierre chatenet": 1}
+{"luciano vincenzoni": 1}
+{"thandiswa mazwai": 1, "king tha": 1}
+{"wenceslao quinito vinzons sr.": 1, "narciso j. alegre": 1, "arturo tolentino": 1, "wenceslao vinzons": 1}
+{"maurizio belpietro": 1}
+{"darien corey dash, jr.": 1, "dash": 1, "retch": 1, "mordecai beats": 1, "ab-soul": 1, "action bronson": 1, "earl sweatshirt": 1, "vince staples": 1, "suicideboys": 1, "mac miller": 1, "dash (rapper)": 1}
+{"baton haxhiu": 2}
+{"samuel wells williams": 2}
+{"walter k\u00f6bel": 3}
+{"debbie johnson": 1, "michelle benson": 1}
+{"john scurti": 1, "denis leary": 2}
+{"john barnes": 1, "john barnes (monk)": 1}
+{"monk": 1}
+{"marc royal": 1, "shy fx": 1, "ysanne spevack": 1, "chris stevens": 1, "andre williams": 1, "t power": 1}
+{"adil e. shamoo": 1, "adil shamoo": 1}
+{"biochemist": 1}
+{"patrick mulvany": 1}
+{"james graham collier": 1, "graham collier": 1}
+{"bandleader": 1}
+{"arcangelo ghisleri": 5, "filippo turati": 1, "giuseppe garibaldi": 1, "mauro macchi": 1, "ausonio franchi": 1, "giovanni conti": 1}
+{"carlos mar\u00eda ram\u00edrez": 1, "juan pedro ram\u00edrez carrasco": 1, "consolaci\u00f3n \u00e1lvarez y obes": 1, "jos\u00e9 pedro ram\u00edrez": 1, "julio ram\u00edrez": 1, "juan augusto ram\u00edrez": 1, "octavio ram\u00edrez": 1, "gonzalo ram\u00edrez": 1}
+{"tina sloan": 2}
+{"gerard kennedy": 2, "gerard kennedy (actor)": 1}
+{"giora godik": 2}
+{"impresario": 1}
+{"lillian lawrence": 1, "ethel grey terry": 1}
+{"philip rosenberg": 1}
+{"william cameron menzies": 1, "production designer": 1}
+{"sudarshan kamra": 1, "sudarshan faakir": 1, "begum akhtar": 1, "jagjit singh": 1, "manav faakir": 1}
+{"lyricist": 1}
+{"shonali bose": 5, "malini chib": 1, "bedabrata pain": 1}
+{"archibald thomas pechey": 1, "valentine": 2, "sir james vallentin": 1, "grimble vallentine": 1, "john franks vallentin": 1, "james w. tate": 1, "f. clifford harris": 1, "will evans": 1, "daphne wrayne": 1, "sir hugh williamson": 1, "james treviller": 1, "martin everest": 1, "alan sylvester": 1, "bijou sortain hancock": 1, "fanny cradock": 1, "richard francis pechey": 1}
+{"thomas challis": 1, "thomas slingsby duncombe": 1, "duke of wellington": 1}
+{"mariana paola vicente morales": 1, "mariana vicente": 1}
+{"francis mairs huntington wilson": 1, "huntington wilson": 1}
+{"ek yi oun": 2}
+{"benjamin mount": 1, "ben mount": 1}
+{"bala": 3, "bala (director)": 1}
+{"stephen wilson tom": 1, "steve tom": 1}
+{"ilja rosendahl": 1}
+{"ronald l. nyswaner": 1, "ron nyswaner": 1}
+{"athanasios pafilis": 2, "thanasis pafilis": 1}
+{"nicholas sanduleak": 1}
+{"christopher henry gould butson": 1, "james strange butson": 1, "christopher butson": 1, "christopher butson (priest)": 1}
+{"priest": 1}
+{"otto frankel": 2}
+{"geneticist": 1}
+{"rich brightman": 2}
+{"singer-songwriter": 1}
+{"denaun porter": 1, "eminem": 1, "50 cent": 1, "royce da 5'9\"": 1, "the game": 1, "method man": 1, "snoop dogg": 1, "jadakiss": 1}
+{"felix walker": 5, "daniel boone": 1, "felix walker (american politician)": 1}
+{"franz seitz sr.": 1, "franz seitz jr.": 1}
+{"christopher keith irvine": 1, "chris jericho": 5, "stone cold steve austin": 1, "the rock": 1, "big show": 1}
+{"frederick dundas": 1}
+{"andrew turner": 1, "stephen jones": 1, "ian brown": 1, "saint etienne": 1, "the charlatans": 1, "lil' kim": 1, "thunderbugs": 1, "archive": 1, "down to the bone": 1, "texas": 1, "rae & christian": 1, "aim": 1, "aim (musician)": 1}
+{"disc jockey": 1}
+{"nadia giosia": 1, "nadia g": 1}
+{"adele capell": 1, "adele beach grant": 1, "adele capell, countess of essex": 1}
+{"socialite": 1}
+{"kanye west": 6, "jay-z": 3, "kid cudi": 1, "bob dylan": 1, "kim kardashian": 1, "michael jackson": 1}
+{"hawthorne james": 1, "big red davis": 1, "sam": 1, "george": 1, "the night guard": 1, "bill": 1, "james hawthorne": 1, "robert hawthorne": 1, "a. m. alene": 1, "jimmy potter": 1, "shakespeare": 1}
+{"s\u0131rr\u0131 s\u00fcreyya \u00f6nder": 1}
+{"edward norton": 2, "fletcher norton": 2, "grace chapple": 1, "sir william chapple": 1, "sir james lowther": 1, "william": 1, "chapple": 1, "edward norton (mp)": 1}
+{"clarence linden garnett ashby iii": 1, "linden ashby": 1}
+{"ann friedman": 5}
+{"olav trygveson laake": 1, "olav t. laake": 1}
+{"carolyn eisele": 2, "charles sanders peirce": 1}
+{"jonathan le billon": 1, "jonathan keith le billon": 1}
+{"mildred okwo": 2}
+{"eliza lawrence": 5, "harry lawrence": 1, "fran\u00e7ois beaulieu ii": 1}
+{"charles combe": 2}
+{"gregory james qaiyum": 1, "gq": 5, "jaq": 2, "gq (actor)": 1}
+{"john d. maurice": 2}
+{"harvey benge": 1}
+{"william garfield greaves": 2, "william greaves": 1}
+{"david joyce": 2, "david patrick joyce": 1, "david joyce (politician)": 1}
+{"zhu houren": 1, "jack choo hoh yim": 1}
+{"ayumi hamasaki": 6}
+{"gunhild bricken kristina lugn": 1, "kristina lugn": 1}
+{"luca coscioni": 3}
+{"raymond s. burton": 1, "ray burton": 1, "burton": 3}
+{"beth hart": 3, "joe bonamassa": 3}
+{"benazir bhutto": 5, "zulfikar bhutto": 1, "nusrat": 1, "muhammad zia-ul-haq": 1, "thatcher": 1, "ghulam ishak khan": 1, "nawaz sharif": 1, "asif ali zardari": 1, "farooq leghari": 1, "pervez musharraf": 1, "murtaza": 1}
+{"alan edden huckle": 1, "andrew george": 1, "nigel haywood": 1, "alan huckle": 1}
+{"gunnar uldall": 5}
+{"alfred mombert": 2}
+{"famke janssen": 5, "xenia onatopp": 1, "jean grey": 1, "phoenix": 1, "lenore mills": 1}
+{"sylwester braun": 5}
+{"chalmers jack mackenzie": 1, "james": 1, "janet mackenzie": 1, "sir john kennedy": 1, "jack mackenzie": 1}
+{"john smeaton": 1, "civil engineer": 1}
+{"audrie kiko daniel": 1, "kiko mizuhara": 5, "rihanna": 1, "beyonc\u00e9": 1, "towa tei": 1}
+{"michael james radford": 1, "george orwell": 1, "john hurt": 1, "richard burton": 1, "michael radford": 1}
+{"henry campbell-bannerman": 2, "gladstone": 1, "rosebery": 1, "a. j. a. morris": 1, "h. h. asquith": 1}
+{"robert voisey": 1}
+{"composer": 1}
+{"richard vaughan": 1, "richard vaughan (bishop)": 1}
+{"bishop": 1}
+{"debra weeks": 1}
+{"bed\u0159ich feigl": 2, "friedrich feigl": 1}
+{"graphic designer": 1}
+{"richard marles": 5, "gavan o'connor": 1, "kevin rudd": 1, "anthony albanese": 1}
+{"damini ebunoluwa ogulu": 1, "burna boy": 6}
+{"edward ridley finch cox": 1, "tricia nixon cox": 1, "president nixon": 1, "pat nixon": 1, "edward f. cox": 1}
+{"sven alkalaj": 5}
+{"alex reid": 2, "alex reid (actress)": 1}
+{"isabelle adriani": 1, "federica federici": 1}
+{"edward gunasekara": 2}
+{"david m. westcott": 1, "david mandeville westcott": 1}
+{"carl linnaeus": 1, "carl von linn\u00e9": 1, "jean-jacques rousseau": 1, "johann wolfgang von goethe": 1, "august strindberg": 1, "shakespeare": 1, "spinoza": 1}
+{"raghupati sahay": 1, "firaq gorakhpuri": 1, "muhammad iqbal": 1, "yagana changezi": 1, "jigar moradabadi": 1, "josh malihabadi": 1}
+{"gordon leonard gosse jr.": 1, "gordie gosse": 1}
+{"nenad popovi\u0107": 1}
+{"bj\u00f6rn b\u00f6hning": 1, "hubertus heil": 1}
+{"susan soltero": 2}
+{"p. palaniappan": 1, "p. dhanapal": 1, "edappadi k. palaniswami": 1, "t.t.v. dhinakaran": 1}
+{"carla bissi": 1, "alice": 1, "alice visconti": 1, "franco battiato": 1, "alice (singer)": 1}
+{"j. da silva": 1}
+{"umpire (cricket)": 1, "umpire": 1}
+{"joshua paul mankiewicz": 1, "brian williams": 1, "megyn kelly": 1, "josh mankiewicz": 1}
+{"siva nageswara rao": 1}
+{"abdirizak haji hussein": 2}
+{"hermann fritz gustav goos": 1, "fritz goos": 1}
+{"charles anthony gillespie jr.": 1, "charles a. gillespie jr.": 1}
+{"tharman shanmugaratnam": 5, "joseph e. stiglitz": 1, "thomas piketty": 1, "michael spence": 1, "mich\u00e8le lamont": 1}
+{"alexander wilhelm gadolin": 1, "alexander gadolin": 1}
+{"levi parsons powers": 1, "levi p. powers": 1}
+{"kamya panjabi": 2, "kamya shalabh dang": 1}
+{"robert gwilym": 2, "bob gwilym": 1, "mike gwilym": 2, "terry pratchett": 1, "bruce chatwin": 1, "ian rankin": 1}
+{"lee min-young": 1, "min": 1, "min (south korean singer)": 1}
+{"john strange": 2, "john strange (diplomat)": 1}
+{"everley gregg": 1, "no\u00ebl coward": 1}
+{"ruby rose langenheim": 1, "ruby rose": 1}
+{"margaret sutherland mccall": 1, "fred berger": 1, "eleanor millard": 1, "meg mccall": 1}
+{"walter de la pole": 1}
+{"todd verow": 1, "james derek dwyer": 1, "jon moritsugu": 1}
+{"kyaw swe": 2, "kyaw swe (actor)": 1}
+{"guillaume du tillot": 1, "philip": 1, "princess louise-\u00e9lisabeth of france": 1, "charles iii of spain": 1, "philippe de bourbon": 1}
+{"james j. gibson": 1, "john garcia": 1, "david rumelhart": 1, "louis leon thurstone": 1, "margaret floy washburn": 1, "robert s. woodworth": 1}
+{"edwin h. knopf": 1}
+{"apurba kishore bir": 1, "a. k. bir": 1}
+{"cinematographer": 1}
+{"prince radu of romania": 1, "radu duda": 1, "margareta of romania": 1, "friedrich wilhelm": 1, "prince of hohenzollern": 1, "king michael i": 2, "viorica tanta begnescu": 1, "princess margareta": 1, "queen anne": 1}
+{"tatiana doronina": 2, "people's artist of the ussr": 1}
+{"marina augusta pepper": 1, "marina baker": 1}
+{"hugh hefner": 1, "hailee lautenbach": 1, "playboy playmate": 1}
+{"naathan phan": 2}
+{"paul caillaud": 1}
+{"rusty willoughby": 1, "kurt bloch": 1, "jonathan poneman": 1, "scott sutherland": 1}
+{"ebenezer webster": 2, "daniel webster": 1}
+{"bridie o'flaherty": 1, "patrick lawless": 1, "delia laffy": 1, "larry o'flaherty": 1, "bobby molloy": 1, "terry": 2, "john": 1, "mary": 1, "della": 1, "angela": 1, "betty": 1, "joe": 1, "tony": 1, "claire": 1, "trudy": 1}
+{"john jay": 2, "william jay": 1, "john jay (lawyer)": 1}
+{"ivan kulichenko": 1, "ivan ivanovych kulichenko": 1}
+{"christopher beazley": 1}
+{"christine juarbe": 1}
+{"model (person)": 1, "model": 1}
+{"affonso henrique beato": 1, "glauber rocha": 1, "jim mcbride": 1, "pedro almod\u00f3var": 1, "walter salles": 1, "affonso beato": 1}
+{"scott z. burns": 1}
+{"vanessa angel": 2}
+{"atsushi kaneko": 2}
+{"william molyneux": 2, "john locke": 1}
+{"edward david redwine": 1, "r.c. soles": 1, "e. david redwine": 1}
+{"kyriakos mavronikolas": 2, "sophocles sophocleous": 1}
+{"john blake jr.": 2, "john blake jr. (politician)": 1}
+{"amitabh bachchan": 3, "amitabh srivastava": 1, "fran\u00e7ois truffaut": 1, "harivansh rai bachchan": 1, "teji bachchan": 1, "mrinal sen": 1}
+{"mami matsui": 2}
+{"voice acting in japan": 1}
+{"marie-france mignal": 1, "france delahalle": 1}
+{"patrick james moloney": 1, "con": 1, "patrick": 1, "eunan o'halpin": 1, "p. j. moloney": 1}
+{"robert lewis": 1, "john lewis": 1, "robert lewis (mp)": 1}
+{"guillem ramon de gironella": 1, "guillem ramon": 5, "brunissendis de gerundella": 1, "guillelmus raimundi de gerundella": 1, "guilem raimon de gironela": 1, "guilem raimon": 1, "pouzet": 1, "cerver\u00ed de girona": 1, "na guyllamona": 1, "guillemona": 1, "en poncet": 1, "chr\u00e9tien de troyes": 1}
+{"dante alighieri": 1, "troubadour": 1}
+{"dima grigoriev": 3, "dmitry grigoryev": 1, "anatol slissenko": 1, "andrew odlyzko": 1}
+{"hermann ahlwardt": 1, "gerson von bleichr\u00f6der": 1, "otto b\u00f6ckel": 2, "theodore roosevelt": 1}
+{"alexandre b\u00f3veda": 2}
+{"paddy mullins": 2}
+{"harvey william burk": 1, "roleys williams": 1, "susan armour": 1, "edward blake": 1, "mary emily": 1, "sam hughes": 1}
+{"richard sandrak": 1}
+{"amin amidu sulemana": 4, "president mills": 1, "president mahama": 1}
+{"jim boyd": 2, "jim boyd (newscaster)": 1}
+{"nosrat karimi": 1, "agha joon": 1}
+{"ashlie walker": 5}
+{"j\u00f6rg a. eggers": 2}
+{"petru vlah": 2}
+{"giovanni grasso": 2, "virginia balestrieri": 1}
+{"pierre abraham": 1}
+{"paul lieber": 1, "det. sgt. eric dorsey": 1}
+{"jal\u0101l al-d\u012bn mu\u1e25ammad r\u016bm\u012b": 1, "rumi": 5}
+{"elvin penner": 5}
+{"keiko aizawa": 2, "shigeru ushiyama": 1}
+{"rodrigo arocena linn": 1, "rodrigo arocena": 1}
+{"robert florey": 5, "robert fuchs": 1, "louis feuillade": 1}
+{"petros efthymiou": 2}
+{"fidel antu\u00f1a batista": 1}
+{"william flynn": 1, "chad dimera": 1, "billy flynn (actor)": 1, "billy flynn": 1}
+{"\u015fefik birkiye": 1}
+{"architect": 1}
+{"isobel pravda": 1, "george pravda": 1, "hana maria pravda": 1}
+{"natasha leggero": 1, "chelsea handler": 1, "riki lindhome": 1}
+{"dorothy coade hewett": 1, "dorothy hewett": 1}
+{"william phillips sr.": 1}
+{"michael jackson": 5, "conrad murray": 1, "jackie": 1, "tito": 1, "jermaine": 1, "marlon": 1}
+{"rodrigo cort\u00e9s gir\u00e1ldez": 1, "rodrigo cort\u00e9s": 1}
+{"richard rishi": 1, "mohan g": 1}
+{"lee seung-hyun": 1, "seungri": 5}
+{"antoinette jennings": 1, "jeb bush": 1, "frank brogan": 1, "jeff kottkamp": 1, "linda chapin": 1, "mitt romney": 1, "toni jennings": 1}
+{"thomas gifford": 1, "william gifford": 1, "margaret stewart": 1, "annie stoddart": 1, "margaret": 1, "james stoddart": 1, "john jardine": 1, "julia stuart": 1, "hugh wilson": 1, "john cunningham brown": 1, "thomas gifford (politician)": 1}
+{"dm sevilla": 1, "erich gonzales": 1}
+{"sardar muhammad yousuf gujjar": 1, "shahzada muhammad gushtasip khan swati": 1, "sardar muhammad yousuf": 1}
+{"jaclyn nesheiwat stapp": 1, "scott stapp": 1, "jaclyn stapp": 1}
+{"thomas jefferson kontos": 1, "thomas jefferson kaye": 1, "the shirelles": 1, "loudon wainwright iii": 1, "gene clark": 1}
+{"pietro marcenaro": 2}
+{"william australia graham": 1, "george graham": 1, "wiremu tamihana": 1, "general carey": 1, "king mahuta": 1, "julius vogel": 1, "alice": 1, "walter coombes": 1, "robert peat": 1, "cedric kenny onslow graham": 1, "mrs j. h. hume": 1, "mrs c. l. & mrs a. c. macdiarmid": 1, "alice australia buckleton": 1, "hilda herberta blanche hume": 1, "mrs watts": 1}
+{"richard myers": 1, "jack lawrence": 1, "richard myers (songwriter)": 1}
+{"conrad weiser": 2, "johann conrad weiser, jr.": 1}
+{"paul hindemith": 2, "walt whitman": 1}
+{"carlo giustini": 1, "carlo justini": 1}
+{"alfredo narciso": 2}
+{"lindsay ellingson": 2, "lindsay marie ellingson": 1}
+{"shelley wark-martyn": 2, "bob rae": 1}
+{"jos\u00e9 feliciano": 2, "doors": 1}
+{"hugo becker": 1, "louis grimaldi": 1, "romain": 1, "hugo becker (actor)": 1}
+{"frits castricum": 2}
+{"john bell": 2, "john bell (surgeon)": 1}
+{"david sharp": 2, "david sharp (entomologist)": 1}
+{"galina vasilyevna starovoitova": 1, "galina starovoytova": 1}
+{"per risvik": 1}
+{"eleanor yule": 1, "michael palin": 1, "christopher lee": 1}
+{"claire adams": 2, "beryl vere nassau adams": 1}
+{"agneta bolme b\u00f6rjefors": 2, "tomas bolme": 1}
+{"theodore lothrop stoddard": 1, "adolf hitler": 1, "lothrop stoddard": 1}
+{"gloria tang sze-wing": 1, "g.e.m.": 5, "tang tsz-kei": 1}
+{"brigitte bardot": 5, "simone de beauvoir": 1, "charles de gaulle": 1, "bernard d'ormale": 1, "jean-marie le pen": 1, "jean-luc godard": 1, "louis malle": 1}
+{"alexander bogdanov": 1, "vladimir lenin": 1, "alexander malinovsky": 1}
+{"chris lang": 2}
+{"pamela winslow": 2, "rapunzel": 1, "sondheim-lapine": 1}
+{"alan bjerga": 1}
+{"tadhg dall \u00f3 huiginn": 1}
+{"leigh whannell": 1, "james wan": 1, "adam stanheight": 1}
+{"yiannis ritsos": 2}
+{"andrew michael clarke": 1, "andy c": 1}
+{"bryan fryzel": 1, "frequency": 1, "frequency (record producer)": 1}
+{"zoran ranki\u0107": 1, "nikola kalabi\u0107": 1, "\u017earko popara": 1}
+{"chitra bahadur k.c.": 8, "mohan bikram singh": 2}
+{"david anthony willis": 1, "ski beatz": 1}
+{"siegfried czapski": 2}
+{"lord george francis hamilton": 1, "lord george hamilton": 1}
+{"mari\u00e1ngel ruiz torrealba": 1, "mari\u00e1ngel ruiz": 1}
+{"michael shelley": 3, "they might be giants": 1, "shonen knife": 1, "marshall crenshaw": 1, "belle & sebastian": 1, "michael shelley (musician)": 1}
+{"anjali sudhakar": 1, "anjali": 1, "shantha": 1, "kashinath": 1}
+{"greg miller": 1, "devon werkheiser": 1, "greg miller (animator)": 1}
+{"rose beaudet": 1, "eliza lang": 2, "lewis h. lang": 1, "mary ann lang": 1, "s. arlant edwards": 1, "kate everleigh": 1}
+{"ava deluca-verley": 1, "jenna elfman": 1, "j. k. simmons": 1}
+{"sayaka ichii": 2}
+{"george birnie esslemont": 1, "clementine macdonald": 1, "mary esslemont": 1, "george esslemont": 1}
+{"tiffany pollard": 5, "flavor flav": 1, "joseline hernandez": 1, "amber rose": 1, "ray j": 1}
+{"shorty hamilton": 2, "william john schroeder": 1, "jack hamilton": 1}
+{"ajay kumar parida": 3, "m. s. swaminathan": 1}
+{"biologist": 1}
+{"baruch steinberg": 1, "boruch steinberg": 1}
+{"charles martin smith": 1, "george lucas": 1, "farley mowat": 1}
+{"bobby henon": 1}
+{"john andrew martin": 2}
+{"salvador allende": 5, "general ren\u00e9 schneider": 1, "richard nixon": 1, "henry kissinger": 1, "general augusto pinochet": 1}
+{"n\u00e1ndor bal\u00e1zs": 1}
+{"t. p. poonatchi": 1}
+{"joni jenkins": 1}
+{"martin shapiro": 2}
+{"gabriel gonsum ganaka": 1, "dominic ekandem": 1}
+{"max fechner": 1}
+{"augustine steward": 1}
+{"andrew ure": 2}
+{"guy joseph bonnet": 2}
+{"major general": 1}
+{"rhea silvia": 1, "romulus": 1, "remus": 1, "livy": 1, "cassius dio": 1, "mars": 1, "ovid": 1}
+{"gratian": 1, "vestal virgin": 1}
+{"jason r. reitman": 1, "ivan reitman": 1, "diablo cody": 1, "jason reitman": 1}
+{"lewis j. rachmil": 2, "william boyd": 1}
+{"ren\u00e9 b\u00e9gin": 3}
+{"johann heinrich lambert": 2, "jean-henri lambert": 1}
+{"robert jonckheere": 1, "a. r. jonckheere": 1, "robert jonckh\u00e8ere": 1}
+{"klaus rainer r\u00f6hl": 2}
+{"yuki kaida": 2, "kurapika": 1, "shusuke fuji": 1, "abe no masahiro": 1, "yao wang": 1}
+{"tracy coogan": 2}
+{"arafan camara": 1, "bailo diallo": 1}
+{"george lewis": 5, "eliajh lewis": 1, "elizabeth sumner (doggetrt) lewis": 1, "s. u. williams": 1, "george lewis (politician)": 1}
+{"louis o'dea": 1}
+{"mohamed bazoum": 3, "abdourahamane tchiani": 1, "mahamane ousmane": 1}
+{"dennis rodman": 5, "kim jong un": 1, "hulk hogan": 1}
+{"guo gengmao": 2}
+{"derek ingram hill": 1}
+{"jacques monasch": 2, "monasch": 3}
+{"sebaki devi das tatma": 1, "tatma": 2}
+{"robert antoine": 1, "pierre fallon": 1}
+{"howard thomas fowles": 1, "howard fowles": 1, "billy davies": 1}
+{"seif sharif hamad": 1}
+{"fernanda de vasconcellos galvez": 1, "fernanda vasconcellos": 1}
+{"julia de asensi": 1}
+{"\u0111ur\u0111a ivezi\u0107": 1}
+{"richard james wilson": 1, "rick wilson (australian politician)": 1, "rick wilson": 1}
+{"john campbell": 1, "john campbell, 3rd earl of breadalbane and holland": 1}
+{"ya'akov ahimeir": 2}
+{"jean-baptiste lamarck": 3, "monet": 1, "prussia": 1}
+{"james anderson": 2, "james anderson lld": 1, "james anderson (botanist)": 1}
+{"jeet gannguli": 1, "chandrajeet ganguly": 1}
+{"\u017earko petan": 3, "jo\u017ee javor\u0161ek": 1, "bojan \u0161tih": 1, "domin\u00edk smole": 1, "taras kermauner": 1, "dane zajc": 1}
+{"akimasa nakamura": 2}
+{"thomas widdrington": 2, "sir thomas widdrington": 1, "thomas fairfax": 1, "king charles ii": 1, "thomas widdrington (died 1660)": 1}
+{"william james smith": 1, "phil smith": 1, "will smith": 1, "will smith (comedian)": 1}
+{"eckart axel von hirschhausen": 1, "eckart von hirschhausen": 1}
+{"enos thompson throop": 1, "enos t. throop": 1}
+{"ali hillis": 2, "dr. liara t'soni": 1, "lightning": 1, "palutena": 1}
+{"virginia haviland": 2}
+{"librarian": 1}
+{"val mclane": 1, "valerie bradford": 1}
+{"frances louise josephy": 1, "frances josephy": 1}
+{"uri nakayama": 2}
+{"hairdresser": 1}
+{"edward drinker cope": 3, "othniel charles marsh": 1}
+{"geologist": 1}
+{"edwin nelson hubbell": 1, "edwin n. hubbell": 1}
+{"donald john trump": 1, "kim jong un": 1, "donald trump": 1}
+{"real estate development": 1}
+{"ivan iii dra\u0161kovi\u0107": 1, "john iii drashkovich": 1, "trakosty\u00e1ni gr\u00f3f draskovich j\u00e1nos": 1}
+{"michael dahulich": 1, "michael": 5, "bishop john martin": 1, "john martin": 1, "metr. jonah": 1}
+{"jorge traverso": 2}
+{"shinnosuke ikehata": 1, "toshio matsumoto": 1, "akira kurosawa": 1, "peter": 1, "peter (actor)": 1}
+{"mar\u00eda victoria bilbao-goyoaga \u00e1lvarez": 1, "mariv\u00ed bilbao": 1, "marisa benito": 1, "izaskun sagastume": 1}
+{"mark thomas vande hei": 1, "mark t. vande hei": 1}
+{"astronaut": 1}
+{"dick rude": 1, "alex cox": 1, "joe strummer": 1}
+{"robert d. cardona": 1, "david mitton": 1}
+{"hayao miyazaki": 1, "mitsuo iso": 1, "animator": 1}
+{"michael lynton": 3, "michael mark lynton": 1}
+{"chief executive officer": 1}
+{"brent huff": 5}
+{"j\u00f8rgine anna sverdrup krog": 1, "hagbart berner": 1, "susan b. anthony": 1, "elizabeth cady stanton": 1, "gina krog": 1}
+{"arkady mikhaylovich chernetsky": 1, "arkady chernetsky": 1}
+{"shirley palmer": 1, "oliver hardy": 1, "herbert rawlinson": 1, "ronald colman": 1, "carmel myers": 1, "ricardo cortez": 1, "patsy ruth miller": 1, "dorothy sebastian": 1, "neil hamilton": 1, "john wayne": 1, "john collier": 1, "shirley palmer (actress)": 1}
+{"paolo pellizzari": 2}
+{"g. karunakara reddy": 1, "b.s yeddyurappa": 1}
+{"petr mlsna": 1, "petr ne\u010das": 1}
+{"neville ashenheim": 2, "queen elizabeth ii": 1, "lewis ashenheim": 1}
+{"william martin joel": 1, "richard hyung-ki joo": 1, "billy joel": 1}
+{"nina konstantinovna varlamova": 1, "varlamova": 2, "nina varlamova": 1}
+{"ruth harriet louise": 2, "ruth goldstein": 1}
+{"lorena corona vald\u00e9s": 2}
+{"darrell hammond": 3, "kenan thompson": 1, "bill clinton": 1, "don pardo": 1}
+{"bed\u0159ich smetana": 5, "josef proksch": 1, "franz liszt": 1, "richard wagner": 1, "anton\u00edn dvo\u0159\u00e1k": 1}
+{"pianist": 1}
+{"sir thomas clarges": 3, "anne shute": 1, "john shute": 1, "william skrine": 1, "louisa skrine": 1, "sir thomas clarges, 2nd baronet": 1, "thomas clarges": 1, "sir thomas clarges, 3rd baronet": 1}
+{"donald robert macgregor": 1, "col. henry arnaud heics": 1}
+{"jari porttila": 5, "mustafa denizli": 1, "siiri rantanen": 1}
+{"david james brown": 1, "david j. brown": 1, "david j. brown (computer scientist)": 1}
+{"claudio benjam\u00edn naranjo cohen": 1, "fritz perls": 1, "oscar ichazo": 1, "claudio naranjo": 1}
+{"psychiatrist": 1}
+{"eric flynn": 1, "eric william flynn": 1}
+{"honor harger": 2}
+{"curator": 1}
+{"clement baker": 2}
+{"alleppey vincent": 1, "sebastian kunjukunju bhagavathar": 1}
+{"mike flanagan": 2, "kate siegel": 1, "carla gugino": 1, "henry thomas": 1, "samantha sloyan": 1, "rahul kohli": 1, "bruce greenwood": 1, "zach gilford": 1, "michael trucco": 1, "annalise basso": 1, "lulu wilson": 1, "annabeth gish": 1, "katie parker": 1, "alex essoe": 1, "mike flanagan (filmmaker)": 1}
+{"m\u00e1rio belarmino": 1, "belarmino m\u00e1rio chipongue": 1, "chipongue": 1}
+{"lubango": 1}
+{"antoine richard": 1, "pascal barr\u00e9": 1, "patrick barr\u00e9": 1, "hermann panzo": 1, "mike mcfarlane": 1}
+{"fontainebleau": 1}
+{"sigrid doris peyerimhoff": 1, "sigrid d. peyerimhoff": 1}
+{"rottweil": 1}
+{"charles paul hammock": 1, "charles hammock": 1}
+{"william penn": 1, "george washington": 1, "philadelphia": 1}
+{"izhar elias": 2, "florian magnus maier": 1}
+{"rembrandt": 1, "vincent van gogh": 1, "baruch spinoza": 1, "john locke": 1, "ren\u00e9 descartes": 1, "anne frank": 1, "amsterdam": 1}
+{"karim abdel aziz": 2, "mohammad abdul aziz": 1, "omar abdel aziz": 1}
+{"cairo": 1}
+{"petru stoianov": 3, "mihai eminescu": 1, "carmen stoianov": 1}
+{"susana vinga": 1, "vinga": 1}
+{"rafael reyes": 1, "leafar seyer": 1, "rafael reyes (artist)": 1}
+{"saint rafael gu\u00edzar valencia": 1, "father marcial maciel": 1, "jos\u00e9 mendoza morf\u00edn": 1, "cotija de la paz": 1}
+{"raju kaji shakya": 3}
+{"dharan": 1}
+{"lance hooper": 1, "uncle": 1, "father": 1, "brother": 1}
+{"palmdale, california": 1}
+{"jerrold jacob katz": 1, "jerrold katz": 1}
+{"george washington": 1, "pierre charles l'enfant": 1, "washington, d.c.": 1}
+{"roger morton mccardell": 1, "roger mccardell": 1}
+{"baltimore county, maryland": 1}
+{"alastair heathcote": 1}
+{"athena": 1, "athens": 1}
+{"antonio calcagni": 1, "girolamo lombardo": 1, "pope gregory xiii": 1, "ludovico lombardi": 1, "ascoli": 1, "annibale caro": 1, "tiburzio vergelli": 1, "tarquinio jacometti": 1, "sebastiano sebastiani": 1}
+{"beniamino gigli": 1, "giacomo leopardi": 1, "menahem recanati": 1, "giuseppe persiani": 1, "recanati": 1}
+{"william marshall craig": 1, "thomson": 1, "sarah biffen": 1}
+{"ernest rutherford": 1, "frederic c. williams": 1, "tom kilburn": 1, "geoff tootill": 1, "andre geim": 1, "konstantin novoselov": 1, "manchester": 1}
+{"philipp crone": 2}
+{"cologne": 1}
+{"i.p. paul": 1, "i. p. paul": 1}
+{"thrissur": 1}
+{"danie mellor": 1}
+{"princess alexandra of denmark": 1, "john mackay": 1, "mackay, queensland": 1}
+{"constantine of kostenets": 1, "constantine the philosopher": 1, "stefan lazarevi\u0107": 1, "george ostrogorsky": 1}
+{"kostenets": 1}
+{"endre b\u00e1lint": 2}
+{"budapest": 1}
+{"aleksandr ivanovich nekrasov": 1, "aleksandr nekrasov": 1}
+{"peter the great": 1, "moscow": 1}
+{"charles joseph bonaparte": 1, "theodore roosevelt": 1, "j\u00e9r\u00f4me bonaparte": 1, "napoleon": 1}
+{"francis scott key": 1, "baltimore": 1}
+{"shahrzad sepanlou": 3, "mohammad-ali sepanlou": 1, "partow nooriala": 1}
+{"agha mohammad khan": 1, "mohammad reza shah": 1, "tehran": 1}
+{"louis fran\u00e7ois antoine arbogast": 1, "francesco fa\u00e0 di bruno": 1}
+{"mutzig": 1}
+{"ingrid maria wetterstrand": 1, "maria wetterstrand": 1, "peter eriksson": 1, "ville niinist\u00f6": 1, "elias": 1, "linnea": 1}
+{"eskilstuna": 1}
+{"austin cuvillier": 2}
+{"samuel de champlain": 1, "quebec city": 1}
+{"eduard bargheer": 1}
+{"finkenwerder": 1}
+{"neophyte": 1, "simeon nikolov dimitrov": 1, "neophyte of bulgaria": 1}
+{"sofia": 1}
+{"andrian mardiansyah": 2}
+{"indonesia": 1}
+{"james albert myers": 1, "bert myers": 1}
+{"frederick, maryland": 1}
+{"scott fraser": 3, "scott fraser (orienteer)": 1}
+{"edinburgh": 1}
+{"dakota j. collins": 1, "dakota collins": 1}
+{"santa barbara, california": 1}
+{"giuseppe castelli": 2, "giuseppe castelli (footballer)": 1}
+{"leonardo da vinci": 1, "milan": 1}
+{"johann christian brand": 2, "christian hilfgott brand": 1, "karl aigen": 1, "friedrich august brand": 1}
+{"beethoven": 1, "brahms": 1, "bruckner": 1, "haydn": 1, "mahler": 1, "mozart": 1, "schoenberg": 1, "schubert": 1, "johann strauss i": 1, "johann strauss ii": 1, "sigmund freud": 1, "vienna": 1}
+{"jacob duck": 1, "joost cornelisz droochsloot": 1}
+{"utrecht": 1}
+{"robert darley waddilove": 5, "abel darley": 1, "robert waddilove": 1, "thomas robinson": 1, "2nd baron grantham": 1, "john moore": 1, "abbe bayer": 1, "thomas falconer": 1, "charles i": 1, "infante gabriel": 1, "ludovic grant": 1, "anne hope grant": 1, "thomas darley waddilove": 1, "william james darley waddilove": 1, "james graham": 1, "georgiana maria": 1, "charles christopher oxley": 1, "robert hay drummond": 1, "william markham": 1, "darley waddilove": 1}
+{"boroughbridge": 1}
+{"harold f. reetz jr.": 1, "harold reetz": 1}
+{"watseka, illinois": 1}
+{"rufus parnell jones": 1, "al unser": 1, "parnelli jones": 1}
+{"texarkana, arkansas": 1}
+{"fernand cornez": 2}
+{"paris": 1}
+{"volodymyr kravets": 2, "volodymyr kravets (diplomat)": 1}
+{"cherkasy oblast": 1}
+{"jack robert culcay-keth": 1, "jack culcay": 1}
+{"diana caiza": 1, "juan montalvo": 1, "juan le\u00f3n mera": 1, "juan benigno vela": 1, "ambato, ecuador": 1}
+{"yinka ayenuwa": 2}
+{"warri": 1}
+{"christopher maurice brown": 1, "michael jackson": 1, "rihanna": 1, "drake": 1, "chris brown": 1}
+{"john smith": 1, "tappahannock, virginia": 1}
+{"philip williams": 2, "phil williams (footballer, born 1958)": 1, "phil williams": 1}
+{"birkenhead": 1}
+{"samantha james": 2}
+{"juan rodr\u00edguez cabrillo": 1, "felipe de neve": 1, "frank gehry": 1, "los angeles": 1}
+{"jack kachkar": 1}
+{"damascus": 1}
+{"gustavo grondona": 3, "h\u00e9ctor grodona": 1, "julio humberto grondona": 1}
+{"buenos aires": 1}
+{"robert l. geddins": 1, "bob geddins": 1}
+{"texas": 1}
+{"ferenc paragi": 5, "miklos nemeth": 1, "tom petranoff": 1, "uwe hohn": 1, "dainis kula": 1}
+{"bastien lecouffe deharme": 5, "pierre bordage": 1, "alain damasio": 1, "gilles osvald": 1, "johann bodin": 1, "anders lazaret": 1, "philip k. dick": 1, "clive barker": 1, "chuck palahniuk": 1, "h.p. lovecraft": 1, "frank herbert": 1, "bastien lecouffe-deharme": 1}
+{"vannes": 1}
+{"brent maddock": 1, "s. s. wilson": 1}
+{"united states": 1}
+{"betty francisco": 1, "elizabeth barton": 1, "evelyn": 1, "margaret": 1}
+{"jean-baptiste b\u00e9nard de la harpe": 1, "little rock, arkansas": 1}
+{"hans-j\u00f6rg voigt": 1, "christiane": 1}
+{"dresden": 1}
+{"charles lawrence davis": 1, "davis": 3, "charlie davis": 1, "charlie davis (basketball)": 1}
+{"king charles ii": 1, "duke of york": 1, "new york city": 1}
+{"valangaiman sankaranarayana srinivasa sastri": 1, "srinivasa sastri": 4, "gopal krishna gokhale": 1, "mahatma gandhi": 1, "nehru": 1, "v. s. srinivasa sastri": 1}
+{"valangaiman": 1}
+{"yuriy vernydub": 2, "mykolayovych vernydub": 1}
+{"sergey korolyov": 1, "zhytomyr": 1}
+{"marnus labuschagne": 5, "steve smith": 1}
+{"klerksdorp": 1}
+{"leslie douglas (les) jackson": 1, "john": 1, "leslie douglas jackson": 1}
+{"sir thomas brisbane": 1, "general douglas macarthur": 1, "brisbane": 1}
+{"ricardo guillermo maliandi": 1, "nicolai hartmann": 1, "karl-otto apel": 1, "ricardo maliandi": 1}
+{"dardo rocha": 1, "tom\u00e1s bradley sutton": 1, "eva per\u00f3n": 1, "la plata": 1}
+{"alfred jefferis turner": 1, "frederick storrs-turner": 1}
+{"sir robert peel": 1, "queen victoria": 1, "lin zexu": 1, "emperor xuanzong": 1, "guangzhou": 1}
+{"ernest thompson willows": 1, "ernest willows": 1}
+{"cardiff": 1}
+{"afonso ii": 1, "sancho i": 1, "dulce of aragon": 1, "afonso ii of portugal": 1}
+{"coimbra": 1}
+{"derek reginald lamb": 1, "john weldon": 1, "eunice macaulay": 1, "eugene fedorenko": 2, "janet perlman": 2, "edward gorey": 1, "chris landreth": 1, "richard steven lamb": 1, "thomas derek lamb": 1, "derek lamb": 1}
+{"london": 1}
+{"andranik migranyan": 2}
+{"king argishti i": 1, "yerevan": 1}
+{"runa akiyama": 1, "teruko akiyama": 1}
+{"tokyo": 1}
+{"annika billstam": 4}
+{"gustav vasa": 1, "anders celsius": 1, "carl linnaeus": 1, "ingmar bergman": 1, "dag hammarskj\u00f6ld": 1, "j\u00f6ns jacob berzelius": 1, "svante arrhenius": 1, "viveca lindfors": 1, "malena ernman": 1, "uppsala": 1}
+{"suad nasr abd el aziz": 1, "suad nasr": 1}
+{"jason bourque": 2, "jason christopher bourque": 1}
+{"gassy jack": 1, "greenpeace": 1, "vancouver": 1}
+{"siegfried kurt baschwitz": 1, "otto frank": 1, "anne frank": 1, "kurt baschwitz": 1}
+{"offenburg": 1}
+{"camillo benso": 3, "giuseppe garibaldi": 1, "denis mack smith": 1, "camillo benso, count of cavour": 1}
+{"camillo benso": 1, "turin": 1}
+{"beniamino di giacomo": 1}
+{"king umberto i": 1, "porto recanati": 1}
+{"timothy mark alexander": 1, "tim alexander (footballer)": 1, "tim alexander": 1}
+{"st erkenwald": 1, "henry i": 1, "blanche heriot": 1, "chertsey": 1}
+{"louis l\u00e9opold robert": 2}
+{"le corbusier": 1, "blaise cendrars": 1, "louis chevrolet": 1, "la chaux-de-fonds": 1}
+{"eric defoort": 3}
+{"ypres": 1}
+{"reinaldo dalcin": 3}
+{"canoas": 1}
+{"wang yaping": 3}
+{"yantai": 1}
+{"robert anthony cremins": 1, "babe ruth": 1, "ray cunningham": 1, "bob cremins": 1}
+{"pelham manor, new york": 1}
+{"l\u00e9on l\u00e9vy brunswick": 1, "jean-fran\u00e7ois bayard": 1, "louis-\u00e9mile vanderburch": 1, "arthur de beauplan": 1, "franz von supp\u00e9": 1, "adolphe de leuven": 1, "adolphe adam": 1, "leo lh\u00e9rie": 1}
+{"david oppenheim": 3, "david oppenheim (poker player)": 1}
+{"calabasas, california": 1}
+{"juan luis guerra seijas": 1, "juan luis guerra": 1}
+{"nicol\u00e1s de ovando": 1, "rafael trujillo": 1, "santo domingo": 1}
+{"luis reece": 2, "michael reece": 1}
+{"perkin warbeck": 1, "henry vii": 1, "duke of monmouth": 1, "judge jeffreys": 1, "taunton": 1}
+{"jaswant singh i": 1, "jaswant singh of marwar": 1}
+{"rao jodha": 1, "maharaja hanwant singh": 1, "jodhpur": 1}
+{"eduardo gudi\u00f1o kieffer": 2}
+{"esperanza, santa fe": 1}
+{"greg windsperger": 2}
+{"prince": 1, "jacob frey": 1, "minneapolis": 1}
+{"nelson vargas": 2}
+{"william g. morgan": 1, "clemens herschel": 1, "holyoke, massachusetts": 1}
+{"matthew whitfield moralee": 1, "moralee": 4, "isabella": 1, "matt moralee": 1}
+{"william the conqueror": 1, "robert curthose": 1, "newcastle upon tyne": 1}
+{"petar stamboli\u0107": 2}
+{"ivanjica": 1}
+{"josephus nicolaus laurenti": 2, "carl linnaeus": 1, "jacob joseph winterl": 1}
+{"michael seward gregory": 1, "phil taylor": 1, "mike gregory (darts player)": 1, "mike gregory": 1}
+{"beau nash": 1, "john wood, the elder": 1, "jane austen": 1, "bath, somerset": 1}
+{"jorge betancourt": 2, "erick fornaris": 1}
+{"matanzas": 1}
+{"neil robinson": 2, "neil robinson (footballer, born 1957)": 1}
+{"walton, liverpool": 1}
+{"paul humphries": 5, "humphries": 1, "hughes": 1}
+{"bromsgrove": 1}
+{"barbara engel": 1, "werner engel": 1, "bernd herzsprung": 1, "hannah herzsprung": 1}
+{"helmut schmidt": 1, "angela merkel": 1, "olaf scholz": 1, "hamburg": 1}
+{"quorey payne": 1}
+{"clewiston, florida": 1}
+{"lloyd ultan": 2, "lloyd ultan (composer)": 1}
+{"joseph bova": 2, "carol burnett": 1, "mary catalano": 1, "anthony bova": 1}
+{"general moses cleaveland": 1, "cleveland": 1}
+{"oi va voi": 1}
+{"elena romagnolo": 2}
+{"borgosesia": 1}
+{"jean-dominique, comte de cassini": 1, "c\u00e9sar-fran\u00e7ois cassini de thury": 2, "giovanni domenico cassini": 1, "pierre le roy": 1, "pierre m\u00e9chain": 1, "adrien-marie legendre": 1, "william herschel": 1, "claude marie louise de lamyre-mory comtesse de neuville": 1, "henri": 1, "dominique, comte de cassini": 1}
+{"joris delle": 1}
+{"briey": 1}
+{"annie gautrat": 1, "stone": 1, "\u00e9ric charden": 1, "stone (singer)": 1}
+{"margaret of england": 1, "king edward iii": 1, "philippa of hainault": 1, "margaret of windsor": 1, "margaret, countess of pembroke": 1}
+{"william the conqueror": 1, "henry i": 1, "hugh roberts": 1, "john martin robinson": 1, "henry iii": 1, "edward iii": 1, "henry viii": 1, "elizabeth i": 1, "charles i": 1, "charles ii": 1, "hugh may": 1, "george iii": 1, "george iv": 1, "queen victoria": 1, "george vi": 1, "elizabeth ii": 1, "windsor castle": 1}
+{"ferdinand elle": 2}
+{"margaret of york": 1, "margaret of austria": 1, "hieronymus van busleyden": 1, "mechelen": 1}
+{"maarten van severen": 3, "dan van severen": 1, "fabian van severen": 1}
+{"antwerp": 1}
+{"refet bele": 2, "refet bey": 1, "refet pasha": 1}
+{"constantine the great": 1, "istanbul": 1}
+{"zijah sokolovi\u0107": 2}
+{"archduke franz ferdinand": 1, "gavrilo princip": 1, "sarajevo": 1}
+{"rahi masoom raza": 1}
+{"ghazipur": 1}
+{"robert lee warlick": 1, "ernie warlick": 1, "phillyblunts": 2, "bobby warlick": 1, "erika warlick": 1, "bob warlick": 1}
+{"hickory, north carolina": 1}
+{"richard lawrence leonard": 1, "anthony crosland": 1, "dick leonard": 1}
+{"romford": 1}
+{"clarence robert beck": 1, "clarence beck": 1}
+{"harrisburg, pennsylvania": 1}
+{"alo\u00efs boudry": 2}
+{"anthony shields": 1, "tony shields": 1}
+{"strabane": 1}
+{"hendrik gerritsz pot": 2, "frans hals": 1}
+{"haarlem": 1}
+{"amoene van haersolte": 2, "ernestine amoene sophia van holthe tot echten": 1}
+{"james william baker": 1, "alf baker": 1, "aaron baker": 1, "arthur fairclough": 1, "ernie hart": 1, "jim baker": 1, "jim baker (footballer)": 1}
+{"ilkeston": 1}
+{"harry peter larson, iii": 1, "pete larson (american football)": 1, "pete larson": 1}
+{"thomas penn": 1, "spencer compton": 1, "george ii": 1, "wilmington, delaware": 1}
+{"valdemar iii": 2, "christopher ii": 1, "valdemar the young": 1, "valdemar iii of denmark": 1}
+{"denmark": 1}
+{"piotr balcerzak": 1, "joanna nie\u0142acna": 1}
+{"sigismund iii": 2, "warsaw": 1}
+{"koudai tsukakoshi": 1}
+{"tochigi prefecture": 1}
+{"john emmett edgerton": 1, "john edgerton": 1}
+{"johnston county, north carolina": 1}
+{"gerard john best": 1, "jerry best": 1, "tom": 1, "doug aldrich": 1, "mike tramp": 1, "courtney love": 1, "joel ellis": 1, "frankie banali": 1, "chuck wright": 1, "jerry best (bassist)": 1}
+{"catherine of braganza": 1, "john f. kennedy": 1, "laguardia": 1, "queens": 1}
+{"jim": 1, "george crook": 1, "jim (medal of honor recipient)": 1}
+{"arizona territory": 1}
+{"barbu \u0219tef\u0103nescu delavrancea": 1, "barbu \u0219tefan": 1}
+{"nicolae ceau\u0219escu": 1, "bucharest": 1}
+{"michael woolston ash": 1, "james buchanan": 1}
+{"gustavo adolfo madero gonz\u00e1lez": 1, "porfirio d\u00edaz": 1, "francisco i. madero": 1, "f\u00e9lix d\u00edaz": 1, "gustavo a. madero": 1}
+{"parras": 1}
+{"andrea di alessandro": 1, "alessandro vittoria": 1}
+{"gabriele d'annunzio": 1, "alessandro manzoni": 1, "brescia": 1}
+{"alison cockburn": 1, "alison rutherford": 1, "alicia cockburn": 1, "walter scott": 1, "robert burns": 1, "david hume": 1}
+{"selkirkshire": 1}
+{"karl wilhelm louis rosenmund": 1, "otto diels": 1, "karl wilhelm rosenmund": 1}
+{"berlin": 1}
+{"francisco maldonado": 2}
+{"raymond of burgundy": 1, "alfonso vi of le\u00f3n": 1, "alfonso ix of le\u00f3n": 1, "alfonso x of castile": 1, "pope alexander iv": 1, "antonio de nebrija": 1, "christopher columbus": 1, "fernando de rojas": 1, "francisco de vitoria": 1, "luis de le\u00f3n": 1, "beatriz galindo": 1, "miguel de unamuno": 1, "salamanca": 1}
+{"gilbert bodart": 2}
+{"seraing": 1}
+{"roy allison roberts": 1, "harry s. truman": 1, "dwight d. eisenhower": 1, "roy a. roberts": 1}
+{"muscotah, kansas": 1}
+{"radjindernath \"edu\" nandlal": 1, "edu nandlal": 1}
+{"paramaribo": 1}
+{"gregorio selser": 1, "augusto sandino": 1, "juan bosch": 1, "irene selser": 1, "gabriela selser": 1, "claudia selser": 1}
+{"donald harcourt de lue": 1, "donald de lue": 1}
+{"paul revere": 1, "boston": 1}
+{"ramon luis valc\u00e1rcel siso": 1, "ramon luis valc\u00e1rcel": 1, "ram\u00f3n luis valc\u00e1rcel": 1}
+{"abd ar-rahman ii": 1, "francisco salzillo": 1, "murcia": 1}
+{"anne brusletto": 1}
+{"geilo": 1}
+{"tameem mohammed ahmed al-kubati": 1, "gabriel mercedes": 1, "\u00f3scar mu\u00f1oz": 1, "tameem al-kubati": 1}
+{"abdrabbuh mansur hadi": 1, "sanaa": 1}
+{"august brand": 2, "ernst huth": 1}
+{"arthur thomson": 2, "arthur campbell thomson": 1, "arthur thomson (footballer, born 1948)": 1}
+{"milo\u0161 \u017eeravica": 1}
+{"king peter i": 1, "zrenjanin": 1}
+{"mohammad mahdi vaezi esfahani": 1, "mohammad esfahani": 1, "mohammad-reza shajarian": 1, "ali jahandar": 1}
+{"brandon bays": 2}
+{"aina kusuda": 2, "nozomi toujou": 1, "suko": 1, "rose": 1}
+{"chiba prefecture": 1}
+{"batman": 8, "bob kane": 2, "bill finger": 2, "bruce wayne": 2, "thomas": 1, "martha": 1, "alfred pennyworth": 1, "james gordon": 1, "catwoman": 1, "penguin": 1, "riddler": 1, "two-face": 1, "joker": 1, "frank miller": 1, "jean-paul valley": 1, "azrael": 1, "dick grayson": 1, "jace fox": 1, "lucius": 1, "adam west": 1, "michael keaton": 1, "val kilmer": 1, "george clooney": 1, "christian bale": 1, "ben affleck": 1, "robert pattinson": 1, "kevin conroy": 1}
+{"bill finger": 2, "bob kane": 1, "hugh ferriss": 1, "gotham city": 1}
+{"lisa jane miller": 1, "lisa miller": 1, "lisa miller (psychologist)": 1}
+{"giovanni speranza": 1}
+{"giessen": 1}
+{"william collins": 1, "constable": 1, "turner": 1, "vanderbilt": 1, "william collins (painter)": 1}
+{"veselin vujovi\u0107": 3}
+{"cetinje": 1}
+{"vitaly arkhangelsky": 2, "valentina matvienko": 1}
+{"almaty": 1}
+{"anton lui": 1}
+{"rabaul": 1}
+{"paul walker": 5, "paul walker (footballer, born 1977)": 1}
+{"kilwinning": 1}
+{"douglas mccombs": 1, "bundy k. brown": 1, "chris brokaw": 1, "curtis harvey": 1, "eric claridge": 1, "doug mccombs": 1}
+{"henri de tonti": 1, "abraham lincoln": 1, "groucho marx": 1, "peoria, illinois": 1}
+{"edward vincent sullivan": 1, "david hinckley": 1, "david bianculli": 1, "ed sullivan": 1}
+{"margaret coit": 2, "john c. calhoun": 3}
+{"norwich, connecticut": 1}
+{"serhiy anatoliyovych zayets": 1, "serhiy zayets": 1}
+{"berdychiv": 1}
+{"ahmad balshe": 1, "the weeknd": 3, "beyonc\u00e9": 1, "dj khaled": 1, "belly": 1, "belly (rapper)": 1}
+{"jenin": 1}
+{"william anderson": 1, "wiliam anderson": 1, "john ward": 1, "william anderson (artist)": 1}
+{"james vi": 1, "scotland": 1}
+{"thomas david schall": 1, "magnus johnson": 1, "franklin d. roosevelt": 1, "eleanor roosevelt": 1, "mussolini": 1, "hitler": 1, "thomas d. schall": 1}
+{"reed city, michigan": 1}
+{"johann heinrich roos": 2}
+{"otterberg": 1}
+{"kristian mcgrady outinen": 1, "kristian outinen": 1}
+{"copenhagen": 1}
+{"matthijs van dulcken": 1, "matthias van dulcken": 1, "matheus van dulcken": 1, "frederick henry": 1, "helwich van wessum": 1, "christophorus": 1, "matthijs dulken": 1}
+{"roermond": 1}
+{"dee": 6, "martin granger": 1, "martin shank": 1, "reda enan": 1, "kid loco": 1, "sixtoo": 1, "ariane moffatt": 1, "dj champion": 1, "jean-pierre ferland": 1, "mel": 1, "beyonc\u00e9": 1, "kelis": 1, "funkmaster flex": 1, "carole laure": 1, "ricardo trogi": 1, "dee (singer)": 1}
+{"montreal": 1}
+{"antigoni goni": 5, "evangelos assimakopoulos": 1, "john mills": 1, "julian bream": 1, "sharon isbin": 1}
+{"sebastian hofmann": 1}
+{"sinsheim": 1}
+{"emil freiherr marschalk von ostheim": 1, "emil marschalk von ostheim": 1}
+{"henry ii": 1, "kunigunde": 1, "bamberg": 1}
+{"\u015feref has": 2}
+{"kalevi kull": 1, "olevi kull": 1, "jakob von uexk\u00fcll": 1}
+{"tartu": 1}
+{"esau tjiuoro": 2}
+{"okakarara": 1}
+{"gerard thomas": 1, "peter paul rubens": 1, "anthony van dyck": 1, "jacob jordaens": 1}
+{"ricardo s\u00e1nchez": 2, "ricardo s\u00e1nchez (footballer)": 1}
+{"crist\u00f3bal de o\u00f1ate": 1, "nu\u00f1o beltr\u00e1n de guzm\u00e1n": 1, "charles v": 1, "miguel hidalgo y costilla": 1, "plutarco el\u00edas calles": 1, "guadalajara": 1}
+{"leena maria peisa": 1, "awa": 1, "kita": 1, "sampsa astala": 1, "leena peisa": 1}
+{"vantaa": 1}
+{"robert kraft": 1, "forbes": 1}
+{"john f. kennedy": 1, "brookline, massachusetts": 1}
+{"germaine aussey": 1, "germaine adrienne agassiz": 1, "ren\u00e9 clair": 1, "julien duvivier": 1, "paul fejos": 1, "jean gr\u00e9millon": 1, "marc all\u00e9gret": 1, "sacha guitry": 1, "john ringling north": 1}
+{"bruno n\u00f6ckler": 2}
+{"prettau": 1}
+{"gloria porras valles": 1}
+{"baja california sur": 1}
+{"john harvey": 1, "harvey": 3, "harvey (announcer)": 1}
+{"glover morrill allen": 1, "nathaniel glover allen": 1, "harriet ann (schouler) allen": 1, "ralph nicholson ellis": 1}
+{"walpole, new hampshire": 1}
+{"annie oakley": 1, "phoebe ann mosey": 1, "frank e. butler": 1, "buffalo bill": 1, "thomas edison": 1}
+{"william darke": 1, "darke county, ohio": 1}
+{"gabriella di laccio": 1}
+{"manuel jorge gomes de sep\u00falveda": 1, "jos\u00e9 marcelino de figueiredo": 1, "porto alegre": 1}
+{"moses the black": 1, "sozomen": 1}
+{"muhammad ali": 1, "hosni mubarak": 1, "mohamed morsi": 1, "abdel fattah el-sisi": 1, "egypt": 1}
+{"claudio costamagna": 3, "salini family": 1}
+{"andries bonger": 1, "johanna van gogh-bonger": 1, "theo van gogh": 1}
+{"lois long": 5, "frances bancroft": 1, "william j. long": 1, "harold ross": 1, "peter arno": 1}
+{"stamford, connecticut": 1}
+{"robert bethea scarborough": 1, "robert b. scarborough": 1}
+{"chesterfield, south carolina": 1}
+{"manon": 1, "rosmarie k\u00fcng": 1, "manon (artist)": 1}
+{"berthold v": 1, "bern": 1}
+{"elizabeth nicole abrams": 1, "liz": 2, "sophie": 1, "liz (musician)": 1}
+{"edgar rice burroughs": 1, "tarzana, los angeles": 1}
+{"dilson dar\u00edo torres": 1, "dilson torres": 1}
+{"maracay": 1}
+{"raymond bernard strauss": 1, "ian dick": 1, "harry price": 1, "des hoare": 1, "ron gaunt": 1, "lindsay kline": 1, "dattu phadkar": 1, "roy gilchrist": 1, "ray strauss": 1}
+{"captain james stirling": 1, "queen victoria": 1, "perth": 1}
+{"charles latif hyder": 1, "andrei sakharov": 1, "angela davis": 1, "dean reed": 1, "samantha smith": 1, "charles hyder": 1}
+{"francisco cuervo y vald\u00e9s": 1, "francisco fern\u00e1ndez de la cueva": 1, "albuquerque, new mexico": 1}
+{"mark harold holzemer": 1, "mark holzemer": 1}
+{"littleton, colorado": 1}
+{"doug gwosdz": 1}
+{"sam houston": 1, "houston": 1}
+{"hieronymus francken i": 2, "hieronymus francken the elder": 1}
+{"saint waltrude": 1, "herentals": 1}
+{"robert pawe\u0142 zawada": 2, "robert zawada": 1}
+{"jedlnia-letnisko": 1}
+{"vera dua": 5, "mieke vogels": 1}
+{"mathias de clercq": 1, "ghent": 1}
+{"john albert shaud": 5, "george washington": 1, "john a. shaud": 1}
+{"gianni lonzi": 5, "antonella ragno": 1}
+{"dante alighieri": 1, "petrarch": 1, "giovanni boccaccio": 1, "niccol\u00f2 machiavelli": 1, "francesco guicciardini": 1, "florence": 1}
+{"maksim fyodorov": 2, "maksim andreyevich fyodorov": 1, "maksim fyodorov (footballer, born 1989)": 1}
+{"rasskazovo": 1}
+{"oscar jackson jr.": 1, "paris": 1, "paris (rapper)": 1}
+{"francis of assisi": 1, "san francisco": 1}
+{"bruce stokes collie": 1, "holly": 1, "devyn": 1, "jordyn": 1, "jensen": 1, "denton": 1, "branson": 1, "cameron": 1, "bergyn": 1, "calyn": 1, "hadyn": 1, "hansen": 1, "daltyn": 1, "jadyn": 1, "dennison": 1, "tim tebow": 1, "bruce collie": 1}
+{"albrecht d\u00fcrer": 1, "johann pachelbel": 1, "nuremberg": 1}
+{"joseph urban": 2}
+{"peter ian philpott": 3, "peter philpott": 1}
+{"manly, new south wales": 1}
+{"martyn nikolaevich liadov": 1, "martyn nikolaevich mandel\u2019shtam": 1, "martyn liadov": 1}
+{"scott mccuaig": 1}
+{"surrey, british columbia": 1}
+{"k. m. beenamol": 2, "mathews beenamol": 1}
+{"pliny": 1, "kerala": 1}
+{"paul singer": 1, "august bebel": 1, "paul singer (politician)": 1}
+{"nikolai kinski": 1, "klaus kinski": 1, "minhoi genevi\u00e8ve loanic": 1, "pola kinski": 1, "nastassja kinski": 1, "kenya kinski-jones": 1}
+{"athir al-din al-abhari": 1, "athir al-din al-mufaddal ibn umar ibn al-mufaddal al-samarqandi al-abhari": 1, "athir al-din al-munajjim": 1}
+{"abhar": 1}
+{"otto renner": 1, "erwin baur": 1, "karl von goebel": 1, "ludwig radlkofer": 1, "wilhelm pfeffer": 1, "christian ernst stahl": 1, "hermann merxm\u00fcller": 1}
+{"neu-ulm": 1}
+{"louis-ars\u00e8ne lavall\u00e9e": 2, "hormidas laporte": 1}
+{"berthierville": 1}
+{"r\u00f3bert fazekas": 1, "virgilijus alekna": 1}
+{"saint martin of tours": 1, "szombathely": 1}
+{"clemente jos\u00e9 carlos de gouvea isnard": 1, "clemente isnard": 1}
+{"maria i": 1, "john vi": 1, "rio de janeiro": 1}
+{"ezra dale polley": 1, "dale polley": 1}
+{"rev. elijah craig": 1, "george washington": 1, "georgetown, kentucky": 1}
+{"gerd arntz": 2}
+{"remscheid": 1}
+{"robert crannell minor": 3, "israel minor": 1, "alfred cornelius howland": 1, "diaz": 1, "joseph van luppen": 1, "hippolyte boulenger": 1, "george inness": 1, "alexander helwig wyant": 1, "william t. evans": 1}
+{"walter gay": 2}
+{"izumi iimura": 1}
+{"japan": 1}
+{"pierre charette": 1, "silvana tirinzoni": 1}
+{"masson-angers": 1}
+{"hans peter wilhelm arp": 1, "jean arp": 1}
+{"strasbourg": 1}
+{"edgar manas": 2}
+{"reinhard jirgl": 1}
+{"east berlin": 1}
+{"paul bril": 2}
+{"simon callery": 1}
+{"aleksandar mad\u017ear": 2, "aleksandar mad\u017ear (soccer)": 1}
+{"bar, montenegro": 1}
+{"roland wieser": 5, "max weber": 1}
+{"zschopau": 1}
+{"anthony christopher clark": 1, "michael weiner": 1, "tony clark": 1}
+{"newton, kansas": 1}
+{"v\u00edctor rabu": 1, "victor rabu": 1}
+{"agen": 1}
+{"harley park parker": 1, "jay parker": 1, "doc parker": 1}
+{"theresa la ray": 1, "theresa, new york": 1}
+{"giovanni stefano marucelli": 1, "andrea boscoli": 1, "abraham": 1, "san carlo borromeo": 1, "st. george": 1, "st. francis": 1, "catherine": 1, "peter": 1, "dominic": 1}
+{"willem van herp": 2}
+{"matthew hamilton": 1, "matt hamilton (racing driver)": 1, "matt hamilton": 1}
+{"henry viii": 1, "hemel hempstead": 1}
+{"william perry hay": 1, "oliver perry hay": 1}
+{"ronald reagan": 2, "president reagan": 1, "eureka, illinois": 1}
+{"kirk o'bee": 1}
+{"ada township, michigan": 1}
+{"offer nissim": 1, "dana international": 1, "maya simantov": 1, "madonna": 1, "cher": 1}
+{"ron huldai": 1, "nahum sokolow": 1, "theodor herzl": 1, "tel aviv": 1}
+{"joachim br\u00f8chner olsen": 2, "vesteinn hafsteinsson": 1, "simon patrick stewart": 1, "joachim b. olsen": 1}
+{"aalborg": 1}
+{"shawn christopher respert": 2, "shawn respert": 1}
+{"antoine de la mothe cadillac": 1, "alphonse de tonty": 1, "detroit": 1}
+{"john sherman robinson": 1, "john robinson (judge)": 1, "john robinson": 1}
+{"mansfield, ohio": 1}
+{"monster": 5, "wen shang-yi": 1, "ashin": 1, "stone": 1, "masa": 1, "fish leong": 1, "della ding": 1, "alien huang": 1, "energy": 1, "victor wong": 1, "jia jia": 1, "maggie chiang": 1, "fahrenheit": 1, "jing chang": 1, "xiao bing chih": 1, "jam hsiao": 1, "richie jen": 1, "stefanie sun": 1, "matsumoto takahiro": 1, "monster (musician)": 1}
+{"hsinchu": 1}
+{"anders kristian orvin": 1, "anders k. orvin": 1}
+{"hattfjelldal": 1}
+{"nelson faria": 1}
+{"aar\u00e3o reis": 1, "francisco bicalho": 1, "belo horizonte": 1}
+{"guilliam van nieulandt": 1, "willem van nieulandt": 1, "van nieuwelandt": 1, "willem van nieulandt ii": 1}
+{"hermann vezin": 2}
+{"j\u00e1nos ferencsik": 1, "arturo toscanini": 2, "bruno walter": 1, "felix weingartner": 1, "wilhelm furtw\u00e4ngler": 1, "b\u00e9la bart\u00f3k": 2, "ditta p\u00e1sztory-bart\u00f3k": 1, "l\u00e1szl\u00f3 lajtha": 1, "zolt\u00e1n kod\u00e1ly": 1, "alexander raichev": 1}
+{"florence marie harsant": 1, "woodhead": 1, "florence harsant": 1}
+{"new plymouth": 1}
+{"diana karina estrada santana": 1, "martha revuelta": 3, "paola estrada": 2, "frederike fischer": 1, "sandra piasecki": 1, "vanessa virgen": 1, "diana estrada": 1}
+{"mexico city": 1}
+{"sayyid khalid bin barghash al-busa'id": 1, "united kingdom": 1, "khalid bin barghash of zanzibar": 1}
+{"zanzibar": 1}
+{"terence anderson hunte": 1, "terry hunte": 1}
+{"red plastic bag": 1, "john king": 1, "ronnie d.": 1, "lil rick": 1, "ronnie d": 1, "saint philip, barbados": 1}
+{"stephen 'steve' mcdonald": 1, "mcdonald": 4, "steve mcdonald (cricketer)": 1, "steve mcdonald": 1}
+{"thomas attwood": 1, "joseph chamberlain": 1, "birmingham": 1}
+{"izaskun zubizarreta gerendiain": 2}
+{"oiartzun": 1}
+{"harry w. kveb\u00e6k": 1}
+{"fetsund": 1}
+{"rose bampton": 1, "richard wagner": 1, "alban berg": 1, "arnold schoenberg": 1, "samuel barber": 1}
+{"lakewood, ohio": 1}
+{"m\u00e9lonin noumonvi": 1, "andrea minguzzi": 1, "ara abrahamian": 1, "karam gaber": 1, "damian janikowski": 1}
+{"geert brusselers": 2}
+{"eindhoven": 1}
+{"emily hood westacott": 1, "margaret molesworth": 2, "nell hopman": 1, "nancye wynne bolton": 1, "may hardcastle": 1, "victor clyde westacott": 1}
+{"grant bramwell": 1, "alan thompson": 1, "ian ferguson": 1, "paul macdonald": 1}
+{"gisborne, new zealand": 1}
+{"valentin aleksandrovich avrorin": 1, "valentin avrorin": 1}
+{"tambov": 1}
+{"giulio bisegni": 5}
+{"frascati": 1}
+{"alfred frank hardiman": 2, "alfred william hardiman": 1, "ada myhill": 1}
+{"baptiste lecaplain": 1}
+{"mortain": 1}
+{"matthew j. ryan": 2}
+{"julius winfield erving ii": 1, "dr. j": 1, "connie hawkins": 1, "jumping johnny green": 1, "elgin baylor": 1, "jim pollard": 1, "gus johnson": 1, "julius erving": 1}
+{"billy mcginty": 3, "billy mcginty (rugby league)": 1}
+{"glasgow": 1}
+{"steven robert pel\u00e9": 1, "yohann pel\u00e9": 1, "steven pel\u00e9": 1}
+{"brou-sur-chantereine": 1}
+{"james keddy": 2}
+{"dublin": 1}
+{"erick benzi": 1, "gildas arzel": 1, "jacques veneruso": 1, "gwenn arzel": 1, "jean-jacques goldman": 1, "celine dion": 1, "anggun": 1, "christian seguret": 1, "michael jones": 1}
+{"greek settlers": 1, "people of marseille": 1, "resident of marseille": 1, "marseillais": 1, "marseille": 1}
+{"ko wen-je": 1, "pasuya yao": 1}
+{"sugar ray norcia": 1, "raymond alan norcia": 1}
+{"stonington, connecticut": 1}
+{"zsuzsanna n\u00e9meth": 3, "viktor orb\u00e1n": 1, "tam\u00e1s fellegi": 1, "zsuzsanna ser\u00e9nyi": 2}
+{"joel johnson": 5, "bill clinton": 1, "tom daschle": 1, "howard metzenbaum": 1, "john kerry": 1, "joel johnson (communications strategist)": 1}
+{"elmore, ohio": 1}
+{"richard lee arndt": 1, "ron smith": 1, "tom moore": 1, "dick arndt": 1}
+{"bonners ferry, idaho": 1}
+{"robley d. evans": 2}
+{"john floyd": 1, "floyd county, virginia": 1}
+{"ingvild bryn": 2}
+{"voss": 1}
+{"john anderson": 2, "john anderson (racing driver)": 1}
+{"warren, michigan": 1}
+{"sevil atasoy": 3, "\u015femsi g\u00f6k": 1, "ferda g\u00f6k": 1, "abdullah o\u011fuz": 1, "ay\u00e7a selin atasoy": 1}
+{"tsugumi higasayama": 2}
+{"saitama prefecture": 1}
+{"bobby ray baldock": 1, "bobby baldock": 1}
+{"rocky, oklahoma": 1}
+{"johanna jarno-niese": 1, "hansi niese": 1, "johanna niese": 1}
+{"raimonds vilde": 3}
+{"riga": 1}
+{"michael john flynn": 1, "flynn": 3, "mick flynn": 1}
+{"artis wayne cooper": 1, "wayne cooper (basketball)": 1, "wayne cooper": 1}
+{"milan, georgia": 1}
+{"nay myo thant": 5}
+{"pakokku": 1}
+{"kenneth brian edmonds": 1, "babyface": 1, "babyface (musician)": 1}
+{"alexander ralston": 1, "elias pym fordham": 1, "indianapolis": 1}
+{"zara turner": 1}
+{"george best": 1, "belfast": 1}
+{"josephine bell": 1, "doris bell collier": 1}
+{"aarno maliniemi": 3, "university of uppsala": 1, "university of st andrews": 1}
+{"oulu": 1}
+{"charles george plumer": 3, "henry stubberfield": 1, "george wells": 1, "james grundy": 1, "kate elizabeth n\u00e9e marshall": 1, "charles george marshall plumer": 1, "charles plumer": 1}
+{"canons park": 1}
+{"maarten biesheuvel": 2}
+{"saint lidwina": 1, "schiedam": 1}
+{"david ogrin": 1, "clark addison ogrin": 1, "tim nugent": 1}
+{"waukegan, illinois": 1}
+{"kevin joseph morton": 1, "kevin morton": 1}
+{"norwalk, connecticut": 1}
+{"moon joo-won": 1}
+{"syngman rhee": 1, "park chung hee": 2, "chun doo-hwan": 1, "south korea": 1}
+{"joseph patrick addabbo": 1, "ronald reagan": 1, "albert h. bosch": 1, "joseph p. addabbo": 1}
+{"amir syamsuddin": 2}
+{"makassar": 1}
+{"leobardo soto mart\u00ednez": 1, "leobardo soto": 1}
+{"puebla": 1}
+{"hailey mccann": 3, "tatum mccann": 1}
+{"riverside, california": 1}
+{"h\u00e9l\u00e8ne liebmann": 1, "franz lauska": 1, "ferdinand ries": 1, "clara wieck": 1, "helene liebmann": 1}
+{"tuomo suomalainen": 3, "timo suomalainen": 1}
+{"gogland": 1}
+{"donnchadh mac briain": 2, "brian b\u00f3ruma": 1, "gormflaith ingen murchada": 1, "donnchad mac briain": 1}
+{"republic of ireland": 1}
+{"william jack": 2, "william jack (botanist)": 1}
+{"david i": 1, "aberdeen": 1}
+{"oleg markovich govorun": 1, "vladimir putin": 2, "mikhail fridman": 2, "peter aven": 2, "german khan": 1, "dmitry medvedev": 1, "oleg govorun": 1}
+{"bratsk": 1}
+{"masaru inada": 2}
+{"sapporo": 1}
+{"vladimir korotkov": 1, "zaiga jansone": 1, "vladimir korotkov (tennis)": 1}
+{"erasmo carlos": 1, "erasmo esteves": 1, "roberto carlos": 2, "wanderl\u00e9a": 1}
+{"ry\u016bzabur\u014d \u014dtomo": 1, "norio wakamoto": 1, "shigez\u014d sasaoka": 1, "eiji kanie": 1, "shinji nakae": 1, "daisuke g\u014dri": 1, "hirotaka suzuoki": 1, "tessh\u014d genda": 1}
+{"yaroslav vladimirovich rybakov": 1, "v\u00edctor moya": 1, "yaroslav rybakov": 1}
+{"mogilev": 1}
+{"pierre petit": 1, "lamoignon": 1, "aymar de nicolai": 1, "pierre petit (scholar)": 1}
+{"shrichand kriplani": 1, "vasundhara raje": 1}
+{"alauddin khalji": 1, "bahadur shah": 1, "akbar": 1, "meera": 1, "panna dai": 1, "rani padmini": 1, "chittorgarh": 1}
+{"cristina laslo": 2}
+{"gheorghe funar": 1, "archangel michael": 1, "cluj-napoca": 1}
+{"j\u00fcrgen wilfried falter": 1, "j\u00fcrgen w. falter": 1}
+{"sebastian vettel": 1, "heppenheim": 1}
+{"william henry carlson": 1, "billy carlson": 1}
+{"juan rodr\u00edguez cabrillo": 1, "san diego": 1}
+{"herman hertzberger": 2}
+{"stan andrews": 2}
+{"lynn, massachusetts": 1}
+{"alexandre-marie colin": 1}
+{"spartaco schergat": 2}
+{"koper": 1}
+{"bogdan ioan andone": 1, "bogdan andone": 1}
+{"saint giles": 1, "aegidius": 1, "aiud": 1}
+{"frazier othel thompson iii": 1, "trae tha truth": 1, "trae": 1, "z-ro": 1, "t.i.": 1}
+{"louis heilprin pollak": 1, "louis h. pollak": 1}
+{"italo viglianesi": 1, "mariano rumor": 1, "emilio colombo": 1}
+{"caltagirone": 1}
+{"nathaniel boyden": 2}
+{"conway, massachusetts": 1}
+{"johannes de garlandia": 1, "john of garland": 1}
+{"england": 1}
+{"abraham raimbach": 1, "j. hall": 1, "sir david wilkie": 1}
+{"henry hugh bancroft": 1, "e. p. guthrie": 1, "j. s. robinson": 1, "eldred curle": 1, "hugh mclean": 1, "barry anderson": 1, "barbara pentland": 1, "douglas bodle": 1, "elwyn davies": 1, "herbert sadler": 1, "h. hugh bancroft": 1}
+{"cleethorpes": 1}
+{"heinrich august j\u00e4schke": 2, "james hutton": 1}
+{"nicolas ludwig, count von zinzendorf": 1, "herrnhut": 1}
+{"nina dittrich": 1, "ulrike bauer": 1, "kurt dittrich": 1}
+{"erika michelle anderson": 1, "ema": 1, "erika m. anderson": 1}
+{"benjamin harrison": 1, "south dakota": 1}
+{"georg baumann": 1}
+{"ivan iii": 1, "ivan iv": 1, "peter the great": 1, "catherine the great": 1, "alexander i": 1, "alexander ii": 1, "nicholas ii": 1, "russian empire": 1}
+{"percival clarence millar": 1, "clarrie millar": 1}
+{"queen adelaide": 1, "king william iv": 1, "colonel william light": 1, "adelaide": 1}
+{"franklin rosemont": 2}
+{"chicago": 1}
+{"roman taras yosypovych shukhevych": 1, "tur": 1, "taras chuprynka": 1, "per anders rudling": 1, "roman shukhevych": 1}
+{"leo i of galicia": 1, "daniel": 1, "casimir iii the great": 1, "lviv": 1}
+{"julia jones": 1, "julia jones (conductor)": 1}
+{"king john": 1, "john corbett": 1, "droitwich spa": 1}
+{"beijing": 1}
+{"gary freear": 5, "heidi allen": 1}
+{"king's lynn": 1}
+{"thomas seaton scott": 1, "thomas fuller": 1}
+{"alfredo ramos mart\u00ednez": 2, "rub\u00e9n dar\u00edo": 1}
+{"diego de montemayor": 1, "monterrey": 1}
+{"andrew carnie": 1}
+{"calgary": 1}
+{"julee ann cruise": 1, "angelo badalamenti": 1, "david lynch": 2, "cindy wilson": 1, "julee cruise": 1}
+{"creston, iowa": 1}
+{"jiang mianheng": 1, "jiang zemin": 1}
+{"deng xiaoping": 1, "shanghai": 1}
+{"jaime de angulo": 1}
+{"pope john xix": 1, "romanus": 1, "benedict viii": 1, "emperor conrad ii": 1, "guido of arezzo": 1}
+{"tibullus": 1, "ovid": 1, "virgil": 1, "livy": 1, "nicholas v": 1, "rome": 1}
+{"irving amen": 2}
+{"pawe\u0142 blehm": 1, "smbat lputian": 1}
+{"olkusz": 1}
+{"keri lees": 1, "maddox": 1}
+{"stone, staffordshire": 1}
+{"christos mitsis": 2}
+{"theodoros ampatzoglou": 1, "marousi": 1}
+{"karl-hans riehm": 1, "ralf haber": 1, "heinz weis": 1, "karsten kobs": 1, "g\u00fcnther rodehau": 1, "holger klose": 1, "christoph sahner": 1, "klaus ploghaus": 1, "markus esser": 1, "matthias moder": 1}
+{"konz": 1}
+{"robert martin williams": 1, "robin williams": 1, "robin williams (mathematician)": 1}
+{"christchurch": 1}
+{"mike shaver": 1}
+{"grande prairie": 1}
+{"john henry keating": 1, "alfred deakin": 1, "john keating (australian politician)": 1, "john keating": 1}
+{"hobart": 1}
+{"dawson turner": 1, "william jackson hooker": 1, "francis palgrave": 1}
+{"great yarmouth": 1}
+{"chancelor johnathan bennett": 1, "chance the rapper": 1, "2 chainz": 1, "lil wayne": 1, "nico segal": 1}
+{"john o'brien": 3, "paddy o'brien": 1, "john o'brien (hurler)": 1}
+{"toomevara": 1}
+{"diotima of mantinea": 1, "plato": 1, "socrates": 1}
+{"mantineia": 1}
+{"david holmes black": 3}
+{"ralph osborne campney": 1, "ralph campney": 1}
+{"lieutenant general sir thomas picton": 1, "picton, ontario": 1}
+{"leonard shure": 2, "artur schnabel": 1}
+{"roger gaudry": 2}
+{"eduardo hurtado": 1, "eduardo est\u00edguar hurtado roa": 1}
+{"esmeraldas, ecuador": 1}
+{"xue fei": 2, "xue fei (footballer)": 1}
+{"jun murai": 3}
+{"s\u00f8ren l\u00f8kke juul": 3, "indians": 1, "indians (musician)": 1}
+{"denis joseph crowley": 1, "din joe crowley": 1}
+{"eoghan rua o s\u00failleabh\u00e1in": 1, "aogan \u00f3 rathaille": 1, "fr. patrick dineen": 1, "rathmore, county kerry": 1}
+{"\u1ecdl\u00e1t\u00fab\u1ecd\u0300s\u00fan \u1ecdl\u00e1d\u00e0p\u1ecd\u0300": 1, "t\u00fab\u1ecd\u0301s\u00fan \u1ecdl\u00e1d\u00e0p\u1ecd\u0300": 1, "od\u00edd\u1eb9r\u1eb9\u0301 ay\u00e9k\u00f2\u00f3t\u1ecd\u0301": 1, "olatubosun oladapo": 1}
+{"ibadan": 1}
+{"narcisse-fortunat belleau": 1}
+{"joachim zachris duncker": 6, "johan august sandels": 1, "colonel fahlander": 1, "major malm": 1}
+{"kristina stenbock": 1, "per brahe": 1, "ristiina": 1}
+{"paul braniff": 5, "gareth 'magic' johnson": 1, "paul braniff (hurler)": 1}
+{"portaferry": 1}
+{"aki hata": 1, "tomokazu tashiro": 1, "katsuhiko kurosu": 1, "tomoya tabuchi": 1}
+{"scott patterson": 5, "scott patterson (paralympian)": 1}
+{"george tintle": 2}
+{"harrison, new jersey": 1}
+{"jakob kaiser": 5}
+{"hammelburg": 1}
+{"emmanuel biron": 1}
+{"auguste lumiere": 1, "louis lumiere": 1, "lyon": 1}
+{"henry charles bailey jr.": 1, "henry bailey (american football)": 1, "henry bailey": 1}
+{"mike duman": 1, "suffolk, virginia": 1}
+{"yugo yoshida": 1, "ryunosuke harada": 2, "kazunori komatsu": 1, "ai kondo": 1, "wang weidong": 1, "deng daokun": 1}
+{"karatsu, saga": 1}
+{"percy scholes": 1, "dr burney": 1, "james tait black": 1}
+{"leeds": 1}
+{"nicholas french": 2}
+{"wexford": 1}
+{"david harris willson": 2}
+{"stephen douglas kerr": 1, "steve kerr": 1, "robert sarver": 1}
+{"beirut": 1}
+{"edmund kealoha parker jr.": 1, "ed parker": 1, "ed parker jr.": 1}
+{"glendale, california": 1}
+{"montxu miranda d\u00edez": 1, "montxu miranda": 1}
+{"santurtzi": 1}
+{"isaac": 5, "abraham": 2, "sarah": 2, "jacob": 1, "esau": 1}
+{"mark smith": 1, "canaan": 1}
+{"cornelis springer": 2}
+{"gerard kornelis van het reve": 1, "simon gerard van het reve": 1, "willem frederik hermans": 1, "harry mulisch": 1, "paul verhoeven": 1, "karel van het reve": 1, "gerard reve": 1}
+{"alois ra\u0161\u00edn": 1}
+{"nechanice": 1}
+{"aurelian-antonio tecuceanu": 1, "toni": 1, "toni tecuceanu": 1}
+{"joseph moncure march": 1}
+{"aleksandra shelton": 1, "aleksandra anna socha shelton": 1}
+{"pabianice": 1}
+{"timothy m. armstrong": 1, "randy falco": 1, "tim armstrong (executive)": 1, "tim armstrong": 1}
+{"juha jokela": 1, "mari lehtonen": 1}
+{"tampere": 1}
+{"maja gojkovi\u0107": 1}
+{"novi sad": 1}
+{"giuseppe bezzuoli": 1}
+{"j. maurice reymond de broutelles": 1, "maurice reymond": 1, "caroline de broutelles": 1, "henri chapu": 1, "f\u00e9lix joseph barrias": 1, "maurice reymond de broutelles": 1}
+{"geneva": 1}
+{"rie oh": 2, "sadaharu oh": 1}
+{"juan manuel montero v\u00e1zquez": 2, "montero v\u00e1zquez": 1}
+{"palencia": 1}
+{"bruce james crowder": 1, "keith crowder": 1, "craig crowder": 1, "bruce crowder": 1}
+{"essex, ontario": 1}
+{"can bartu": 2}
+{"louis lloyd winter": 2}
+{"canada": 1}
+{"evan abraham": 1}
+{"swansea": 1}
+{"carlos nieto": 5, "berbizier": 1, "carlos nieto (rugby union)": 1}
+{"dave marsh": 1}
+{"mary sanders": 1, "laura zeng": 1, "evita griskenas": 1}
+{"toronto": 1}
+{"ian rutherford": 1, "ken rutherford": 1}
+{"ng\u0101i tahu": 1, "lay association of the free church of scotland": 1, "dunedin": 1}
+{"andrew james keeley": 1, "andy keeley": 1}
+{"basildon": 1}
+{"teri lynn desario": 1, "teri desario": 1}
+{"miami": 1}
+{"alexander mikhaylovich butlerov": 1, "alexander butlerov": 1}
+{"chistopol": 1}
+{"vladimir yakovlev": 2, "vladimir egorovich yakovlev": 1, "vladimir yakovlev (journalist)": 1}
+{"fernando garc\u00eda": 1, "juan orrego-salas": 1, "gustavo becerra-schmidt": 1, "fernando garc\u00eda (composer)": 1}
+{"pedro de valdivia": 1, "santiago": 1}
+{"michele aboro": 2, "michelle sutcliffe": 1, "regina halmich": 1}
+{"bianca guaccero": 1, "carolina scapece": 1}
+{"bitonto": 1}
+{"viator of lyons": 1}
+{"alonso cano": 1, "alonzo cano": 1}
+{"federico garc\u00eda lorca": 1, "nasrid": 1, "catholic monarchs": 1, "granada": 1}
+{"william franklin switzler": 2}
+{"columbia, missouri": 1}
+{"dennis havig": 2, "eugene havig": 1}
+{"powell, wyoming": 1}
+{"alma karlin": 2}
+{"celje": 1}
+{"petros tabouris": 1}
+{"gy\u00f6rgy k\u00e1rp\u00e1ti": 2, "gy\u00f6rgy k\u00e1rp\u00e1ti (film director)": 1}
+{"szymon kataszek": 3, "boruch szymon kataszek": 1}
+{"franky zapata": 2}
+{"rolland harve golden": 1, "john mccrady": 1, "rolland golden": 1}
+{"new orleans": 1}
+{"barbara clementine harris": 1, "barbara harris (bishop)": 1, "barbara harris": 1}
+{"huo liang": 2, "yan hu": 1}
+{"david granger": 2, "sulzbacher": 1, "granger": 1, "david granger (bobsleigh)": 1}
+{"marilyn ferguson": 1, "buckminster fuller": 1, "ram dass": 1, "ilya prigogine": 1, "ted turner": 1, "al gore": 1}
+{"grand junction, colorado": 1}
+{"andrea magi": 2}
+{"gioachino rossini": 1, "pesaro": 1}
+{"g\u00e9rard fromanger": 3, "jean-luc godard": 1, "michel foucault": 1}
+{"jouars-pontchartrain": 1}
+{"joe english": 1, "joe english (loyalist)": 1}
+{"newtownabbey": 1}
+{"mukhtar mukhtarov": 1, "mukhtar badirkhanovich mukhtarov": 1}
+{"lankaran": 1}
+{"melvin henry autry": 1, "hank autry": 1}
+{"william h. hardy": 1, "hattie": 1, "hattiesburg, mississippi": 1}
+{"renato bartilotti": 1}
+{"villahermosa": 1}
+{"maria del pilar cordero": 1, "mapy cort\u00e9s": 1}
+{"santurce, san juan, puerto rico": 1}
+{"michelle renaud": 2, "michelle renaud ruesga": 1}
+{"olegarius bonestruga": 1, "ramon berenguer iii": 1, "renald the grammarian": 1, "olegarius": 1}
+{"tarragona": 1}
+{"philibert orry": 2}
+{"henry v": 1, "catherine of france": 1, "troyes": 1}
+{"samuel storey": 1, "gerry": 2, "gerry junior": 1, "chris eubank": 1, "steve collins": 1, "sam storey": 1}
+{"israel horowitz": 5, "virgil fox": 1, "erica morini": 1, "ruggiero ricci": 1, "leopold stokowski": 1, "andr\u00e9s segovia": 3, "mario castelnuovo-tedesco": 1, "manuel mar\u00eda ponce": 1, "alexandre tansman": 1, "timothy white": 1, "mildred horowitz": 1, "robert": 1, "michael": 1, "israel horowitz (producer)": 1}
+{"everett glass": 2}
+{"paul bunyan": 1, "bangor, maine": 1}
+{"conjeevaram natarajan annadurai": 1, "anna": 1, "perarignar anna": 1, "periyar e. v. ramasamy": 1, "maniammai": 1, "m. g. ramachandran": 1, "c. n. annadurai": 1}
+{"adi sankaracharya": 1, "kanchipuram": 1}
+{"frederick mackenzie": 2, "frederick mackenzie (quebec politician)": 1}
+{"brian kerwin": 2}
+{"kenneth pernell irvin": 1, "phi beta sigma": 1, "ken irvin": 1}
+{"major ridge": 1, "john ross": 1, "benito mussolini": 1, "rome, georgia": 1}
+{"gyula czimra": 2}
+{"joseph benedict aquino magsaysay": 1, "jb magsaysay": 1, "ramon magsaysay": 1, "ram revilla": 1}
+{"san juan, la union": 1}
+{"serjik teymourian": 2}
+{"richard lee calmus": 1, "carl morton": 1, "rocky calmus": 1, "dick calmus": 1}
+{"erik stensrud pedersen": 1, "erik pedersen": 1}
+{"porsgrunn": 1}
+{"peter joseph donohue": 1, "tom baker": 1, "jackie tavener": 1, "pete donohue": 1}
+{"athens, texas": 1}
+{"louis renault": 1, "ernesto teodoro moneta": 1, "c. lyon-caen": 1, "louis renault (jurist)": 1}
+{"emperor augustus": 1, "autun": 1}
+{"tjokorda ngurah wim sukawati": 1, "tjokorda gde raka soekawati": 1, "gusti agung niang putu": 1}
+{"ubud": 1}
+{"luis fernando tena gardu\u00f1o": 1, "luis fernando tena": 1}
+{"damian pettigrew": 1, "damien pettigrew": 1, "balthus": 1, "carolyn carlson": 1, "federico fellini": 1, "jean giraud": 1}
+{"quebec": 1}
+{"wayne gordon hammond": 1, "christina scull": 1, "j. r. r. tolkien": 1, "wayne g. hammond": 1}
+{"walter werner arndt": 2, "goethe": 1, "aleksandr pushkin": 1, "rainer maria rilke": 1, "busch": 1, "morgenstern": 1, "walter w. arndt": 1}
+{"christian andr\u00e9s vaquero abad": 1, "christian vaquero": 1}
+{"bruno mauricio de zabala": 2, "montevideo": 1}
+{"j\u00f6rg bergmeister": 1, "willi bergmeister": 1, "michael schumacher": 1}
+{"leverkusen": 1}
+{"david watson": 1, "david watson (general)": 1}
+{"giancarlo santi": 1, "gian vittorio baldi": 1, "marco ferreri": 1, "sergio leone": 2, "peter bogdanovich": 1, "glauber rocha": 1, "ermanno olmi": 1}
+{"catherine tishem": 2, "jan gruter": 2, "balthasar venator": 1, "wouter gruter": 2, "peter fuchs": 1}
+{"norwich": 1}
+{"travis john thomas": 1, "travis thomas": 1}
+{"washington & jefferson college": 1, "pony league": 1, "washington, pennsylvania": 1}
+{"karim ojjeh": 1, "mansour ojjeh": 1, "akram ojjeh": 1}
+{"ji\u0159\u00ed vy\u010dichlo": 1}
+{"charles iv": 1, "rudolf ii": 1, "prague": 1}
+{"youri messen-jaschin": 1}
+{"arosa": 1}
+{"malcolm john rebennack, jr.": 1, "dr. john": 1}
+{"wayne horvitz": 1, "robin holcomb": 1, "john zorn": 1}
+{"lindsay pagano": 5, "aaron carter": 1, "shakira": 1}
+{"jan van de cappelle": 1, "franchoy": 1}
+{"\u00e9doard vaillant": 5, "charles longuet": 1, "louis-auguste rogeard": 1, "jules vall\u00e8s": 1, "pierre-joseph proudhon": 1, "auguste blanqui": 1, "eug\u00e8ne baudin": 1, "jules guesde": 1, "jean jaur\u00e8s": 2, "\u00e9douard vaillant": 1}
+{"vierzon": 1}
+{"gerhard ludwig": 1, "frederick the great": 1, "heinrich b\u00f6ll": 1, "ernst von salomon": 1, "gustaf gr\u00fcndgens": 1, "werner finck": 1, "konrad adenauer": 1}
+{"james arthur peters": 1, "norman edouard hartweg": 1, "james a. peters": 1}
+{"durant, iowa": 1}
+{"gaston-fran\u00e7ois de witte": 1}
+{"rita cadillac (french dancer)": 1, "rita cadillac (brazilian entertainer)": 1, "rita cadillac": 1}
+{"farman behboud": 2, "emanuel melik-aslanian": 1, "ophelia kombadjian": 1, "rasool akbari": 1, "joseph lerner": 1, "peyman yazdanian": 1}
+{"william ross short": 1, "new york yankees": 1, "cincinnati reds": 1, "baltimore orioles": 1, "boston red sox": 1, "pittsburgh pirates": 1, "new york mets": 1, "minnesota twins": 1, "bill short": 1}
+{"kingston, new york": 1}
+{"francisco mar\u00eda oreamuno bonilla": 1}
+{"cartago, costa rica": 1}
+{"martin simonson": 3, "j.r.r. tolkien": 2, "ursula k. le guin": 1}
+{"king gustavus adolphus": 1, "gothenburg": 1}
+{"eliza hittman": 1, "dr. dre": 1, "hittman": 1}
+{"william bell scott": 1, "dante gabriel rossetti": 1, "algernon charles swinburne": 1}
+{"roger mendy": 1}
+{"dakar": 1}
+{"mimoun ouled radi": 1, "rachid boussabon": 1}
+{"william osler": 1, "margaret charlton": 1}
+{"ontario": 1}
+{"kensho ono": 1, "tetsuya kuroko": 1, "giorno giovanna": 1, "slaine troyard": 1, "yuya sakaki": 1, "hakuryu ren": 1, "mikaela hyakuya": 1, "harry potter": 1, "miles morales": 1, "muromachi t\u014dji": 1}
+{"fukuoka prefecture": 1}
+{"theodore samuel williams": 1, "george h. w. bush": 1, "ted williams": 1}
+{"anthony gale": 1, "tony gale": 1, "anna gale": 1, "anthony gale (sledge hockey)": 1}
+{"louis kasekende": 3}
+{"milton obote": 1, "idi amin": 1, "yoweri museveni": 3, "uganda": 1}
+{"jeanne de casalis": 2, "jeanne casalis de pury": 1, "vivien leigh": 1, "agatha christie": 1, "colin clive": 1, "cowan douglas stephenson": 1}
+{"queen victoria": 1, "basutoland": 1}
+{"henry soames": 1}
+{"prince regent": 1, "king george iv": 1, "brighton": 1}
+{"ma. merceditas consunji navarro gutierrez": 1, "gutierrez": 2, "merceditas gutierrez": 1}
+{"ferdinand magellan": 1, "ruy l\u00f3pez de villalobos": 1, "king philip ii": 1, "philippines": 1}
+{"karl bartholomaeus heller": 1, "johann jakob heckel": 1}
+{"moravia": 1}
+{"don richard ashburn": 1, "willie mays": 1, "tris speaker": 1, "richie ashburn": 1}
+{"tilden, nebraska": 1}
+{"yoshifumi tajima": 1}
+{"empress jing\u016b": 1, "kobe": 1}
+{"blair montgomery thornton": 1, "bachman-turner overdrive": 1, "crosstown bus": 1, "blair thornton": 1}
+{"mohammad azharullah": 2, "azharullah": 1}
+{"burewala": 1}
+{"javier su\u00e1rez bernaldo de quir\u00f3s": 1, "javier su\u00e1rez (economist)": 1, "javier su\u00e1rez": 1}
+{"jose luis mart\u00ednez-almeida": 1, "madrid": 1}
+{"george nyiko maluleka": 1, "george maluleka": 1}
+{"thembisa": 1}
+{"martin behaim": 2, "john ii of portugal": 1}
+{"roger hornsby mckee": 1, "cookie cuccurullo": 1, "roger mckee": 1}
+{"shelby, north carolina": 1}
+{"domenico bologna": 1, "antonio fontanesi": 1, "francesco gamba": 1}
+{"bruce c. heezen": 1, "marie tharp": 1}
+{"vinton, iowa": 1}
+{"alexandros a. m\u00e1tsas": 1, "clytemnestra": 1, "croesus": 1, "alexandros matsas": 1}
+{"michele tenore": 6, "domenico maria leone cirillo": 1, "vincenzo petagna": 2, "petagna": 1}
+{"caravaggio": 1, "naples": 1}
+{"hans christian tikkanen": 1, "hans tikkanen": 1}
+{"sola i karlstad": 1, "karlstad": 1}
+{"manuel ortiz partida": 1, "halloween": 1, "ciclope": 1, "halloween (wrestler)": 1}
+{"tijuana": 1}
+{"kazuhiro suzuki": 2}
+{"roman nose": 1, "hook nose": 1}
+{"james buchanan": 1, "ulysses s. grant": 1, "colorado": 1}
+{"james ivan roland": 1, "roger maris": 1, "mickey mantle": 1, "elston howard": 1, "tom tresh": 1, "bobby richardson": 1, "jim roland": 1}
+{"franklin, north carolina": 1}
+{"luigi emilio rodolfo bertetti bianco": 1, "gino bianco": 1}
+{"marcellus lovejoy stearns": 1, "ossian b. hart": 1, "jonathan clarkson gibbs": 1, "claude kirk": 1, "marcellus stearns": 1}
+{"lovell, maine": 1}
+{"egbert van der poel": 2}
+{"jan vermeer": 1, "antonie van leeuwenhoek": 1, "martinus beijerinck": 1, "delft": 1}
+{"pieter bodding van laer": 1, "pieter van laer": 1}
+{"g\u00f6sta vilhelm eriksson": 1, "axel eriksson": 1, "g\u00f6sta eriksson (rowing)": 1, "g\u00f6sta eriksson": 1}
+{"vaxholm": 1}
+{"robert james lukachyk": 1, "rob lukachyk": 1}
+{"jersey city, new jersey": 1}
+{"susan nicola vertue": 1, "beryl vertue": 1, "peter bennett-jones": 1, "steven moffat": 1, "jack davenport": 1, "sarah alexander": 1, "sue vertue": 1}
+{"surrey": 1}
+{"pierre-yves barr\u00e9": 1}
+{"todd sieben": 2, "a. t. mcmaster": 1, "calvin w. schuneman": 1, "tim bivins": 1}
+{"geneseo, illinois": 1}
+{"john edward campbell": 2}
+{"queen elizabeth": 1, "lisburn": 1}
+{"louis joseph troost": 1}
+{"jean dorion": 1}
+{"klaus wunder": 2}
+{"saint boniface": 1, "martin luther": 1, "meister eckhart": 1, "johann pachelbel": 1, "max weber": 1, "erfurt": 1}
+{"heiko balz": 2}
+{"burg bei magdeburg": 1}
+{"kristj\u00e1n kristj\u00e1nsson": 1, "kk": 1, "kk (musician)": 1}
+{"minnesota": 1}
+{"margot shumway": 1, "sarah trowbridge": 1}
+{"cincinnati": 1}
+{"norbert grund": 1, "christian grund": 1}
+{"jaakko tapani laakso": 1, "tapio": 1, "suvi-anne siimes": 1, "jaakko laakso": 1}
+{"pope gregory ix": 1, "tsar alexander i": 1, "turku": 1}
+{"john george vanderbilt henry spencer-churchill": 1, "10th duke of marlborough": 1, "alexandra mary hilda cadogan": 1, "john spencer-churchill, 11th duke of marlborough": 1}
+{"john churchill": 1, "1st duke of marlborough": 1, "queen anne": 1, "sir john vanbrugh": 1, "sir winston churchill": 1, "9th duke of marlborough": 1, "consuelo vanderbilt": 1, "blenheim palace": 1}
+{"vitaliy sobko": 1, "vitaliy ivanovych sobko": 1}
+{"kharkiv": 1}
+{"thorbj\u00f6rn mikael eriksson": 1, "mikael eriksson (ice hockey)": 1, "mikael eriksson": 1}
+{"alfred nobel": 1, "karlskoga": 1}
+{"james w. owens": 2, "james w. owens (congressman)": 1}
+{"franklin county, indiana": 1}
+{"john johnson": 1, "john vernard johnson": 1, "john johnson (linebacker)": 1}
+{"lagrange, georgia": 1}
+{"rodger stevens": 5, "mark mckenna": 1}
+{"brooklyn": 1}
+{"gintautas umaras": 2, "viatcheslav ekimov": 1, "dmitry nelyubin": 1, "art\u016bras kasputis": 1, "mindaugas": 1}
+{"kaunas": 1}
+{"james cooper smeaton": 2, "cooper smeaton": 1}
+{"carleton place": 1}
+{"liam carroll": 3, "liam carroll (hurler)": 1}
+{"kinnitty": 1}
+{"george henry chambers": 1, "george chambers (cricketer, born 1884)": 1, "george chambers": 1}
+{"kimberley, nottinghamshire": 1}
+{"william max little iii": 1, "albert pujols": 1, "will little": 1}
+{"fall branch, tennessee": 1}
+{"benny nelson napoleon": 1, "mayor of detroit": 1, "benny napoleon": 1}
+{"corey bramlet": 2}
+{"wheatland, wyoming": 1}
+{"daniel w. hynes": 1, "daniel hynes": 1}
+{"cloe elmo": 1, "edwige chibaudo": 1, "rinolfi": 1, "pedreni": 1, "giuseppe valdengo": 1, "arturo toscanini": 1, "giuseppina cobelli": 1, "gina cigna": 1}
+{"lecce": 1}
+{"marie-h\u00e9l\u00e8ne aubert": 2}
+{"lambert ii of nantes": 1, "nantes": 1}
+{"johann gregor memhardt": 1}
+{"linz": 1}
+{"juan land\u00e1zuri ricketts": 3, "pope john xxiii": 1}
+{"francisco pizarro": 1, "carlos v": 1, "arequipa": 1}
+{"nissim ben reuven": 1, "reuven": 1, "nissim gerondi": 1, "nissim of gerona": 1}
+{"girona": 1}
+{"francisco v fern\u00e1ndez de la cueva y fern\u00e1ndez de la cueva": 1, "francisco iv fern\u00e1ndez de la cueva \u2013 colonna": 1, "melchor fern\u00e1ndez de la cueva": 1, "ana rosolea fern\u00e1ndez de la cueva": 1, "juana francisca d\u00edez de aux y armend\u00e1riz": 1, "lope d\u00edez de armend\u00e1riz": 1, "francisco fern\u00e1ndez de la cueva, 10th duke of alburquerque": 1}
+{"guglielmo embriaco": 1, "christopher columbus": 1, "andrea doria": 1, "niccol\u00f2 paganini": 1, "giuseppe mazzini": 1, "renzo piano": 1, "grimaldo canella": 1, "petrarch": 1, "genoa": 1}
+{"archibald macneal willard": 1, "samuel willard": 1, "archibald willard": 1}
+{"bedford, ohio": 1}
+{"stig kleven": 1}
+{"notodden": 1}
+{"alton montgomery": 1}
+{"col. lewis lawrence griffin": 1, "griffin, georgia": 1}
+{"joanna elisabeth of holstein-gottorp": 1, "frederick augustus": 1, "catherine the great": 1}
+{"swedish kings": 4, "russian emperors": 1, "gottorf castle": 1}
+{"richard rawlinson": 2}

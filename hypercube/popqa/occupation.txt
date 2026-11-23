@@ -1,0 +1,1475 @@
+{"soldier": 1, "politician": 1}
+{"politician": 5}
+{"printer": 1, "journalist": 1, "poet": 1}
+{"journalist": 1}
+{"politician": 1}
+{"politician": 1, "majority whip": 1, "vice chair": 1, "communications director": 1, "outreach and marketing employee": 1}
+{"cartoonist": 1, "illustrator": 1}
+{"cartoonist": 1, "visual artist": 1}
+{"politician": 1, "businessman": 1, "mathematician": 1, "professor": 1}
+{"mathematician": 2}
+{"talent manager": 1, "entrepreneur": 1, "record executive": 1, "ceo": 1, "executive producer": 1}
+{"talent manager": 3, "artist manager": 1, "music manager": 1, "manager": 3, "talent agents": 1}
+{"politician": 1, "federal senator": 1, "mayor": 2, "federal representative": 1}
+{"judge": 1, "politician": 1, "lawyer": 1, "peer": 1, "member of parliament": 1, "solicitor general": 1, "attorney general": 1, "chief justice": 1, "jurist": 1}
+{"actor": 1}
+{"actor": 3, "actress": 2, "performer": 1, "primadonnas": 1}
+{"journalist": 1, "television reporter": 1, "chief correspondent": 1}
+{"actor": 1}
+{"actor": 1, "film director": 1, "film producer": 1}
+{"film director": 5, "screenwriter": 1, "cinematographer": 1, "producer": 1, "film editor": 1, "actor": 2}
+{"politician": 1}
+{"actress": 1}
+{"lawyer": 1, "politician": 1, "deputy": 1, "minister of government and police": 1, "senator": 2, "president of the senate": 1, "congressman": 1, "magistrate": 1}
+{"writer": 3, "poet": 2, "editor": 1, "literary critic": 1, "officer cadet": 1}
+{"playwright": 2, "dramatist": 1}
+{"politician": 1, "manufacturer": 1, "councillor": 1, "reeve": 1, "county councillor": 1}
+{"politician": 1, "planter": 1, "military officer": 1}
+{"actress": 1, "fashion model": 1}
+{"economist": 1, "socialist theorist": 1, "politician": 1, "physician": 1, "journalist": 1, "finance minister": 1}
+{"politician": 1}
+{"actress": 1, "model": 1, "idol singer": 1}
+{"actor": 1}
+{"attorney": 1, "banker": 1, "businessman": 1, "sugar grower": 1, "oilman": 1, "champion horse breeder": 1, "politician": 1, "campaign manager": 1}
+{"lawyer": 6, "barristers": 1, "solicitors": 1, "conveyancers": 1, "notaries": 1, "canon lawyer": 1}
+{"actor": 2, "pantomimus": 1}
+{"businessperson": 1, "advertising executive": 1, "director": 1}
+{"businessperson": 1, "businessman": 1, "businesswoman": 1, "angel investor": 1}
+{"actress": 1}
+{"lawyer": 1, "author": 1, "teacher": 1, "director": 1, "attorney": 1, "emergency medical technician": 1, "amateur radio operator": 1}
+{"musician": 1, "singer-songwriter": 1, "bass guitarist": 1, "solo career": 1, "percussionist/programmer": 1}
+{"songwriter": 6, "composer": 1, "lyricist": 1, "staff writer": 2, "music publisher": 2, "publisher": 2, "agent": 1, "manager": 1}
+{"investigative journalist": 1, "author": 2, "humanitarian": 1}
+{"manga artist": 1, "illustrator": 1, "creator": 1, "former assistant": 1}
+{"manga artist": 4, "mangaka": 1, "comic artist": 1, "author": 1}
+{"model": 1, "actress": 1, "restaurateur": 1, "cook": 1, "host": 1, "operations manager": 1, "contestant": 1}
+{"restaurateur": 2, "professional": 2}
+{"politician": 1, "writer": 1}
+{"actor": 1}
+{"amateur astronomer": 1, "discoverer of minor planets and comets": 1}
+{"scientist": 1, "astronomer": 2}
+{"member": 1, "dentist": 1, "dental surgeon": 1, "schoolteacher": 1, "councillor": 1, "mayor": 1}
+{"dentist": 1, "dental surgeon": 1, "health care professional": 1, "dental assistants": 1, "dental hygienists": 1, "dental technicians": 1, "dental therapists": 1}
+{"physician": 1, "scientist": 1}
+{"physician": 3, "medical practitioner": 1, "medical doctor": 1, "doctor": 1, "health professional": 1}
+{"singer": 1, "songwriter": 1, "actress": 1}
+{"musician": 1, "composer": 1, "producer": 1, "filmmaker": 1, "drummer": 1}
+{"musician": 5, "songwriter": 1, "conductor": 1, "performer": 2, "singer": 1, "instrumentalist": 1, "recording artist": 1}
+{"actress": 1, "singer": 1}
+{"actor": 1}
+{"politician": 1, "professor of law": 1}
+{"journalist": 1, "magazine publisher": 1, "editor-in-chief": 1}
+{"actor": 1, "broadway director": 1}
+{"guitarist": 1}
+{"guitarist": 1, "guitar player": 1}
+{"apostle": 2, "pharisee": 1, "missionary": 1}
+{"missionary": 2}
+{"business leader": 1, "politician": 1, "minister of justice": 1}
+{"singer": 1, "songwriter": 1, "pianist": 1}
+{"fighter pilot": 1, "surgeon": 1, "anesthesiologist": 1}
+{"surgeon": 3, "physician": 2, "specialist": 1, "podiatry": 1, "dentistry": 1, "veterinary medicine": 1}
+{"politician": 1, "diplomat": 1}
+{"diplomat": 5, "head of the mission": 1, "member of the diplomatic staff": 1}
+{"politician": 2, "general practitioner": 1}
+{"poet": 1, "courtesan": 1}
+{"poet": 5, "thinker": 1, "songwriter": 1, "writer": 1, "author": 1}
+{"economist": 1, "journalist": 1, "author": 1, "special advisor": 1, "economics editor": 1}
+{"scholar": 1, "politician": 1, "minister of state": 1, "rector": 1}
+{"psychologist": 1, "psychiatrist": 1, "family therapist": 1, "philosopher of mind": 1, "full professor": 1, "clinical professor": 1}
+{"psychologist": 6, "psychiatric physician": 1, "psychiatric nurse-practitioner": 1, "psychotherapist": 1, "clinician": 1}
+{"chemist": 1, "inventor": 1, "rector": 1}
+{"chemist": 6, "pharmacist": 1, "materials scientist": 1, "metallurgist": 1, "chemical engineer": 1, "industrial chemist": 1}
+{"soldier": 1, "politician": 1}
+{"screenwriter": 1, "film director": 1}
+{"screenwriter": 1, "scriptwriter": 1, "scribe": 1, "scenarist": 1}
+{"television journalist": 1, "news anchor": 1, "co-anchor": 1}
+{"president/ceo": 1, "founder": 1, "chairman": 2, "trade economist": 2, "businessman": 1, "trustee": 2, "special external advisor": 1, "managing director": 1, "commodity commentator": 1, "project director": 1, "fellow": 1, "director": 1, "guest scholar": 1, "senior economist": 1, "legislative assistant": 1, "economic research assistant": 1}
+{"economist": 1, "professional": 1, "practitioner": 1}
+{"actor": 1, "political candidate": 1}
+{"author": 1, "journalist": 1}
+{"actress": 1, "model": 1}
+{"record producer": 1, "singer": 1, "songwriter": 1, "lead vocalist": 1}
+{"record producer": 1, "music producer": 1, "executive producer": 1, "audio engineer": 1, "engineer": 1, "a&r men": 1}
+{"actress": 1, "singer": 1, "actor": 1, "theatre": 1, "film": 1, "television": 1}
+{"politician": 1, "businessman": 1}
+{"politician": 1, "speaker": 1, "member": 2}
+{"actor": 1, "writer": 1, "director": 1}
+{"politician": 1}
+{"trainer": 2, "owner": 1}
+{"horse trainer": 1, "trainer": 2, "coach": 1}
+{"journalist": 1, "author": 1}
+{"explorer": 1, "cartographer": 1, "naval officer": 1, "merchant navy": 1}
+{"sailor": 3, "seaman": 2, "mariner": 1, "seafarer": 1, "personnel": 1}
+{"politician": 1, "manufacturer": 2, "managing director": 1, "chairman": 1, "co-author": 1}
+{"politician": 1, "jurist": 1, "state secretary": 1}
+{"radio personality": 1, "host": 1, "newspaper reporter": 1, "magazine editor": 1}
+{"radio personality": 1, "radio host": 1, "radio presenter": 1, "radio jockey": 1, "disc jockey": 1, "talk radio host": 1, "radio show host": 1, "satellite radio program host": 1, "reporter": 1, "correspondent": 1}
+{"theatre director": 1, "performance artist": 1, "filmmaker": 1, "regietheater artist": 1}
+{"theatre director": 1, "stage director": 1, "playwright": 1}
+{"television writer": 1, "playwright": 1, "staff writer": 1}
+{"civil servant": 1, "diplomat": 1, "politician": 1, "acting secretary-general": 1}
+{"politician": 1, "liberal legal commentator": 1, "activist": 1}
+{"rapper": 3, "singer": 1, "record producer": 2, "director": 1, "actor": 1, "fashion figure": 1}
+{"inventor": 1, "photographer": 1}
+{"photographer": 1}
+{"lawyer": 1, "writer": 1, "journalist": 2, "school administration": 1, "agent": 1}
+{"screenwriter": 1}
+{"actor": 1}
+{"military officer": 1, "journalist": 2, "politician": 1, "marxist revolutionary": 1, "lieutenant colonel": 1}
+{"revolutionary": 2}
+{"poet": 2, "educator": 1}
+{"peer": 1, "colonial administrator": 1, "governor": 1}
+{"lawyer": 1, "politician": 3, "secretary of state": 2, "chairman": 2, "deputy mayor": 1, "political scientist": 1, "anthropologist": 1, "diplomat": 1}
+{"diplomat": 1, "ambassador": 1, "senior advisor": 1, "special envoy": 1}
+{"actor": 2}
+{"politician": 1, "vice president": 1}
+{"film director": 1, "dramatist": 1, "movie producer": 1, "president": 1}
+{"actress": 1, "model": 2}
+{"politician": 2, "philanthropist": 1, "assayer": 1, "governor": 1, "president": 2, "deputy": 1}
+{"physicist": 1, "mathematician": 1, "professor": 1, "humboldt fellow": 1, "senior fulbright fellow": 1, "visiting scientist": 1}
+{"physicist": 3, "scientist": 1, "experimental physicist": 1, "theoretical physicist": 1}
+{"actress": 1}
+{"essayist": 1, "novelist": 1, "playwright": 1, "minister of justice": 1, "writer": 1, "art historian": 1}
+{"politician": 1, "chair": 1, "member": 1, "chief government whip": 1, "chief official opposition whip": 1, "waterloo regional chair": 1}
+{"mathematician": 1, "professor": 3}
+{"physician": 1, "anatomist": 1, "physiologist": 1, "midwife": 1, "zoologist": 1, "anthropologist": 1, "palaeontologist": 1, "naturalist": 1, "politician": 1, "drawer": 1, "sculptor": 1, "patron of art": 1}
+{"businessman": 1, "liberal politician": 1, "magistrate": 1, "carpet manufacturer": 1}
+{"actor": 1, "singer": 1}
+{"united states representative": 1, "united states attorney": 1, "circuit judge": 1, "governor": 1, "chief justice": 1}
+{"barrister": 1, "politician": 1}
+{"politician": 1, "political activist": 1}
+{"author": 1, "journalist": 2, "filmmaker": 1, "breaking news anchor": 1, "co-host": 1, "columnist": 1, "public speaker": 1, "global ambassador": 1, "patent holder": 1, "co-founder": 1, "director": 1}
+{"actress": 1}
+{"politician": 1, "attorney": 1, "city attorney": 1}
+{"chef": 2, "chef host": 1}
+{"chef": 5, "cooks": 1, "tradesperson": 1, "kitchen assistants": 1}
+{"politician": 1, "representative": 1}
+{"actor": 1, "singer": 1}
+{"politician": 1, "diplomat": 1}
+{"politician": 1, "governor": 1, "senator": 2, "diplomat": 1}
+{"journalist": 2, "editor": 2, "reporter": 3, "crime reporter": 1, "author": 1}
+{"mathematician": 1, "professor": 1, "chemist": 1, "research director": 1}
+{"computer scientist": 1, "information technology manager": 1, "sportswriter": 1, "general manager": 1}
+{"computer scientist": 3, "scientist": 1}
+{"politician": 1}
+{"mathematician": 1}
+{"journalist": 1, "television presenter": 1}
+{"politician": 1}
+{"immigrant": 1, "farmer": 1, "politician": 1, "secretary of state": 1}
+{"farmer": 5, "farm owner": 1, "farm workers": 1, "farmhands": 1, "employees": 1, "laborer": 1}
+{"politician": 1}
+{"diplomat": 1, "politician": 1, "writer": 1}
+{"actress": 1}
+{"imperial prince": 1, "official": 1, "udaijin": 1, "sadaijin": 1, "poet": 1}
+{"actress": 1, "writer": 1, "performer": 1}
+{"rabbi": 3, "rabbinical assessor": 1, "author": 1}
+{"spiritual leader": 1, "religious teacher": 1, "rabbi": 5, "protestant christian minister": 1}
+{"actor": 3, "rapper": 1, "film producer": 1}
+{"film producer": 1, "producer": 8, "screenwriter": 1, "director": 2, "executive producer": 1, "associate producers": 1, "assistant producers": 1, "line producers": 1, "unit production managers": 1}
+{"fellow": 1, "adjunct faculty member": 1, "women's rights activist": 1, "journalist": 1, "politician": 1}
+{"photographer": 2, "press photographer": 1}
+{"politician": 1, "interior minister": 1, "president": 1}
+{"screenwriter": 1}
+{"musician": 1, "vocalist": 1, "songwriter": 1}
+{"patriot": 1, "leader": 1, "delegate": 1, "student leader": 1, "senator": 1, "vice president": 1}
+{"journalist": 1, "television presenter": 1}
+{"rapper": 1, "record producer": 1}
+{"columnist": 1, "journalist": 1, "general director": 1}
+{"linguist": 1, "official": 1, "missionary": 1, "sinologist": 1}
+{"politician": 1, "mayor": 1}
+{"politician": 1}
+{"actor": 1, "writer": 1}
+{"monk": 1}
+{"monk": 3, "nun": 1, "ascetic": 1}
+{"drum and bass producer": 1, "producer": 2}
+{"biochemist": 1, "professor": 1}
+{"biochemist": 8, "scientist": 1, "researcher": 2, "clinical biochemist": 1, "industrial biochemist": 1}
+{"politician": 1, "farmer": 1}
+{"jazz bassist": 1, "bandleader": 1, "composer": 1}
+{"bandleader": 1, "performer": 1, "singer": 1, "instrumentalist": 1}
+{"geographer": 1, "writer": 1, "socialist politician": 1, "journalist": 1}
+{"journalist": 1, "essayist": 1, "politician": 1, "minister of finance": 1}
+{"actress": 1, "author": 1}
+{"actor": 2, "former actor": 1}
+{"theater producer": 1, "impresario": 1}
+{"organizer": 1, "financier": 1, "producer": 1}
+{"actress": 2}
+{"production designer": 1, "art director": 1}
+{"production designer": 5, "director": 1, "cinematographer": 1, "producer": 1, "art director": 2, "concept artists": 1, "graphic designers": 2, "set designers": 1, "costume designers": 1, "lighting designers": 1, "runners": 1, "drafts people": 1, "props makers": 1, "set builders": 1, "set decorator": 1}
+{"poet": 1, "lyricist": 2}
+{"lyricist": 1, "writer": 1, "composer": 1}
+{"film director": 1, "writer": 1, "film producer": 1, "assistant director": 1, "philanthropist": 1}
+{"lyricist": 1, "novelist": 1, "playwright": 1, "actor": 1, "television cook": 1}
+{"businessman": 1, "politician": 2, "hide merchant": 1, "skin broker": 1, "alderman": 1, "sheriff of london and middlesex": 1, "lord mayor of london": 3, "master of the company": 1, "candidate": 1}
+{"actress": 1, "model": 1, "beauty pageant titleholder": 1}
+{"diplomat": 1, "author": 1}
+{"politician": 1, "prime minister": 1, "acting president": 1}
+{"rapper": 1, "mc": 2, "record producer": 1, "record label owner": 1}
+{"film director": 1, "screenwriter": 1, "film producer": 1}
+{"actor": 1, "host": 1}
+{"film producer": 1, "music producer": 1, "director": 1, "screenwriter": 1, "actor": 1, "songwriter": 1, "musician": 1, "voiceover artist": 1}
+{"screenwriter": 1, "film director": 1, "writer": 1, "producer": 1}
+{"politician": 1, "general secretary": 1, "member of the european parliament": 1}
+{"astronomer": 1}
+{"anglican priest": 1, "rector": 1, "archdeacon": 2, "dean": 1}
+{"priest": 1, "religious leader": 1}
+{"geneticist": 1}
+{"geneticist": 5, "biologist": 1, "physician": 2, "scientist": 2, "lecturer": 2, "medical geneticist": 1}
+{"singer-songwriter": 1}
+{"singer-songwriter": 3, "musician": 1, "audio engineer": 1}
+{"rapper": 1, "record producer": 1}
+{"congressman": 1, "merchant's clerk": 1, "farmer": 1, "clerk of the court": 1, "trader": 1, "land speculator": 1}
+{"film director": 1, "screenwriter": 1, "film producer": 1}
+{"professional wrestler": 1, "rock musician": 1, "actor": 1, "lead vocalist": 1, "host": 1}
+{"politician": 1}
+{"musician": 1, "dj": 1, "producer": 1, "remixer": 1}
+{"disc jockey": 1, "radio dj": 1, "club dj": 1, "mobile dj": 1, "turntablist": 1}
+{"musician": 1, "celebrity chef": 1}
+{"socialite": 1, "vegetarianism activist": 1}
+{"woman": 1, "socialite": 1}
+{"rapper": 1, "record producer": 1, "fashion designer": 1, "music artist": 1, "presidential candidate": 1}
+{"character actor": 1, "director": 1, "theater teacher": 1}
+{"film director": 1, "actor": 1, "screenwriter": 1, "columnist": 1, "politician": 1, "mayoral candidate": 1, "mp": 1}
+{"lawyer": 1, "politician": 1, "member of parliament": 2, "chief agent": 1}
+{"actor": 1}
+{"magazine editor": 1, "journalist": 1, "podcaster": 1, "pie chart artist": 1, "deputy editor": 1, "executive editor": 1, "co-founder": 1}
+{"judge": 1, "politician": 1}
+{"mathematician": 1, "historian of mathematics": 1}
+{"actor": 1}
+{"film director": 1, "producer": 1}
+{"politician": 1, "nurse": 1, "nutritional educator": 1, "nursing assistant": 1, "manager": 1}
+{"physician": 1, "numismatist": 1}
+{"actor": 3, "writer": 3, "rapper": 3, "producer": 2, "delinquent student": 1, "director": 1}
+{"journalist": 1, "reporter": 1}
+{"photographer": 1}
+{"documentary filmmaker": 1, "filmmaker": 1, "actor": 1}
+{"politician": 1, "attorney": 1, "prosecutor": 1}
+{"actor": 1, "filmmaker": 1}
+{"singer-songwriter": 1, "producer": 1, "artist": 3, "singer": 1, "recording artist": 1}
+{"poet": 1, "dramatist": 1}
+{"economist": 1, "politician": 1, "professor": 1}
+{"politician": 1, "executive councilor": 1, "grafton county commissioner": 1, "republican": 1}
+{"musician": 1}
+{"politician": 3, "stateswoman": 1, "prime minister": 3, "leader of the opposition": 1}
+{"diplomat": 1, "governor": 3, "commissioner": 2}
+{"politician": 2, "state minister of economy and labour": 1, "management consultant": 1, "state minister of economic affairs and employment": 1}
+{"poet": 1}
+{"actress": 1, "model": 1, "goodwill ambassador": 1, "director": 1}
+{"photographer": 1, "officer": 1}
+{"civil engineer": 1, "chancellor": 1, "president": 3, "engineer": 1}
+{"civil engineer": 3, "engineer": 2}
+{"model": 2, "actress": 1, "singer": 2, "designer": 1}
+{"film director": 1, "screenwriter": 1, "documentary director": 1, "television comedy writer": 1}
+{"statesman": 1, "politician": 1, "prime minister": 3, "leader": 2, "secretary of state for war": 1, "first lord of the treasury": 1, "father of the house": 1, "chancellor": 1}
+{"composer": 1, "producer": 2, "vice president of programs": 1}
+{"composer": 2, "performer": 1}
+{"bishop": 2}
+{"bishop": 5, "clergy": 2, "deacon": 1, "priest": 2, "lay minister": 1}
+{"television producer": 1, "executive producer": 1, "director": 1, "journalist": 1}
+{"painter": 1, "graphic designer": 1, "illustrator": 1}
+{"graphic designer": 5, "professional": 3, "designer": 3}
+{"politician": 2, "lawyer": 2, "deputy prime minister": 1, "minister for defence": 1, "deputy leader": 1, "member of parliament": 1, "assistant secretary": 1, "parliamentary secretary": 1, "minister for trade": 1, "deputy opposition leader": 1}
+{"singer": 1, "songwriter": 1, "record producer": 1, "artist": 1}
+{"attorney": 1, "politician": 1, "chairman": 1}
+{"diplomat": 1, "ambassador": 2, "permanent representative": 1, "minister of foreign affairs": 1, "executive secretary": 1}
+{"actress": 1}
+{"author": 1, "actress": 1, "filmmaker": 1}
+{"politician": 1, "government minister": 1}
+{"politician": 1, "newspaper editor": 1}
+{"biologist": 1, "physician": 1, "professor of medicine": 1, "botanist": 2, "naturalist": 1, "poet": 1, "scientist": 1}
+{"writer": 1, "critic": 1, "poet": 1}
+{"politician": 1}
+{"politician": 1, "businessman": 1, "minister without portfolio": 1}
+{"politician": 1, "state secretary": 1, "chairperson": 1}
+{"weather forecaster": 1, "journalist": 1, "tv personality": 1, "meteorologist": 1, "animal cruelty investigator": 1}
+{"politician": 1, "minister of higher education": 1, "member of the legislative assembly": 1, "headquarters secretary": 1, "deputy general secretary": 1}
+{"singer-songwriter": 1, "pianist": 1}
+{"cricket umpire": 1}
+{"umpire": 3, "referee": 1}
+{"journalist": 1, "producer": 1, "reporter": 2, "correspondent": 1}
+{"film director": 1, "screenwriter": 1}
+{"diplomat": 1, "politician": 1, "prime minister": 2, "secretary general": 1, "ambassador": 1}
+{"physicist": 1, "astronomer": 1}
+{"diplomat": 1, "ambassador": 2, "specialist": 1}
+{"politician": 3, "economist": 1, "senior minister": 1, "chairman": 1, "deputy prime minister": 1, "coordinating minister for economic and social policies": 1, "minister for finance": 1, "minister for education": 1, "minister for manpower": 1, "member of parliament": 1, "co-chair": 2}
+{"legal scholar": 1, "politician": 1}
+{"politician": 1, "lawyer": 1, "county clerk": 1, "county judge": 1, "political editor": 1}
+{"actress": 1, "politician": 1}
+{"actor": 2, "corporal": 1}
+{"singer": 1, "television personality": 1, "songwriter": 1, "actress": 1}
+{"diplomat": 1, "author": 1}
+{"actress": 1}
+{"model": 1, "actress": 1, "television presenter": 1, "presenter": 1}
+{"politician": 1}
+{"politician": 1}
+{"film director": 1, "cinematographer": 1}
+{"actor": 1, "film director": 1}
+{"politician": 1, "marchese di felino": 1, "private secretary": 1, "treasurer": 1}
+{"psychologist": 2}
+{"film producer": 1, "film director": 1, "screenwriter": 1}
+{"cinematographer": 1, "screenwriter": 1, "director": 2}
+{"cinematographer": 5, "director": 5, "film editor": 1}
+{"head": 1, "pretender": 1, "spouse": 1, "patron": 1, "member": 1}
+{"actress": 2}
+{"politician": 1, "journalist": 1, "author": 1, "model": 1, "actress": 1}
+{"model": 1}
+{"magician": 1, "internet personality": 1}
+{"pharmacist": 1, "politician": 1, "mayor": 1}
+{"musician": 1, "vocalist": 1, "songwriter": 1, "guitarist": 1, "bass guitarist": 1, "drums": 1}
+{"farmer": 1, "innkeeper": 1, "militia member": 1, "politician": 1, "judge": 1, "lawyer": 1, "orator": 1}
+{"politician": 2, "mayor": 3, "businesswoman": 1, "canteen owner": 1}
+{"lawyer": 1, "diplomat": 1, "chief justice": 1, "president": 2, "attorneys": 1, "member": 1}
+{"politician": 1, "mayor": 1}
+{"politician": 1, "member of the european parliament": 2}
+{"fashion model": 1, "dancer": 1, "actress": 1}
+{"model": 5, "artist": 1, "actor": 1, "singer": 1, "sports personality": 1, "reality tv star": 1}
+{"cinematographer": 1, "director of photography": 1}
+{"filmmaker": 1, "playwright": 1}
+{"actress": 2}
+{"manga artist": 1}
+{"writer": 1, "philosopher": 1}
+{"politician": 1}
+{"politician": 1, "minister of defence": 1, "member": 1, "ophthalmologist": 1}
+{"slave owner": 1, "lawyer": 1, "politician": 1}
+{"actor": 2, "voice narrator": 1, "playback singer": 1, "film producer": 1, "television presenter": 1, "politics": 1, "brand endorser": 1}
+{"voice actress": 1}
+{"voice actor": 3, "actress": 1, "vocal actor": 1}
+{"actress": 1, "co-director": 1}
+{"politician": 1, "chemist": 1}
+{"politician": 1, "merchant": 1}
+{"troubadour": 2, "canon": 1, "jongleur": 1, "cleric": 1, "feudal lord": 1, "nobleman": 1}
+{"composer": 1, "performer": 1, "poet": 1}
+{"mathematician": 1, "full professor": 1, "research director": 2, "member of editorial boards": 1}
+{"writer": 1, "member of the reichstag": 1, "primary school principal": 1, "police commissioner": 1}
+{"politician": 1, "financial officer": 1}
+{"racehorse trainer": 1}
+{"politician": 1, "farmer": 1, "reeve": 1}
+{"bodybuilder": 1, "martial artist": 1, "actor": 1}
+{"diplomat": 1, "politician": 1, "member of parliament": 1, "minister for roads and highways": 2, "ambassador": 1, "regional minister": 1}
+{"news anchor": 1, "reporter": 1, "actor": 1}
+{"actor": 1, "director": 1, "make-up artist": 1, "professor": 1, "scriptwriter": 1, "sculptor": 1}
+{"acting coach": 3, "life coach": 2, "television presenter": 1, "news reader": 1, "managing director": 1, "acting teacher": 1}
+{"film director": 1, "screenwriter": 1}
+{"politician": 1}
+{"actor": 2, "stage actor": 1}
+{"journalist": 1, "essayist": 1, "military figure": 1}
+{"actor": 1}
+{"poet": 3, "hanafi faqih": 1, "islamic scholar": 1, "maturidi theologian": 1, "sufi mystic": 1}
+{"politician": 1, "minister": 3, "minister of state": 1}
+{"actress": 1, "voice actress": 1, "stage actor": 1, "narrator": 1}
+{"mathematician": 1, "rector": 1}
+{"director": 3, "screenwriter": 1, "film journalist": 1, "actor": 1}
+{"academic": 1, "politician": 1, "minister": 1, "mep": 1, "parliamentary spokesman": 1}
+{"politician": 1, "deputy": 1}
+{"actor": 1, "producer": 1}
+{"architect": 1}
+{"architect": 5}
+{"actress": 1, "actors": 1}
+{"stand-up comedian": 1, "actress": 1, "writer": 1, "host": 1, "panelist": 1, "voice actress": 1}
+{"playwright": 1, "poet": 1, "author": 1}
+{"merchant": 1, "politician": 1, "benefactor": 1}
+{"singer": 2, "songwriter": 1, "dancer": 1, "philanthropist": 1, "solo star": 1}
+{"film director": 1, "producer": 1, "screenwriter": 1, "editor": 1, "writer": 1, "actor": 1}
+{"actor": 1, "director": 1}
+{"singer-songwriter": 1, "musician": 1, "artist": 1, "actor": 1}
+{"politician": 1, "lieutenant governor": 2, "chairman": 1, "president": 2, "elementary school teacher": 1, "business owner": 1}
+{"politician": 1, "jeweller": 1, "alderman": 1}
+{"actor": 1, "dancer": 1}
+{"minister for religious affairs and interfaith harmony": 2, "member of the national assembly": 1, "member of the provincial assembly": 1}
+{"fashion model": 1, "executive director": 1, "founder": 1, "lead singer": 1}
+{"record producer": 1, "singer-songwriter": 1, "musician": 1}
+{"politician": 1, "trade unionist": 1}
+{"surveyor": 1, "mediator": 1, "farmer": 1, "politician": 1, "mayor": 2, "secretary": 1, "chairman": 2, "insurance agent": 1, "magistrate": 1}
+{"songwriter": 1}
+{"pioneer": 1, "interpreter": 1, "diplomat": 1, "farmer": 1, "tanner": 1, "soldier": 1, "judge": 1}
+{"composer": 3, "music theorist": 1, "teacher": 1, "violist": 1, "conductor": 1}
+{"actor": 1}
+{"actor": 1}
+{"model": 1, "angel": 1}
+{"politician": 2, "cabinet minister": 1, "president": 1, "liberal candidate": 1}
+{"musician": 1}
+{"actor": 1, "director": 1, "producer": 1}
+{"journalist": 1, "politician": 1}
+{"anatomist": 1, "surgeon": 1}
+{"physician": 1, "entomologist": 1}
+{"soviet dissident": 1, "russian politician": 1, "ethnographer": 1}
+{"politician": 1, "shop clerk": 1, "travelling salesman": 1, "leader": 2, "deputy leader": 1, "national vice president": 1}
+{"film director": 1}
+{"silent film actress": 1, "benefactor": 1}
+{"television presenter": 1, "television producer": 1, "royal reporter": 1, "actor": 1}
+{"historian": 1, "journalist": 1, "political scientist": 1, "white supremacist": 1}
+{"singer": 2, "songwriter": 1, "producer": 1}
+{"actress": 2, "singer": 1, "model": 1, "animal rights activist": 2, "philosopher": 1, "politician": 1}
+{"physician": 1, "philosopher": 1, "science fiction writer": 2, "bolshevik revolutionary": 1, "economist": 1, "culture theorist": 1, "political activist": 1}
+{"screenwriter": 1, "producer": 1, "actor": 1}
+{"actress": 1, "producer": 1}
+{"journalist": 1, "author": 1, "journalism instructor": 1, "president": 2}
+{"poet": 1}
+{"filmmaker": 1, "actor": 1, "writer": 3, "producer": 1, "executive producer": 1, "co-writer": 1}
+{"poet": 1, "communist": 1}
+{"dj": 1, "record producer": 1, "co-founder": 1}
+{"music producer": 1, "musician": 1}
+{"actor": 1, "writer": 1}
+{"politician": 1, "deputy prime minister": 1, "minister of poverty alleviation": 1, "chairman": 2, "general secretary": 1}
+{"record producer": 1}
+{"physicist": 1, "optician": 1}
+{"politician": 1}
+{"actress": 1, "tv host": 1, "singer": 1, "fashion model": 1, "beauty pageant titleholder": 1}
+{"singer-songwriter": 1, "disc jockey": 1}
+{"actress": 1}
+{"animator": 2, "cartoonist": 1, "writer": 2, "storyboard artist": 3, "composer": 1, "character designer": 1}
+{"actress": 1, "opera singer": 1, "mezzo-soprano": 1, "councilman": 1}
+{"actress": 1}
+{"pop singer": 1, "tv talent": 1, "actress": 1}
+{"politician": 1, "member of parliament": 1, "president": 1, "doctor": 1}
+{"television personality": 1, "reality television star": 1, "talk show host": 1, "host": 1}
+{"actor": 1, "silent film comedian": 1, "cowboy": 1}
+{"biologist": 1, "director": 1, "executive director": 1}
+{"biologist": 5, "scientist": 2}
+{"rabbi": 1, "military officer": 1, "chief rabbi": 1}
+{"actor": 1, "filmmaker": 1, "director": 1, "screenplay": 1}
+{"politician": 1}
+{"journalist": 1, "attorney": 1, "soldier": 1, "politician": 1}
+{"politician": 1, "senator": 1, "deputy": 1, "cabinet minister": 1}
+{"physicist": 1}
+{"politician": 1, "member": 1}
+{"politician": 1, "minority leader": 1}
+{"screenwriter": 1, "comic book writer": 1}
+{"bishop": 2, "archbishop": 1, "priest": 1, "auxiliary bishop": 1, "titular bishop": 1, "servant of god": 1}
+{"politician": 1, "minister of justice": 1}
+{"politician": 1}
+{"physician": 1, "chemist": 1, "scriptural geologist": 1, "business theorist": 1}
+{"historian": 1, "major general": 1, "minister of finance": 1}
+{"major general": 3, "sergeant major general": 1, "lieutenant general": 1, "brigadier": 1, "brigadier general": 1, "rear admiral": 1, "air vice-marshal": 1}
+{"vestal virgin": 1}
+{"priestesses": 2, "priest": 1, "emperor": 1}
+{"filmmaker": 1, "director": 1, "screenwriter": 1}
+{"film producer": 1, "art director": 1}
+{"politician": 1, "wholesaler": 1}
+{"polymath": 1, "mathematician": 1, "physicist": 1, "philosopher": 1, "astronomer": 1}
+{"astronomer": 1, "psychologist": 1, "statistician": 1}
+{"journalist": 1, "author": 1, "publisher": 1, "editor-in-chief": 1}
+{"voice actress": 1}
+{"actress": 1}
+{"politician": 1, "military official": 1, "defense minister": 1, "army general": 1}
+{"politician": 1, "mayor": 3}
+{"politician": 1, "solicitor": 1}
+{"politician": 2, "president": 3, "minister of foreign affairs": 2, "minister of state": 2}
+{"basketball player": 3, "professional wrestling": 1, "reality tv star": 1}
+{"politician": 1, "governor": 2, "party secretary": 1}
+{"anglican priest": 1, "pastor": 1, "administrator": 1, "historian": 1}
+{"politician": 2, "art collector": 1, "management consultant": 1, "political consultant": 1, "civil servant": 1}
+{"politician": 1, "constituent assembly member": 1, "domestic servant": 1}
+{"jesuit priest": 1, "missionary": 1, "professor of comparative literature": 1, "sanskritist": 1, "musician": 1}
+{"politician": 1, "speaker": 1, "linesman": 1, "official": 1, "poultry farmer": 1, "member": 2}
+{"politician": 1, "first vice president": 2, "party chairman": 1, "secretary-general": 1, "presidential candidate": 1}
+{"actress": 1, "voice actress": 1}
+{"journalist": 1, "translator": 1, "writer": 1}
+{"actress": 1}
+{"politician": 1, "farmer": 1}
+{"peer": 1, "diplomat": 1, "politician": 1}
+{"journalist": 1, "television personality": 1, "radio personality": 1}
+{"naturalist": 1, "biologist": 1, "academic": 1, "soldier": 1, "professor of zoology": 1, "taxonomist": 1}
+{"physician": 1, "botanist": 1}
+{"music composer": 1, "playback singer": 1}
+{"writer": 2, "essayist": 1, "screenwriter": 1, "theatre director": 1, "film director": 1, "economics student": 1, "theatre director student": 1, "director general": 1}
+{"astronomer": 1, "observer": 1, "discoverer": 1, "staff member": 1}
+{"politician": 1, "member of parliament": 1}
+{"comedian": 1, "screenwriter": 1, "novelist": 1, "actor": 1, "producer": 1, "showrunner": 1}
+{"doctor": 1, "talk show host": 1, "comedian": 1}
+{"lawyer": 1, "politician": 1, "diplomat": 1, "governor": 1}
+{"actress": 1, "voice actor": 1}
+{"librarian": 1, "writer": 1}
+{"librarian": 3}
+{"actress": 1, "scriptwriter": 1, "director": 1, "teacher": 1}
+{"politician": 1, "journalist": 1, "lecturer": 1}
+{"singer-songwriter": 1, "hairdresser": 1}
+{"hairdresser": 1, "barber": 1, "hairstylist": 1}
+{"zoologist": 1, "paleontologist": 2, "comparative anatomist": 1, "herpetologist": 1, "ichthyologist": 1, "gentleman farmer": 1, "scientific writer": 1}
+{"geologist": 3, "scientist": 1}
+{"politician": 1}
+{"politician": 1, "media personality": 1, "businessman": 1, "president": 3, "producer": 1, "host": 1}
+{"real estate developer": 2, "architect": 1, "city planner": 1, "engineer": 1, "surveyor": 1, "inspector": 1, "contractor": 1, "lawyer": 1, "leasing agent": 1}
+{"warrior": 1, "statesman": 1}
+{"orthodox archbishop": 1, "dean": 1, "rector": 1, "associate professor of new testament and ethics": 1, "priest": 1, "vice-chancellor": 1, "secretary": 1, "director of religious education": 1, "bishop": 1, "administrator": 1}
+{"footballer": 1, "journalist": 1, "anchor": 1}
+{"singer": 1, "dancer": 1, "actor": 1, "entertainer": 1}
+{"actress": 1}
+{"astronaut": 1, "officer": 1, "flight engineer": 1}
+{"astronaut": 5, "scientists": 1, "politicians": 1, "journalists": 1, "tourists": 1, "cosmonauts": 1, "taikonaut": 1, "commercial astronaut": 1}
+{"director": 1, "actor": 1, "writer": 1, "musician": 1}
+{"television writer": 1, "producer": 1, "director": 1, "animator": 1}
+{"animator": 3, "artist": 2, "layout artist": 1, "storyboard artist": 1, "background artist": 1, "director": 1, "producer": 1, "sound engineer": 1, "editor": 1, "key animator": 2}
+{"businessman": 1, "chairman": 2, "chief executive": 1}
+{"chief executive officer": 1, "chief executive": 1, "managing director": 1, "governor": 1, "ceo": 3, "manager": 1, "officer": 2}
+{"actor": 1, "writer": 1, "film director": 1}
+{"suffragist": 1, "teacher": 1, "liberal politician": 1, "writer": 1, "editor": 1}
+{"politician": 1, "mayor": 1}
+{"film actress": 3, "writer": 1}
+{"photographer": 1, "teacher": 2}
+{"politician": 1, "revenue minister": 1, "member": 2}
+{"politician": 1, "chairman": 1, "minister without portfolio": 1}
+{"businessman": 1, "lawyer": 1, "politician": 1, "ambassador": 1}
+{"singer": 1, "songwriter": 1, "pianist": 1, "solo artist": 1, "music artist": 1}
+{"politician": 1, "mayor": 2}
+{"photographer": 2}
+{"politician": 1, "federal deputy": 1}
+{"actor": 1, "comedian": 1, "impressionist": 1, "announcer": 2}
+{"composer": 4, "teacher": 1, "choirmaster": 1, "principal conductor": 1}
+{"pianist": 1, "musician": 1}
+{"politician": 1, "member of parliament": 1}
+{"politician": 1, "insurance agent": 1, "merchant": 1, "steamship owner": 1}
+{"sports journalist": 1, "columnist": 1, "reporter": 1, "commentator": 2, "sportsreader": 2, "editor-in-chief": 1}
+{"computer scientist": 1, "co-founder": 1}
+{"psychiatrist": 1, "student": 1, "founder": 1, "elder statesman": 1, "author": 1}
+{"psychiatrist": 3, "physician": 2, "clinical psychologist": 1, "social worker": 1, "occupational therapist": 1, "nursing staff": 1}
+{"actor": 1}
+{"curator": 1, "artist": 1, "executive director": 1}
+{"curator": 5, "manager": 1, "overseer": 1}
+{"politician": 1, "chamberlain": 1, "commissioner of subsidy": 1, "jurat": 1, "bailiff": 1}
+{"actor": 1}
+{"filmmaker": 1, "actress": 1, "showrunner": 1}
+{"basketball player": 1, "forward": 1}
+{}
+{"athlete": 1, "champion": 1}
+{}
+{"theoretical chemist": 1, "emeritus professor": 1}
+{}
+{"member": 1}
+{}
+{"guitarist": 2, "composer": 1, "choreographer": 1, "film maker": 1}
+{"painters": 1, "philosophers": 1, "holocaust victim": 1, "diarist": 1}
+{"actor": 1, "director": 2}
+{"capital": 1, "urban centre": 1, "world city": 1, "institution of higher learning": 1, "film and music industry": 1}
+{"composer": 1, "university professor": 2, "ph.d.": 2, "dean": 1, "musicologist": 1}
+{"academic": 1}
+{"author": 1, "artist": 1, "musician": 1}
+{"municipal president": 1}
+{"football manager": 1, "former footballer": 1, "captain": 1, "head coach": 1}
+{}
+{"race car driver": 1, "crew chief": 2}
+{}
+{"philosopher": 1, "linguist": 1}
+{"president": 1, "mayor": 1, "council": 1}
+{"professional baseball player": 1, "catcher": 1}
+{"education": 1, "government": 1, "health care": 1}
+{"rower": 1, "captain": 1}
+{}
+{"sculptor": 1, "poet": 1, "pupil": 1}
+{"tenor": 1, "poet": 1, "kabbalist": 1, "opera composer": 1}
+{"painter": 2, "draughtsman": 1, "book illustrator": 1, "painter in water-colours": 1, "miniature painter": 1}
+{"scientist": 1, "engineer": 1, "developer": 1}
+{"field hockey player": 1, "journalist": 1}
+{"cultural center": 1, "research hub": 1}
+{"politician": 1, "mayor": 1}
+{"academic hub": 1, "islamic institute": 1}
+{"artist": 1, "lecturer": 1}
+{"indentured labourers": 1, "slaves": 1}
+{"scholar": 1, "writer": 1, "chronicler": 1}
+{}
+{"painter": 1, "graphic designer": 1}
+{"global city": 2, "financial centre": 1, "tourist destination": 1}
+{"mathematician": 1}
+{"capital": 3, "political center": 2, "economic center": 2, "cultural center": 1, "scientific center": 1, "tourist destination": 1}
+{"lawyer": 1, "political activist": 1, "u.s. secretary of the navy": 1, "u.s. attorney general": 1, "president": 1}
+{}
+{"singer": 1, "marriage and family therapist": 1}
+{}
+{"mathematician": 1, "professor": 1}
+{}
+{"politician": 2, "spokesperson": 1, "member of the riksdag": 1}
+{}
+{"businessman": 2, "political figure": 1, "speaker": 1}
+{"explorer": 1}
+{"painter": 1, "printmaker": 1}
+{}
+{"patriarch": 1, "metropolitan bishop": 1, "bishop": 1}
+{"capital": 3, "cultural institutions": 1, "commercial companies": 1, "temples": 1, "startup businesses": 1}
+{"football player": 1, "manager": 1, "midfielder": 1}
+{"traders": 1, "scholars": 1}
+{"professional baseball player": 1}
+{"employer": 1}
+{"orienteering competitor": 1}
+{"cultural centre": 1, "financial centre": 1, "research institutions": 1}
+{"soccer player": 1, "forward": 1}
+{"tourist": 1, "resort destination": 1, "service sector": 1, "education": 1, "technology": 1, "health care": 1, "finance": 1, "agriculture": 1, "manufacturing": 1, "local government": 1}
+{"football player": 1, "professional football player": 1}
+{}
+{"painter": 1}
+{"musician": 1, "psychoanalyst": 1}
+{"painter": 1, "etcher": 1, "goldsmith": 1, "master": 1}
+{}
+{"dean": 3, "curate": 1, "rector": 2, "prebendary": 3, "archdeacon": 1, "chaplain": 3, "magistrate": 1, "historian": 1, "naval lieutenant": 1, "admiral": 1}
+{}
+{"agronomist": 1}
+{}
+{"racing driver": 1, "racing team owner": 1}
+{"trading center": 1, "employer": 1}
+{"professional road bicycle racer": 1}
+{"city": 1, "art museum": 1, "football club": 1, "rugby union club": 1, "transportation systems": 1, "tournament": 1}
+{"diplomat": 1, "permanent representative": 1, "minister of foreign affairs": 1}
+{}
+{"professional boxer": 1, "amateur": 1}
+{"mayor": 1, "essay writer": 1, "author": 1, "key figure": 1}
+{"weightlifter": 1}
+{"oil hub": 1, "cargo transit point": 1}
+{"singer": 1, "songwriter": 1, "rapper": 1, "dancer": 1, "actor": 1}
+{"explorer": 1}
+{"footballer": 2, "former footballer": 1}
+{"shipbuilding firm": 1}
+{"dance pop singer": 1}
+{"indigenous": 1, "governor": 1, "film production": 1, "cultural center": 1, "architect": 1}
+{"entrepreneur": 1, "business man": 1}
+{}
+{"footballer": 1, "assistant manager": 1}
+{"chief of government": 1, "mayor": 1, "president": 1}
+{"musician": 1, "record producer": 1}
+{}
+{"athlete": 1, "champion": 1}
+{"visual artist": 1, "illustrator": 2, "digital painter": 1, "novelist": 1, "artistic director": 2, "freelance artist": 1}
+{}
+{"screenwriter": 1, "producer": 1, "film director": 1}
+{}
+{"silent-film actress": 1, "actresses": 2}
+{"cultural center": 1, "economic center": 1, "government center": 1, "transportation center": 1}
+{"bishop": 1}
+{}
+{"basketball player": 1, "college basketball player": 1}
+{"financial center": 1, "fintech center": 1, "global investors": 1}
+{"politician": 1, "administrator": 1, "educator": 1, "orator": 1, "indian independence activist": 1, "school teacher": 1, "headmaster": 1, "delegate": 1, "agent": 1}
+{}
+{"football coach": 1, "former player": 1}
+{}
+{"cricketer": 4, "captain": 1}
+{"farmers": 1, "miners": 1, "immigrants": 1}
+{"fighter ace": 1, "businessman": 1, "wing leader": 1, "wing commander": 1, "chief flying instructor": 1, "commander": 1}
+{"governor": 1, "general": 1, "research and innovation": 1, "tourist destination": 1}
+{"writer": 1, "philosopher": 1, "professor": 1, "researcher": 1, "doctor in philosophy": 1, "chairman": 1, "fellow": 1, "honorary member": 1}
+{}
+{"pediatrician": 1, "amateur entomologist": 1}
+{"international city": 1, "finance hub": 1, "research and development hub": 1}
+{"aviator": 1, "airship builder": 1}
+{"commercial centre": 1, "television and film production": 1}
+{"king": 1}
+{"university": 2, "cultural centre": 1}
+{"animation filmmaker": 2, "producer": 1, "executive producer": 1, "animator": 2, "musician": 1}
+{}
+{"political scientist": 1, "professor": 1}
+{"capital": 3, "cultural center": 1, "industrial center": 1, "administrative center": 1, "government": 1}
+{"voice actress": 1}
+{"economic center": 1, "governor": 1, "assembly": 1, "research and development hub": 1, "academic center": 1}
+{"orienteering competitor": 1}
+{"archbishop": 1, "inventor": 1, "father of taxonomy": 1, "filmmaker": 1, "diplomat": 1, "chemist": 2, "actress": 1, "singer": 1}
+{"actress": 1}
+{"writer": 1, "director": 1}
+{"urban planning design philosophy": 1, "proprietor": 1, "film production": 1, "tourism": 1}
+{"journalist": 1, "professor": 1, "scholar": 1}
+{"administrative capital": 1}
+{"politician": 2, "statesman": 1, "businessman": 1, "economist": 1, "noble": 1, "prime minister": 3}
+{"capital": 3, "political centre": 1, "automotive industry": 1, "tourist destination": 1}
+{"football player": 1, "manager": 1, "forward": 1}
+{}
+{"footballer": 1, "central defender": 1}
+{}
+{"painter": 1}
+{"architect": 1, "writer": 1, "carmaker": 1}
+{"politician": 1, "president": 2, "chief librarian": 1, "professor of history": 1, "historian": 1}
+{}
+{"model": 1, "mechanical engineer": 1, "beauty pageant titleholder": 1}
+{"industrial hub": 1, "educational hub": 1}
+{"military transport pilot": 1, "taikonaut": 2}
+{"fishing seaport": 1}
+{"pitcher": 1, "town supervisor": 1, "tax receiver": 1, "military": 1}
+{}
+{"playwright": 1, "journalist": 1}
+{"professional poker player": 1, "cash games player": 1, "representative": 1}
+{}
+{"musician": 1, "singer": 1, "composer": 1, "record producer": 1, "producer": 1}
+{}
+{"cricketer": 1, "batsman": 1}
+{"king": 1, "judge": 1}
+{"ruler": 1, "man of letters": 1, "author": 1}
+{"rajput chief": 1, "ruler": 1}
+{"writer": 1}
+{"inhabitants": 1, "cattle farming": 1, "industries": 1}
+{"ski jumper": 1}
+{"mayor": 1}
+{"soccer player": 1, "coach": 1}
+{"hydraulic engineer": 1}
+{"footballer": 1, "half back": 1}
+{"ship building and repair": 1}
+{"politician": 1}
+{}
+{"naturalist": 1, "zoologist": 1}
+{"darts player": 1}
+{}
+{"diver": 1}
+{}
+{"footballer": 1, "defender": 1, "midfielder": 1}
+{}
+{"cricketer": 2, "batsman": 1}
+{}
+{"fashion designer": 1, "actor": 1, "actress": 1}
+{"chancellor": 2, "mayor": 1}
+{"american football wide receiver": 1}
+{}
+{"composer": 1}
+{"actor": 2, "television": 1, "musical": 1}
+{"port city": 1, "commercial and industrial metropolis": 1}
+{}
+{"steeplechaser": 1, "middle-distance runner": 1, "long-distance runner": 1}
+{}
+{"astronomer": 1, "commissary": 1, "botanist": 1}
+{"footballer": 1, "goalkeeper": 1}
+{}
+{"singer": 1, "actor": 1}
+{"royal princess": 1}
+{"art historian": 1, "historian": 1, "architect": 1, "military headquarters": 1}
+{"portrait painter": 1}
+{"painters": 1, "printmakers": 1, "illuminators": 1, "composers": 1}
+{"furniture designer": 1, "interior architect": 1, "designer": 2, "architect": 1}
+{}
+{"military commander": 1, "general": 1}
+{"settlers": 1, "emperor": 1, "caliphate": 1}
+{"actor": 1, "writer": 1, "director": 2, "professor": 1, "artistic director": 1, "artistic project leader": 1}
+{}
+{"poet": 1, "writer": 1, "lyricist": 1}
+{"administrative headquarters": 1, "opium factory": 1}
+{"basketball player": 1, "music artist": 1}
+{}
+{"writer": 1, "journalist": 1, "politician": 1, "member of parliament": 1}
+{}
+{"professional football player": 1}
+{"capital city": 1, "seat": 1, "industrialized cities": 1, "government": 1, "heavy manufacturing": 1, "agriculture": 1, "food services": 1}
+{"painter": 1}
+{"professional footballer": 1, "midfielder": 1}
+{}
+{"painter": 1, "officer": 1, "artist": 1}
+{}
+{"writer": 1}
+{"professional footballer": 2, "captain": 2, "manager": 1, "board of directors": 1}
+{}
+{"running back": 1}
+{"prime minister": 1}
+{"king": 2, "duke": 1}
+{}
+{"sprint athlete": 1, "sprinter": 1}
+{"capital city": 1, "cultural hub": 1, "political hub": 1, "economic hub": 1, "seat of government": 1, "major public transport services": 1, "economic centre": 1}
+{"racing driver": 1}
+{}
+{"industrialist": 1, "president": 1, "fullback": 1}
+{}
+{"bassist": 1, "songwriter": 1, "composer": 1}
+{}
+{"scout": 1, "lieutenant colonel": 1}
+{}
+{"writer": 1, "poet": 1}
+{"capital": 3, "city": 3, "government": 1, "hub": 1, "mayor": 1}
+{"politician": 1, "lawyer": 2, "first lieutenant": 1, "regimental adjutant": 1}
+{"participant": 1, "president": 1}
+{}
+{"sculptor": 1, "pupil": 1}
+{"public institution": 1, "museum": 1}
+{"poet": 1, "wit": 1, "socialite": 1}
+{}
+{"chemist": 1}
+{"capital": 3, "scientific hub": 1, "artistic hub": 1, "philosophical hub": 1, "tourism": 1}
+{"leader": 1}
+{"friar": 1, "scientific institutions": 1, "research centers": 1}
+{"football manager": 1, "former player": 1}
+{"steel factories": 1, "crystal manufacture": 1}
+{"managing editor": 1, "president": 1, "editor": 1, "general manager": 1}
+{}
+{"footballer": 1}
+{}
+{"journalist": 3, "historian": 1, "correspondent": 1, "researcher": 1}
+{"sculptor": 1}
+{"settlers": 1, "leader": 2, "pioneer": 1}
+{"politician": 1, "member of the european parliament": 1, "president": 2}
+{"emir": 1, "sculptor": 1, "services city": 1, "university town": 1}
+{"alpine skier": 1}
+{}
+{"taekwondo practitioner": 1}
+{}
+{"philologist": 1, "botanist": 1, "instructor": 1}
+{"footballer": 1, "central defender": 1}
+{"professional footballer": 1, "midfielder": 1}
+{}
+{"singer": 2}
+{"author": 1, "motivational speaker": 1}
+{"voice actress": 1, "singer": 1}
+{}
+{"superhero": 5, "artist": 1, "writer": 1, "playboy": 1, "philanthropist": 1, "industrialist": 1, "vigilante": 1, "actor": 1}
+{"writer": 1, "artist": 1, "architect": 1}
+{"professor": 2, "researcher": 1, "clinical psychologist": 1}
+{"footballer": 1}
+{}
+{"landscape painter": 1, "genre painter": 1}
+{"handball coach": 1, "professional player": 1, "head coach": 1}
+{}
+{"entrepreneur": 1}
+{"city": 1, "cultural center": 1, "financial center": 1, "hub for sports and diplomacy": 1}
+{"sprinter": 1}
+{"tourist destination": 1, "major industry": 1}
+{"footballer": 1, "winger": 1}
+{}
+{"musician": 1, "bassist": 2, "guitarist": 1}
+{"explorer": 1, "manufacturer": 1}
+{"television host": 1, "impresario": 1, "sports and entertainment reporter": 1, "syndicated columnist": 1, "broadcasting pioneer": 1}
+{"writer": 1, "historian": 1}
+{}
+{"football coach": 1, "player": 1}
+{}
+{"rapper": 1, "singer": 1, "songwriter": 2, "record producer": 1}
+{"administrative center": 1, "stronghold of palestinian militants": 1}
+{"artist": 1}
+{}
+{"lawyer": 1, "politician": 2, "senator": 1, "congressman": 1}
+{}
+{"landscape painter": 1, "etcher": 1}
+{}
+{"swimmer": 2, "record holder": 1, "musician": 1}
+{"fishing village": 1, "cultural institutions": 1, "financial centres": 1, "public mass transit company": 1}
+{"mayor": 2, "spanish governor": 1, "licensor": 1, "schepen": 1}
+{"municipality": 1, "diocese": 1, "commercial centre": 1}
+{"singer": 1, "songwriter": 1, "disc jockey": 1, "producer": 1, "multi-instrumentalist": 1, "remixer": 1, "band member": 1, "guest musician": 1}
+{"city": 6, "metropolitan area": 2, "bilingual cities": 1, "commercial capital": 1, "global city": 1, "professional teams": 1}
+{"guitarist": 1, "recording artist": 1, "performer": 1, "professor": 1, "chairman": 1, "artist-in-residence": 1}
+{"footballer": 1, "forward": 1}
+{}
+{"historian": 1, "numismatist": 1, "collector": 1}
+{"emperor": 1, "bishops": 1, "princes": 1}
+{"football player": 1, "forward": 1, "midfielder": 1, "defender": 1}
+{"biosemiotics professor": 1, "professor of ecophysiology": 1, "professor in biosemiotics": 1, "head of the department of semiotics": 1, "president": 2, "ecologist": 1}
+{"intellectual capital city": 1}
+{"football goalkeeper": 1}
+{}
+{"painter": 1, "master": 2, "dean": 2, "artist": 1, "apprentice": 1}
+{"footballer": 1, "former footballer": 1}
+{"conquistador": 1, "independence leader": 1, "president": 1}
+{"keyboard player": 1}
+{"science center": 1}
+{"businessman": 1, "chairman": 1, "chief executive officer": 1}
+{}
+{"actress": 1, "circus impresario": 1}
+{"alpine skier": 1}
+{}
+{"politician": 1, "deputy": 1}
+{}
+{"television personality": 1, "radio personality": 1, "announcer": 3, "host": 2, "handyman": 1, "producer": 1}
+{"zoologist": 1, "librarian": 1, "lecturer": 1, "curator of mammals": 1, "fellow": 1, "president": 1}
+{}
+{"sharpshooter": 1, "folk heroine": 1, "marksman": 1}
+{"officer": 1}
+{"operatic soprano": 1}
+{}
+{"ascetic hieromonk": 1, "desert father": 1}
+{"country": 1, "capital": 2, "industrial hub": 1, "tourist hub": 1, "regional power": 1, "developing country": 1, "semi-presidential republic": 1, "government": 1}
+{"banker": 1, "businessman": 1, "chairman": 2, "member of the board": 1}
+{"art collector": 1}
+{"writer": 1, "columnist": 2}
+{"financial management": 1, "real estate": 1, "tourism": 1, "information technology": 1, "healthcare": 1, "telecommunications": 1, "transportation": 1, "retail": 1}
+{"u.s. representative": 1}
+{}
+{"artist": 1}
+{"duke": 1}
+{"singer": 1, "actress": 1}
+{"author": 1}
+{"pitcher": 1}
+{}
+{"sportsman": 1, "captain": 1, "defender": 1, "fullback": 1, "bowler": 1, "professional player": 1}
+{"naval base": 1}
+{"astrophysicist": 1, "dissident": 1}
+{}
+{"professional baseball pitcher": 1}
+{}
+{"baseball catcher": 1, "professional baseball player": 1}
+{"general": 1, "president": 1}
+{"painter": 1, "court painter": 1}
+{}
+{"handball player": 1}
+{}
+{"party chair": 1, "agricultural engineer": 1, "phd in agricultural science": 1, "minister of agriculture and environment": 1, "member of the local assembly": 1, "member of the belgian senate": 1}
+{"mayor": 1}
+{"general": 5, "pilot": 2, "commander": 4, "deputy commander": 1, "chief": 1, "deputy chief": 2, "assistant deputy director": 1, "faculty member": 1, "director": 1, "command pilot": 1}
+{"water polo player": 1, "head coach": 1, "fencer": 1}
+{}
+{"footballer": 1, "former professional footballer": 1}
+{}
+{"rapper": 1, "record producer": 1}
+{"commercial center": 1, "financial center": 1, "cultural center": 1, "port": 1, "educational institutions": 1, "cultural institutions": 1, "sports teams": 1}
+{"professional american football offensive lineman": 1, "college football player": 1, "coach": 1, "advocate": 1, "micro-brewery owner": 1, "pizza business owner": 1}
+{}
+{"architect": 1, "illustrator": 1, "scenic designer": 1}
+{"cricketer": 2, "leg-spin bowler": 1, "middle order batsman": 1, "coach": 2, "professional": 1, "captain": 1}
+{}
+{"revolutionary activist": 1, "historian": 1}
+{"defensive lineman": 2, "firefighter": 1}
+{}
+{"athlete": 1}
+{}
+{"politician": 1, "marxist": 2}
+{"film actor": 1, "television": 1, "stage": 1}
+{"polymath": 1, "philosopher": 1, "astronomer": 1, "astrologer": 1, "mathematician": 1}
+{}
+{"plant geneticist": 1, "associate professor of plant physiology": 1, "chair of botany": 1, "director of the botanical gardens": 1, "editor": 1}
+{}
+{"mayor": 2, "lawyer": 1, "local councillor": 1}
+{}
+{"discus thrower": 1}
+{}
+{"bishop": 2, "priest": 1}
+{"capital": 4, "court": 1, "monarchy": 1, "conglomerate": 1, "stadium": 1}
+{"pitcher": 1}
+{"president": 1}
+{"artist": 1, "council communist": 1}
+{}
+{"artist": 1, "merchant": 1, "bookkeeper": 1, "painter": 1}
+{"painter": 1, "art collector": 1}
+{"cricketer": 1}
+{"emperor": 1, "military dictators": 1, "feudal lords": 1, "warrior nobility": 1, "sh\u014dgun": 1, "daimy\u014d": 1, "samurai": 1, "major non-nato ally": 1}
+{"curler": 1, "coach": 1}
+{}
+{"sculptor": 1, "painter": 1, "poet": 1, "dadaist": 1, "abstract artist": 1}
+{"manufacturing": 1, "engineering": 1, "transportation": 1}
+{"composer": 1, "conductor": 1, "musicologist": 1}
+{"writer": 1}
+{}
+{"painter": 1, "printmaker": 1}
+{"artist": 1}
+{"football manager": 1, "former player": 1, "footballer": 1}
+{"tourism": 1}
+{"racewalker": 1, "auto mechanic": 1, "sports instructor": 1}
+{}
+{"professional baseball player": 1, "executive": 1, "first baseman": 1, "union representative": 1, "deputy executive director": 1, "acting executive director": 1, "executive director": 1}
+{}
+{"architect": 1}
+{}
+{"pitcher": 2, "umpire": 1}
+{}
+{"painter": 1, "architect": 1, "pupil": 1}
+{"painter": 1}
+{"racing driver": 1}
+{}
+{"zoologist": 1, "naturalist": 1, "educator": 1}
+{"president": 1}
+{"professional road racing cyclist": 1}
+{}
+{"dj": 1, "remixer": 1, "record producer": 1}
+{"mayor": 1}
+{"politician": 1, "shot putter": 1, "athlete": 1, "coach": 2}
+{}
+{"basketball coach": 1, "former player": 1}
+{"cultural center": 1, "industrial hub": 1, "tourist destination": 1}
+{"track and field athlete": 1, "lawyer": 1, "judge": 1, "chief justice": 1}
+{"manufacturing center": 1, "service economy": 1}
+{"guitarist": 3, "leader": 2, "album production": 1, "president": 1, "vice-president": 1, "composer": 1}
+{}
+{"geologist": 1, "explorer": 1}
+{}
+{"guitarist": 1}
+{"urban planning": 1}
+{"painter": 1, "engraver": 1, "poet": 2, "playwright": 2}
+{"actor": 1, "teacher of elocution": 1, "writer": 1}
+{"conductor": 5, "rehearsal coach": 1, "general music director": 1, "principal conductor": 1, "principal guest conductor": 1, "friend": 1}
+{"temperance worker": 1, "nurse": 1, "community leader": 1, "writer": 1}
+{"service centre": 1, "financial centre": 1}
+{"beach volleyball player": 1, "setter": 1}
+{"cultural center": 1, "financial center": 1, "political center": 1, "administrative center": 1}
+{"sultan": 1}
+{"tourism": 2, "fishing": 1, "algaculture": 1}
+{"cricketer": 1, "batsman": 1}
+{"calypsonians": 1, "performers": 1, "calypsonian": 1}
+{"cricketer": 1, "batsman": 1}
+{}
+{"ski mountaineer": 1}
+{}
+{"trumpeter": 1, "solo cornettist": 1, "solo trumpetist": 1, "associate professor": 1, "professor": 1}
+{}
+{"opera singer": 1}
+{}
+{"wrestler": 1}
+{"football coach": 1, "former player": 1}
+{"municipality": 1, "conglomerate": 1}
+{"tennis player": 1}
+{"sprint canoeist": 1, "selector": 1}
+{}
+{"corresponding member": 1, "expert": 1, "creator": 1}
+{}
+{"rugby union player": 1, "centre": 1}
+{}
+{"sculptor": 1, "silversmith": 1}
+{"comedian": 1, "actor": 1}
+{}
+{"politician": 1, "speaker": 1}
+{"basketball player": 1}
+{"rugby union coach": 1, "professional rugby league footballer": 1}
+{"cultural institutions": 1, "major centre of the scottish enlightenment": 1, "hubs of oceanic trade": 1, "shipbuilding and marine engineering industry": 1}
+{"footballer": 1, "defender": 1}
+{}
+{"football coach": 1, "former player": 1}
+{"capital city": 1}
+{"musician": 1, "songwriter": 1, "composer": 1, "record producer": 1}
+{"trading port": 1, "association football club": 1, "higher education institutions": 1}
+{"politician": 2, "physician": 3, "professor": 1}
+{"singer": 1, "harmonica player": 1, "electric and soul blues singer": 1}
+{}
+{"politician": 1, "economist": 1, "minister": 2, "deputy chief executive": 1, "member of the board of directors": 1}
+{"managing director": 2, "senior advisor": 1, "communications strategist": 1}
+{}
+{"professional american football defensive tackle": 1, "offensive guard": 1, "tackle": 1}
+{}
+{"admiral": 1, "physicist": 1}
+{"politician": 1}
+{"journalist": 1, "news anchor": 1}
+{}
+{"stock car racing driver": 1}
+{"city": 1, "suburb": 1, "community": 1}
+{"forensic scientist": 1, "forensic pathologist": 1, "bacteriologist": 1, "executive director": 1, "vice-rector": 1, "member": 1, "chair": 1, "tv show host": 1}
+{"voice actress": 1}
+{}
+{"attorney": 1, "jurist": 1, "senior united states circuit judge": 1, "united states district judge": 1}
+{}
+{"actress": 1, "operetta singer": 1, "soprano": 1}
+{"volleyball coach": 1, "volleyball player": 1}
+{"capital": 1, "city": 1, "member": 1, "office": 1}
+{"lance corporal of horse": 1, "corporal of horse": 1}
+{"professional basketball player": 1, "executive": 1}
+{}
+{"writer": 1}
+{}
+{"singer": 1, "songwriter": 1, "record producer": 1}
+{"mayor": 1}
+{"actress": 1}
+{"capital city": 1, "principal port": 1, "centre of linen manufacture": 1, "aerospace and defence contractors": 1, "universities": 2}
+{"physician": 1, "writer": 1}
+{"historian": 1, "professor": 1, "editor": 1}
+{"city": 5, "municipality": 2, "high-tech centre": 1}
+{"cricketer": 3, "civil servant": 1, "chief magistrate": 1, "officer": 1}
+{}
+{"writer": 1}
+{}
+{"professional golfer": 1, "golf course architect": 1}
+{"industrial suburb": 1}
+{"baseball pitcher": 1}
+{}
+{"football player": 1}
+{"authoritarian leader": 2, "president": 2, "regional power": 1}
+{"politician": 1, "lawyer": 1}
+{"minister": 1}
+{}
+{"politician": 1, "deputy": 1}
+{}
+{"child actor": 1}
+{"city": 1, "county seat": 1}
+{"pianist": 1, "composer": 1}
+{"architect": 2}
+{}
+{"king": 1}
+{"president": 2, "taoiseach": 1}
+{"botanist": 1, "medical practitioner": 1}
+{"university": 1, "business hub": 1, "city": 1}
+{"politician": 1, "minister of regional development": 1, "chemical engineer": 1, "courier": 1, "head of the department for government relations": 1, "deputy mayor": 1, "deputy heads of government relations": 1, "deputy chief of territorial administration": 1, "deputy head of the russian presidential administration for domestic policy": 1, "envoy of the russian president": 1, "advises": 1}
+{}
+{"skeleton racer": 1}
+{"cultural center": 1, "economic center": 1, "political center": 1}
+{"tennis player": 1, "coach": 1}
+{"singer": 1, "songwriter": 1, "teen idols": 1}
+{"actor": 1, "voice actor": 1, "narrator": 1, "freelance": 1}
+{"high jumper": 1}
+{}
+{"scholar": 1, "physician": 1, "poet": 1, "latin writer": 1, "tutor": 1, "literary companion": 1}
+{"politician": 1, "mla": 3, "minister": 1}
+{}
+{"professional handballer": 1, "centre back": 1}
+{"mayor": 1, "patron saint": 1}
+{"political scientist": 1}
+{"formula one world champion": 1}
+{"racing driver": 1}
+{"military": 1, "defense-related activities": 1, "tourism": 1, "international trade": 1, "research": 1, "manufacturing": 1}
+{"architect": 1, "professor emeritus": 1}
+{"baseball catcher": 1}
+{}
+{"painter": 1}
+{"military frogman": 1}
+{}
+{"football manager": 1, "player": 1}
+{}
+{"rapper": 2, "vice president": 1, "activism": 1, "philanthropy": 1}
+{"district judge": 1, "dean": 2, "faculty": 2}
+{"trade unionist": 1, "politician": 1, "syndicalist": 1, "minister of transport": 1, "senator": 1, "vice-president": 1}
+{"production center": 1, "agriculture": 1, "light industry": 1, "tourism": 1}
+{"congressman": 1}
+{}
+{"grammarian": 1, "university teacher": 1}
+{}
+{"engraver": 2, "artist": 1}
+{"organist": 2, "choirmaster": 1, "composer": 2, "compass adjuster": 1, "teacher": 1, "instructor": 1, "master of music": 1, "associate composer": 1}
+{"fishing": 1, "resort": 1}
+{"tibetologist": 1, "missionary": 2, "bible translator": 1, "linguist": 1}
+{}
+{"swimmer": 1, "record holder": 2, "member": 1, "sprint butterfly swimmer": 1}
+{"singer": 1, "songwriter": 1}
+{"president": 1}
+{"wrestler": 1, "world champion": 1}
+{"monarch": 1, "tsar": 1, "emperor": 1}
+{"politician": 1, "public servant": 1, "soldier": 1, "farmer": 1}
+{"founding fathers": 1, "governmental institutions": 1, "financial institutions": 1}
+{"poet": 1, "artist": 1, "historian": 1, "street speaker": 1, "co-founder": 1}
+{"international hub for finance": 1, "tourism": 1, "cultural institutions": 1, "professional sports": 1}
+{"nationalist": 1, "military leader": 1, "commanding officer": 1, "hauptmann": 1}
+{"administrative centre": 1, "cultural centre": 1}
+{"conductor": 1}
+{}
+{"capital city": 1, "global city": 1, "tourist destination": 1, "economic expansion": 1, "scientific and technological innovation": 1}
+{"cricketer": 1, "batsman": 1, "carpenter": 1, "groundsman": 1}
+{}
+{"architect": 1, "chief dominion architect": 1, "chief architect": 1}
+{"painter": 1, "muralist": 1, "educator": 1}
+{"business center": 1, "commercial center": 1}
+{"professor": 1, "author": 1, "teacher": 1, "faculty director": 1, "interim dean": 1, "vice provost": 1, "dean": 1}
+{"city": 5, "corporate head offices": 1}
+{"singer": 2, "actress": 2, "composer": 1, "film director": 1, "touring member": 1, "stage actress": 1}
+{}
+{"academic administrator": 1, "businessman": 1, "politician": 1, "vice president": 1, "president": 1}
+{"leader": 1, "commercial hub": 1, "financial hub": 1, "research and development": 1}
+{"linguist": 1, "novelist": 1, "ethnomusicologist": 1, "cowboy": 2, "medical doctor": 1, "psychologist": 1}
+{"bishop": 1, "ruler": 1, "patron": 1}
+{"poet": 1, "popes": 1, "artists": 1, "painters": 1, "sculptors": 1, "architects": 1}
+{"painter": 1, "printmaker": 1, "sculptor": 1}
+{"chess grandmaster": 1}
+{}
+{"athlete": 1}
+{}
+{"football defender": 1, "professional footballer": 1}
+{"mayor": 1}
+{"hammer thrower": 1, "former west german hammer thrower": 1}
+{}
+{"mathematician": 1, "academic administrator": 1, "public servant": 1, "vice chancellor": 2, "chair": 1}
+{}
+{"engineering director": 1}
+{}
+{"politician": 1, "senator": 1, "minister": 2, "vice-president": 1}
+{"penal colony": 1, "whaling port": 1, "financial and administrative hub": 1, "tourist destination": 1}
+{"banker": 1, "botanist": 2, "antiquary": 1, "historian": 1}
+{"fishing industry": 1, "oil rig industry": 1, "offshore natural gas rigs": 1, "offshore wind power": 1, "renewable energy industries": 1, "resort": 2}
+{"rapper": 2, "vocalist": 1, "member": 1}
+{"hurler": 1, "centre-forward": 1}
+{}
+{"character": 1, "historical figure": 1}
+{}
+{"media proprietor": 1, "chairman": 1, "chief executive officer": 1, "president": 2, "director": 2, "governor": 1}
+{"politician": 1, "parliamentary assistant": 1, "solicitor general": 1, "associate minister": 1, "minister": 1}
+{"lieutenant general": 1, "soldier": 1}
+{"concert pianist": 1, "performer": 1}
+{"chemist": 1, "businessman": 1, "corporate director": 1, "rector": 1}
+{"footballer": 1, "striker": 1}
+{}
+{"football player": 1}
+{"professor": 2, "administrator": 1, "dean": 1, "president": 1}
+{"singer-songwriter": 1, "musician": 2}
+{"gaelic footballer": 1, "midfielder": 1}
+{"poet": 2, "writer": 1}
+{"folk poet": 1, "playwright": 1, "music producer": 1, "radio personality": 1, "broadcaster": 1, "writer": 1, "researcher": 1}
+{"administrative center": 1}
+{"politician": 1, "lieutenant governor": 1, "leader": 1}
+{"soldier": 1, "2nd lieutenant": 1, "captain": 1, "major": 1, "lieutenant-colonel": 1}
+{}
+{"hurler": 2, "full-forward": 1}
+{}
+{"musician": 1, "singer": 1, "lyricist": 1, "composer": 1, "member of a band": 1}
+{"athlete": 1, "double leg amputee": 1, "swimmer": 1}
+{"soccer goalkeeper": 1}
+{}
+{"politician": 2, "resistance leader": 1, "bookbinder": 1, "representative chairman": 1}
+{}
+{"sprinter": 1}
+{"archbishop": 1, "economic hub": 1, "student city": 1}
+{"professional football wide receiver": 1}
+{"mayor": 1}
+{"sailor": 1, "crew member": 1}
+{}
+{"musician": 1, "journalist": 1, "vegetarianism activist": 1, "writer": 1}
+{"settlement": 1, "administrative centre": 1, "production and trading centre": 1, "mill town": 1, "cultural, financial and commercial heart": 1, "student population": 1}
+{"bishop": 1, "political activist": 1, "pamphleteer": 1}
+{}
+{"historian": 1, "professor": 1}
+{"professional basketball coach": 1, "player": 3, "head coach": 2, "coach": 1, "color commentator": 1, "president of basketball operations": 1, "general manager": 1}
+{"seat of government": 1, "seaport": 1}
+{"martial arts practitioner": 1, "artist": 1}
+{}
+{"pole vaulter": 1}
+{}
+{"patriarch": 3}
+{"biblical scholar": 1}
+{"cityscape painter": 1}
+{"writer": 1, "slavicist": 1, "essayist": 1}
+{"politician": 1, "economist": 1, "ministry for finance": 1}
+{}
+{"comedy actor": 1}
+{"poet": 1, "screenwriter": 1, "essayist": 1}
+{"sabre fencer": 1}
+{}
+{"business executive": 1, "ceo": 2, "journalism": 1, "marketing director": 1, "vice-president of sales": 1, "vice president for advertising sales": 1, "president": 1}
+{"playwright": 1, "scriptwriter": 1, "student": 1, "actress": 1}
+{"city": 1, "cultural centre": 1, "economic centre": 1, "industrial centre": 1, "transit route": 1}
+{"politician": 1, "president": 2, "deputy prime minister": 2, "minister of culture and information": 1, "minister without portfolio": 1, "mayor": 1}
+{"trading": 1, "manufacturing": 1, "cultural centre": 1}
+{"painter": 1}
+{"sculptor": 1, "painter": 1, "engraver": 1}
+{}
+{"sportscaster": 1, "presenter": 1, "advertising agency worker": 1}
+{"military": 1, "general de divisi\u00f3n m\u00e9dico": 1, "surgeon general": 1, "teniente": 1, "president": 1}
+{}
+{"professional ice hockey forward": 1}
+{}
+{"basketball player": 1, "football player": 1, "pundit": 1, "sports journalist": 1}
+{"entrepreneur": 1, "pioneer": 1}
+{"prime minister": 1}
+{"footballer": 1}
+{}
+{"rugby union player": 1}
+{"music critic": 1, "radio talk show host": 1, "editor": 1, "committee member": 1}
+{"rhythmic gymnast": 2}
+{"mayor": 1, "councillors": 1}
+{"cricketer": 1}
+{"whaling station": 1, "students": 1, "manufacturing": 1, "publishing": 1, "arts": 1, "tourism": 1, "technology-based industries": 1}
+{"footballer": 1}
+{}
+{"singer-songwriter": 1}
+{}
+{"chemist": 1}
+{}
+{"journalist": 1, "editor-in-chief": 1, "ceo": 1, "owner": 1}
+{"composer": 1, "musicologist": 1}
+{"conquistador": 1, "political center": 1, "financial center": 1}
+{"boxer": 1, "world champion": 1}
+{"actress": 1, "singer": 1, "television presenter": 1, "policewoman": 1}
+{}
+{"saint": 1}
+{"painter": 1, "architect": 1, "sculptor": 1}
+{"undergraduate students": 1}
+{"lawyer": 1, "journalist": 1, "publisher": 1, "historian": 1}
+{"college town": 1, "nomadic hunters": 1, "woodland tribes": 1, "american pioneers": 1, "immigrants": 1}
+{"football player": 1, "guard": 1}
+{}
+{"traveler": 1, "writer": 1, "poet": 1, "collector": 1, "polyglot": 1, "theosophist": 1}
+{}
+{"musician": 1, "composer": 1, "musicologist": 1}
+{"film director": 2}
+{"composer": 1, "bandleader": 1, "pianist": 1, "organist": 1}
+{"personal watercraft pilot": 1, "inventor": 1}
+{"visual artist": 1, "painter": 1, "teacher": 1}
+{}
+{"bishop": 2, "suffragan bishop": 2}
+{"athlete": 1, "diver": 1, "coach": 1}
+{"bobsledder": 1, "businessman": 1, "major": 1, "trustee": 1, "director": 1}
+{"author": 1, "editor": 1, "public speaker": 1, "inventor": 1, "theorist": 1, "spiritual author": 1, "chemist": 1, "billionaire": 1, "vice president": 1, "senator": 1}
+{"home rule municipality": 1, "seat of government": 1, "transportation hub": 1, "college town": 1}
+{"amateur boxer": 1}
+{"composer": 1}
+{"visual artist": 1, "painter": 1, "social critic": 1}
+{}
+{"activist": 1}
+{}
+{"footballer": 1, "centre back": 1}
+{}
+{"football player": 1, "center": 1}
+{"civil engineer": 1, "teacher": 1}
+{"actor": 1}
+{}
+{"actress": 1}
+{}
+{"actress": 1}
+{"bishop": 1, "archbishop": 1}
+{}
+{"statesman": 1}
+{"city": 1, "capital": 1, "manufacturing": 1}
+{"boxer": 2, "national coach": 1, "midfielder": 1, "restauranteur": 1, "columnist": 1}
+{"record producer": 1, "editor": 1, "columnist": 1, "ordnance technician": 1, "writer": 1, "historian": 1, "reporter": 1, "director": 1, "classical music editor": 1, "executive editor": 1, "a&r executive": 1, "producer": 1}
+{"character actor": 1, "theatre director": 1, "playwright": 1, "stage actor": 1}
+{"lumber barons": 1, "services": 1, "retail": 1, "healthcare": 1, "education": 1}
+{"politician": 3, "school teacher": 1, "journalist": 1, "writer": 1}
+{"weaving industry": 1, "hindu monastic institution": 1}
+{"lawyer": 1, "politician": 1}
+{"actor": 1}
+{"football defensive back": 1, "professional football player": 1}
+{}
+{"painter": 1}
+{"actor": 1, "politician": 1, "businessman": 1}
+{}
+{"footballer": 1, "defensive midfielder": 1}
+{"pitcher": 1, "basketball player": 1, "linebacker": 1}
+{"footballer": 1, "left back": 1}
+{}
+{"pitcher": 2}
+{}
+{"jurist": 1, "educator": 1, "professor": 4, "jurisconsult": 1, "arbitrator": 1, "writer": 1}
+{}
+{"king": 1, "president": 1}
+{}
+{"football manager": 1, "player": 1, "head coach": 1}
+{"filmmaker": 1, "screenwriter": 1, "producer": 1, "author": 1, "multimedia artist": 1}
+{"premier": 1, "head of government": 1}
+{"scholar": 2}
+{"scholar": 1, "translator": 1, "professor": 1}
+{"professional footballer": 1, "forward": 1}
+{"soldier": 1, "garrison": 1}
+{"racing driver": 1, "ambassador": 1, "car mechanic": 1}
+{}
+{"journalist": 1, "newspaper owner": 1, "general": 1}
+{"filmmaker": 1, "production assistant": 1, "assistant director": 1, "director": 2, "production manager": 1, "second unit director": 1}
+{"scholar": 2, "merchant": 1, "juror": 1}
+{"seat of the see": 1, "cathedrals": 1}
+{"football running back": 1, "football player": 1}
+{}
+{"businessman": 1, "racing driver": 1, "director": 1}
+{"triple jumper": 1, "champion": 2}
+{"emperor": 2, "tourist destination": 1}
+{"artist": 1}
+{"tourist resort": 2, "ice hockey team": 1}
+{"singer": 1, "songwriter": 1, "pianist": 1, "session musician": 1}
+{"composer": 1, "keyboardist": 1, "record producer": 1, "singer": 1, "songwriter": 1, "pianist": 1, "adjunct professor": 1}
+{"singer": 1, "artist": 1}
+{"painter": 1, "industrialist": 1, "art collector": 1, "artist": 1, "marine painter": 1}
+{"politician": 1, "engineer": 1, "lawyer": 1, "revolutionary socialist": 1, "editor": 1}
+{}
+{"bookseller": 1}
+{"herpetologist": 2, "zoogeographer": 1, "biologist": 1}
+{}
+{"herpetologist": 1}
+{"dancer": 2, "singer": 2, "actress": 1}
+{"pianist": 2, "piano teacher": 1, "composer": 2, "ney player": 1, "conductor": 1, "strategist": 1}
+{"professional baseball pitcher": 1}
+{"transport hub": 1}
+{"politician": 1, "head of state": 1}
+{}
+{"scholar": 1, "novelist": 1, "translator": 1, "author": 1}
+{"trading colony": 1, "students": 1}
+{"screenwriter": 1, "director": 1, "rapper": 1}
+{"artist": 1, "poet": 1, "art teacher": 1}
+{"footballer": 1, "defender": 1}
+{"capital": 4, "major regional port": 1, "major city": 1}
+{"actor": 1}
+{"physician": 2, "bibliophile": 1, "historian": 1, "author": 1, "practical joker": 1}
+{}
+{"actor": 1, "singer": 1}
+{}
+{"baseball player": 1, "manager": 1, "military service": 1, "combat aviator": 1, "sport fisherman": 1}
+{"ice sledge hockey player": 1, "captain": 1}
+{"economist": 1, "executive director": 1, "deputy governor": 1}
+{"prime minister": 1, "president": 3}
+{"actress": 1, "businessman": 1, "author": 1, "wing commander": 1}
+{"resident commissioner": 1}
+{"cricketer": 1, "army officer": 1}
+{"tourism": 1, "health resort": 1}
+{"government official": 1, "justice secretary": 2, "ombudsman": 1}
+{"explorer": 2, "revolutionary": 1}
+{"botanist": 1, "naturalist": 1, "professor": 1}
+{}
+{"baseball player": 1, "television sports commentator": 1, "color commentator": 1}
+{}
+{"actor": 1}
+{"capital city": 1, "port city": 2, "designated cities": 1}
+{"guitarist": 1, "songwriter": 1}
+{"cricketer": 1, "bowler": 1}
+{}
+{"economist": 1, "postdoctoral fellow": 1, "lecturer in economics": 1, "professor": 1}
+{"mayor": 1}
+{"soccer player": 1}
+{}
+{"textile merchant": 1, "cartographer": 1, "adviser": 1}
+{"pitcher": 3, "rookie": 1, "ballplayer": 1, "losing pitcher": 1, "outfield": 1}
+{}
+{"painter": 1}
+{"geologist": 1, "oceanographic cartographer": 1}
+{}
+{"poet": 1, "ambassador": 1, "diplomat": 1}
+{"botanist": 3, "director": 1, "president": 2}
+{"artist": 1, "football club": 1}
+{"chess grandmaster": 1, "swedish chess champion": 1}
+{"waitress": 1}
+{"professional wrestler": 1}
+{"tourist destination": 2, "manufacturing center": 1, "medical device manufacturing capital": 1}
+{"football player": 1}
+{"warrior": 2, "chief": 1}
+{}
+{"professional baseball relief pitcher": 1, "pitcher": 1}
+{}
+{"racing driver": 1}
+{"politician": 2, "governor": 2, "speaker": 1, "lieutenant governor": 1, "superintendent of public instruction": 1}
+{}
+{"painter": 1}
+{"painter": 1, "scientist": 2}
+{"painter": 1, "printmaker": 1}
+{"rowing coxswain": 1}
+{}
+{"professional baseball player": 1}
+{"transportation terminus": 1, "distribution and manufacturing center": 1, "banking and finance": 1}
+{"television producer": 1, "producer": 1, "writer": 1}
+{}
+{"vaudevillist": 1, "songwriter": 1}
+{"republican member": 1, "officer": 1, "lieutenant": 1, "co-owner": 1, "vice-president": 1, "lobbyist": 1, "sherriff": 1}
+{}
+{"mathematician": 1}
+{"settlers": 1, "global centre of the linen industry": 1}
+{"chemist": 1}
+{"politician": 1, "sociologist": 1, "leader": 1, "president": 1, "treasurer": 1, "member of parliament": 1}
+{"professional footballer": 1, "striker": 1}
+{"philosopher": 1, "mystic": 1, "composer": 1, "sociologist": 1}
+{"freestyle wrestler": 1}
+{}
+{"musician": 1}
+{"explorers": 1, "missionaries": 1, "settlers": 1, "homesteaders": 1, "immigrants": 1}
+{"rower": 1}
+{"city": 5, "municipal college": 1, "professional sports teams": 1}
+{"painter": 1, "court painter": 1}
+{"politician": 1, "member of parliament": 1, "chairman": 1, "lobbyist": 1}
+{"city": 3, "capital": 3, "cultural centre": 1, "business centre": 1, "seaport": 1}
+{"peer": 1}
+{"duke": 2, "architect": 1, "heiress": 1}
+{"football midfielder": 1}
+{"administrative centre": 1, "cultural centre": 1, "scientific centre": 1, "educational centre": 1, "transport centre": 1, "industrial centre": 1}
+{"professional ice hockey forward": 1}
+{}
+{"lawyer": 1, "politician": 1}
+{}
+{"football player": 1, "linebacker": 1}
+{"bass fishermen": 1, "water sports enthusiasts": 1}
+{"artist": 3, "curator": 1, "adjunct professor": 1}
+{"architect": 1, "entrepreneur": 1}
+{"cyclist": 1, "road cyclist": 1, "vice presidents": 1}
+{}
+{"ice hockey player": 1, "referee": 1, "head coach": 1, "referee-in-chief": 1, "trustee": 1}
+{}
+{"hurler": 1, "midfielder": 1}
+{}
+{"cricketer": 1, "batsman": 1}
+{"market town": 1, "civil parish": 1, "centre for coal mining": 1, "brewing": 1, "hosiery manufacturing": 1}
+{"umpire": 1}
+{}
+{"attorney": 1, "law enforcement officer": 1, "politician": 1, "sheriff": 1, "chief": 1, "candidate": 1}
+{"quarterback": 1, "football player": 1}
+{}
+{"politician": 1, "illinois comptroller": 1}
+{"operatic dramatic mezzo-soprano": 1, "soprano": 1, "teacher": 1}
+{"agricultural centre": 1, "industrial centre": 1}
+{"politician": 1, "member of the european parliament": 1, "vice chair": 1}
+{}
+{"master builder": 1, "architect": 1, "politician": 1}
+{}
+{"bishop": 1, "cardinal": 1}
+{}
+{"talmudist": 1, "authority on jewish law": 1, "scholar": 1}
+{}
+{"duke": 3, "grandee": 1, "knight": 1, "viceroy": 4, "captain general": 2}
+{"founder": 1, "maritime republic": 1, "naval power": 1, "cultural history": 1}
+{"painter": 1, "pastor": 1}
+{}
+{"sport wrestler": 1}
+{}
+{"professional football player": 1, "safety": 1, "kick returner": 1}
+{}
+{"princess consort": 1, "regent": 1}
+{"castle": 1, "estate": 1}
+{"clergyman": 1, "antiquarian collector": 1}

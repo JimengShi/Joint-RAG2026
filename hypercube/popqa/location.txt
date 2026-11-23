@@ -1,0 +1,1475 @@
+{"australia": 2}
+{}
+{"dumfries": 2, "edinburgh": 1}
+{}
+{}
+{"minnesota": 2, "district 56": 1, "washington county": 1, "twin cities": 1, "st. charles": 1, "illinois": 1, "university of iowa": 1, "university of minnesota hospital and clinics": 1, "saint paul": 1}
+{}
+{}
+{"netherlands": 2, "amsterdam": 1}
+{}
+{"north american": 1, "south korean": 1}
+{}
+{"antwerp": 3, "belgium": 1}
+{"scone palace": 1, "perthshire": 1, "london": 2, "boroughbridge": 1, "england": 2, "britain": 3, "british colonies": 1, "atlantic": 1}
+{"iceland": 1}
+{"greece": 1, "italy": 2, "england": 2, "rome": 1, "europe": 1}
+{"honduras": 3, "san pedro sula": 1, "santa rita": 1, "yoro": 1}
+{"fonthill": 1, "ontario": 1, "canada": 1}
+{"america": 1}
+{}
+{"queensland": 1, "maryborough": 1, "australia": 1}
+{}
+{"peru": 4}
+{"boston": 2, "richmond": 1, "virginia": 1, "baltimore": 2, "philadelphia": 1, "new york city": 1, "united states": 2}
+{"england": 1, "western literature": 1}
+{"dummer township": 1, "peterborough county": 1, "upper canada": 1, "norwood": 1, "peterborough east": 1, "canada": 1}
+{"georgia": 3, "camden county": 1}
+{"tokyo": 2}
+{"austria": 1, "vienna": 2, "germany": 3, "zurich": 1, "paris": 1}
+{}
+{"japan": 1}
+{"america": 1}
+{"thibodaux": 1, "louisiana": 1}
+{"greece": 1, "rome": 1}
+{"rome": 2, "egypt": 2}
+{"america": 1}
+{}
+{"america": 1}
+{"the farm": 2, "summertown": 1, "tennessee": 1, "u.s. supreme court": 1}
+{"japan": 1}
+{"us": 1}
+{"canada": 1, "toronto": 1, "vancouver": 1}
+{"shiga prefecture": 1, "japan": 2, "us": 1, "europe": 1}
+{"japan": 1}
+{"new zealand": 1, "sydney": 2, "auckland": 2}
+{}
+{"new york": 1}
+{"council bluffs": 1, "iowa": 1, "los angeles": 1, "california": 1}
+{"k\u014dchi": 1, "japan": 1}
+{}
+{"west gwillimbury township": 1, "ontario": 2, "bradford": 1, "whitby": 1, "toronto": 2, "kingston": 1, "pembroke": 1, "renfrew north": 1, "ottawa": 1}
+{}
+{"london": 3, "france": 1, "shooter's hill": 1}
+{}
+{"sweden": 1, "melodifestivalen": 1, "eurovision song contest": 1}
+{"america": 1}
+{}
+{}
+{"america": 1}
+{"denmark": 1, "copenhagen": 1}
+{"tunisia": 1, "abu dhabi": 1}
+{"america": 1}
+{}
+{}
+{"asia minor": 2, "europe": 1, "jerusalem": 1, "damascus": 1, "judea": 1, "syria": 1, "greek provinces of achaia": 1, "macedonia": 1, "cyprus": 1}
+{}
+{"japan": 1}
+{}
+{"university of texas": 1, "america": 1}
+{}
+{"senegal": 3, "saudi arabia": 1, "soviet union": 1, "west germany": 1, "austria": 1, "lille": 1}
+{}
+{"guildford": 2, "england": 1, "luxembourg": 1, "surrey": 1, "united kingdom": 1}
+{"venice": 2}
+{}
+{"ireland": 1}
+{"exeter": 1, "oxford": 1, "britain": 1}
+{"university of montreal": 1, "the george washington university": 1, "harvard medical school": 1, "minas gerais": 1, "brazil": 1, "milan school of medicine": 1}
+{}
+{"imperial college": 1}
+{}
+{"mississippi": 1, "hinds county": 1, "united states": 1}
+{}
+{}
+{"fort worth": 1, "texas": 1}
+{"new york": 1, "beijing": 2, "s\u00e3o paulo": 1, "quito": 1, "moscow": 2, "tel aviv": 1, "people's republic of china": 1, "vietnam": 1, "u.s.": 1, "canada": 1, "geneva": 1, "japan": 1, "russia": 1, "aix-en-provence": 1, "ghana": 1, "germany": 1}
+{}
+{"\u00e5sane": 1, "norway": 1}
+{"england": 1}
+{"mexico": 1}
+{}
+{}
+{"the duke of york's theatre": 1, "national theatre": 1, "bush theatre": 1, "yvonne arnaud theatre": 1, "albery theatre": 1, "coventry": 1, "broadway": 1}
+{"panama": 1}
+{"pahang": 3, "lanchang": 1}
+{"england": 1}
+{"iceland": 1}
+{"america": 1}
+{}
+{"american": 1}
+{"newfoundland": 1, "pacific ocean": 3, "new zealand": 2, "australia": 2, "hawaiian islands": 2, "st. lawrence river": 1, "quebec": 1, "island of hawaii": 1}
+{}
+{"ivanhoe": 1, "brunswick": 1, "yarra glen": 1, "yea": 1, "cairns": 1, "warringal cemetery": 1, "heidelberg": 1}
+{"netherlands": 1}
+{"canadian": 1, "calgary": 2, "st. john's": 1, "newfoundland": 1, "canada": 1, "toronto": 1}
+{}
+{"bayreuth festival": 1}
+{}
+{"british": 1}
+{"united nations": 1}
+{"ottoman empire": 1, "new york": 2, "united states": 1}
+{"los angeles": 2}
+{"america": 1}
+{}
+{"aden": 2, "somalia": 1, "bombay": 1, "yemen": 2, "new york city": 1, "united kingdom": 1, "federation of south arabia": 1, "mecca": 1, "south yemen": 1}
+{"italy": 1}
+{"tampa": 1, "florida": 1, "united states": 1}
+{"kingdom of prussia": 1, "united states": 2, "brussels": 1, "germany": 1, "new york": 1}
+{}
+{"america": 1}
+{"virginia": 1}
+{"portugal": 2, "cascais": 3}
+{"united states of america": 1}
+{"china": 1}
+{"new caledonia": 3}
+{"tokyo": 1}
+{"los angeles": 1, "miami": 1, "hawaii": 1, "america": 1}
+{"santiago": 3, "viceroyalty of peru": 1, "maipo": 1, "victoria": 1, "chile": 2}
+{"krak\u00f3w": 1, "poland": 1, "warsaw": 1, "essen": 1, "college park": 1, "waterloo": 1, "ontario": 1}
+{}
+{"hong kong": 3}
+{}
+{"region of waterloo": 1, "kitchener centre": 1}
+{"zaandam": 1, "netherlands": 1, "france": 1, "university of amsterdam": 2, "utrecht": 2, "university of liverpool": 1, "university of nijmegen": 1, "tsinghua university": 1}
+{"europe": 1}
+{"liverpool": 1, "stourbridge": 1, "stourport-on-severn": 1, "worcestershire": 1, "bewdley": 1, "areley court": 1, "areley kings": 1, "birmingham": 1}
+{"thailand": 1}
+{"new hampshire": 4, "united states": 2}
+{"manchester": 1}
+{"northern ireland": 1}
+{"midtown manhattan": 1, "new york city": 1, "30 rockefeller plaza": 1, "america": 1}
+{}
+{"washington": 2, "spokane": 2}
+{"santa barbara": 2, "california": 1}
+{}
+{"vermont": 1, "united states": 1}
+{}
+{"tanzania": 2, "italy": 1}
+{"kansas": 3, "south africa": 1, "united states": 1}
+{"washington": 3, "los angeles": 2, "guantanamo bay": 1, "baltimore": 2, "iraq": 1, "northwestern university": 1}
+{"paris": 2, "france": 1}
+{"university of california": 1, "irvine": 1, "orange county": 1}
+{}
+{"yokohama": 1, "kanagawa": 1, "japan": 1}
+{"italy": 1}
+{}
+{"tamura": 1, "fukushima": 2, "japan": 1}
+{"wisconsin": 2, "racine": 1, "kenosha": 1, "chickamauga": 1}
+{}
+{"cincinnati": 1, "ohio": 1, "nebraska": 2, "u.s.": 1}
+{"florence": 1, "italy": 1, "germany": 1}
+{}
+{"ise": 1}
+{"canada": 1}
+{"ofen": 1, "komorn": 1, "p\u00e1pa": 1, "austerlitz": 1, "nagykanizsa": 1, "esztergom": 1, "somogy-csurg\u00f3": 1, "gross kanizsa": 1, "br\u00fcnn": 1, "s\u00e1toralja-ujhely": 1}
+{"germany": 1, "united states": 1}
+{}
+{}
+{"pennsylvania": 2, "university of pennsylvania": 2, "u.s. house of representatives": 1}
+{"poland": 1, "paris": 1}
+{"paris": 1, "tavers": 1}
+{"italy": 1}
+{"south africa": 1}
+{"philippines": 2}
+{"italy": 1}
+{}
+{"drenas": 1, "kosovo": 1}
+{"united states": 1}
+{"r\u00fcsselsheim": 3, "germany": 1}
+{"minnesota": 1, "anoka county": 1, "twin cities": 1, "ham lake": 1}
+{"fordham university": 1}
+{"england": 1}
+{}
+{"bow": 1, "london": 1, "uk": 1}
+{"iraq": 1, "university of maryland": 1}
+{}
+{"meath": 1, "ireland": 1}
+{"england": 1}
+{}
+{"persico dosimo": 1, "cremona": 3, "africa": 1, "bergamo": 2, "milan": 1}
+{"uruguay": 1}
+{"america": 1}
+{"australia": 1}
+{"israel": 2, "tel aviv": 1, "poland": 1}
+{}
+{}
+{}
+{}
+{"india": 1}
+{}
+{"delhi": 1, "india": 1}
+{"west ham": 1, "essex": 1, "wells": 1, "somerset": 1, "england": 1, "london": 2, "lambeth": 1, "norfolk": 2, "herne bay": 1, "swanage": 1, "bournemouth": 1, "kent": 1, "dorset": 1, "hampshire": 1, "wroxham": 1}
+{"city of london": 2, "bermondsey": 1, "finsbury": 2, "cripplegate ward": 1, "london": 4, "enfield": 2, "middlesex": 2, "enfield chase cemetery": 1}
+{"puerto rico": 1, "las vegas": 1, "nevada": 1}
+{"united states": 2}
+{"cambodia": 4}
+{"australia": 1, "britain": 1}
+{"india": 1, "tamil": 1}
+{"america": 1}
+{"germany": 1}
+{}
+{"greece": 2}
+{"lackawanna": 1, "new york": 1, "united states": 1}
+{"dublin": 1, "clonfert": 2, "kilmacduagh": 1}
+{}
+{"vienna": 1, "canberra": 1, "new zealand": 1, "australia": 1}
+{}
+{"america": 1}
+{"united states": 1}
+{"detroit": 1, "america": 1}
+{"north carolina": 5, "potomac river": 1, "hampshire county": 1, "virginia": 1, "west virginia": 1, "columbia": 1, "south carolina": 2, "lincoln county": 1, "rutherford county": 2, "kentucky": 1, "washington district": 1, "tennessee": 1, "haywood county": 1, "mississippi": 1, "clinton": 1, "buncombe county": 1}
+{"germany": 1}
+{"united states": 1, "canada": 1, "japan": 1, "mexico": 1, "new japan pro-wrestling": 1, "wrestling observer newsletter hall of fame": 1, "uk": 1}
+{}
+{"british": 1}
+{}
+{}
+{"british": 1, "america": 1}
+{}
+{"chicago": 1, "u.s.": 1}
+{"chicago": 1, "illinois": 1, "university of notre dame": 1, "university of michigan": 1, "illinois state university": 1}
+{"istanbul": 1, "ankara province": 1}
+{"haslemere": 1, "carlisle": 1, "lancaster": 1}
+{}
+{"los angeles": 1}
+{"norway": 1}
+{"america": 1}
+{}
+{"nigeria": 3}
+{"fort resolution": 2, "northwest territories": 3, "fort smith": 1, "edmonton": 1, "yellowknife": 1, "lac ste. anne": 1, "grande prairie": 1, "alberta": 1}
+{"england": 1}
+{"chicago": 1, "new york": 1, "los angeles": 1}
+{"huntington": 1, "west virginia": 2, "charleston": 1, "kanawha county": 1, "america": 1}
+{"new zealand": 1, "auckland": 1, "paris": 1, "european": 1}
+{"america": 1}
+{"united states": 2, "ohio": 2, "geauga county": 1}
+{}
+{"japan": 4, "asia": 1, "fukuoka": 1, "tokyo": 1}
+{"sweden": 1}
+{"italy": 2}
+{"new hampshire": 2, "district 1": 1, "the north country": 1, "grafton county": 1, "district 2": 1, "bath": 1}
+{"los angeles": 1, "california": 1, "new zealand": 1, "denmark": 1}
+{"pakistan": 5, "karachi": 1, "britain": 1, "dubai": 1, "london": 1, "rawalpindi": 1, "garhi khuda bakhsh": 1, "swiss": 1}
+{"british indian ocean territory": 1, "british antarctic territory": 1, "anguilla": 2, "falkland islands": 1, "south georgia": 1, "south sandwich islands": 1, "caribbean": 1, "south atlantic ocean": 1}
+{"hamburg": 3, "germany": 1}
+{"karlsruhe": 1, "winterthur": 1, "germany": 1}
+{"united nations": 1}
+{"warsaw": 4, "sweden": 1, "united states": 1}
+{"canada": 3, "st. stephen": 1, "new brunswick": 1, "milltown": 1, "university of saskatchewan": 2, "ottawa": 1, "deep river": 1, "ontario": 1}
+{}
+{"japan": 2, "norwegian wood": 1}
+{}
+{"united kingdom": 1, "britain": 1, "house of commons": 1, "10 downing street": 1}
+{}
+{}
+{"wales": 1, "england": 1, "cambridge": 1, "london": 1}
+{}
+{}
+{"czech": 1}
+{}
+{"australia": 3, "geelong": 1, "victoria": 1, "corio": 3}
+{"nigeria": 1, "united states": 1, "france": 1, "netherlands": 1, "uk": 1, "ghana": 1}
+{"new york": 1, "united states": 1}
+{"bosnia and herzegovina": 4, "united states": 1, "unece": 1}
+{}
+{}
+{"sri lanka": 2}
+{"new york": 1}
+{"r\u00e5shult": 1, "sm\u00e5land": 1, "sweden": 3, "netherlands": 1, "europe": 1, "uppsala": 2}
+{"india": 1}
+{"cape breton nova": 1, "sydney-whitney pier": 1, "nova scotia": 2}
+{"serbia": 1}
+{"germany": 1}
+{"hato rey": 1, "puerto rico": 4}
+{"tamil nadu": 3, "pappireddipatti": 1}
+{"italy": 2, "continental europe": 1, "scandinavia": 1, "japan": 1}
+{"west indies": 1, "england": 1}
+{}
+{"united states": 1}
+{}
+{"somali republic": 2, "united nations": 1, "somali democratic republic": 1}
+{"germany": 1}
+{"united states": 3, "grenada": 2, "colombia": 2, "chile": 1, "latin america": 1, "caribbean": 1}
+{"singapore": 5, "jurong grc": 1}
+{"borg\u00e5 landskommun": 1, "finland": 3, "borga": 1, "abo": 1}
+{"marshfield": 1, "vermont": 1, "grand rapids": 2, "wisconsin": 3, "wisconsin rapids": 1}
+{"india": 1}
+{"neath": 1, "glamorgan": 1, "wales": 1}
+{"south korea": 2}
+{"england": 1}
+{"bishopstoke": 1, "hampshire": 1, "beaconsfield": 1, "buckinghamshire": 1}
+{"australia": 3, "new york": 1}
+{"klondike": 1, "yukon": 2}
+{"dernford": 1, "sawston": 1, "cambridgeshire": 1}
+{"new york city": 1}
+{"burma": 1}
+{"bayonne": 1, "paris": 1, "duchy of parma": 2, "chamb\u00e9ry": 1}
+{"america": 1}
+{}
+{"pune": 1, "india": 1}
+{}
+{"romania": 2, "bucharest": 1}
+{"ussr": 1, "russia": 1}
+{}
+{"us": 1}
+{"america": 1}
+{"france": 1, "la roche-sur-yon": 1}
+{"staten island": 1, "vashon": 1, "washington": 1, "seattle": 1}
+{"kingston": 1, "new hampshire": 2, "salisbury": 1, "franklin": 1, "united states": 2}
+{"galway": 4, "bullaun": 1, "loughrea": 2, "ennis": 1, "mervue": 1, "seattle": 1, "south boston": 1, "memphis": 1, "tennessee": 1, "l'orient": 1, "amsterdam": 1, "jerusalem": 1}
+{"austria-hungary": 1, "united states": 1, "new york": 2, "new york city": 1, "virginia": 1, "texas": 1}
+{"dnipropetrovsk": 2, "ukrainian ssr": 1, "ussr": 1, "ukraine": 1}
+{}
+{"america": 1}
+{}
+{"brazil": 1, "rio de janeiro": 1}
+{"america": 1}
+{}
+{"sakata": 1, "yamagata prefecture": 1, "japan": 1}
+{"anglo-irish": 1}
+{"north carolina": 3}
+{"cyprus": 2, "athens": 1}
+{"new york": 1}
+{"india": 2, "allahabad": 1, "prayagraj": 1, "nainital": 1, "delhi": 1, "south africa": 1, "eastern africa": 1, "mauritius": 1, "egypt": 1, "the uae": 1, "the united kingdom": 1, "russia": 1, "central asia": 1, "guyana": 1, "suriname": 1, "trinidad and tobago": 1, "fiji": 1, "australia": 1, "new zealand": 1, "canada": 1, "the united states": 1}
+{"japan": 1}
+{"japan": 5}
+{"dunkirk": 1}
+{"tipperary": 3, "church street": 1, "dublin": 1, "united kingdom": 1}
+{"canterbury": 2, "kent": 1}
+{"gironella": 2, "bergued\u00e0": 1, "sant daniel de girona": 1, "palau": 2, "cardona": 1, "cabrera": 1}
+{"occitania": 2, "italian peninsula": 1, "iberian peninsula": 1, "germany": 1, "galicia": 1, "portugal": 1, "northern france": 1, "europe": 1}
+{"leningrad": 3, "russia": 1, "france": 1, "penn state university": 1, "university of rennes 1": 1, "laboratory paul painleve university lille 1": 1, "berkeley": 1, "california": 1, "germany": 2}
+{"germany": 1, "brandenberg": 1, "united states": 2, "leipzig": 1, "new york": 1}
+{"ourense": 1, "a caeira": 1, "poio": 1, "galicia": 1, "spain": 1}
+{"ireland": 1}
+{"darlington township": 2, "upper canada": 1, "bowmanville": 1, "durham west": 1, "canada": 1}
+{}
+{"ghana": 4, "sissala west": 2, "egypt": 1, "upper west": 1}
+{}
+{}
+{"london": 2, "uk": 1}
+{"germany": 1}
+{"moldova": 2}
+{"catania": 2, "sicily": 1, "italy": 1}
+{"paris": 1}
+{"america": 1}
+{"greater khorasan": 1, "greater iran": 1, "turkey": 1, "azerbaijan": 1, "south asia": 1, "konya": 1}
+{"belize": 1, "cayo north east": 1}
+{"kanagawa prefecture": 1}
+{"montevideo": 1}
+{"paris": 1, "switzerland": 1, "united states": 2}
+{"greece": 1}
+{"mexican": 1, "yucat\u00e1n": 1}
+{"america": 1}
+{"brussels": 2, "france": 1, "switzerland": 1, "monaco": 1, "the united states": 1, "turkey": 1}
+{}
+{}
+{}
+{"australia": 1}
+{"boston": 1, "andover": 1, "massachusetts": 1}
+{"united states": 1, "los angeles": 1}
+{"spain": 1}
+{}
+{"south korea": 4, "japan": 1}
+{"florida": 4, "orange county": 1, "orlando": 1, "tallahassee": 1, "space coast": 1, "massachusetts": 1}
+{"british columbia": 3, "canada": 2, "lockerbie": 2, "st. paul": 1, "new westminster": 3}
+{"bulacan": 1, "philippines": 1, "santa maria": 1}
+{"pakistan": 3, "khyber pakhtunkhwa": 1}
+{}
+{"america": 1}
+{"italy": 1}
+{"new zealand": 2, "auckland": 3, "hamilton": 4, "waikato": 4, "tamahere": 1, "waikato hospital": 1, "hamilton east cemetery": 1, "kirikiriroa p\u0101": 1, "hamilton's riverside": 1}
+{}
+{"pennsylvania": 2, "ephrata cloister": 1, "lancaster county": 1}
+{"switzerland": 1, "united states": 1, "europe": 1, "germany": 1}
+{}
+{"america": 1}
+{"america": 1}
+{"ontario": 2, "canada": 1, "port arthur": 1, "alberta": 1, "calgary-currie": 1}
+{"puerto rico": 1, "united states": 1}
+{}
+{"boxtel": 2, "netherlands": 3}
+{"scotland": 1}
+{"england": 1}
+{"russia": 1}
+{"her\u00f8y": 1, "m\u00f8re og romsdal": 1, "trondheim": 2, "s\u00f8r-tr\u00f8ndelag": 3}
+{"scotland": 1}
+{"canada": 2, "england": 1, "hollywood": 1, "australia": 1}
+{"stockholm": 1, "sweden": 2}
+{"united states": 2, "germany": 2}
+{"hong kong": 4, "shanghai": 1, "greater china": 1}
+{"france": 4, "paris": 1, "r\u00e9union": 1, "los angeles": 1}
+{"russia": 2, "soviet union": 1, "russian republic": 1}
+{"britain": 1}
+{}
+{"georgetown university": 1, "united states": 1}
+{"ireland": 1}
+{"australia": 1}
+{"greece": 1}
+{}
+{"rockville centre": 1, "new york": 1}
+{"belgrade": 1}
+{"nepal": 1, "baglung-2": 3, "butwal": 1}
+{"greensboro": 1, "north carolina": 1}
+{"germany": 1}
+{"britain": 1}
+{"venezuela": 1, "aragua": 1}
+{"new york city": 1, "united states": 1, "japan": 1, "uk": 1}
+{}
+{"united states": 1}
+{"stockton": 1, "san francisco": 1, "london": 1}
+{"america": 1}
+{"funabashi": 1, "chiba": 1, "japan": 1}
+{"aberdeen south": 1, "aberdeen": 1}
+{"america": 1, "british": 1, "outtv": 1}
+{"united states": 1, "montana": 1, "texas": 1}
+{"bhagabanpur": 1, "jajpur": 1, "odisha": 2, "bhubaneswar": 1, "india": 2, "chennai": 1, "guwahati": 1}
+{}
+{"poland": 2, "soviet union": 1, "katyn": 1}
+{"british columbia": 2, "canada": 1}
+{"philadelphia": 1, "united states": 1}
+{"colorado": 1, "fortieth division": 1}
+{"chile": 4, "la moneda palace": 1, "latin america": 1}
+{}
+{"tamil nadu": 1, "manachanallur": 1}
+{"kentucky": 1}
+{"america": 1}
+{"jos": 2, "nigeria": 1, "pankshin": 1, "cuicul": 1}
+{"east germany": 1}
+{"norwich": 1, "norfolk": 1, "england": 1}
+{"garnet hill observatory": 1, "scotland": 1}
+{"haiti": 2, "french": 1}
+{"eastern europe": 1}
+{"rome": 1}
+{"rome": 3}
+{}
+{"new york city": 1, "beverly hills": 1, "california": 1, "england": 1}
+{"quebec city": 1, "quebec": 2, "canada": 2}
+{"republic of mulhouse": 1, "swiss": 1, "french": 1}
+{"roubaix": 1, "marseille": 1, "university college london": 1, "france": 1}
+{"germany": 1}
+{"tokyo": 1, "united states": 1}
+{"ireland": 1}
+{"guinea": 1}
+{"roxbury": 4, "massachusetts": 1, "boston": 1}
+{"galway": 2, "ireland": 1}
+{"niger": 4, "arab": 1}
+{"north korea": 1, "detroit": 1, "san antonio": 1, "chicago": 1, "los angeles": 1, "dallas": 1}
+{"people's republic of china": 1, "henan province": 1, "hebei province": 1}
+{"england": 1, "canterbury": 1}
+{"netherlands": 1, "house of representatives": 2, "university of groningen": 1, "university of essex": 1}
+{}
+{"belgium": 1, "calcutta": 2, "india": 1}
+{"new south wales": 4, "merrylands": 1, "illawarra": 1, "wollongong-kembla": 1}
+{"zanzibar": 2}
+{}
+{"spain": 1}
+{"croatia": 1}
+{"australia": 2, "western australian": 1, "o'connor": 1}
+{}
+{"israel": 1}
+{"monaco": 1, "france": 1}
+{"india": 2, "mambalam": 1, "madras": 2}
+{}
+{"ljubljana": 3, "slovenia": 3, "kingdom of yugoslavia": 1, "zagreb": 1, "croatia": 1, "maribor": 2, "trieste": 1}
+{"kuma": 1, "ehime prefecture": 1, "kuma kogen astronomical observatory": 1}
+{"st. martin's, coney street, york": 1, "wormley school, hertfordshire": 1, "christ's college, cambridge": 1, "morpeth": 1, "the hague": 1, "the netherlands": 1}
+{}
+{"germany": 1}
+{"new york": 1}
+{"america": 1}
+{"united states": 1, "sixteen countries": 1}
+{}
+{"newcastle upon tyne": 1, "northumberland": 1}
+{}
+{"japan": 1}
+{}
+{"american west": 1, "united states": 1}
+{}
+{"new york": 1, "michigan": 1, "united states": 1}
+{"united states": 2, "u.s.": 2, "china": 1, "iran": 1}
+{"united kingdom": 1}
+{"trako\u0161\u0107an": 1, "kingdom of hungary": 1, "\u00f3v\u00e1r": 1}
+{"orthodox church in america diocese of new york and new jersey": 1, "st. tikhon's orthodox theological seminary": 2, "south canaan, pennsylvania": 2, "johnstown": 1, "latrobe, pennsylvania": 1, "pittsburgh": 1, "villanova university": 1, "st. tikhon's orthodox monastery": 1, "ss. peter and paul orthodox church": 1, "jersey city, new jersey": 1}
+{"argentine": 1, "uruguayan": 1}
+{"sakai": 1, "osaka": 1, "japan": 2}
+{"spain": 1}
+{"united states": 1, "international space station": 1}
+{"china": 2, "russia": 1, "soviet union": 1}
+{}
+{"clearwater": 1}
+{"japan": 1}
+{"snap inc": 1, "sony pictures entertainment": 1, "sony entertainment": 1, "warner music group": 1}
+{}
+{"america": 1}
+{"norway": 3, "scandinavia": 1, "europe": 1, "north america": 1}
+{"yekaterinburg": 1, "sverdlovsk oblast": 1, "russia": 1}
+{"chicago": 1, "illinois": 1, "los angeles": 1}
+{"brussels": 2, "belgium": 1, "new york city": 1}
+{"karnataka": 1, "harapanahalli": 1, "bellary": 1}
+{"czech republic": 1}
+{"jamaica": 1, "united states": 1, "west indies": 1}
+{"bronx": 1, "new york city": 1, "long island": 1, "philadelphia": 1, "soviet union": 1}
+{"kandalaksha": 2, "murmansk oblast": 1}
+{"hollywood": 1, "metro-goldwyn-mayer": 1}
+{"mexico": 2, "durango": 1}
+{"united states": 1}
+{"czech": 5, "bohemia": 2, "prague": 4, "sweden": 1, "gothenburg": 1}
+{}
+{"aston": 1, "hertfordshire": 1, "lincoln": 1, "eton college": 1, "christ church, oxford": 1}
+{"scotland": 1, "edinburgh": 1, "perth": 1, "leith": 3}
+{"helsinki": 1, "finland": 1, "turkey": 1}
+{"stanford university": 1}
+{"chilean": 1, "us": 1}
+{}
+{}
+{"dunedin": 1, "new zealand": 1, "singapore": 1}
+{}
+{"new romney": 2, "kent": 1, "yarmouth": 1}
+{"india": 1}
+{}
+{"lubango": 1, "angola": 2}
+{"angola": 2, "lubango": 2, "hu\u00edla province": 1, "luanda": 1}
+{"france": 3, "moscow": 1, "soviet union": 1, "london": 1, "u.k.": 1}
+{"fontainebleau": 5, "paris": 3, "seine-et-marne": 2, "melun": 1, "\u00eele-de-france": 1, "avon": 1}
+{"rottweil": 1, "germany": 1, "university of bonn": 1}
+{"rottweil": 3, "germany": 1, "baden-w\u00fcrttemberg": 2, "black forest": 1, "swabian alps": 1}
+{"pennsylvania": 1}
+{"philadelphia": 15, "philly": 1, "pennsylvania": 2, "united states": 2, "delaware valley": 1, "washington, d.c.": 2, "new york city": 1, "wissahickon valley park": 1, "fairmount park": 1}
+{"amsterdam": 1}
+{"amsterdam": 6, "netherlands": 4, "north holland": 1, "europe": 3, "port of amsterdam": 1, "schiphol": 1}
+{"egypt": 1}
+{"cairo": 6, "egypt": 2, "nile delta": 1, "giza": 1, "memphis": 1, "heliopolis": 1, "fustat": 2, "fatimid dynasty": 1, "ayubid": 1, "mamluk": 1, "arab world": 2, "middle east": 2}
+{"vinga": 1, "arad county": 1, "romania": 1}
+{"vinga": 2, "arad": 1, "arad county": 1, "romania": 1, "gothenburg": 1, "sweden": 1}
+{}
+{"mexico": 1, "michoac\u00e1n": 1, "cotija de la paz": 2, "jiquilpan": 1, "villamar": 1, "tocumbo": 1, "jalisco": 1}
+{"nepal": 3, "dharan": 1}
+{"dharan": 3, "sunsari district": 1, "koshi province": 1, "nepal": 4, "biratnagar": 2, "itahari": 2, "greater birat development area": 1, "koshi highway": 1}
+{"nascars": 1, "truck series": 1}
+{"palmdale": 5, "los angeles county": 1, "california": 3, "antelope valley": 1, "san gabriel mountains": 1, "los angeles basin": 1, "lancaster": 1}
+{}
+{"washington, d.c.": 5, "united states": 1, "potomac river": 1, "virginia": 2, "maryland": 3, "georgetown": 1, "alexandria": 2, "philadelphia": 1, "northeast megalopolis": 1, "national mall": 1, "west virginia": 1, "k street": 1}
+{"san francisco": 1, "united states": 1}
+{"baltimore county": 2, "maryland": 2, "baltimore": 2, "northern virginia": 1, "boston": 1, "new york city": 1, "philadelphia": 1, "central maryland": 1}
+{"athens": 1, "greece": 1}
+{"athens": 10, "greece": 2, "attica": 1, "european mainland": 1, "european union": 1, "ancient greece": 1, "ancient rome": 1, "southeastern europe": 1, "piraeus": 1}
+{"recanati": 2, "basilica of loreto": 1, "loreto": 1}
+{"recanati": 5, "macerata": 1, "marche": 1, "italy": 1}
+{"manchester": 1, "london": 1, "south kensington museum": 1}
+{"greater manchester": 2, "england": 1, "cheshire": 1, "salford": 2, "trafford": 1, "stockport": 1, "tameside": 1, "oldham": 1, "rochdale": 1, "bury": 1, "river mersey": 1, "port of manchester": 1, "irish sea": 1, "m60": 1, "m62": 1, "m602": 1, "east lancashire road": 1, "a6": 1}
+{"cologne": 1, "germany": 1}
+{"cologne": 6, "north rhine-westphalia": 2, "germany": 4, "d\u00fcsseldorf": 1, "bonn": 1, "rhine": 2, "germanic ubii": 1, "germania inferior": 1, "france": 1, "europe": 2, "rhineland": 1, "cologne bonn": 1, "d\u00fcsseldorf airport": 1}
+{"thrissur": 2, "india": 1}
+{"thrissur": 10, "kerala": 6, "india": 3, "thiruvananthapuram": 1}
+{"mackay": 1, "queensland": 1, "scotland": 1, "australia": 3, "south africa": 1, "north adelaide": 1, "sydney": 2, "birmingham": 1, "national gallery of australia": 1, "national gallery of canada": 1}
+{"mackay": 5, "queensland": 3, "brisbane": 1, "pioneer river": 1, "mackay-whitsunday region": 1, "north queensland": 2, "south sea islander": 2, "italy": 1, "malta": 1, "australia": 2, "mount blackwood": 1, "eungella national park": 1, "finch hatton gorge": 1, "cape hillsborough": 1, "round top": 1, "flat top islands": 1, "great barrier reef": 1}
+{"bulgaria": 1, "serbian despotate": 1}
+{"kostenets": 5, "sofia province": 1, "bulgaria": 1, "kostenets municipality": 1, "kostenets\u2013dolna banya valley": 1, "sofia": 1, "momin prohod": 1, "villas kostenets": 1, "pchelinski bani": 1, "borovets": 1, "smith island": 1, "south shetland islands": 1, "antarctica": 1}
+{"budapest": 1, "hungary": 1}
+{"budapest": 6, "hungary": 3, "lower pannonia": 1, "danube river": 2, "europe": 1, "european union": 1, "buda": 2, "\u00f3buda": 1, "pest": 2, "austro-hungarian empire": 1, "budapest metropolitan area": 1, "budapest city": 1}
+{}
+{"moscow": 8, "russia": 4, "saint petersburg": 1, "eastern europe": 1, "hong kong": 1, "red square": 1, "saint basil's cathedral": 1, "moscow kremlin": 1}
+{"baltimore": 2, "maryland": 1}
+{"baltimore": 13, "maryland": 2, "u.s.": 1, "washington": 1, "central maryland": 1, "europe": 1, "philadelphia": 2, "henry fite house": 1, "west baltimore street": 1, "fort mchenry": 1, "midwest": 1, "appalachia": 1, "inner harbor": 1, "fell's point": 1, "federal hill": 1, "mount vernon": 1}
+{"tehran": 1, "united states": 1, "orange county": 1, "ca": 1}
+{"tehran": 6, "iran": 5, "caucasus": 1, "greater tehran": 2, "ray": 1, "middle east": 1, "persia": 1}
+{"mutzig": 1, "alsace": 1, "strasbourg": 1}
+{"mutzig": 2, "bas-rhin": 1, "grand est": 1, "france": 1, "bruche river valley": 1, "route des vins d'alsace": 1}
+{"sweden": 1, "university of gothenburg": 1}
+{"eskilstuna": 3, "s\u00f6dermanland county": 1, "sweden": 2, "river eskilstuna\u00e5n": 1, "lake hj\u00e4lmaren": 1, "lake m\u00e4laren": 1}
+{"lower canada": 3, "canada east": 1, "province of canada": 1, "upper canada": 1}
+{"quebec": 3, "quebec city": 3, "montreal": 1, "north america": 1, "old quebec": 1, "americas": 1, "mexico": 1}
+{}
+{"finkenwerder": 1, "hamburg": 2, "germany": 1, "hamburg-mitte": 1}
+{"bulgaria": 3, "ruse": 1, "dorostol": 1, "cherven": 1}
+{"bulgaria": 5, "sofia": 8, "sofia valley": 1, "vitosha mountain": 1, "iskar river": 1, "balkans": 1, "black sea": 1, "adriatic sea": 1, "aegean sea": 1, "serdica": 2, "sredets": 2, "bulgarian empire": 1, "byzantines": 1, "ottomans": 1, "rumelia eyalet": 1, "europe": 1, "european union": 1, "southeast europe": 1, "sofia city province": 1, "sofia province": 1, "pernik province": 1, "serbia": 1, "dimitrovgrad": 1}
+{"indonesia": 1, "tangerang": 1, "jakarta": 1, "bandung": 1, "sidoarjo": 1, "semarang": 1, "bogor": 1, "balikpapan": 1, "dafonsoro": 1}
+{"indonesia": 10, "southeast asia": 1, "oceania": 1, "indian ocean": 1, "pacific ocean": 1, "sumatra": 2, "java": 2, "sulawesi": 1, "borneo": 1, "new guinea": 1, "jakarta": 1, "papua new guinea": 1, "east timor": 1, "malaysia": 2, "singapore": 1, "peninsular malaysia": 1, "vietnam": 1, "thailand": 1, "the philippines": 1, "australia": 1, "palau": 1, "india": 1, "china": 1, "indian subcontinent": 1, "maluku": 1}
+{"frederick, maryland": 1, "washington, d.c.": 1}
+{"frederick": 3, "maryland": 2, "united states": 1, "baltimore": 2, "washington": 2, "chesapeake bay": 1, "appalachian mountains": 1, "ohio river watershed": 1}
+{"edinburgh": 1, "great britain": 1, "vuokatti": 1}
+{"edinburgh": 6, "scotland": 5, "united kingdom": 2, "lothian": 1, "midlothian": 1, "edinburghshire": 1}
+{"orange county": 1}
+{"santa barbara": 5, "california": 2, "santa barbara county": 1, "santa ynez mountains": 1, "pacific ocean": 1, "los angeles": 1, "san francisco": 1, "los padres national forest": 1, "channel islands national park": 1, "channel islands national marine sanctuary": 1}
+{"milan": 1, "italy": 1}
+{"milan": 12, "italy": 5, "rome": 2, "turin": 1, "europe": 3, "celtic": 1, "western roman empire": 1, "duchy of milan": 1, "kingdom of italy": 1, "cortina d'ampezzo": 1}
+{"austria": 1, "vienna": 2}
+{"austria": 3, "vienna": 8, "slovakia": 1, "bratislava": 1, "hungary": 1, "moravia": 1, "czech republic": 1, "pannonian basin": 1, "lower austria": 1, "danube": 2, "vienna woods": 1, "alps": 1}
+{"utrecht": 4, "haarlem": 1, "the hague": 1, "monastery of st. mary magdalene": 1}
+{"utrecht": 8, "netherlands": 5, "haarzuilens": 1, "vleuten": 1, "de meern": 1, "randstad": 1, "amsterdam": 2}
+{"boroughbridge": 2, "ripley": 1, "yorkshire": 3, "scoreby": 1, "wotton": 1, "whitby": 2, "topcliffe": 1, "cherry burton": 1, "ripon": 4, "spain": 2, "york minster": 1, "grewelthorpe": 1, "north riding": 1, "penzance": 1, "cornwall": 1, "hexham": 1, "minster house": 1, "court at madrid": 1, "east riding": 1, "barnard's inn": 1, "escorial": 1}
+{"boroughbridge": 1, "north yorkshire": 1, "england": 1, "west riding of yorkshire": 1, "york": 1, "london": 1, "edinburgh": 1, "river ure": 1, "aldborough": 1, "minskip": 1}
+{"america": 1}
+{"watseka": 1, "iroquois county": 1, "illinois": 2, "united states": 1, "illinois-indiana state line": 1}
+{"indianapolis": 1, "baja": 1}
+{"texarkana": 4, "arkansas": 4, "miller county": 1, "texas": 2, "missouri": 1, "ark-la-tex": 1, "piney woods": 1, "gulf coastal plain": 1}
+{"paris": 1, "saint-avertin": 1}
+{"paris": 10, "france": 3, "europe": 3, "\u00eele-de-france": 1, "saint-denis": 1, "moscow": 1, "seine": 1, "european union": 2}
+{"ukraine": 2}
+{"cherkasy oblast": 1, "ukraine": 1, "cherkasy": 1, "dnieper river": 1}
+{"ecuador": 1, "germany": 2}
+{"ambato": 4, "ecuador": 2, "tungurahua province": 1, "andean valley": 1, "ambato river": 1}
+{"warri": 1, "nigeria": 1}
+{"warri": 5, "nigeria": 2, "delta state": 3, "uvwie": 3, "udu": 3, "ogbe-ijoh": 1, "lower niger delta region": 1, "warri river": 1, "forcados river": 1, "escravos river": 1, "jones creek": 1, "atlantic ocean": 1}
+{}
+{"tappahannock": 3, "essex county": 2, "virginia": 1, "united states": 1, "rappahannock river": 1, "chesapeake bay": 1}
+{"birkenhead": 1, "chester": 2, "preston north end": 1}
+{"birkenhead": 5, "wirral": 3, "merseyside": 1, "england": 1, "cheshire": 1, "river mersey": 1, "liverpool": 2, "birkenhead priory": 1, "birkenhead park": 1, "hamilton square": 1, "britain": 1}
+{"los angeles": 1, "us": 1}
+{"los angeles": 6, "california": 3, "new york city": 1, "southern california": 2, "pacific ocean": 1, "santa monica mountains": 1, "san fernando valley": 1, "san gabriel valley": 1, "los angeles county": 1, "first mexican empire": 1, "united states": 2, "eastern california": 1, "americas": 1}
+{}
+{"damascus": 8, "syria": 2, "levant": 1, "anti-lebanon": 1, "mediterranean": 1, "baghdad": 1, "marota city": 1, "basillia city": 1}
+{"buenos aires": 1, "chile": 1, "argentina": 2, "arsenal de sarand\u00ed": 1, "independiente": 1, "hurac\u00e1n": 1, "deportivo espa\u00f1ol": 1, "universitario de deportes": 1, "sporting cristal": 1}
+{"buenos aires": 5, "argentina": 1, "r\u00edo de la plata": 1, "south america": 1, "belgrano": 1, "flores": 1, "greater buenos aires": 1}
+{"san francisco bay area": 1, "highbank": 1, "texas": 1, "united states": 1, "marlin": 1, "oakland": 1, "california": 1}
+{"texas": 8, "south central": 1, "united states": 2, "louisiana": 1, "arkansas": 1, "oklahoma": 1, "new mexico": 1, "mexican states": 1, "chihuahua": 1, "coahuila": 1, "nuevo le\u00f3n": 1, "tamaulipas": 1, "gulf of mexico": 1, "spain": 1, "mexico": 1, "republic of texas": 1, "confederate states of america": 1, "dallas\u2013fort worth metroplex": 1, "greater houston": 1, "austin": 1, "u.s. southern": 1, "southwestern": 1, "big bend": 1}
+{"hungary": 5, "montreal": 1, "united states": 1, "east germany": 1, "moscow": 3}
+{"portsmouth": 1, "ohio": 1, "us": 1, "vannes": 1, "paris": 2, "auray": 1, "brittany": 2, "rennes": 1, "united states": 1, "nyc": 1}
+{"vannes": 1, "morbihan": 1, "brittany": 1, "france": 1}
+{"united states": 1}
+{"united states of america": 1, "united states": 2, "america": 1, "north america": 2, "washington, d.c.": 1, "canada": 1, "mexico": 1, "alaska": 1, "hawaii": 1, "new york": 1, "los angeles": 1, "chicago": 1, "california": 1, "texas": 1, "florida": 1, "virginia": 1, "pearl harbor": 1, "soviet union": 2, "european": 1}
+{"america": 1}
+{"little rock": 5, "arkansas": 5, "pulaski county": 1, "arkansas post": 1, "american south": 1}
+{"dresden": 1, "east germany": 1, "germany": 2}
+{"dresden": 11, "germany": 6, "saxony": 3, "leipzig": 2, "berlin": 2, "hamburg": 2, "elbe": 2, "freital": 1, "pirna": 1, "radebeul": 1, "meissen": 2, "coswig": 1, "radeberg": 1, "heidenau": 1, "west lusatian hill country": 1, "uplands": 1, "lusatia": 1, "ore mountain foreland": 1, "wei\u00dferitz": 1, "lockwitzbach": 1, "sudetes": 1, "neumarkt": 1, "saxon switzerland": 1, "ore mountains": 1, "elbes valley": 1, "moritzburg castle": 1}
+{"new york city": 1, "wake forest university": 1, "cleveland": 1}
+{"new york city": 6, "united states": 3, "new york state": 1, "los angeles": 1, "manhattan island": 1, "fort amsterdam": 1, "new amsterdam": 1, "financial district": 1, "staten island": 1, "brooklyn": 1, "queens": 1, "the bronx": 1, "fifth avenue": 1}
+{"valangaiman": 1, "kumbakonam": 1, "india": 2, "triplicane": 1, "madras": 1, "united kingdom": 1, "union of south africa": 1, "city of london": 1, "city of edinburgh": 1}
+{"valangaiman": 2, "thiruvarur district": 1, "tamil nadu": 1, "india": 1}
+{"ukraine": 1}
+{"zhytomyr": 6, "ukraine": 2, "zhytomyr oblast": 2, "bohunskyi district": 1, "koroliovskyi district": 1, "kyiv": 2, "brest": 1, "warsaw": 1, "minsk": 1, "izmail": 1, "ozerne": 1, "lviv": 1, "vilnius": 1}
+{"queensland": 2, "glamorgan": 1, "brisbane": 1, "klerksdorp": 1, "north west province": 1, "south africa": 1}
+{"klerksdorp": 3, "north west province": 1, "south africa": 1, "mahikeng": 1, "transvaal republic": 1, "kimberley": 1, "johannesburg": 1}
+{"brisbane": 1, "australia": 3, "south west pacific": 1, "singapore": 1, "port moresby": 1, "new guinea": 2, "milne bay": 1, "western new guinea": 1, "madang": 1, "southport": 1, "queensland": 1}
+{"brisbane": 6, "queensland": 2, "australia": 4, "moreton bay": 1, "nundah": 1, "sydney": 1, "moreton island": 1, "brisbane river": 2, "south east queensland": 1, "redcliffe": 1, "north quay": 1, "d'aguilar mountain ranges": 1, "brisbane river valley": 1, "south west pacific": 1, "victoria park": 1, "roma street parkland": 1, "new farm park": 1, "mount coot-tha": 1, "d'aguilar national park": 1}
+{"la plata": 1, "argentine": 1, "germany": 1}
+{"la plata": 3, "buenos aires province": 1, "argentina": 1, "r\u00edo de la plata": 1}
+{"canton": 1, "brisbane": 2, "queensland": 1, "australia": 1, "highgate hill": 1, "dauphin terrace": 1, "ipswich": 1}
+{"guangzhou": 8, "guangdong province": 1, "china": 6, "hong kong": 3, "macau": 3, "foshan": 1, "dongguan": 1, "zhongshan": 1, "shenzhen": 2, "jiangmen": 1, "huizhou": 1, "zhuhai": 1, "pearl river delta": 1, "middle east": 1, "southeast asia": 1, "san francisco": 1, "stockholm": 1, "beijing": 3, "chongqing": 1}
+{"united kingdom": 1}
+{"cardiff": 6, "wales": 4, "united kingdom": 1, "glamorgan": 1, "south glamorgan": 1, "dinas powys": 1, "penarth": 1, "cardiff bay": 2}
+{"portugal": 2, "aragon": 1}
+{"coimbra": 5, "portugal": 2, "lisbon": 1, "porto": 1, "braga": 1, "regi\u00e3o de coimbra": 1, "kingdom of portugal": 1}
+{"canada": 1, "united states": 1, "tsukuba": 1, "ibaraki": 1, "japan": 1, "london": 1, "cambridge": 1, "poulsbo": 1, "washington": 1}
+{"london": 15, "england": 2, "united kingdom": 2, "western europe": 1, "river thames": 1, "north sea": 1, "city of london": 3, "city of westminster": 1, "middlesex": 1, "essex": 1, "surrey": 1, "kent": 1, "hertfordshire": 1, "greater london": 3, "europe": 4, "kew gardens": 1, "tower of london": 1, "palace of westminster": 1, "church of st. margaret": 1, "westminster abbey": 1, "greenwich": 1, "royal observatory": 1, "buckingham palace": 1, "london eye": 1, "piccadilly circus": 1, "st paul's cathedral": 1, "tower bridge": 1, "trafalgar square": 1, "uk": 1}
+{"yerevan": 1, "armenia": 1, "moscow": 1}
+{"yerevan": 6, "armenia": 4, "ararat plain": 2, "iran": 1, "russian empire": 2, "soviet union": 1, "ottoman empire": 1, "eastern armenia": 1}
+{"tokyo": 1, "japan": 1}
+{"tokyo": 8, "japan": 3, "kant\u014d": 1, "honshu": 1, "kyoto": 1, "greater tokyo area": 1, "tokyo islands": 1, "shinjuku": 2, "chiyoda": 1, "shibuya": 1, "edo": 2, "new york": 1}
+{"uppsala": 2, "stockholm": 1, "kyiv": 1, "czech republic": 1}
+{"uppsala": 5, "sweden": 4, "stockholm": 2, "uppsala county": 2, "gothenburg": 1, "malm\u00f6": 1, "uppsala municipality": 1}
+{"shubra": 1, "cairo": 1, "egypt": 1}
+{"vancouver": 1, "british columbia": 1, "canada": 1}
+{"vancouver": 6, "canada": 5, "british columbia": 1, "lower mainland": 2, "fraser valley": 1, "new york city": 1, "san francisco": 1, "mexico city": 1, "burrard inlet": 1, "whistler": 1, "burnaby": 1, "asia-pacific": 1, "east asia": 1, "europe": 1, "eastern canada": 1, "bc place": 1, "americas": 1, "north america": 2}
+{"offenburg": 1, "amsterdam": 1, "germany": 1}
+{"offenburg": 1, "baden-w\u00fcrttemberg": 1, "germany": 1, "ortenaukreis": 1}
+{"italy": 4, "kingdom of sardinia": 2, "piedmont": 3, "rome": 1, "europe": 1}
+{"turin": 8, "italy": 5, "piedmont": 2, "po river": 1, "susa valley": 1, "alpine arch": 1, "superga hill": 1, "milan": 2, "genoa": 1, "royal house of savoy": 1}
+{}
+{"porto recanati": 2, "macerata": 1, "marche": 1, "central italy": 1, "mount conero": 1, "musone river": 1, "potenza river": 1, "potenza picena": 1, "civitanova marche": 1}
+{"chertsey": 1, "surrey": 1, "england": 1}
+{"chertsey": 4, "borough of runnymede": 1, "surrey": 1, "england": 1, "london": 2, "river thames": 1, "weybridge": 1, "thames path national trail": 1, "chertsey meads": 1, "st ann's hill": 1, "eldebury hill": 1}
+{"switzerland": 1}
+{"la chaux-de-fonds": 3, "swiss": 1, "neuch\u00e2tel": 1, "jura mountains": 1, "french": 1, "geneva": 1, "lausanne": 1, "bienne": 1, "fribourg": 1, "romandie": 1, "watch valley": 1, "le locle": 1}
+{"ypres": 1, "belgium": 1, "venice": 1, "ghent": 1}
+{"ypres": 1, "belgium": 1, "west flanders": 1, "boezinge": 1, "brielen": 1, "dikkebus": 1, "elverdinge": 1, "hollebeke": 1, "sint-jan": 1, "vlamertinge": 1, "voormezele": 1, "zillebeke": 1, "zuidschote": 1}
+{"brazil": 3, "rio de janeiro": 1, "delta do jacu\u00ed islands": 1, "torbay": 1, "england": 1}
+{"canoas": 5, "rio grande do sul": 3, "porto alegre": 4, "brazil": 2, "s\u00e3o sebasti\u00e3o do ca\u00ed": 1, "gravata\u00ed": 2}
+{"china": 2}
+{"yantai": 1, "shandong peninsula": 1, "shandong province": 1, "people's republic of china": 1, "bohai strait": 1, "qingdao": 1, "weihai": 1, "bohai sea": 1, "laizhou bay": 1, "yellow sea": 1, "zhifu": 1, "laishan": 1, "fushan": 1, "muping": 1, "penglai": 1}
+{"pelham manor": 2, "new york": 1, "pelham": 2}
+{"pelham manor": 1, "westchester county": 1, "new york": 2, "town of pelham": 1}
+{"paris": 1, "le havre": 1}
+{"calabasas": 1, "california": 1}
+{"calabasas": 2, "san fernando valley": 1, "los angeles county": 1, "california": 2, "united states": 1, "santa monica": 1, "santa susana": 1, "downtown los angeles": 1}
+{"latin america": 1}
+{"santo domingo": 6, "dominican republic": 2, "caribbean": 1, "distrito nacional": 2, "santo domingo province": 1, "ozama river": 2, "americas": 1, "new world": 2}
+{"england": 1, "derbyshire": 2, "lancashire": 1}
+{"taunton": 5, "somerset": 3, "england": 2, "castle": 2, "vivary park": 1, "sedgemoor": 1, "grand western canal": 1, "bristol": 1, "exeter": 1, "admiralty way": 1}
+{"marwar": 2, "rajputana": 1, "rajasthan": 1}
+{"jodhpur": 5, "rajasthan": 2, "jaipur": 1, "india": 1, "thar desert": 1}
+{"argentina": 1}
+{"esperanza": 2, "santa fe": 2, "argentina": 1}
+{"minneapolis": 1}
+{"minneapolis": 8, "hennepin county": 1, "minnesota": 3, "united states": 1, "saint paul": 2, "twin cities": 2, "mississippi river": 2, "dakota": 1, "fort snelling": 1, "saint anthony falls": 1}
+{"united states": 1}
+{"holyoke": 5, "hampden county": 1, "massachusetts": 3, "united states": 2, "connecticut river": 1, "mount tom range": 1, "springfield": 1, "new england": 1}
+{"newcastle upon tyne": 1, "sheffield": 1, "doncaster": 2, "mexborough": 1, "gainsborough": 1, "grimsby": 1, "aston villa": 1, "leicester city": 1}
+{"newcastle upon tyne": 2, "tyne and wear": 2, "gateshead": 1, "northumberland": 1, "north east england": 1}
+{"yugoslavia": 2, "serbia": 1}
+{"ivanica": 5, "moravica district": 1, "serbia": 2, "moravica river": 1, "golija": 1, "javor": 1, "mu\u010danj": 1, "\u010demerno": 1, "rado\u010delo": 1}
+{"vienna": 2, "slovenia": 1, "croatia": 1}
+{}
+{"bath": 8, "somerset": 2, "england": 1, "river avon": 2, "london": 1, "bristol": 1, "avon": 2, "bath and north east somerset": 1, "southgate": 1, "walcot": 1, "milsom": 1, "stall": 1, "york streets": 1}
+{"matanzas": 1, "cuba": 2, "athens": 1, "greece": 1}
+{"matanzas": 5, "cuba": 3, "havana": 1, "varadero": 1}
+{"everton": 1, "swansea city": 1, "grimsby town": 1, "darlington": 1}
+{"walton": 1, "liverpool": 2, "merseyside": 1, "england": 1, "lancashire": 1, "anfield": 1, "bootle": 1, "orrell park": 1}
+{"bromsgrove": 1, "worcestershire": 2, "herefordshire": 5, "cheshire": 1, "staffordshire": 1, "hertfordshire": 1, "cumberland": 1, "wiltshire": 1, "oxfordshire": 1, "middlesex": 1, "gloucestershire": 1}
+{"bromsgrove": 2, "worcestershire": 1, "england": 1, "worcester": 1, "birmingham": 1}
+{"hamburg": 1}
+{"hamburg": 10, "germany": 3, "berlin": 2, "european union": 2, "jutland peninsula": 1, "river elbe": 1, "north sea": 1, "alster": 1, "bille": 1, "bremen": 1, "schleswig-holstein": 1, "lower saxony": 1, "rotterdam": 1, "antwerp": 1, "europe": 1, "china": 1, "st. pauli": 1, "reeperbahn": 1}
+{"southern illinois university carbondale": 1, "clewiston": 1, "florida": 1}
+{"clewiston": 3, "hendry county": 1, "florida": 1, "united states": 1, "fort lauderdale": 1, "lake okeechobee": 2}
+{"new york city": 1}
+{"cleveland": 1, "ohio": 1, "new york": 1, "englewood": 1, "new jersey": 1}
+{"cleveland": 6, "ohio": 3, "cuyahoga county": 1, "lake erie": 2, "pennsylvania": 1, "northeast ohio": 1, "greater cleveland msa": 1, "akron msa": 1, "cleveland\u2013akron metropolitan": 1, "saint lawrence seaway": 1, "cleveland metroparks": 1}
+{"london": 2, "england": 1, "uk": 1, "european": 1}
+{"borgosesia": 1, "italy": 1}
+{"borgosesia": 1, "province of vercelli": 1, "piedmont": 1, "turin": 1, "vercelli": 1, "valsesia": 1, "sesia river": 1}
+{"paris": 3, "thury": 1, "america": 1, "greenwich": 1, "england": 1, "slough": 1}
+{}
+{"briey": 1, "meurthe-et-moselle": 1, "france": 1, "strasbourg": 1, "paris": 1, "metz": 1}
+{"paris": 1, "france": 1}
+{"windsor": 1, "england": 2}
+{"windsor": 2, "berkshire": 1, "london": 1, "river thames": 1, "england": 3}
+{"mechelen": 1, "paris": 1}
+{"mechelen": 5, "antwerp": 3, "belgium": 1, "brussels": 2, "walem": 1, "heffen": 1, "leest": 1, "hombeek": 1, "muizen": 1, "dyle": 1}
+{"antwerp": 1, "belgium": 2, "ghent": 2}
+{"antwerp": 5, "belgium": 2, "tournai": 1, "couvin": 1, "brussels": 2, "north sea": 1, "dutch border": 1, "rotterdam": 1, "low countries": 1, "london": 1, "stamford hill": 1}
+{"turkey": 1, "ottoman empire": 1}
+{"turkey": 3, "istanbul": 5, "bosporus strait": 1, "europe": 1, "asia": 1, "megara": 1, "ankara": 1, "london": 1, "dubai": 1}
+{"salzburg": 1, "linz": 1, "ljubljana": 1, "belgrade": 1, "zagreb": 1, "banja luka": 1, "sarajevo": 1, "yugoslavia": 1, "bosnia": 1}
+{"sarajevo": 8, "bosnia and herzegovina": 3, "sarajevo canton": 1, "east sarajevo": 1, "bosnia": 2, "dinaric alps": 1, "miljacka river": 1, "balkans": 2, "southeastern europe": 1, "europe": 2, "san francisco": 1, "austro-hungarian": 1, "kingdom of yugoslavia": 1, "socialist republic of bosnia and herzegovina": 1, "socialist federal republic of yugoslavia": 1}
+{"india": 1}
+{"ghazipur": 5, "uttar pradesh": 3, "bihar": 2, "varanasi": 3, "ganges": 1, "ganga": 1, "ghazipur district": 2, "varanasi division": 1}
+{"hickory": 1, "north carolina": 1, "colorado": 1, "pepperdine university": 1, "long beach": 1, "california": 1, "america": 2}
+{"hickory": 5, "north carolina": 1, "catawba county": 1, "charlotte": 1, "united states": 2, "lenoir": 2, "morganton": 2}
+{"romford": 1, "british": 1}
+{"romford": 4, "east london": 1, "england": 1, "charing cross": 1, "london borough of havering": 2, "greater london": 2, "barking": 1, "dagenham": 1, "epping forest": 1, "hornchurch": 2, "becontree hundred": 1, "essex": 1, "london": 3}
+{"harrisburg": 1, "pennsylvania": 1}
+{"harrisburg": 5, "pennsylvania": 3, "dauphin county": 1, "susquehanna river": 1, "allentown": 1, "philadelphia": 1, "northeastern united states": 1, "middletown": 1}
+{"ypres": 1, "antwerp": 1, "belgium": 1}
+{"strabane": 1, "northern ireland": 1}
+{"strabane": 1, "county tyrone": 1, "northern ireland": 2, "river foyle": 2, "omagh": 1, "derry": 1, "letterkenny": 1, "republic of ireland": 1, "lifford": 1, "donegal": 1, "river mourne": 1, "finn": 1, "foyle river": 1, "knockavoe": 1, "sperrin mountains": 1}
+{"haarlem": 1, "dutch": 1}
+{"haarlem": 4, "the netherlands": 1, "north holland": 1, "randstad": 1, "europe": 1, "amsterdam": 1, "schoten": 1, "bloemendaal": 1, "heemstede": 1, "spaarndam": 2, "haarlemmermeer": 1}
+{"utrecht": 1, "dalfsen": 1, "netherlands": 1}
+{"ilkeston": 1, "hartlepool": 1, "portsmouth": 1, "huddersfield town": 1, "leeds": 4, "elland road": 1, "nelson": 1}
+{"ilkeston": 1, "borough of erewash": 1, "derbyshire": 1, "england": 1, "nottingham urban area": 1, "derby": 1, "nottingham": 2, "m1 motorway": 1, "river erewash": 1, "nottinghamshire": 1}
+{"paxton": 1, "illinois": 1, "windsor": 1, "ct": 1}
+{"wilmington": 5, "delaware": 3, "fort christina": 1, "christina river": 1, "brandywine creek": 1, "delaware river": 1, "new castle county": 1, "delaware valley": 2, "philadelphia": 2, "reading": 1, "camden": 1}
+{"denmark": 1, "schleswig": 1}
+{"denmark": 10, "northern europe": 1, "kingdom of denmark": 3, "danish realm": 2, "faroe islands": 3, "greenland": 3, "north atlantic ocean": 1, "jutland": 1, "scandinavian countries": 1, "sweden": 2, "norway": 2, "germany": 1, "north sea": 1, "baltic sea": 2, "zealand": 2, "copenhagen": 1, "amager": 1, "kalmar union": 1, "denmark\u2013norway": 1, "iceland": 1, "european union": 1, "nato": 1, "nordic council": 1, "oecd": 1, "osce": 1, "united nations": 1, "schengen area": 1}
+{"warsaw": 1, "poland": 1}
+{"warsaw": 8, "poland": 2, "masovia": 1, "krak\u00f3w": 1, "europe": 2, "central and eastern europe": 1}
+{"japan": 1}
+{"tochigi prefecture": 5, "japan": 2, "kant\u014d": 1, "honshu": 1, "fukushima prefecture": 1, "gunma prefecture": 1, "saitama prefecture": 1, "ibaraki prefecture": 1, "utsunomiya": 1, "oyama": 1, "tochigi": 1, "ashikaga": 1, "nasu": 1, "nasushiobara": 1, "nikk\u014d": 1}
+{}
+{"johnston county": 2, "north carolina": 2, "smithfield": 1, "raleigh-cary": 1, "raleigh-durham-cary": 1}
+{"queens": 1, "new york": 1, "los angeles": 1}
+{"queens": 6, "new york city": 5, "new york": 3, "long island": 2, "brooklyn": 2, "nassau county": 2, "manhattan": 2, "the bronx": 1, "staten island": 1, "new jersey": 1, "flushing meadows\u2013corona park": 1, "flushing": 1, "long island city": 1, "jamaica": 1, "western hempstead": 1, "citi field": 1, "usta billie jean king national tennis center": 1, "kaufman astoria studios": 1, "silvercup studios": 1, "aqueduct racetrack": 1}
+{"arizona territory": 1, "u.s. army": 1}
+{"arizona territory": 2, "united states": 1, "new mexico territory": 1, "arizona": 1}
+{"romania": 2}
+{"bucharest": 6, "romania": 3, "europe": 2, "budapest": 1}
+{"philadelphia": 4, "pennsylvania": 2, "first pennsylvania militia volunteers": 1, "christ church burial ground": 1, "laurel hill cemetery": 1}
+{"parras de la fuente": 1, "coahuila": 1, "mexico": 2, "mexico city": 2, "gustavo a. madero, d.f. borough": 1}
+{"parras de la fuente": 1, "coahuila": 1, "parras municipality": 1, "americas": 1}
+{"brescia": 1, "venice": 2, "italy": 1}
+{"brescia": 5, "lombardy": 2, "italy": 3, "gardone riviera": 1, "garda lake": 1, "province of brescia": 1, "northwest italy": 1}
+{"edinburgh": 1}
+{"scotland": 1, "selkirk": 2, "peeblesshire": 1, "midlothian": 1, "roxburghshire": 1, "dumfriesshire": 1, "ettrick forest": 1}
+{"berlin": 1, "kiel": 1, "university of berlin": 1}
+{"berlin": 8, "germany": 5, "brandenburg": 2, "potsdam": 2, "spree": 1, "havel": 1, "europe": 1, "west berlin": 1, "east berlin": 1, "bonn": 1, "museum island": 1, "palaces and parks of potsdam and berlin": 1, "berlin modernism housing estates": 1, "brandenburg gate": 1, "reichstag building": 1, "potsdamer platz": 1, "memorial to the murdered jews of europe": 1, "berlin wall memorial": 1}
+{"salamanca": 2, "villalar": 1}
+{"spain": 3, "salamanca": 6, "castile and le\u00f3n": 2, "campo charro": 1, "meseta norte": 1, "iberian peninsula": 1, "valladolid": 1, "old city of salamanca": 1}
+{"belgium": 1}
+{"seraing": 5, "wallonia": 1, "province of li\u00e8ge": 1, "belgium": 1, "li\u00e8ge": 2, "herstal": 1, "saint-nicolas": 1, "ans": 1, "fl\u00e9malle": 1, "condroz": 1, "ardennes": 1}
+{"kansas city": 1}
+{"muscotah": 2, "atchison county": 1, "kansas": 1, "united states": 1}
+{"suriname": 1, "netherlands": 1, "paramaribo": 1}
+{"paramaribo": 3, "suriname": 2, "paramaribo district": 1, "suriname river": 1}
+{"argentina": 3, "buenos aires": 2, "nicaragua": 2, "colombia": 1, "dominican republic": 1, "chile": 1, "bolivia": 1, "mexico city": 1}
+{"america": 1}
+{"boston": 6, "massachusetts": 1, "united states": 3, "new england": 2, "greater boston": 1, "boston, lincolnshire": 1, "shawmut peninsula": 1}
+{"spain": 2, "region of murcia": 1, "european union": 1}
+{"murcia": 3, "spain": 1, "region of murcia": 2, "iberian peninsula": 1, "huerta de murcia": 1}
+{"geilo": 1, "sapporo": 1}
+{"geilo": 2, "hol": 1, "buskerud": 1, "norway": 2, "hallingdal": 1, "oslo": 1, "bergen": 1}
+{"sana'a": 1, "dominican republic": 1, "colombia": 1}
+{"sanaa": 6, "yemen": 3, "aden": 2, "sarawat mountains": 1, "jabal an-nabi shu'ayb": 1, "jabal tiyal": 1, "arabian peninsula": 1, "old city of sanaa": 1}
+{"berlin": 2, "frankfurt an der oder": 1, "sorau": 2}
+{"edinburgh": 1, "scotland": 1}
+{"serbia": 1}
+{"zrenjanin": 5, "vojvodina": 2, "serbia": 1, "austria-hungary": 1, "dolja": 1, "new barcelona": 1, "banat": 2, "novi sad": 1, "subotica": 1}
+{"iran": 2}
+{"new york city": 1, "england": 1, "australia": 1, "vienna": 1, "austria": 1}
+{"chiba prefecture": 1}
+{"chiba prefecture": 5, "japan": 2, "kant\u014d region": 1, "honshu": 1, "ibaraki prefecture": 1, "saitama prefecture": 1, "tokyo": 3, "funabashi": 1, "matsudo": 1, "ichikawa": 1, "kashiwa": 1, "greater tokyo area": 1, "b\u014ds\u014d peninsula": 1, "tokyo bay": 1, "kanagawa prefecture": 1}
+{"gotham city": 1, "united states": 1, "hollywood": 1}
+{"gotham city": 5, "new jersey": 1, "new york city": 2, "chicago": 2, "london": 2, "st. louis": 1, "pittsburgh": 1, "los angeles": 1, "newark": 1, "glasgow": 1, "hong kong": 1, "detroit": 1, "liverpool": 1}
+{"columbia university": 1, "new york times": 1, "wall street journal": 1}
+{"giessen": 1}
+{"giessen": 5, "gie\u00dfen": 1, "hesse": 1, "frankfurt am main": 1}
+{"london": 2, "venice": 1}
+{"montenegro": 1, "na\u0161ice": 1, "yugoslavia": 1}
+{"cetinje": 4, "montenegro": 4, "mount lov\u0107en": 1}
+{"almaty": 1, "kazakhstan": 1, "france": 1, "st.petersburg": 1}
+{"almaty": 6, "kazakhstan": 5, "kyrgyzstan": 1, "akmola": 1, "astana": 1, "ile-alatau national park": 1, "big almaty lake": 1, "medeu": 1, "shymbulak": 1}
+{"rabaul": 1, "east new britain": 1, "papua new guinea": 1}
+{"rabaul": 5, "east new britain": 2, "papua new guinea": 1, "new britain": 1, "new guinea": 1, "kokopo": 1, "simpsonhafen": 1, "south pacific": 1}
+{"kilwinning": 1, "north ayrshire": 1, "scotland": 1, "dundee united": 1, "st mirren": 1, "stranraer": 2, "queens park": 1, "partick thistle": 1, "greenock morton": 1, "montrose": 1, "ayr united": 1, "east fife": 1, "irvine meadow": 1}
+{"kilwinning": 2, "north ayrshire": 1, "scotland": 1, "river garnock": 1, "irvine": 1, "glasgow": 1}
+{"chicago": 1}
+{"peoria": 5, "illinois": 4, "united states": 1, "fulton": 1, "marshall": 1, "stark": 1, "tazewell": 1, "woodford": 1, "deerfield": 1, "texas": 1}
+{"new york": 2, "chicago": 1, "u.s.": 1}
+{"norwich": 1, "connecticut": 1, "amesbury": 1, "massachusetts": 1, "greensboro": 2, "north carolina": 1}
+{"norwich": 1, "connecticut": 2, "new london county": 1, "united states": 1, "yantic river": 1, "shetucket river": 1, "quinabaug river": 1, "thames river": 1, "long island sound": 1, "southeastern connecticut": 1}
+{}
+{"berdychiv": 5, "zhytomyr oblast": 1, "ukraine": 1, "odesa": 1}
+{"jenin": 1, "ottawa": 1, "canada": 3, "israeli\u2013palestinian": 1}
+{"jenin": 4, "palestine": 2, "west bank": 2, "jenin governorate": 1, "jenin refugee camp": 1}
+{"london": 1, "hull": 1}
+{"scotland": 8, "united kingdom": 2, "great britain": 2, "hebrides": 2, "northern isles": 1, "england": 2, "atlantic ocean": 1, "north sea": 1, "irish sea": 1, "edinburgh": 1, "glasgow": 1, "ireland": 1, "highlands": 2, "lowlands": 1, "southern uplands": 1, "ben nevis": 1, "mull": 1, "skye": 1, "tiree": 1, "coll": 1}
+{"united states": 2, "minnesota": 2, "reed city": 1, "michigan": 1, "campbell": 1, "hamline university": 1, "university of minnesota": 1, "st. paul college of law": 1, "washington": 2, "cottage city": 1, "maryland": 1, "lakewood cemetery": 1, "minneapolis": 1}
+{"michigan": 1, "reed city": 1, "osceola county": 1}
+{"otterberg": 1, "frankfurt": 1, "germany": 1}
+{"otterberg": 3, "kaiserslautern": 2, "rhineland-palatinate": 1, "germany": 1}
+{"denmark": 3, "copenhagen": 1, "kolding": 1, "rijeka": 1, "united states": 1}
+{"copenhagen": 6, "denmark": 4, "zealand": 1, "amager": 1, "malm\u00f6": 2, "sweden": 1, "nordic region": 1, "scania": 1, "copenhagen airport": 1, "bornholm": 1}
+{"winterswijk": 1, "roermond": 1, "grol": 1, "groenlo": 1, "upper guelders": 1}
+{"roermond": 3, "limburg": 1, "netherlands": 1, "duchy of guelders": 1, "river meuse": 1}
+{"montreal": 3, "welland": 1, "ontario": 1, "aylmer": 1, "quebec": 2, "canada": 4, "quebec city": 2}
+{"montreal": 6, "quebec": 2, "canada": 3, "north america": 1, "ottawa": 1, "quebec city": 1, "\u00eele bizard": 1, "toronto": 1}
+{"athens": 2, "greece": 1, "new york": 1, "united states": 2, "japan": 1, "portugal": 1, "france": 1, "brussels": 2, "volterra": 1, "italy": 1, "london": 2}
+{}
+{"sinsheim": 1, "germany": 1, "baden-w\u00fcrttemberg": 1, "heidelberg": 1, "heilbronn": 1, "rhein-neckar": 1}
+{"bamberg": 2}
+{"bamberg": 6, "upper franconia": 1, "bavaria": 3, "germany": 2, "poland": 1, "pomerania": 1, "northern germany": 1, "hungary": 1, "counts of meran": 1, "munich": 1, "warner barracks": 1}
+{"turkey": 1}
+{"tartu": 2, "estonia": 2}
+{"tartu": 5, "estonia": 4, "tallinn": 2, "riga": 1, "latvia": 1, "emaj\u00f5gi river": 1, "lake v\u00f5rtsj\u00e4rv": 1, "lake peipus": 1}
+{"okakarara": 1, "otjozondjupa region": 1, "windhoek": 1, "namibia": 2}
+{"okakarara": 3, "otjozondjupa region": 1, "namibia": 1, "waterberg national park": 1}
+{"antwerp": 2}
+{"mexico": 1}
+{"guadalajara": 5, "mexico": 5, "jalisco": 1, "baj\u00edo region": 1, "new spain": 2, "nueva galicia": 2, "latin america": 2, "americas": 2, "atemajac valley": 1, "mexico city": 1}
+{}
+{"vantaa": 6, "finland": 4, "helsinki": 3, "uusimaa": 1, "tikkurila": 1, "espoo": 1, "nurmij\u00e4rvi": 1, "kerava": 1, "tuusula": 1, "sipoo": 1, "gulf of finland": 1}
+{"new england": 2, "boston": 1}
+{"brookline": 5, "norfolk county": 2, "massachusetts": 3, "united states": 1, "boston": 3, "newton": 1, "brighton": 2, "allston": 1, "fenway\u2013kenmore": 1, "mission hill": 1, "jamaica plain": 1, "west roxbury": 2, "hyde park": 1}
+{"paris": 1, "geneva": 1}
+{"lake placid": 1, "italy": 1}
+{"prettau": 1, "south tyrol": 1, "italy": 1, "bolzano": 1, "austria": 1}
+{"mexico": 1, "baja california sur": 1}
+{"baja california sur": 3, "mexico": 3, "baja california": 2, "cabo san lucas": 1, "san jos\u00e9 del cabo": 1, "la paz": 1, "pacific ocean": 2, "gulf of california": 2, "sonora": 1, "sinaloa": 1}
+{"philadelphia": 1, "discovery channel": 2}
+{"walpole, new hampshire": 1, "massachusetts": 1, "new hampshire": 1, "central and south america": 1, "east and west africa": 1, "the nile": 1, "the belgian congo": 1, "australia": 1, "china": 1, "mongolia": 1}
+{"walpole": 2, "cheshire county": 1, "new hampshire": 2, "united states": 1, "north walpole": 1, "drewsville": 1}
+{"western ohio": 1, "europe": 1}
+{"ohio": 3, "greenville": 2, "darke county": 2, "dayton-springfield-sidney": 1}
+{}
+{"porto alegre": 5, "brazil": 2, "rio grande do sul": 1, "azores": 1, "portugal": 1, "gua\u00edba lake": 1, "lagoa dos patos": 1}
+{"egypt": 1}
+{"egypt": 7, "nile delta": 1, "cairo": 2, "alexandria": 1, "gaza strip": 2, "palestine": 1, "israel": 3, "sudan": 2, "libya": 1, "gulf of aqaba": 1, "jordan": 1, "saudi arabia": 1, "sinai peninsula": 1, "middle east": 1, "north africa": 1}
+{"milan": 1, "italy": 1}
+{"netherlands": 1}
+{"stamford": 1, "connecticut": 1, "new york": 2}
+{"stamford": 5, "fairfield county": 1, "connecticut": 3, "united states": 1, "new york city": 2, "bridgeport": 1, "norwalk": 1, "danbury": 1, "new york": 2, "newark": 1, "nj": 1, "ct": 1, "pa": 1}
+{"south carolina": 1}
+{"chesterfield": 2, "chesterfield county": 2, "south carolina": 2, "united states": 1}
+{"switzerland": 1}
+{"switzerland": 3, "bern": 5, "z\u00fcrich": 1, "geneva": 1, "basel": 1, "lausanne": 1, "aare": 1, "canton of bern": 1, "swiss plateau": 1}
+{"tarzana": 1, "los angeles": 1, "california": 1}
+{"tarzana": 2, "los angeles": 2, "san fernando valley": 1, "california": 1}
+{"venezuela": 1, "maracay": 1, "aragua": 1}
+{"maracay": 2, "venezuela": 2, "caribbean": 1, "aragua": 1}
+{"perth": 2, "western australia": 3, "new zealand": 1, "south africa": 1, "victoria": 1, "east lancashire": 1, "lancashire": 1, "burnley": 1}
+{"perth": 5, "western australia": 4, "swan river": 1, "fremantle": 2, "scotland": 1, "two rocks": 1, "singleton": 1, "sawyers valley": 1, "mandurah": 1, "garden island": 1}
+{"albuquerque": 1, "new mexico": 1, "ussr": 1, "united states": 1}
+{"albuquerque": 5, "new mexico": 2, "santa fe": 2, "mexico city": 1, "sandia mountains": 1, "west mesa": 1, "rio grande": 1, "united states": 1, "southwest": 1, "albuquerque basin": 1, "los alamos": 1}
+{"america": 1}
+{"littleton": 3, "araphahoe": 2, "douglas": 1, "jefferson": 1, "colorado": 3, "united states": 1, "denver\u2013aurora\u2013lakewood": 1}
+{"san diego": 1, "walla walla": 1, "nashville": 1}
+{"texas": 4, "houston": 6, "southeast texas": 1, "galveston bay": 1, "gulf of mexico": 1, "harris county": 2, "fort bend county": 1, "montgomery county": 1, "sugar land": 1, "the woodlands": 1, "republic of texas": 1, "san jacinto": 1, "united states": 5, "north america": 1}
+{"herentals": 1, "paris": 1, "france": 1, "antwerp": 1}
+{"herentals": 3, "antwerp": 1, "morkhoven": 1, "noorderwijk": 1}
+{"poland": 1}
+{"jedlnia-letnisko": 1, "radom county": 1, "masovian voivodeship": 1, "poland": 1, "radom": 1, "warsaw": 1}
+{"ghent": 3, "belgium": 2}
+{"ghent": 5, "belgium": 3, "east flanders": 1, "brussels": 1, "antwerp": 1}
+{"united states": 4, "cleveland": 2, "ohio": 3, "lafayette college": 1, "west point": 1, "davis-monthan air force base": 1, "arizona": 1, "wright-patterson air force base": 1, "southeast asia": 1, "korat royal thai air force base": 1, "thailand": 1, "tan son nhut air base": 1, "south vietnam": 1, "maxwell air force base": 1, "alabama": 1, "fairchild air force base": 1, "washington": 2, "minot air force base": 1, "north dakota": 1, "randolph air force base": 1, "texas": 1, "pentagon": 1}
+{"italy": 4, "tokyo": 1}
+{"florence": 5, "italy": 2, "tuscany": 2, "europe": 1}
+{"russia": 1}
+{"rasskazovo": 1, "tambov oblast": 1, "russia": 1, "lesnoy tambov river": 1, "arzhenka river": 1, "tambov": 2}
+{"san francisco": 1, "california": 1}
+{"san francisco": 12, "california": 3, "united states": 4, "new spain": 1, "pacific theater": 1, "san jose": 2, "oakland": 2, "paris": 1, "london": 1, "singapore": 1, "san francisco bay area": 1, "golden gate": 1, "west coast": 1, "chinatown": 1, "mission districts": 1, "alcatraz": 1, "san francisco international airport": 1}
+{"wimberley": 3, "texas": 3, "san francisco": 1, "philadelphia": 1, "university of texas at arlington": 1, "san marcos": 1, "the junction": 1, "ranch road-12": 1, "fm-32": 1}
+{"nuremberg": 8, "germany": 3, "bavaria": 3, "franconia": 2, "pegnitz": 1, "regnitz": 1, "f\u00fcrth": 2, "main": 1, "rhine": 1, "north sea": 2, "black sea": 1, "middle franconia": 1, "knoblauchsland": 1, "erlangen": 3, "schwabach": 1, "munich": 2}
+{"austria": 1, "america": 1}
+{"new south wales": 4, "west indies": 1, "england": 1, "brisbane": 1, "new zealand": 1, "queensland": 1, "western australia": 1, "lancashire": 1, "ramsbottom": 1, "east lancashire": 1}
+{"manly": 2, "new south wales": 2, "sydney": 2, "northern beaches council": 1, "pacific ocean": 1}
+{}
+{"surrey": 1, "british columbia": 2}
+{"surrey": 1, "british columbia": 1, "canada": 1, "fraser river": 1, "united states": 1, "metro vancouver": 1, "abbotsford": 1, "prince george": 1, "cloverdale": 1, "fleetwood": 1, "guildford": 1, "newton": 1, "south surrey": 1, "city centre": 1, "whalley": 1}
+{"kombidinjal": 1, "idukki district": 1, "kerala": 1, "india": 1}
+{"kerala": 10, "malabar coast": 1, "india": 5, "cochin": 2, "malabar": 2, "south canara": 1, "travancore": 2, "karnataka": 1, "tamil nadu": 1, "lakshadweep sea": 1, "thiruvananthapuram": 1, "ay kingdom": 1, "ezhimala kingdom": 1, "portuguese": 1, "thiru-kochi": 2, "madras province": 1, "british india": 1, "madras state": 2, "gudalur": 1, "nilgiris district": 1, "lakshadweep islands": 1, "topslip": 1, "attappadi forest": 1, "anakatti": 1, "kasaragod": 2, "kanyakumari district": 1, "shenkottai": 1, "niti aayog": 2, "reserve bank of india": 1, "arab states of the persian gulf": 1, "arabian sea": 1, "western ghats": 1}
+{"berlin": 2, "germany": 1, "friedrichsfelde central cemetery": 1}
+{"paris": 1, "california": 1, "berlin": 1, "u.s.": 1, "france": 1}
+{}
+{"abhar": 3, "zanjan": 2, "iran": 1, "qazvin": 1}
+{"neu-ulm": 1, "university of munich": 2, "university of leipzig": 1, "university of jena": 1}
+{"neu-ulm": 1, "swabia": 1, "bavaria": 1, "ulm": 1, "senden": 1, "pfaffenhofen an der roth": 1, "holzheim": 1, "nersingen": 1, "elchingen": 1}
+{"berthier-en-haut": 1, "province of canada": 1, "montreal": 3, "c\u00f4te-des-neiges": 1}
+{"berthierville": 1, "montreal": 1, "trois-rivi\u00e8res": 1, "saint lawrence river": 1, "quebec": 1, "canada": 1, "sainte-genevi\u00e8ve-de-berthier": 1, "lanoraie": 1, "cap-de-la-madeleine": 1}
+{"szombathely": 1}
+{"szombathely": 3, "hungary": 2, "vas county": 1, "austria": 1, "alpokalja": 1, "little hungarian plain": 1}
+{"rio de janeiro": 1, "brazil": 1, "diocese of nova friburgo": 1}
+{"rio de janeiro": 6, "brazil": 5, "portugal": 2, "bras\u00edlia": 1, "southern hemisphere": 2, "corcovado mountain": 1, "sugarloaf mountain": 1, "barra da tijuca": 1, "copacabana": 1, "ipanema": 1, "leblon": 1}
+{"new york": 1, "kentucky": 1}
+{"georgetown": 4, "scott county": 1, "kentucky": 3, "united states": 1, "lexington-fayette": 1}
+{"germany": 1, "cologne": 2}
+{"remscheid": 2, "north rhine-westphalia": 1, "germany": 1, "bergisches land": 1, "ruhr area": 1}
+{"new york city": 3, "england": 1, "barbizon": 1, "france": 1, "antwerp": 2, "united states": 2, "adirondack mountains": 1, "waterford": 2, "connecticut": 2, "brooklyn": 1, "chicago": 1, "royal academy of london": 1, "paris": 1, "smithsonian american art museum": 1, "yale university art gallery": 1, "mead art museum": 1, "lyman allyn museum": 1, "florence griswold museum": 1, "brooklyn museum": 1, "newark museum": 1, "robert hull fleming museum": 1, "haggin museum": 1, "memorial art gallery": 1, "university of arizona museum of art": 1}
+{"france": 1, "united states": 1}
+{"japan": 2}
+{"japan": 7, "east asia": 1, "pacific ocean": 1, "sea of japan": 1, "sea of okhotsk": 1, "east china sea": 1, "tokyo": 1, "nara": 1, "heian-ky\u014d": 1, "china": 1, "united states": 2, "pacific": 1, "allied": 1}
+{"ottawa": 1, "ontario": 1, "canada": 1}
+{"masson-angers": 1, "gatineau": 1, "ottawa river": 1, "quebec": 1, "canada": 1, "ottawa": 1, "ontario": 1}
+{}
+{"strasbourg": 6, "france": 5, "germany": 3, "alsace": 1, "bas-rhin": 1, "european union": 1, "eurodistrict strasbourg-ortenau": 1, "basel": 1, "geneva": 1, "the hague": 1, "new york city": 1, "rhine": 1, "grande \u00eele": 1, "paris": 2}
+{"istanbul": 2}
+{"east-berlin": 1}
+{"east berlin": 5, "berlin": 3, "west berlin": 2, "germany": 1, "gdr": 3}
+{"rome": 1, "italy": 1, "northern europe": 1}
+{"london": 1}
+{"montenegro": 1}
+{"bar": 3, "montenegro": 2, "coastal region": 1}
+{"zschopau": 1, "east germany": 3, "berlin": 1}
+{"zschopau": 1, "erzgebirgskreis": 1, "saxony": 1, "germany": 1}
+{"detroit": 1, "boston": 1, "new york": 2, "arizona": 1, "san diego": 1}
+{"newton": 3, "harvey county": 1, "kansas": 2, "united states": 1, "wichita": 1, "north newton": 1}
+{"france": 1}
+{"agen": 1, "lot-et-garonne": 1, "nouvelle-aquitaine": 1, "southwestern france": 1, "bordeaux": 1}
+{"theresa": 1, "new york": 1, "chicago": 2}
+{"theresa": 2, "jefferson county": 1, "new york": 2, "united states": 1, "watertown": 1}
+{"italian": 1, "tuscany": 1, "florence": 2, "pisa": 4, "pistoia": 2, "lugnano": 1, "uliveto terme": 1}
+{"antwerp": 1}
+{"hemel hempstead": 1, "british": 1}
+{"hemel hempstead": 2, "dacorum": 1, "hertfordshire": 1, "england": 1, "london": 1, "watford": 1, "st albans": 1, "berkhamsted": 1}
+{"eureka, illinois": 1, "bradenton, florida": 1}
+{"eureka": 3, "woodford county": 1, "illinois": 3, "peoria": 1, "central illinois": 1}
+{"united states": 1}
+{"ada township": 2, "kent county": 1, "michigan": 1, "forest hills": 1, "grand rapids": 2, "u.s.": 1}
+{"israel": 1}
+{"tel aviv": 10, "gush dan": 1, "israel": 3, "jerusalem": 2, "east jerusalem": 1, "west jerusalem": 1, "middle east": 1, "jaffa": 4, "neve tzedek": 1, "mutasarrifate of jerusalem": 1, "ottoman empire": 1, "white city": 1, "old jaffa": 1, "yarkon park": 1}
+{"denmark": 1, "greater copenhagen": 1, "\u00e5rhus": 1}
+{"aalborg": 13, "denmark": 1, "copenhagen": 2, "aarhus": 2, "odense": 1, "north jutland": 2, "frederikshavn": 1, "limfjord": 1, "scandinavia": 1, "randers": 1, "jutland": 2, "alta": 1, "norway": 1, "gela": 1, "italy": 1}
+{"michigan": 1, "bishop borgess high school": 1}
+{"detroit": 7, "michigan": 1, "wayne county": 1, "chicago": 2, "new york city": 1, "philadelphia": 1, "detroit river": 2, "great lakes": 2, "windsor": 1, "north america": 1, "metro detroit": 2, "st. lawrence seaway": 1}
+{"washington": 1}
+{"mansfield": 5, "richland county": 1, "ohio": 4, "united states": 1, "cleveland": 1, "columbus": 1, "northeast ohio": 1, "allegheny plateau": 1, "mid-ohio": 1}
+{"hsinchu county": 1, "taiwan": 2, "national taiwan normal university": 1, "national taiwan university": 1, "asia": 1, "japan": 1}
+{"hsinchu": 5, "taiwan": 3, "taiwan strait": 1, "hsinchu county": 1, "miaoli county": 1, "shinchiku": 1, "taoyuan": 1, "miaoli": 1}
+{"norway": 1}
+{"hattfjelldal": 1}
+{"brazil": 1}
+{"belo horizonte": 5, "brazil": 3, "minas gerais": 2, "south america": 1, "americas": 1, "curral ridge": 1, "mangabeiras park": 1, "jambreiro woods": 1}
+{"antwerp": 1, "habsburg netherlands": 2, "italy": 1, "dutch republic": 1, "rome": 1}
+{"philadelphia": 1, "pennsylvania": 1}
+{"budapest": 5, "bayreuth": 2, "vienna": 1, "los angeles": 1, "africa": 1}
+{"new zealand": 1}
+{"new plymouth": 5, "taranaki": 3, "new zealand": 3, "devon": 1, "waitara": 1, "inglewood": 1, "\u014dakura": 1, "\u014dkato": 1, "urenui": 1, "tasman sea": 1, "mount taranaki": 1}
+{"mexico": 1, "guadalajara": 1, "jalisco": 2, "puerto vallarta": 1, "pattaya": 1, "thailand": 1, "germany": 1, "acapulco": 2, "mys\u0142owice": 1, "poland": 1}
+{"mexico": 5, "mexico city": 6, "valley of mexico": 1, "lake texcoco": 1, "spanish": 1, "latin america": 1}
+{"zanzibar": 3}
+{"zanzibar": 3, "tanganyika": 1, "united republic of tanzania": 1, "indian ocean": 1, "african mainland": 1, "zanzibar city": 1, "stone town": 1, "mafia island": 1}
+{"saint philip": 1, "barbados": 2}
+{"saint philip": 3, "barbados": 4, "six cross roads": 2, "six roads": 1, "bridgetown": 1, "four cross roads": 2, "st. george": 1, "bushy park": 1, "bayfield": 1, "the crane": 1, "oistins": 1, "culpepper island": 1}
+{"birmingham": 1, "warwickshire": 2}
+{"birmingham": 8, "west midlands": 3, "england": 2, "britain": 1, "united kingdom": 2, "black country": 1, "wolverhampton": 1, "dudley": 1, "solihull": 1, "sutton coldfield": 1, "meriden": 1, "cotswolds": 1, "shropshire hills": 1, "severn": 1, "warwickshire": 1, "london": 2, "uk": 1}
+{"spain": 1}
+{"oiartzun": 2, "basque country": 1, "gipuzkoa": 1, "aiako harria": 1, "pe\u00f1as de aya": 1}
+{"fetsund": 1, "norway": 1, "oslo": 1}
+{"fetsund": 5, "lillestr\u00f8m": 3, "akershus": 1, "norway": 3, "\u00f8yerens": 1, "oslo": 2, "sweden": 1, "glomma": 3}
+{"lakewood, ohio": 1, "bryn mawr, pennsylvania": 1, "new york city": 1}
+{"lakewood": 1, "cuyahoga county": 1, "ohio": 1, "united states": 1, "lake erie": 1, "cleveland": 2, "parma": 1}
+{"paris": 1, "beijing": 1, "sweden": 1, "italy": 1, "egypt": 1, "poland": 1}
+{"eindhoven": 1, "netherlands": 1}
+{"eindhoven": 5, "netherlands": 2, "north brabant": 1, "campine": 1, "son en breugel": 1, "nuenen": 1, "geldrop-mierlo": 1, "helmond": 1, "heeze-leende": 1, "waalre": 1, "veldhoven": 1, "eersel": 1, "oirschot": 1, "best": 1}
+{"queensland": 1, "brisbane": 1}
+{"gisborne": 1, "new zealand": 2, "los angeles": 1, "mechelen": 1}
+{"gisborne": 3, "new zealand": 1, "gisborne district": 1, "gisborne region": 1}
+{"tambov": 2, "leningrad": 1, "russian empire": 1}
+{"tambov": 3, "tambov oblast": 2, "russia": 1, "moscow": 1}
+{"frascati": 1, "lazio": 1, "rome": 1, "italy": 4, "colorno": 1}
+{"frascati": 3, "rome": 2, "lazio": 1, "italy": 1, "alban hills": 1, "tusculum": 1}
+{"london": 1, "holborn": 1}
+{"mortain": 1}
+{"mortain": 1, "manche": 1, "normandy": 1, "france": 1, "mortain-bocage": 1}
+{"pennsylvania": 2, "delaware county": 1}
+{"nassau county": 1, "brooklyn": 1, "philadelphia": 1}
+{"scotland": 1, "wigan": 1, "workington town": 1}
+{"glasgow": 6, "scotland": 5, "united kingdom": 3, "europe": 1, "north america": 1, "west indies": 1, "orient": 1, "india": 1, "china": 1, "lanarkshire": 1, "renfrewshire": 1, "dunbartonshire": 1, "greater glasgow": 1, "glasgow city region": 1}
+{"france": 1}
+{"brou-sur-chantereine": 1, "seine-et-marne": 1, "\u00eele-de-france": 1, "france": 1}
+{"ireland": 1}
+{"dublin": 5, "ireland": 3, "leinster": 1, "dublin mountains": 1, "wicklow mountains": 1, "county dublin": 1, "british empire": 1, "western europe": 1}
+{"marseille": 1}
+{"marseille": 6, "france": 4, "bouches-du-rh\u00f4ne": 1, "provence-alpes-c\u00f4te d'azur": 1, "mediterranean sea": 1, "rhone river": 1, "phocaea": 1, "massalia": 1, "massilia": 1, "southern europe": 1, "middle east": 1, "north africa": 1, "asia": 1, "europe": 1, "london": 1, "paris": 2, "aix-marseille-provence metropolis": 1, "european capital of culture": 1, "european capital of sport": 1}
+{"taipei": 3, "taiwan": 4}
+{"stonington": 1, "connecticut": 1, "united states": 1}
+{"stonington": 2, "new london county": 1, "connecticut": 1, "united states": 1, "pawcatuck": 1, "lords point": 1, "wequetequock": 1, "mystic": 1, "old mystic": 1, "southeastern connecticut planning region": 1}
+{"budapest": 1, "hungary": 1}
+{"elmore": 1, "ohio": 1}
+{"elmore": 2, "ottawa": 1, "sandusky": 1, "ohio": 1, "toledo metropolitan statistical area": 1, "fremont micropolitan statistical area": 1}
+{"idaho": 1, "sandpoint": 1, "los angeles": 1, "green bay": 1, "pittsburgh": 2, "washington": 1, "new england": 1}
+{"bonners ferry": 3, "boundary county": 1, "idaho": 1, "united states": 1, "creston": 1, "british columbia": 2, "canada": 2, "kootenay river": 1, "eastport": 1, "kingsgate": 1, "yahk": 1, "moyie river": 1}
+{"united states": 1, "america": 1}
+{"floyd county": 2, "virginia": 2, "blacksburg-christiansburg": 1, "blue ridge mountains": 1, "little river": 1, "town of floyd": 1}
+{"norway": 1}
+{"norway": 3, "voss": 2, "vossvangen": 1, "bolstad\u00f8yri": 1, "borstrondi": 1, "evanger": 1, "kvitheim": 1, "mj\u00f8lfjell": 1, "oppheim": 1, "stalheim": 1, "vinje": 1, "vestland": 1}
+{"america": 1}
+{"warren": 3, "macomb county": 2, "michigan": 3, "detroit": 4, "united states": 1}
+{"turkey": 3, "istanbul": 2}
+{"saitama": 1, "japan": 2}
+{"saitama prefecture": 2, "japan": 1, "kant\u014d region": 1, "honshu": 1, "tochigi prefecture": 1, "gunma prefecture": 1, "nagano prefecture": 1, "yamanashi prefecture": 1, "tokyo": 1, "chiba prefecture": 1, "ibaraki prefecture": 1, "saitama": 1, "kawaguchi": 1, "kawagoe": 1, "tokorozawa": 1}
+{"united states": 2, "new mexico": 1}
+{"rocky": 1, "washita county": 1, "oklahoma": 2, "united states": 1}
+{"vienna": 1, "austria": 1}
+{"latvia": 1, "riga": 1, "seoul": 1, "soviet": 1}
+{"riga": 6, "latvia": 3, "gulf of riga": 1, "daugava river": 1, "baltic sea": 1, "ume\u00e5": 1, "europe": 1, "baltic states": 1}
+{"cardiff": 1, "wales": 1, "northern ireland": 1, "falklands": 1, "bosnia": 1, "iraq": 2, "afghanistan": 2, "helmand province": 1}
+{}
+{"milan": 1, "georgia": 1, "dodge": 1, "telfair": 1, "u.s.": 1}
+{"burma": 1}
+{"pakokku": 6, "magway region": 1, "myanmar": 2, "bagan": 1, "irrawaddy river": 1, "gangaw district": 1, "sri lanka": 1, "upper myanmar": 1}
+{"america": 1}
+{"indianapolis": 8, "indiana": 2, "marion county": 1, "chicago": 1, "columbus": 2, "ohio": 1, "phoenix": 1, "austin": 1, "st. mary's": 1, "washington, d.c.": 1}
+{"northern ireland": 1}
+{"belfast": 5, "northern ireland": 2, "river lagan": 1, "belfast lough": 1, "ireland": 2, "great britain": 1, "united kingdom": 2, "harbour estate": 1}
+{"england": 1}
+{"finland": 1, "helsinki": 2, "oulu": 1}
+{"oulu": 6, "finland": 3, "north ostrobothnia": 1, "northern finland": 2, "murmansk": 1, "norilsk": 1, "russia": 1, "kuopio": 1, "tampere": 1}
+{"canons park": 1, "middlesex": 1, "harrow": 1, "haileybury": 1, "the dripping pan": 1, "lewes": 1, "royal brunswick ground": 1, "hove": 1, "cheltenham": 2, "madras": 2, "india": 2, "gloucestershire": 1}
+{"canons park": 2, "edgware": 1, "london borough of harrow": 1, "north west london": 1, "little stanmore": 1}
+{"schiedam": 1, "leiden": 1}
+{"schiedam": 3, "netherlands": 1, "rotterdam": 1, "the hague": 1, "vlaardingen": 1, "delft": 1, "pernis": 1}
+{"waukegan": 2, "illinois": 2, "texas": 2, "magnolia": 1}
+{"waukegan": 3, "illinois": 3, "chicago": 1, "lake county": 1, "united states": 1}
+{}
+{"norwalk": 3, "connecticut": 3, "fairfield county": 1, "new york metropolitan area": 1, "long island sound": 1, "western connecticut planning region": 1}
+{"south korea": 1}
+{"south korea": 5, "korean peninsula": 2, "seoul capital area": 1, "busan": 1, "daegu": 1, "incheon": 1, "yellow sea": 1, "sea of japan": 1, "soviet union": 1, "united states": 1, "gwangju": 1, "east asia": 2}
+{"new york city": 1, "washington, d.c.": 1, "queens": 2, "ozone park": 1}
+{"indonesia": 1}
+{"makassar": 5, "ujung pandang": 1, "indonesia": 4, "south sulawesi": 1, "jakarta": 2, "surabaya": 2, "medan": 2, "bandung": 1, "sulawesi": 1, "makassar strait": 1, "gowa": 1, "australian coast": 1, "east indonesia": 1, "mamminasata": 1}
+{"mexico": 1, "puebla": 1}
+{"puebla": 3, "mexico": 2, "mexico city": 1, "veracruz": 2, "hidalgo": 1, "tlaxcala": 1, "morelos": 1, "guerrero": 1, "oaxaca": 1, "huaquechula": 1, "huejotzingo": 1}
+{"riverside": 1, "california": 1}
+{"riverside": 6, "california": 4, "united states": 1, "inland empire": 2, "los angeles": 1, "san bernardino": 1, "san francisco": 1, "detroit": 1, "riverside county": 2, "northeastern part of the city": 1}
+{"berlin": 1, "vienna": 1, "london": 1}
+{"gogland": 1, "helsinki": 1, "finland": 1, "kellonummi": 1, "espoo": 1}
+{"gulf of finland": 1, "saint petersburg": 2, "finland": 2, "kotka": 1, "kingiseppsky district": 1, "leningrad oblast": 1, "gogland": 3}
+{"munster": 1}
+{"ireland": 5, "dublin": 2, "northern ireland": 3, "united kingdom": 1, "atlantic ocean": 1, "celtic sea": 1, "st george's channel": 1, "irish sea": 1, "europe": 1, "european union": 1, "council of europe": 1, "oecd": 1}
+{"aberdeen": 1, "bencoolen": 1, "sumatra": 1}
+{"aberdeen": 5, "scotland": 4, "aberdeenshire": 2, "edinburgh": 1, "london": 1, "north sea": 1, "old aberdeen": 1, "united kingdom": 1}
+{"pushkino": 1, "moscow oblast": 1, "saint petersburg": 1, "central federal district": 1, "russia": 1, "united states": 2}
+{"bratsk": 2, "irkutsk oblast": 1, "russia": 1, "angara river": 1, "bratsk reservoir": 1}
+{"sapporo": 1, "hokkaido": 1, "nagano": 1}
+{"sapporo": 5, "japan": 4, "hokkaido": 4, "ishikari": 2, "toyohira river": 1, "odori park": 1, "chitose": 1, "hokkaido prefecture": 1, "ishikari subprefecture": 1}
+{"soviet union": 1, "wimbledon": 1, "french": 1}
+{}
+{"japan": 1, "tokyo": 1}
+{"mogilyev": 1, "soviet union": 1, "cuba": 1, "gothenburg": 1, "berlin": 1, "stockholm": 1}
+{"mogilev": 3, "belarus": 2, "smolensk oblast": 1, "bryansk oblast": 1, "dnieper river": 1, "mogilev region": 1}
+{"paris": 2, "montpellier": 1}
+{"rajasthan": 1, "nimbahera": 3}
+{"rajasthan": 1, "india": 2, "chittorgarh": 4, "berach river": 1, "bans": 1, "chittorgarh district": 1, "gambhiri": 1}
+{"romania": 1, "gloria bistri\u021ba": 1}
+{"cluj-napoca": 5, "romania": 3, "bucharest": 1, "budapest": 1, "belgrade": 1, "transylvania": 2, "cluj county": 1, "some\u0219ul mic river valley": 1, "unirii square": 1}
+{"heppenheim": 1, "hesse": 1, "university of heidelberg": 1, "free university of berlin": 1, "saarland university": 1, "otto-suhr-institut": 1, "berlin": 1, "university of mainz": 1}
+{"heppenheim": 2, "bergstra\u00dfe": 2, "hesse": 1, "germany": 1, "odenwald": 1}
+{"tacoma": 1}
+{"san diego": 6, "southern california": 1, "mexico": 1, "united states": 3, "california": 3, "alta california": 1, "san diego county": 1, "san diego bay": 1, "tijuana": 2, "san ysidro port of entry": 1, "western hemisphere": 1}
+{"netherlands": 1, "delft": 1}
+{"boston": 1, "brooklyn": 1, "philadelphia": 1}
+{"lynn": 5, "massachusetts": 2, "united states": 1, "essex county": 1, "boston": 1, "greater boston": 1, "lynn shore reservation": 1, "lynn woods reservation": 1, "high rock reservation and park": 1, "lynn heritage state park": 1, "essex coastal scenic byway": 1, "diamond historic district": 1}
+{"france": 1}
+{"koper": 1, "trieste": 1}
+{"koper": 5, "slovenia": 2, "istrian region": 1, "slovene coast": 1, "italy": 1, "spodnje \u0161kofije": 1, "rabuiese": 1, "trieste": 2, "ljubljana": 1, "lazaret": 1, "lazzaretto": 1, "muggia municipality": 1, "trieste province": 1, "san bartolomeo": 1}
+{}
+{"aiud": 1, "alba county": 1, "transylvania": 1, "romania": 1}
+{"texas": 2, "houston": 2, "louisiana": 1, "mississippi": 1, "puerto rico": 1}
+{"united states": 2, "eastern district of pennsylvania": 1, "yale law school": 1, "university of pennsylvania law school": 1}
+{"caltagirone": 1, "italy": 1, "rome": 1}
+{"caltagirone": 1, "catania": 2, "sicily": 1, "italy": 1, "caltanissetta": 1}
+{"north carolina": 1}
+{"conway": 1, "franklin county": 1, "massachusetts": 2, "united states": 1, "springfield": 1}
+{}
+{"england": 8, "united kingdom": 3, "great britain": 2, "scotland": 2, "wales": 1, "london": 3, "ireland": 1, "continental europe": 1, "dartmoor": 1, "lake district": 1, "pennines": 1, "shropshire hills": 1, "south east": 1, "midlands": 1, "north west": 1, "north east": 1, "yorkshire": 1}
+{"london": 2, "cecil court": 1, "west end of london": 1, "paris": 1, "st mary's churchyard": 1, "hendon": 1}
+{"cleethorpes": 1, "lincolnshire": 1, "grimsby": 1, "canada": 1, "winnipeg": 3, "manitoba": 1, "hamilton": 1, "ontario": 1, "vancouver": 2, "british columbia": 1, "sydney": 1, "australia": 1, "cambridge university": 1, "nassau": 1, "bahamas": 1, "edmonton": 2, "alberta": 1}
+{"cleethorpes": 3, "humber": 1, "north east lincolnshire": 1, "lincolnshire": 1, "england": 1, "british isles": 1, "uk": 1, "margate": 1}
+{"herrnhut": 1, "kyelang": 1, "lahaul district": 1, "spiti": 1, "north india": 1}
+{"herrnhut": 3, "upper lusatia": 1, "g\u00f6rlitz": 1, "saxony": 1, "germany": 1, "christiansfeld": 1, "denmark": 1, "bethlehem": 1, "usa": 1, "gracehill": 1, "northern ireland": 1, "l\u00f6bau": 1, "zittau": 1, "zittau mountains": 1, "petersbach": 1, "plie\u00dfnitz": 1, "lusatian neisse": 1}
+{"vienna": 1, "schwechat": 1, "moscow": 1}
+{"south dakota": 1, "portland": 1, "oregon": 1}
+{"south dakota": 6, "north dakota": 1, "minnesota": 1, "iowa": 1, "nebraska": 1, "wyoming": 1, "montana": 1, "pierre": 1, "sioux falls": 1, "black hills": 1, "missouri river": 1, "east river": 1, "west river": 1}
+{"estonian": 1, "russian empire": 1}
+{"northern eurasia": 1, "north america": 1, "swedish empire": 1, "polish\u2013lithuanian commonwealth": 1, "qajar iran": 1, "ottoman empire": 2, "qing china": 1, "tatars": 1, "siberia": 1, "moscow": 1, "saint petersburg": 1, "europe": 2, "central asia": 2, "arctic ocean": 1, "black sea": 1, "baltic sea": 1, "alaska": 1, "hawaii": 1, "california": 1, "caucasus": 1, "northeast asia": 1, "germany": 1, "austria\u2013hungary": 1}
+{"queensland": 1, "wide bay": 1}
+{"adelaide": 5, "south australia": 2, "australia": 3, "fleurieu peninsula": 1, "gulf st vincent": 1, "mount lofty ranges": 2, "gawler": 1, "sellicks beach": 1, "adelaide hills": 1, "river torrens": 1, "north terrace": 1, "king william street": 1}
+{"chicago": 1}
+{"chicago": 8, "illinois": 1, "midwestern united states": 1, "lake michigan": 2, "cook county": 1, "chicagoland": 1, "mississippi river": 1, "united states": 3}
+{"ukraine": 3, "soviet union": 1, "nazi germany": 1, "volhynia": 1, "eastern galicia": 1}
+{"lviv": 6, "ukraine": 3, "lviv oblast": 1, "lviv raion": 1, "kingdom of galicia\u2013volhynia": 1, "poland": 3, "habsburg kingdom of galicia and lodomeria": 1, "west ukrainian people's republic": 1, "l\u00f3w\u00f3w voivodeship": 1, "soviet union": 1, "poland and soviet ukraine": 1, "venice": 1, "rome": 1, "unesco world heritage list": 1}
+{"british": 1}
+{"droitwich spa": 1, "droitwich": 1, "wychavon district": 1, "worcestershire": 1, "england": 1, "river salwarpe": 1, "birmingham": 1, "worcester": 1, "salinae": 1, "wyche": 1, "hwicce kingdom": 1, "saltwich": 1, "dead sea": 1}
+{"beijing": 10, "china": 3, "shanghai": 2, "hebei province": 1, "tianjin": 1, "jing-jin-ji": 1, "asia": 1, "forbidden city": 1, "temple of heaven": 1, "summer palace": 1, "ming tombs": 1, "zhoukoudian peking man site": 1, "beijing central axis": 1, "great wall": 1, "grand canal": 1, "beijing cbd": 1, "zhongguancun": 1}
+{"king's lynn": 1, "norfolk": 1, "cambridgeshire": 3, "suffolk": 1, "somerset": 1, "northamptonshire": 1, "wisbech": 1}
+{"king's lynn": 2, "bishop's lynn": 1, "lynn": 1, "west norfolk": 1, "norfolk": 1, "england": 1, "peterborough": 1, "cambridge": 1, "norwich": 1}
+{"birkenhead": 1, "england": 1, "canada": 1, "montreal": 2, "toronto": 1, "ottawa": 1}
+{"mexico": 1, "paris": 1, "los angeles": 1, "nicaragua": 1}
+{"monterrey": 6, "nuevo le\u00f3n": 1, "mexico": 5, "sierra madre oriental": 1, "san pedro garza garc\u00eda": 1, "united states": 2, "united states-mexico border": 1}
+{"calgary": 1, "alberta": 1, "university of arizona": 3}
+{"calgary": 5, "alberta": 1, "canada": 4, "edmonton": 1, "canadian rockies": 1, "calgary\u2013edmonton corridor": 1, "z\u00fcrich": 1, "north america": 1}
+{}
+{"creston": 1, "union county": 1, "iowa": 2}
+{"china": 2, "shanghai": 1}
+{"shanghai": 8, "china": 4, "yangtze river": 1, "huangpu river": 1, "eastern bloc": 1, "pudong new area": 1, "asia": 1, "global": 1, "bund": 2}
+{"western united states": 1, "paris": 1, "america": 1, "san francisco": 1, "san francisco bay area": 1}
+{"papal states": 1, "constantinople": 1, "arezzo": 1}
+{"rome": 10, "italy": 3, "lazio": 2, "metropolitan city of rome": 2, "italian peninsula": 1, "tiber valley": 1, "vatican city": 1, "europe": 1, "papal states": 1, "eur": 1}
+{"america": 1}
+{"olkusz": 1, "poland": 1}
+{"olkusz": 3, "poland": 1, "lesser poland voivodeship": 1, "katowice voivodeship": 1, "olkusz county": 1}
+{"stone": 1, "staffordshire": 1, "england": 1}
+{"stone": 5, "staffordshire": 2, "england": 1, "stafford": 1, "stoke-on-trent": 1, "rugeley": 1}
+{"maroussi": 1}
+{"greece": 1, "athens": 1, "amarynthos": 1, "euboea": 1}
+{"konz": 1, "rhineland-palatinate": 1, "los angeles": 1, "united states": 1, "rhede": 1, "germany": 1}
+{"konz": 1, "trier-saarburg": 1, "rhineland-palatinate": 1, "germany": 1, "saar": 1, "moselle": 1, "trier": 1, "canet": 1, "filzen": 1, "hamm": 1, "karthaus": 1, "k\u00f6nen": 1, "krettnach": 1, "kommlingen": 1, "niedermennig": 1, "oberemmel": 1, "obermennig": 1, "roscheid": 1, "pellingen": 1}
+{"new zealand": 1, "university of otago": 1, "australian national university": 1}
+{"christchurch": 8, "south island": 2, "new zealand": 2, "canterbury region": 1, "canterbury plains": 1, "pegasus bay": 1, "pacific ocean": 1, "banks peninsula": 1, "avon river": 1, "england": 1, "kaiapoi p\u0101": 1, "britain": 1, "lyttelton harbour": 1, "queen elizabeth ii park": 1, "harewood": 1}
+{}
+{"grande prairie": 4, "alberta": 1, "canada": 2, "peace river country": 1, "edmonton": 1}
+{"tasmania": 1, "australia": 1}
+{"hobart": 5, "tasmania": 3, "australia": 3, "river derwent": 1, "kunanyi": 2, "mount wellington": 2, "sydney": 1, "new south wales": 1}
+{"england": 1}
+{"great yarmouth": 2, "norfolk": 1, "england": 1, "norwich": 1, "north sea": 2, "norfolk broads": 1}
+{"chicago": 2, "illinois": 1}
+{"toomevara": 2, "county tipperary": 1, "tipperary": 1, "munster": 1}
+{"toomevara": 1, "toomyvara": 1, "county tipperary": 1, "ireland": 1, "nenagh": 1, "ormond upper": 1}
+{"mantinea": 1, "greece": 1}
+{"mantineia": 1, "arcadia": 3, "greece": 2, "peloponnese": 1, "tripoli": 1, "nestani": 1, "artemisio": 1, "loukas": 1, "kapsas": 1}
+{"canada": 2, "british columbia": 2, "yukon": 1, "united states": 1, "western canada": 1}
+{"picton": 1, "ontario": 1, "vancouver centre": 1, "canada": 3}
+{"picton": 3, "prince edward county": 1, "ontario": 2, "toronto": 1, "spain": 1, "portugal": 1, "picton bay": 1, "bay of quinte": 1, "lake ontario": 1}
+{"los angeles": 1, "nantucket": 1, "massachusetts": 1, "germany": 1}
+{"canada": 1, "universit\u00e9 de montr\u00e9al": 1}
+{"ecuador": 2, "mexico": 1, "united states": 1, "scotland": 1, "switzerland": 1, "chile": 1, "argentina": 1, "los angeles": 1}
+{"esmeraldas": 5, "ecuador": 3, "padang": 1, "indonesia": 1, "pacific": 1, "latin america": 1}
+{"beijing": 1, "sichuan": 1}
+{"tokyo": 1, "japan": 2}
+{"denmark": 2, "europe": 2, "north america": 2}
+{"rathmore": 1, "county kerry": 1, "kerry": 1, "east kerry": 1, "munster": 1}
+{"rathmore": 4, "county kerry": 1, "ireland": 1, "county cork": 1, "rath beg": 1, "sliabh luachra": 1}
+{"south-west nigeria": 1}
+{"ibadan": 5, "nigeria": 5, "oyo state": 1, "lagos": 2, "kano": 1, "cairo": 1, "abuja": 1, "west africa": 1, "south-western nigeria": 1}
+{"quebec": 1, "canada east": 1}
+{"ristiina": 1, "savonia": 2, "mikkeli": 1, "iisalmi": 1, "oulu": 1, "lepp\u00e4virta": 1, "swedish province of v\u00e4sterbotten": 1, "ume\u00e5": 1, "russia": 3}
+{"ristiina": 3, "finland": 2, "eastern finland": 1, "southern savonia": 1, "mikkeli": 1}
+{"down": 3, "westmeath": 1, "kerry": 1, "portaferry": 1}
+{"portaferry": 5, "county down": 1, "northern ireland": 1, "ards peninsula": 1, "strangford lough": 2, "strangford": 1, "barony of ards upper": 1, "belfast": 1, "swedish": 1}
+{"japan": 1}
+{"canada": 1, "seoul": 1, "south korea": 1, "salt lake city": 1, "torino": 1, "london": 1}
+{"u.s.": 1}
+{"harrison": 3, "hudson county": 1, "new jersey": 2, "newark": 1, "new york city": 1, "passaic river": 1}
+{"hammelburg": 1, "lower franconia": 1, "kingdom of bavaria": 1, "rhineland": 1}
+{"hammelburg": 2, "bavaria": 1, "germany": 1, "bad kissingen": 1, "lower franconia": 1, "franconian saale": 1, "schweinfurt": 1, "franconia": 1}
+{"lyon": 1, "france": 1}
+{"france": 5, "lyon": 8, "paris": 1, "marseille": 1, "geneva": 1, "switzerland": 1, "auvergne-rh\u00f4ne-alpes": 1, "rh\u00f4ne": 1, "old lyon": 1, "fourvi\u00e8re": 1, "presqu'\u00eele": 1, "croix-rousse": 1}
+{"pittsburgh": 1}
+{"suffolk": 3, "virginia": 4, "united states": 1, "hampton roads": 2, "chesapeake": 1, "hampton": 1, "newport news": 1, "norfolk": 1, "portsmouth": 1, "virginia beach": 1, "nansemond county": 1, "holland": 1, "whaleyville": 1}
+{"karatsu": 1, "saga": 1, "japan": 2, "guangzhou": 1, "china": 1, "london": 1, "barcelona": 1, "spain": 1, "waikiki beach": 1, "hawaii": 1, "united states": 1}
+{"karatsu": 3, "saga": 1, "kyushu": 1, "japan": 1, "china": 1, "korea": 1, "dangjin": 1, "south chungcheong province": 1, "south korea": 1}
+{"england": 1, "oxford": 1}
+{"leeds": 6, "west yorkshire": 3, "england": 1, "united kingdom": 2, "york": 1, "west riding of yorkshire": 1, "northern england": 1}
+{"ireland": 1, "ferns": 1}
+{"wexford": 3, "county wexford": 1, "ireland": 2, "wexford harbour": 1, "river slaney": 1, "dublin": 2, "rosslare europort": 2, "cork": 1, "waterford": 1}
+{"england": 1, "american": 1}
+{}
+{"beirut": 5, "lebanon": 4, "levant": 1, "arab world": 1, "mediterranean coast": 1, "port of beirut": 1}
+{"america": 1}
+{"glendale": 5, "san fernando valley": 1, "verdugo mountains": 2, "los angeles county": 3, "california": 3, "united states": 1, "downtown los angeles": 1, "shadow hills": 1, "tujunga": 1, "la ca\u00f1ada flintridge": 1, "la crescenta": 1, "burbank": 1, "griffith park": 1, "eagle rock": 1, "pasadena": 1, "atwater village": 1, "glassell park": 1}
+{"santurce": 1, "barcelona": 1, "spain": 1}
+{"santurtzi": 2, "biscay": 1, "basque country": 1, "spain": 1, "bilbao": 2, "nervi\u00f3n river": 1, "greater bilbao": 1, "san juan": 1, "puerto rico": 1}
+{"canaan": 1, "israel": 1}
+{"canaan": 5, "southern levant": 2, "carthage": 1, "north africa": 1}
+{"dutch": 1}
+{"netherlands": 2, "amsterdam": 1}
+{"nechanice": 1, "bohemia": 2, "austria-hungary": 1, "prague": 1, "czechoslovakia": 2}
+{"nechanice": 1, "hradec kr\u00e1lov\u00e9 district": 1, "hradec kr\u00e1lov\u00e9 region": 1, "czech republic": 1}
+{"bucharest": 1, "romania": 1, "ghencea cemetery": 1}
+{"america": 1}
+{"poland": 2}
+{"pabianice": 5, "poland": 1, "\u0142\u00f3d\u017a": 3, "pabianice county": 2, "sieradz land": 1, "gmina dobro\u0144": 1, "gmina ksawer\u00f3w": 1, "gmina pabianice": 1, "gmina rzg\u00f3w": 1}
+{"seattle": 1, "new york": 1}
+{"tampere": 2, "university of helsinki": 1}
+{"tampere": 8, "finland": 4, "pirkanmaa": 3, "helsinki": 3, "satakunta": 1, "hame": 1, "tavastia": 2, "turku": 1, "pori": 1, "lake n\u00e4sij\u00e4rvi": 1, "lake pyh\u00e4j\u00e4rvi": 1, "barcelona": 1}
+{"vojvodina": 1, "serbia": 1, "yugoslavia": 1, "novi sad": 1}
+{"novi sad": 6, "serbia": 2, "belgrade": 2, "vojvodina": 1, "pannonian plain": 1, "ba\u010dka": 1, "syrmia": 1, "danube river": 2, "fru\u0161ka gora": 1, "petrovaradin": 1, "sremska kamenica": 1}
+{"italy": 1}
+{"paris": 3, "france": 1, "geneva": 1}
+{"geneva": 10, "switzerland": 1, "z\u00fcrich": 2, "romandy": 1, "rh\u00f4ne": 1, "lake geneva": 1, "republic and canton of geneva": 1, "vaud": 2, "ain": 1, "haute-savoie": 1, "nyon district": 1, "p\u00f4le m\u00e9tropolitain du genevois fran\u00e7ais": 1, "new york city": 1, "basel": 2, "strasbourg": 1, "london": 1}
+{"tokyo": 2, "japan": 2, "fukuoka": 1}
+{"palencia": 1, "tel aviv": 1, "israel": 1}
+{"spain": 1, "castile and le\u00f3n": 1, "palencia": 3, "valladolid": 1, "burgos": 1, "iberian peninsula": 1, "inner plateau": 1, "carri\u00f3n river": 1}
+{"canada": 1, "boston": 1, "pittsburgh": 1}
+{"essex": 3, "ontario": 2, "canada": 1, "lake erie": 1}
+{"istanbul": 1, "turkey": 1}
+{"toronto": 1, "ontario": 1, "canada": 3}
+{"canada": 5, "north america": 1, "ottawa": 1, "toronto": 1, "montreal": 1, "vancouver": 1, "united states": 2}
+{"swansea": 1, "wales": 1}
+{"swansea": 5, "wales": 3, "swansea bay": 2, "gower peninsula": 1, "glamorgan": 1, "g\u0175yr": 1, "neath": 1, "port talbot": 1, "swansea bay city region": 1}
+{"italy": 3, "england": 1, "argentina": 2, "australia": 1, "scotland": 1}
+{"america": 1}
+{"toronto": 1, "ontario": 1, "united states": 1, "canada": 1, "western hemisphere": 1}
+{"toronto": 7, "canada": 3, "ontario": 2, "lake ontario": 1, "upper canada": 1, "york": 2, "north america": 1}
+{"new zealand": 1, "central districts": 2, "otago": 2, "new plymouth": 1, "central otago": 1}
+{"dunedin": 6, "new zealand": 4, "scotland": 2, "otago": 4, "otago peninsula": 1, "otago harbour": 2, "guangdong": 1, "guangxi": 1, "edinburgh": 1}
+{"basildon": 1, "england": 1}
+{"basildon": 5, "essex": 1, "england": 1, "central london": 1, "chelmsford": 1, "southend-on-sea": 1, "billericay": 2, "wickford": 2, "south benfleet": 1, "pitsea": 1, "laindon": 1, "vange": 1, "city of london": 1, "docklands": 1}
+{"miami": 1, "florida": 1}
+{"miami": 10, "florida": 3, "south florida": 1, "miami-dade county": 1, "southeast": 1, "atlanta": 1, "united states": 2, "jacksonville": 1, "downtown miami": 1, "portmiami": 1, "new york city": 1, "latin america": 1}
+{"ussr": 1, "moon": 1}
+{"chistopol": 1, "tatarstan": 1, "russia": 1, "kuybyshev reservoir": 1, "kama river": 1}
+{"russia": 1}
+{"santiago": 1, "chile": 3, "france": 1, "per\u00fa": 1, "cuba": 1}
+{"chile": 4, "santiago": 5, "santiago metropolitan region": 1, "valpara\u00edso": 1, "andes mountains": 1, "pacific ocean": 1}
+{"british": 1, "europe": 1}
+{}
+{"bitonto": 1, "bari": 2, "apulia": 1, "italy": 1}
+{"lyons": 1, "gallic": 1}
+{"granada": 1}
+{"granada": 5, "andalusia": 1, "spain": 3, "sierra nevada": 2, "costa tropical": 1, "iberian peninsula": 1, "al-andalus": 1, "albaic\u00edn": 1}
+{"columbia": 1, "missouri": 1}
+{"columbia": 5, "missouri": 6, "boone county": 1, "mid-missouri": 1, "missouri river valley": 1, "ozark mountains": 1, "rock bridge memorial state park": 1, "mark twain national forest": 1, "big muddy national fish and wildlife refuge": 1, "boonslick area": 1, "virginia": 1, "kentucky": 1, "tennessee": 1}
+{"colorado": 1, "atlanta": 1, "houston": 1, "green bay": 1}
+{"powell": 2, "park county": 1, "wyoming": 2, "united states": 1}
+{"slovenia": 1}
+{"celje": 5, "slovenia": 1, "styria": 1, "ljubljana": 1, "maribor": 1, "velenje": 1, "central sava valley": 1, "lower savinja valley": 1}
+{"greece": 1}
+{"budapest": 1, "hungary": 1}
+{"warsaw": 2, "poland": 2, "rome": 1, "st. cecilia academy": 1, "st. trinity church": 1}
+{"english channel": 1, "france": 1}
+{"new orleans": 1, "soviet union": 1, "moscow": 1, "kiev": 1, "leningrad": 1, "odessa": 1}
+{"new orleans": 5, "louisiana": 3, "mississippi river": 1, "gulf coast": 1, "french louisiana": 1, "deep south": 1, "southeastern united states": 1, "french quarter": 1, "united states": 3, "orleans parish": 2, "st. tammany parish": 1, "lake pontchartrain": 1, "st. bernard parish": 1, "lake borgne": 1, "plaquemines parish": 1, "jefferson parish": 2, "greater new orleans": 2}
+{"united states": 1, "massachusetts": 2, "boston": 1}
+{"shanghai": 1}
+{"new york city": 1, "st. moritz": 1, "wall street": 1, "britain": 1, "museum of the city of new york": 1, "cathedral of st. john the divine": 1}
+{"grand junction, colorado": 1, "white house": 1}
+{"grand junction": 5, "mesa county": 1, "colorado": 4, "united states": 1, "western slope": 1, "denver": 1, "salt lake city": 1, "utah": 1, "grand junction metropolitan area": 1, "grand valley": 1, "colorado river": 1, "front range urban corridor": 1}
+{"pesaro": 1, "pesaro e urbino": 1, "italy": 2, "turin": 1, "seoul": 1, "south korea": 1}
+{"pesaro": 4, "marche": 2, "ancona": 1, "italy": 1, "adriatic sea": 1, "monteciccardo": 1, "fiorenzuola di focara": 1, "aosta": 1, "cagliari": 1, "vicenza": 1}
+{"paris": 2, "france": 1, "belgium": 1, "luxembourg": 1, "switzerland": 1, "siena": 1}
+{"jouars-pontchartrain": 1, "yvelines": 1, "\u00eele-de-france": 1, "france": 1, "paris": 1}
+{"rathcoole": 1, "newtownabbey": 1, "northern ireland": 1}
+{"newtownabbey": 1, "belfast": 1, "county antrim": 1, "northern ireland": 2, "carnmoney hill": 1, "whiteabbey": 1, "glengormley": 1, "island of ireland": 1}
+{"kazakhstan": 1}
+{"lankaran": 5, "azerbaijan": 1, "caspian sea": 1, "iran": 1, "lankaran district": 1, "talish": 1, "talyshstan": 1, "lenkoran": 1, "mughan": 2, "talysh-mughan autonomous republic": 1}
+{"university of southern mississippi": 1, "houston oilers": 2}
+{"hattiesburg": 5, "mississippi": 3, "forrest county": 1, "lamar county": 1, "covington": 1, "perry counties": 1, "pine belt region": 1, "camp shelby": 1, "mississippi river": 1}
+{"villahermosa": 1, "tabasco": 1}
+{"villahermosa": 2, "tabasco": 1, "southeast mexico": 1}
+{"puerto rico": 1, "mexico": 1}
+{"santurce": 3, "san juan": 2, "puerto rico": 3, "condado": 1, "miramar": 1}
+{"mexico": 1}
+{"barcelona": 3, "tarragona": 1, "catalonia": 1}
+{"tarragona": 1, "catalonia": 1, "spain": 1, "tarragon\u00e8s": 1, "camp de tarragona": 1, "province of tarragona": 1, "iberian peninsula": 1, "hispania citerior": 1, "hispania tarraconensis": 1}
+{"troyes": 1, "la chapelle-godefroy": 2}
+{"troyes": 6, "aube": 1, "grand est": 1, "france": 1, "seine river": 1, "paris": 1, "champagne": 1, "orient forest regional natural park": 1, "city of art and history": 1}
+{"belfast": 3, "northern ireland": 1, "marsden gardens": 1, "ireland": 1, "down and connor": 1}
+{"new york city": 2, "united states": 1, "decca records": 1, "greater cincinnati airport": 1, "closter": 1, "new jersey": 1, "manhattan": 1, "bern": 1, "switzerland": 1}
+{"hollywood": 1, "america": 1}
+{"bangor": 5, "penobscot county": 1, "maine": 2, "united states": 1, "maine north woods": 1, "atlantic ocean": 1, "u.s. east coast": 1, "europe": 1}
+{"madras state": 2, "tamil nadu": 2, "madras presidency": 1, "india": 3}
+{"kanchipuram": 6, "chennai": 2, "tamil nadu": 2, "india": 2, "palar rivers": 1, "vegavathy rivers": 1, "pallava kingdom": 1}
+{"quebec": 1}
+{"america": 1}
+{"university of memphis": 1, "buffalo": 1, "new orleans": 1, "minnesota": 1}
+{"rome": 2, "georgia": 3, "united states": 2, "floyd county": 2, "appalachian mountains": 1, "northwest georgia": 1, "southeast": 1, "etowah": 1, "oostanaula": 1, "coosa river": 1, "creek": 1, "italy": 1, "gulf coast": 1, "atlanta": 1, "birmingham": 1, "chattanooga": 1}
+{"hungary": 1, "h\u00f3dmez\u0151v\u00e1s\u00e1rhely": 1}
+{"san juan": 1, "la union": 1, "philippines": 1, "quezon city": 1}
+{"san juan": 2, "la union": 1, "philippines": 1}
+{"iran": 1, "germany": 1}
+{"tulsa": 2, "oklahoma": 2, "los angeles": 1, "chicago": 1, "university of oklahoma": 1}
+{"norway": 1, "scotland": 1}
+{"porsgrunn": 5, "telemark": 1, "norway": 4, "grenland": 1, "brevik": 1, "langangen": 1, "heistad": 1, "skien": 1}
+{"fort worth": 1, "greenwood memorial park": 1, "cincinnati": 1, "new york": 1, "cleveland": 1}
+{"athens": 2, "henderson county": 1, "texas": 2, "united states": 1, "greece": 1}
+{"autun": 1, "france": 1, "university of dijon": 1, "paris": 2, "ministry of foreign affairs": 1, "belgium": 1, "luxembourg": 1}
+{"autun": 1, "sa\u00f4ne-et-loire": 1, "bourgogne-franche-comt\u00e9": 1, "france": 1, "bibracte": 1}
+{"east indonesia": 1, "ubud": 1, "bali": 1}
+{"ubud": 4, "bali": 1, "ubud district": 1, "gianyar regency": 1, "greater denpasar metropolitan area": 1, "sarbagita": 1, "denpasar": 1}
+{"guatemala": 1}
+{}
+{"quebec": 6, "canada": 3, "north america": 1, "central canada": 1, "ontario": 2, "newfoundland and labrador": 1, "new brunswick": 2, "nunavut": 1, "james bay": 1, "hudson bay": 1, "hudson strait": 1, "ungava bay": 1, "arctic": 1, "atlantic oceans": 1, "united states": 1, "st. lawrence river valley": 1, "montreal": 1, "nova scotia": 1, "new france": 1}
+{}
+{"warsaw": 1, "oxford": 1, "istanbul": 1, "unc, chapel hill": 1, "dartmouth college": 1}
+{}
+{"montevideo": 6, "uruguay": 4, "buenos aires": 1, "r\u00edo de la plata": 1, "brussels": 1, "latin america": 3, "river plate": 1, "europe": 1, "continent": 1, "world": 1}
+{"leverkusen": 1, "germany": 1}
+{"leverkusen": 1, "north rhine-westphalia": 1, "germany": 1, "cologne": 1, "duesseldorf": 1, "rhine": 1, "rhine-ruhr metropolitan region": 1, "europe": 1}
+{"canada": 1}
+{"rome": 2}
+{"antwerp": 3, "england": 2, "breda": 1, "spanish netherlands": 1, "norwich": 2, "holland": 1, "l\u00fcbeck": 1, "gda\u0144sk": 2}
+{"norwich": 4, "norfolk": 1, "england": 3, "river wensum": 1, "london": 2, "ipswich": 1, "peterborough": 1, "east anglia": 1}
+{"cleveland": 1, "notre dame": 1, "united states": 1}
+{"washington": 2, "pennsylvania": 2, "united states": 1, "pittsburgh": 1, "southwestern part of the state": 1}
+{"geneva": 1, "syria": 1}
+{"prague": 2}
+{"prague": 6, "czech republic": 1, "bohemia": 1, "central europe": 1, "czechoslovakia": 1, "europe": 1, "london": 1, "paris": 1, "rome": 1, "istanbul": 1}
+{"arosa": 1, "switzerland": 1}
+{"arosa": 3, "plessur region": 1, "graub\u00fcnden": 1, "switzerland": 2, "lenzerheide": 1}
+{"new orleans": 1}
+{"new york city": 1, "seattle": 1, "washington": 1}
+{"california": 1, "united states": 1, "east coast": 1}
+{"amsterdam": 1, "holland": 1}
+{"vierzon": 2, "cher": 1, "paris": 4, "germany": 1, "great britain": 1, "20th arrondissement": 2, "france": 3, "gennevilliers": 1}
+{"vierzon": 1, "cher department": 1, "centre-val de loire": 1, "france": 1}
+{"berlin": 1, "sachsenhausen": 1, "cologne": 2, "germany": 1}
+{"durant": 1, "iowa": 1, "greenup": 1, "illinois": 1, "latin america": 1, "ecuador": 1}
+{"durant": 3, "cedar": 1, "muscatine": 2, "scott": 2, "iowa": 2, "davenport\u2013moline\u2013rock island": 1, "ia-il metropolitan statistical area": 1, "muscatine micropolitan statistical area": 1}
+{"antwerp": 1, "brussels": 1, "tervuren": 1, "belgian congo": 1, "central africa": 1}
+{"france": 1, "brazil": 1}
+{"tehran": 3}
+{"new york": 1, "richmond": 1}
+{"kingston": 3, "ulster county": 1, "new york": 3, "united states": 1, "new york city": 1, "albany": 1, "manhattan": 1, "saratoga": 1}
+{"cartago": 1, "costa rica": 2}
+{"cartago": 3, "costa rica": 2}
+{"sweden": 1, "university of the basque country": 1, "spain": 1, "g\u00f6teborg": 2}
+{"gothenburg": 5, "sweden": 4, "stockholm": 1, "v\u00e4stra g\u00f6taland county": 1, "kattegat": 1, "g\u00f6ta \u00e4lv": 1, "hisingen": 1, "g\u00f6teborg landvetter airport": 1, "g\u00f6teborg city airport": 1}
+{}
+{"edinburgh": 1, "london": 2, "newcastle upon tyne": 1, "wallington hall": 1, "northumberland": 1, "penkill castle": 1, "ayrshire": 1, "scotland": 1}
+{"senegal": 1, "monaco": 1, "italy": 1}
+{"dakar": 5, "senegal": 2, "cap-vert": 2, "gor\u00e9e": 1, "saint-louis": 1, "french west africa": 1, "mainland africa": 1}
+{"amsterdam": 1, "netherlands": 1}
+{"canada": 1, "johns hopkins hospital": 1, "london": 1, "great britain": 1, "ireland": 1, "mcgill university": 1}
+{"ontario": 6, "canada": 2, "quebec": 2, "ottawa": 1, "toronto": 1, "manitoba": 1, "hudson bay": 1, "james bay": 1, "minnesota": 2, "michigan": 1, "ohio": 1, "pennsylvania": 1, "new york": 1, "lake of the woods": 1, "great lakes": 1, "saint lawrence river": 1, "height of land portage": 1, "southern ontario": 1, "northern ontario": 1}
+{"japan": 1}
+{"fukuoka prefecture": 5, "japan": 1, "ky\u016bsh\u016b": 3, "saga prefecture": 1, "kumamoto prefecture": 1, "\u014dita prefecture": 1, "fukuoka": 2, "kitakyushu": 1, "kurume": 1, "\u014dmuta": 1, "kanmon straits": 1, "tsushima strait": 1, "seto inland sea": 1, "yamaguchi prefecture": 1, "honshu": 1, "ariake sea": 1}
+{"boston": 1, "san diego": 1, "united states": 2}
+{"toronto": 1, "canada": 2, "brampton": 1, "sochi": 1}
+{"uganda": 1, "harare": 1, "zimbabwe": 1}
+{"uganda": 6, "east africa": 1, "kenya": 2, "south sudan": 1, "democratic republic of the congo": 1, "rwanda": 1, "tanzania": 2, "lake victoria": 2, "buganda kingdom": 1, "kampala": 2, "nile basin": 1, "african great lakes region": 1, "congo": 1}
+{"basutoland": 2, "france": 1, "london": 1, "hunger hatch": 1, "ashford": 1, "kent": 1}
+{"basutoland": 3, "lesotho": 1, "cape colony": 2, "natal colony": 1, "orange river colony": 1, "south africa": 1, "berea": 1, "leribe": 1, "maseru": 1, "mohale's hoek": 1, "mafeteng": 1, "qacha's nek": 1, "quthing": 1, "united kingdom": 1}
+{"england": 1}
+{"brighton": 5, "hove": 3, "east sussex": 1, "england": 1, "london": 2, "france": 1, "brighthelmstone": 1}
+{"philippines": 1, "ateneo de manila university": 1}
+{"philippines": 5, "southeast asia": 1, "manila": 2, "quezon city": 1, "taiwan": 1, "japan": 1, "palau": 1, "indonesia": 1, "malaysia": 1, "vietnam": 1, "china": 1, "new spain": 1, "united states": 3}
+{"mexico": 1, "vienna": 2, "moravia": 1}
+{"czech republic": 1, "moravia": 5, "bohemia": 1, "czech silesia": 2, "austria-hungary": 1, "czechoslovakia": 1, "brno": 1, "olomouc": 2}
+{"philadelphia": 3, "chicago": 1, "new york": 1}
+{"tilden": 2, "madison": 2, "antelope": 1, "nebraska": 1, "united states": 1, "norfolk": 1}
+{}
+{"kobe": 5, "hy\u014dgo prefecture": 1, "japan": 4, "kansai region": 1, "honsh\u016b": 1, "osaka bay": 1, "osaka": 2, "kyoto": 2, "arima onsen": 1}
+{"canada": 1}
+{"england": 2, "northamptonshire": 1}
+{"burewala": 2, "vehari district": 1, "punjab": 1, "pakistan": 2}
+{"madrid": 1}
+{"madrid": 6, "spain": 3, "iberian peninsula": 2, "european union": 2, "c\u00f3rdoba": 1, "crown of castile": 1, "southern europe": 1}
+{"south africa": 2}
+{"thembisa": 1, "kempton park": 1, "east rand": 1, "gauteng": 1, "south africa": 1, "alexandra": 1, "edenvale": 1, "midrand": 1, "germiston": 1}
+{"west africa": 1, "nuremberg": 1, "germany": 1}
+{"philadelphia": 1, "st. louis": 1, "shibe park": 1, "pittsburgh": 1, "forbes field": 1, "shelby": 1, "north carolina": 1}
+{"shelby": 1, "cleveland county": 1, "north carolina": 2, "charlotte-concord": 1, "nc-sc combined statistical area": 1}
+{"turin": 2, "milan": 2, "genoa": 1, "st petersburg": 1, "russia": 1, "rome": 1}
+{"columbia university": 1, "mid-atlantic ridge": 1, "america": 1}
+{"vinton": 3, "benton county": 2, "iowa": 2, "united states": 1, "cedar rapids metropolitan statistical area": 1}
+{"athens": 2, "greece": 2, "egypt": 1, "paris": 1, "the hague": 1, "rome": 1, "turkey": 1, "united states of america": 1}
+{"naples": 2, "italy": 1, "abruzzo": 1, "majella": 1}
+{"naples": 6, "campania": 1, "italy": 4, "rome": 2, "milan": 2, "pizzofalcone": 1, "magna graecia": 1, "duchy of naples": 1, "kingdom of naples": 1, "kingdom of the two sicilies": 1, "europe": 1, "palace of caserta": 1, "pompeii": 1, "herculaneum": 1, "posillipo": 1, "phlegraean fields": 1, "nisida": 1, "vesuvius": 1, "fuorigrotta": 1, "stadio diego armando maradona": 1}
+{"karlstad": 1}
+{"karlstad": 5, "sweden": 4, "v\u00e4rmland county": 1, "v\u00e4rmland": 2, "orrholmen": 1, "tullholmen": 1, "klar\u00e4lven": 1, "v\u00e4nern": 1, "v\u00e4ster\u00e5s": 1}
+{"mexico": 1}
+{"tijuana": 6, "baja california": 1, "mexico": 3, "san diego": 1, "the californias": 2, "north america": 2, "the world": 1}
+{"japan": 1}
+{}
+{"colorado": 6, "western united states": 1, "four corners": 1, "arizona": 1, "new mexico": 1, "utah": 1, "wyoming": 1, "nebraska": 1, "kansas": 1, "oklahoma": 1, "southern rocky mountains": 1, "colorado plateau": 1, "great plains": 1, "united states": 2, "nuevo m\u00e9xico": 1, "denver": 1, "front range urban corridor": 1, "colorado springs": 1, "americas": 1}
+{"minnesota": 2, "oakland": 2, "new york": 3, "texas": 2, "chicago": 1, "comiskey park": 1, "yankee stadium": 1, "shelby": 1, "north carolina": 1}
+{"franklin": 2, "macon county": 1, "north carolina": 1, "united states": 1, "nantahala national forest": 2, "great smoky mountains": 1, "appalachian trail": 1, "cherokee": 1, "nikwasi": 1}
+{"brazil": 2, "milan": 1, "italy": 1, "rio de janeiro": 1}
+{"florida": 5, "maine": 3, "oxford county": 1, "waterville": 2, "winchester": 1, "virginia": 1, "quincy": 1, "gadsden county": 1, "florida panhandle": 1, "hot springs": 1, "arkansas": 1, "palatine bridge": 1, "new york": 1, "albany": 1, "center lovell": 1}
+{"lovell": 2, "oxford county": 1, "maine": 1, "united states": 1, "kezar lake": 1}
+{"dutch": 1}
+{"delft": 3, "south holland": 1, "netherlands": 2, "rotterdam": 1, "the hague": 1, "rotterdam\u2013the hague metropolitan area": 1, "randstad": 1}
+{"haarlem": 1, "rome": 2}
+{"vaxholm": 2, "sweden": 1}
+{"vaxholm": 3, "stockholm county": 1, "sweden": 1, "vax\u00f6n": 1, "kull\u00f6": 1, "vaxholmen": 1, "stockholm archipelago": 2}
+{"montreal": 1, "expos": 1}
+{"jersey city": 5, "new jersey": 2, "hudson county": 1, "newark": 2, "new york metropolitan area": 1, "hudson river": 1, "upper new york bay": 1, "hackensack river": 1, "newark bay": 1, "port of new york and new jersey": 1, "manhattan": 2}
+{"edinburgh": 1}
+{"surrey": 3, "south east england": 1, "greater london": 2, "kent": 1, "east sussex": 1, "west sussex": 1, "hampshire": 2, "berkshire": 2, "woking": 2, "guildford": 1, "leatherhead": 1, "camberley": 1, "farnham": 1, "frimley": 1, "horley": 1, "godalming": 1, "spelthorne": 1, "middlesex": 1, "north downs": 1, "wey": 1, "mole": 1, "thames": 1, "thames basin": 1, "weald": 1, "surrey hills": 1, "thursley": 1, "hankley": 1, "frensham commons": 1, "england": 1}
+{"france": 1}
+{"northwestern illinois": 1, "geneseo, illinois": 1, "vietnam": 1, "mount carroll, illinois": 1, "hoffman estates": 1, "naperville": 1, "jo daviess": 1, "stephenson": 1, "lee counties": 1, "winnebago": 1, "ogle": 1, "carroll": 1, "whiteside": 1, "henry counties": 1}
+{"geneseo": 2, "henry county": 1, "illinois": 3, "united states": 1, "quad cities": 1}
+{"lisburn": 1, "ireland": 1, "oxford": 1, "oxfordshire": 1, "england": 1}
+{"lisburn": 5, "northern ireland": 3, "belfast": 1, "county antrim": 1, "county down": 1, "newry": 1, "castlereagh": 1}
+{"paris": 1}
+{"canadian": 1, "quebec": 1, "montreal": 1, "longueuil\u2014pierre-boucher": 1}
+{"germany": 2, "bayern munich": 1, "west germany": 1}
+{"erfurt": 10, "thuringia": 1, "river gera": 1, "thuringian basin": 1, "thuringian forest": 1, "eisenach": 1, "gotha": 1, "weimar": 1, "jena": 1, "gera": 1, "kassel": 1, "g\u00f6ttingen": 1, "germany": 3, "leipzig": 2, "frankfurt": 1, "berlin": 1, "munich": 1, "central europe": 1, "europe": 1, "east germany": 1, "nuremberg": 1, "halle": 2, "bebra": 1, "electorate of mainz": 1, "kingdom of prussia": 1, "german democratic republic": 1, "st augustine's monastery": 1}
+{"germany": 1}
+{"burg": 2, "magdeburg": 2, "northeastern germany": 1, "jerichower land": 1, "saxony-anhalt": 1}
+{"iceland": 1}
+{"minnesota": 8, "united states": 1, "canadian provinces": 1, "manitoba": 1, "ontario": 1, "wisconsin": 1, "iowa": 1, "north dakota": 1, "south dakota": 1, "minneapolis\u2013saint paul": 1, "twin cities": 1, "duluth": 1, "mankato": 1, "moorhead": 1, "rochester": 1, "st. cloud": 1, "mississippi river valley": 1, "louisiana": 1}
+{"cincinnati": 1, "ohio": 1, "beijing": 1, "london": 1}
+{"cincinnati": 5, "hamilton county": 1, "ohio": 3, "united states": 3, "kentucky": 1, "cincinnati metropolitan area": 1, "midwest": 1}
+{"bohemian": 1, "prague": 2, "kolovrat": 1, "vienna": 1, "venice": 1, "mal\u00e1 strana": 1}
+{"turku": 1, "helsinki": 1, "russian": 1, "azerbaijani": 1}
+{"turku": 6, "finland": 5, "southwest finland": 1, "helsinki": 3, "kingdom of sweden": 1, "russian empire": 1, "tallinn": 1, "estonia": 1, "stockholm": 1, "mariehamn": 1}
+{"blenheim palace": 1, "woodstock": 1, "oxfordshire": 1}
+{"woodstock": 1, "oxfordshire": 1, "england": 1, "continent": 1}
+{"ukraine": 1}
+{"kharkiv": 5, "ukraine": 4, "sloboda ukraine": 2, "kharkiv oblast": 1, "kharkiv raion": 1, "eastern ukraine": 1, "russia\u2013ukraine border": 1}
+{"sweden": 3, "karlskoga": 2, "bofors": 2, "grums": 1, "fr\u00f6lunda": 1, "v\u00e4xj\u00f6": 2}
+{"karlskoga": 5, "sweden": 1, "\u00f6rebro county": 2, "\u00f6rebro": 1, "degerfors": 1, "v\u00e4rmland": 1, "lake m\u00f6ckeln": 1, "n\u00e4rke plain": 1}
+{"ohio": 1}
+{"franklin county": 3, "indiana": 2, "brookville": 1, "cincinnati": 1, "oh": 1, "ky": 1, "batesville": 1, "ripley county": 1}
+{"san francisco": 1, "cincinnati": 1, "new orleans": 1, "clemson": 1}
+{"lagrange": 3, "troup county": 1, "georgia": 3, "united states": 1, "atlanta": 1, "west point lake": 1}
+{"brooklyn": 1, "purchase": 1, "new york": 4, "soho": 1, "california": 1, "los angeles": 2}
+{"brooklyn": 5, "new york city": 3, "long island": 1, "kings county": 2, "netherlands": 1, "queens": 1, "manhattan": 1, "staten island": 1, "new york harbor": 1, "greater new york": 1}
+{"lithuania": 2, "ussr": 1, "seoul": 1, "south korea": 1, "klaip\u0117da": 2, "vilnius": 1}
+{"kaunas": 10, "vilnius": 2, "lithuania": 3, "baltic states": 1, "duchy of trakai": 1, "grand duchy of lithuania": 1, "trakai palatinate": 1, "russian empire": 1, "poland": 1, "central and eastern europe": 1, "europe": 1, "esch-sur-alzette": 1, "novi sad": 1, "kaunas county": 1, "nemunas": 1, "neris": 1, "kaunas reservoir": 1}
+{"canada": 1}
+{"carleton place": 1, "eastern ontario": 1, "canada": 1, "lanark county": 1, "ottawa": 2, "perth": 1, "almonte": 1, "smiths falls": 1, "mississippi river": 1, "ottawa river": 1, "mississippi lake": 1}
+{"kinnitty": 2, "county offaly": 1, "offaly": 1}
+{"kinnitty": 1, "county offaly": 1, "ireland": 1, "birr": 1}
+{"kimberley": 1, "nottinghamshire": 2, "middlesex": 1, "marylebone cricket club": 1, "lord's": 1, "oxford university": 1, "yorkshire": 1}
+{"kimberley": 2, "nottinghamshire": 2, "borough of broxtowe": 1, "england": 1, "nottingham": 1}
+{"johnson city": 1, "tennessee": 1, "boston university": 1}
+{"fall branch": 3, "washington": 1, "greene": 1, "tennessee": 1, "sullivan": 1, "johnson city": 1, "kingsport": 1, "bristol": 1, "tn-va": 1}
+{"wayne county": 1, "michigan": 1, "detroit": 2}
+{"wyoming": 1, "amsterdam": 1}
+{"wheatland": 1, "wyoming": 2, "platte county": 1, "united states": 1}
+{"illinois": 1}
+{"lecce": 1, "rome": 1, "cagliari": 1, "milan": 1, "metropolitan opera": 1, "italy": 2, "ankara": 1}
+{"lecce": 5, "italy": 1, "apulia": 1, "salentine peninsula": 1, "italian peninsula": 1}
+{"nantes": 1, "west of france": 1}
+{"nantes": 8, "loire-atlantique": 2, "france": 4, "atlantic": 1, "saint-nazaire": 1, "loire": 3, "pays de la loire": 1, "brittany": 2, "rennes": 1, "paris": 1, "lyon": 1, "algiers": 1, "orlando": 1, "porto": 1, "turin": 1, "leipzig": 1}
+{"linz an der donau": 1, "berlin": 1}
+{"linz": 1, "upper austria": 1, "austria": 2, "czech republic": 1, "danube river": 2}
+{"arequipa": 1, "peru": 2, "lima": 1, "latin america": 1}
+{"arequipa": 6, "peru": 5, "lima": 1, "chile": 1, "bolivia": 2, "brazil": 1, "matarani": 1, "potos\u00ed": 1}
+{"girona": 1, "catalonia": 1, "spain": 1}
+{"girona": 5, "catalonia": 1, "spain": 1, "barcelona": 1}
+{"genoa": 1, "italy": 1, "madrid": 2, "spain": 1, "new spain": 2, "albuquerque": 1, "new mexico": 1, "barcelona": 1, "sicily": 1, "navarre": 1, "mexico": 1, "kingdom of granada": 1, "andalusia": 1}
+{"genoa": 6, "italy": 3, "liguria": 1, "gulf of genoa": 1, "mediterranean": 2, "europe": 2, "world": 1, "northwest italy": 1}
+{"bedford": 1, "ohio": 1}
+{"bedford": 1, "cuyahoga county": 1, "ohio": 1, "united states": 1, "cleveland": 1}
+{"norway": 1}
+{"notodden": 5, "telemark": 1, "norway": 4, "aust-telemark": 1, "bolkesj\u00f8": 1, "gransherad": 1, "heddal": 2, "hjukseb\u00f8": 1, "hjuksevelta": 1, "rudsgrendi": 1, "tinnoset": 1, "yli": 1, "heddal stave church": 1, "notodden airport": 1, "europe": 1}
+{}
+{"griffin": 4, "spalding county": 1, "georgia": 2, "united states": 1, "atlanta metropolitan area": 1}
+{"anhalt-zerbst": 2, "germany": 1, "russia": 1}
+{"schleswig": 1, "schleswig-holstein": 2, "germany": 1, "baltic sea": 1, "island in the schlei": 1}
+{"oxford": 1}

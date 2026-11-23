@@ -1,0 +1,9633 @@
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"april kepner": 1, "owen hunt": 1, "avery": 1}
+{}
+{"devon pravesh": 1, "soloman bell": 1, "randolph bell": 1, "renta thorpe": 1, "cruz": 1}
+{"sloan": 1}
+{"george o'malley": 1, "lexie grey": 1, "derek shepherd": 1, "callie torres": 1, "miranda bailey": 1}
+{"cristina yang": 1, "burke": 1, "izzie stevens": 1, "george o'malley": 1, "callie torres": 1, "alex karev": 1, "rebecca pope": 1, "meredith grey": 1, "justin": 1}
+{"preston burke": 1, "meredith grey": 1, "yang": 1, "jackson avery": 1, "april kepner": 1, "richard webber": 1, "ellis grey": 1, "burke": 1, "o'malley": 1, "stevens": 1, "shepherd": 1, "drew": 1, "grace": 1}
+{"drew": 1}
+{"miranda bailey": 1, "meredith grey": 1, "grace": 1}
+{"mcdreamy": 1, "mcsteamy": 1, "sloan": 1}
+{"pink": 1}
+{"pink": 3}
+{}
+{"drew": 1}
+{}
+{"tom robinson": 1}
+{}
+{"cushie": 1, "eileen": 1, "felicia": 1, "mae": 1, "jennifer": 1}
+{"pink": 1}
+{"pink": 1}
+{"bruno": 1, "gretel": 1, "maria": 1}
+{}
+{"bruno": 1, "shmuel": 1}
+{}
+{}
+{}
+{"bruno": 1}
+{"bruno": 2, "shmuel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary kate danaher": 1, "squire \"red\" will danaher": 1, "mary": 1}
+{"inisfree": 1}
+{}
+{}
+{}
+{}
+{}
+{"jennifer": 1}
+{}
+{}
+{}
+{}
+{"none": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bat masterson": 3, "wyatt earp": 2, "bart maverick": 1, "cheyenne bodie": 1}
+{"bat masterson": 1}
+{"bat masterson": 2, "wyatt earp": 1}
+{"bat masterson": 1}
+{"clay allison": 1, "bat masterson": 1, "james h. \"dog\" kelley": 1}
+{"bat masterson": 1, "burke's law": 1}
+{"bat masterson": 1, "burke's law": 1}
+{"bat masterson": 1, "wyatt earp": 1}
+{"harrison whitney": 1, "ann": 1, "taffy paul": 1, "bat masterson": 1, "stephanie": 1}
+{"toby dawson": 1, "buck simpson": 1, "charlie": 1, "ben pick": 1, "hub elliott": 1, "jeb crater": 1, "ben": 1, "bat masterson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{"max": 1}
+{}
+{"anna": 1}
+{}
+{}
+{}
+{}
+{"the king": 1}
+{"anna": 1}
+{}
+{"anna": 1, "the king": 1, "luan tha": 1, "the kralahome": 1, "lady thiang": 1}
+{"tuptim": 1, "thiang": 1, "chulalongkorn": 1, "kralahome": 1, "anna": 1}
+{}
+{}
+{}
+{}
+{}
+{"mouth": 1}
+{}
+{}
+{"scott hudson": 2, "julia": 1}
+{"mouth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lannister soldier": 1}
+{"cersei lannister": 1, "arya stark": 1, "jon snow": 1, "bran stark": 1, "lyanna stark": 1, "samwell tarly": 1}
+{"shael": 1, "tywin lannister": 1, "bran": 1, "brienne": 1, "sandor \"the hound\" clegane": 1, "ygritte": 1, "jojen reed": 1, "daenerys": 1}
+{}
+{}
+{"none": 0}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"caesar": 1, "soothsayer": 1}
+{"caesar": 1, "spurinna": 1, "soothsayer": 1}
+{"caesar": 1}
+{"soothsayer": 1, "caesar": 1}
+{"caesar": 1}
+{"caesar": 1}
+{"caesar": 1}
+{"caesar": 1}
+{"caesar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{"mary": 1}
+{"mary": 1}
+{"mary": 1}
+{}
+{"mary": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emily prentiss": 3, "elle greenaway": 1}
+{}
+{"emily prentiss": 2}
+{}
+{}
+{"prentiss": 3, "morgan": 2, "hotch": 1, "j.j.": 2}
+{}
+{}
+{}
+{"cruz": 1}
+{"zeus": 3}
+{"zeus": 1}
+{"zeus": 2}
+{"zeus": 1, "persephone": 1, "demeter": 1, "trophonius": 1}
+{"zeus": 3, "hermes": 1, "castor": 1, "pollux": 1}
+{"zeus": 1, "minos": 1, "epimenides": 1, "plato": 1}
+{"zeus": 1}
+{"zeus": 2, "mary": 1}
+{"zeus": 1}
+{"zeus": 1, "ares": 1, "hebe": 1, "hephaestus": 1, "dione": 1, "aphrodite": 1, "athena": 1, "apollo": 1, "artemis": 1, "hermes": 1, "persephone": 1, "dionysus": 1, "perseus": 1, "heracles": 1, "helen of troy": 1, "minos": 1, "the muses": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the monster": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ricky": 1}
+{"nanette": 1}
+{"mrs. wolowitz": 1, "monique marmelstein": 1, "howard": 1}
+{"howard's mother": 1, "howard": 1}
+{"mrs. wolowitz": 1, "howard": 1}
+{"mrs. wolowitz": 1, "howard": 1}
+{"howard wolowitz": 1, "cosmé mcmoon": 1, "moist": 1, "howard": 1}
+{"mary": 1}
+{"howard": 1}
+{"wolowitz's mother": 1, "howard's mom": 1, "howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"graham": 1}
+{"cooper": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rocky": 1, "bullwinkle": 1}
+{"rocky": 1, "bullwinkle": 1, "mr. peabody": 1, "sherman": 1}
+{"ben": 1}
+{}
+{"rocky": 1, "bullwinkle": 1}
+{"rocky": 1, "bullwinkle": 1, "boris": 1, "natasha": 1, "fearless leader": 1, "the narrator": 1, "ben": 1}
+{"rocky": 1, "bullwinkle": 1}
+{}
+{"rocky": 1, "bullwinkle": 1, "fearless leader": 1, "boris badenov": 1, "natasha fatale": 1}
+{"dudley do-right": 1, "bullwinkle": 1, "rocky": 1}
+{"mary": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tevye": 1, "lazar wolf": 1, "tzeitel": 1}
+{"tevye": 1, "perchik": 1, "hodel": 1}
+{"tevye": 1}
+{"fiddler on the roof": 5}
+{}
+{"motel": 1, "tzeitel": 1}
+{}
+{"tevye": 2, "motel kamzoil": 1, "mendel": 1}
+{"fiddler on the roof": 1}
+{}
+{}
+{}
+{"mary": 1, "ben": 1}
+{}
+{"ben": 1}
+{}
+{"ben": 1}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the hobbit": 1, "the lord of the rings": 1}
+{}
+{}
+{"sauron": 1}
+{}
+{"sauron": 1}
+{}
+{"talion": 1, "torvin": 1}
+{}
+{"shadow of war": 2, "shadow of mordor": 1}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{"emma": 1, "anna": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"anna": 1, "jennifer": 1}
+{"emma": 1, "anna": 1, "tony": 1}
+{"joker": 2, "batman": 1, "harvey dent": 1}
+{"joker": 2, "batman": 1}
+{"joker": 2}
+{"joker": 3}
+{"joker": 1}
+{"joker": 2, "batman": 1}
+{"joker": 4, "batman": 1}
+{"joker": 4}
+{"joker": 2}
+{"joker": 3, "batman": 1}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{"justin": 1}
+{"justin": 1}
+{}
+{}
+{"felonious gru": 1, "margo": 1, "edith": 1, "marlena gru": 1}
+{"gru": 1, "dru": 1, "balthazar bratt": 1}
+{"lucy wilde": 1, "floyd eagle-san": 1, "eduardo": 1, "gru": 1, "silas ramsbottom": 1, "minions": 1}
+{"felonious gru": 1, "lucy wilde": 1, "margo": 1, "edith": 1, "silas ramsbottom": 1, "marlena gru": 1, "dru": 1, "balthazar bratt": 1, "agnes": 1}
+{"eduardo": 1, "silas ramsbottom": 1}
+{"gru": 1, "lucy": 1, "balthazar bratt": 1}
+{"balthazar bratt": 1, "emma": 1}
+{"gru": 1, "scarlet overkill": 1}
+{"gru": 1}
+{"gru": 1, "lucy": 1, "balthazar bratt": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lady": 1, "charkie": 1}
+{"curious george": 1, "drew": 1, "howard": 1}
+{"mr. renkins": 1, "joker": 1, "dorkus": 1, "keswick": 1, "larry": 1, "ollie": 1, "red tornado": 1, "kowalski": 1, "chuck charles": 1}
+{}
+{"the man with the yellow hat": 1, "george": 2}
+{"pookie": 1, "wiki": 1, "tini": 1, "haruka": 1, "widget": 1, "allie": 1, "izzie": 1, "lambie": 1, "lisa": 1}
+{"george": 2, "kayla": 1}
+{"curious george": 1}
+{"pig george": 1, "boo boo chicken": 1, "gnocchi": 1, "buster": 1, "mickey mouse": 1}
+{"curious george": 1, "cecily g": 1}
+{"viola hastings": 2, "sebastian": 1, "viola": 1}
+{"viola hastings": 2, "viola": 1}
+{"she's the man": 1, "detention": 1}
+{}
+{}
+{"alex": 1, "duke orsino": 1, "viola": 1}
+{}
+{}
+{"viola": 1, "justin": 1}
+{"willa mcpherson": 1, "moira o'hara": 1, "kaylee": 1, "jessie anderson": 1}
+{"super martian robot girl": 1, "elijah": 1, "tony": 1}
+{"muno": 1, "foofa": 1, "brobee": 1, "toodee": 1, "plex": 1, "dj lance": 1}
+{"plex": 1, "brobee": 1, "dj lance": 1, "muno": 1, "toodee": 1}
+{"toodee": 1, "muno": 1, "plex": 1, "brobee": 1, "dj lance": 1}
+{"the mc bat commander": 1}
+{"h.r. pufnstuf": 1}
+{}
+{"toodee": 1, "muno": 1, "foofa": 1, "plex": 1, "brobee": 1, "dj lance": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"viola": 1}
+{}
+{}
+{}
+{"mark sloan": 1, "mcsteamy": 1, "sloan": 1}
+{"sloan": 1}
+{"yang": 1, "meredith grey": 1, "sloan": 2}
+{"mark sloan": 1, "derek shepherd": 1, "addison montgomery-shepherd": 1, "lexie grey": 1, "sloan": 1, "grace": 1}
+{"ben warren": 1, "miranda bailey": 1, "callie torres": 1, "shepherd": 1, "sloan": 1, "meredith grey": 1, "wilson": 1, "ben": 1}
+{"dr. mark sloan": 1, "mcsteamy": 1, "sloan": 1}
+{"dr. george o'malley": 1, "dr. alex karev": 1, "mark sloan": 1, "callie torres": 1, "sloan": 1, "justin": 1}
+{"carlos torres": 1, "dr. reed adamson": 1, "dr. charles percy": 1, "dr. ben warren": 1, "dr. miranda bailey": 1, "sloan riley": 1, "dr. mark sloan": 1, "dr. lucy fields": 1, "sloan": 1, "ben": 1}
+{"sloan": 1}
+{"sloan": 2}
+{}
+{}
+{}
+{}
+{"bonhomme carnaval": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stefan salvatore": 1, "damon salvatore": 1, "katherine pierce": 1, "elena": 1}
+{"stefan salvatore": 1, "grandmother": 1}
+{}
+{"klaus": 3, "stefan": 3, "rebekah": 3, "elena": 1}
+{"stefan salvatore": 3, "elena": 3, "damon": 2}
+{}
+{"elijah": 3, "stefan": 3, "katherine": 3, "klaus": 1, "damon": 1, "rose": 1, "elena": 1}
+{"damon": 3, "elena": 3, "caroline": 1, "stefan": 1}
+{"anna": 2, "damon": 1, "stefan": 2, "elena": 2, "bonnie": 1, "jeremy": 1, "mason": 1, "lexi": 1}
+{"damon": 1}
+{}
+{}
+{}
+{}
+{"the courier": 1}
+{"olivia walton": 1}
+{}
+{"the waltons": 1}
+{"jim bob walton": 1}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"frank": 1, "carol": 1}
+{"lily": 1}
+{}
+{}
+{}
+{"wayne": 2, "j.t.": 2, "cody": 1, "telly monster": 1, "big bird": 1}
+{}
+{}
+{}
+{"frank lambert": 1, "carol foster": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"monopoly": 1}
+{}
+{"howard": 1}
+{}
+{"none": 0}
+{}
+{}
+{}
+{"lori": 1}
+{"lori": 1}
+{"lori": 1}
+{"lori": 1}
+{}
+{}
+{"lori": 1}
+{}
+{"lori": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"gaston": 1, "the beast": 1, "lefou": 1, "mrs. potts": 1, "maurice": 1, "madame de garderobe": 1, "cogsworth": 1, "plumette": 1, "lumière": 1, "cadenza": 1, "belle": 2, "emma": 1}
+{"beauty": 1, "beast": 1, "emma": 1, "the beast": 1}
+{"beast": 1, "the beast": 1}
+{"the beast": 1, "emma": 1}
+{"the beast": 1}
+{"emma": 1, "howard": 1, "the beast": 1}
+{"emma": 1, "the beast": 1}
+{"belle": 1, "the beast": 1}
+{"beast": 2, "the beast": 1}
+{"belle": 1, "emma": 1, "the beast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"carrie": 1, "charlotte": 1, "miranda": 1, "lily": 1}
+{}
+{"mary": 1}
+{}
+{}
+{"mary": 1, "samantha": 1}
+{"carrie bradshaw": 1, "stanford blatch": 1, "mr. big": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sloan": 1}
+{"lady macbeth": 1, "macbeth": 1, "banquo": 1, "ghost character": 1}
+{}
+{"ghost character": 1}
+{"macbeth": 2, "lord macbeth": 1}
+{"macbeth": 2, "lady macbeth": 1}
+{"macbeth": 3, "lady macbeth": 1, "king duncan": 1, "macduff": 1}
+{"malcolm": 1, "macduff's son": 1, "the witches": 1}
+{"fleance": 1, "witches": 1}
+{"hamlet": 2, "banquo": 1}
+{"ghost character": 1}
+{}
+{}
+{}
+{}
+{"scorpion": 1, "hurricane": 1, "simpsons": 1}
+{"scouts guide to the zombie apocalypse": 1, "the good guys": 1, "aqua teen hunger force": 1, "the simpsons": 1, "hope & faith": 1, "trailer park boys": 1, "jawbreaker": 1, "knocked up": 1, "little nicky": 1, "the cleveland show": 1, "role models": 1, "scorpion": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lilo": 1, "stitch": 1}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"andy": 2, "dwight": 1, "dwight schrute": 1, "angela martin": 1}
+{}
+{}
+{}
+{}
+{"toby": 1}
+{"angela martin": 1}
+{"sprinkles": 1}
+{}
+{"dwight schrute": 3, "esther": 1}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"jennifer parker": 2, "marty mcfly": 1, "jennifer": 1, "grace": 1}
+{"jennifer parker": 2, "jennifer": 1, "grace": 1}
+{"jennifer parker": 2, "jennifer": 1}
+{"doc brown": 1, "jennifer parker": 1, "biff tannen": 1, "jennifer": 1}
+{"jennifer parker": 1, "jennifer": 1}
+{"marty mcfly": 1, "jennifer": 2}
+{"skinhead": 1, "jennifer": 1}
+{"jennifer hart": 1, "jennifer": 1}
+{"jennifer hart": 1, "jennifer": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"doc brown": 1}
+{}
+{}
+{}
+{}
+{}
+{"marty mcfly": 1, "doc brown": 1, "mr. smith": 1, "mrs. smith": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"greg": 1}
+{"greg heffley": 1, "holly hills": 1, "grandpa": 1, "bill walter": 1}
+{"rowley": 1}
+{}
+{}
+{"grace": 1}
+{"greg heffley": 1, "rodrick": 1, "manny": 1}
+{"greg heffley": 1, "rowley jefferson": 1, "susan heffley": 1, "frank heffley": 1, "rodrick heffley": 1, "manny heffley": 1, "angie steadman": 1, "fregley": 1, "patty farrell": 1, "chirag gupta": 1, "manny": 1, "grace": 1}
+{"greg heffley": 1}
+{"olenna tyrell": 1, "margaery tyrell": 1, "grandmother": 1}
+{"alba villanueva": 1, "jane villanueva": 1, "grandmother": 1}
+{"title character's grandmother": 1, "grandmother": 1}
+{}
+{"gordo": 1, "grandmother": 1}
+{"grandmother": 1, "title character": 1}
+{"cousin catherine": 1, "grandma longneck": 1, "sister helen": 1}
+{"anne frank": 1, "ivy morris": 1, "meera reed": 1, "taelia fordragon": 1}
+{}
+{"luther krank": 1, "nora krank": 1, "blair": 1}
+{}
+{"pamela rebecca barnes": 1}
+{"afton cooper": 1, "pamela rebecca barnes": 1}
+{}
+{}
+{}
+{"lindsay lohan's character": 1, "jamie lee curtis' character": 1, "parker": 1}
+{"nora krank": 1}
+{"character": 2, "mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jeffrey trail": 1, "ronnie": 1, "marilyn miglin": 1, "detective lori wieder": 1, "modesto cunanan": 1, "david madson": 1, "lee miglin": 1, "max": 1, "lori": 1}
+{"helena": 1}
+{"prince charming": 1, "david nolan": 1, "fandral": 2, "ben": 1}
+{"ricky": 1}
+{}
+{"modesto cunanan": 1, "ariel augustus": 1}
+{}
+{"david wallace": 1}
+{"prince charming": 1, "david nolan": 1}
+{"ricky": 1, "cruz": 1}
+{"private henry fleming": 1}
+{}
+{"tattered soldier": 1}
+{"henry fleming": 2}
+{"henry": 1}
+{}
+{"fleming": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"elio": 1}
+{"howard": 1}
+{}
+{"elio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"big enos burdette": 1, "ben": 1, "big enos": 1}
+{"big enos": 1}
+{"big enos burdette": 1, "big enos": 1}
+{"big enos burdette": 1, "little enos": 1, "big enos": 1}
+{"big burdette": 1, "little enos burdette": 1, "shaggy": 1, "big enos": 1}
+{"little enos burdette": 1, "swan": 1}
+{"little enos burdette": 1}
+{"sheriff justice": 1, "the bandit": 1, "big enos burdette": 1, "little enos burdette": 1}
+{"bandit": 1, "sheriff justice": 1, "big enos": 1, "little enos": 1, "junior": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"liesel meminger": 1}
+{"death": 1}
+{"hubermanns": 1, "max vandenburg": 1, "rudy steiner": 1, "liesel meminger": 1, "ben": 1, "max": 1}
+{"liesel meminger": 1, "death": 1}
+{"liesel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1, "grace": 1}
+{"nwabudike \"bud\" bergstein": 1, "tom servo": 1, "grace": 1}
+{"tom servo": 2, "moon": 1, "nwabudike \"bud\" bergstein": 1, "grace": 1}
+{"grace": 1, "frankie": 1, "howard": 1}
+{"grace": 1}
+{"greg mendell": 1, "carter": 1, "coyote bergstein": 1, "pete murphy": 1, "grace": 1}
+{"major walter sherman": 1, "sgt. pete hill": 1, "mitch": 1, "grace": 1}
+{"grace": 1}
+{"grace": 1, "frankie": 1, "howard": 1, "saul": 1}
+{"grace": 1}
+{"david seville": 3, "alvin": 1, "the chipmunks": 1}
+{"alvin": 1, "the chipmunks": 1, "justin": 1}
+{"alvin": 1, "the chipmunks": 1, "justin": 1}
+{"alvin": 1, "simon": 1, "theodore": 1}
+{"david seville": 2, "alvin": 1}
+{"alvin": 2}
+{"alvin": 1, "simon": 1, "theodore": 1}
+{"earl hickey": 1, "david seville": 1, "syndrome": 1}
+{"alvin": 1, "the chipmunks": 1, "anna": 1, "justin": 1}
+{"alvin": 1, "the chipmunks": 1, "anna": 1, "justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1, "tony": 1}
+{"character in fame": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grace": 1}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{"justin": 1, "bubba": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{"nathan scott": 1}
+{"nathan scott": 1}
+{"nathan scott": 2, "lucas scott": 1}
+{"nathan scott": 1}
+{"lucas scott": 2, "nathan scott": 1}
+{"nathan scott": 2, "lucas scott": 2, "haley james": 1, "jamie": 1, "lydia": 1}
+{"lucas scott": 1, "nathan scott": 1}
+{"dan scott": 1, "nick wolfe": 1}
+{"nathan scott": 2, "lucas scott": 1, "haley james": 1}
+{"haley james scott": 1, "nathan scott": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{"": 0}
+{}
+{"snow queen": 1, "captain cheryl stillwood": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1, "justin": 1}
+{}
+{}
+{}
+{}
+{"debbie dunham": 1}
+{"jessa johansson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cruz": 1}
+{}
+{}
+{"hitchhiker's guide": 1}
+{}
+{"arthur": 1}
+{}
+{}
+{}
+{"arthur dent": 1, "ford prefect": 1, "zaphod beeblebrox": 1, "trillian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"x-men": 1, "mega man": 1, "darkstalkers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"street fighter alpha": 1, "darkstalkers": 1, "marvel vs. capcom": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"zelda": 1}
+{"link": 1}
+{}
+{"link": 1}
+{}
+{}
+{"hazel": 1}
+{}
+{}
+{}
+{"hazel": 1}
+{}
+{}
+{"hazel": 1}
+{"courtesan": 1, "barber": 1, "priest": 1, "noble": 1, "prowler": 1, "executioner": 1, "doctor": 1, "blacksmith": 1, "captain": 1, "smuggler": 1, "engineer": 1, "footpad": 1, "thief": 1, "hellequin": 1}
+{"assassin's creed 4 protagonist": 1}
+{}
+{}
+{"edward kenway": 1}
+{"mary": 1}
+{"connor": 1, "mary": 1}
+{"medjay": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bear": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"shaggy": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"le roi d'irelande": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{"betty": 1, "ignacio": 1}
+{}
+{}
+{}
+{}
+{"amanda tannen": 1, "wilhelmina slater": 1, "bradford meade": 1, "daniel": 1}
+{}
+{"daisy duke": 2}
+{"daisy duke": 1}
+{"daisy duke": 1, "margo dutton": 1, "anita lawson": 1}
+{"daisy duke": 1}
+{"daisy duke": 1}
+{"c.j. parker": 1, "rick \"wild thing\" vaughn": 1, "nadia": 1, "turtle": 1, "ellen ripley": 1, "steve freeling": 1, "annie wilkes": 1, "mini-me": 1, "the girl in the ferrari": 1, "daisy duke": 1, "t-1000": 1, "ann darrow": 1, "hellboy": 1, "richard hayden": 1}
+{"daisy duke": 2, "hughie hogg": 1, "bo": 1, "luke": 1}
+{"bo duke": 1, "luke duke": 1, "daisy duke": 1, "rosco": 1, "enos": 1, "cooter davenport": 1, "the balladeer": 1, "ben": 1, "sonny": 1}
+{"rey": 1, "mary": 1}
+{"rey": 1}
+{}
+{}
+{"stephanie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"": 0}
+{"none": 0}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{"easter bunny": 1}
+{"easter bunny": 1, "santa claus": 1}
+{"ēostre": 1, "ostara": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rose dewitt bukater": 1, "ben": 1}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{"ben": 1}
+{"ben": 1, "jennifer": 1}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"pacific princess": 1, "the love boat": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bat masterson": 1, "wyatt earp": 2, "marshal fred white": 1}
+{"sam": 1, "stan gray": 1, "hester gray": 1, "sheriff ed wilson": 1, "bat masterson": 1, "mary": 1}
+{}
+{"ed masterson": 2, "wyatt earp": 1, "bat masterson": 1}
+{"bat masterson": 2, "superman": 1}
+{"ed masterson": 1, "bat": 1, "bat masterson": 1}
+{"mickey mouse": 3}
+{"mickey mouse": 2}
+{"mickey mouse": 2, "darlene": 1}
+{"goofy": 1, "minnie mouse": 1, "mickey mouse": 1}
+{"mickey mouse": 4}
+{"mickey mouse": 1, "goofy": 1, "pluto": 1}
+{"mickey mouse": 1, "minnie mouse": 1, "donald duck": 1, "daisy duck": 1, "goofy": 1, "pluto": 1}
+{"mickey mouse": 1}
+{"mickey mouse": 3, "minnie mouse": 1}
+{"mickey mouse": 1, "minnie mouse": 1, "donald duck": 1, "daisy duck": 1, "goofy": 1, "pluto": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"paul": 1, "tony": 1}
+{"ouisa kittredge": 1, "flan": 1, "paul": 1}
+{}
+{"paul": 1}
+{"paul": 1, "ouisa": 1, "tony": 1}
+{"ouissa kittredge": 1, "flanders kittredge": 1, "paul": 1}
+{}
+{"paul": 1, "ouisa": 1, "flan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"davos seaworth": 1}
+{"ser davos seaworth": 1, "the onion knight": 1, "ser davos": 1}
+{"davos seaworth": 3, "the onion knight": 1}
+{"davros seaworth": 3, "the onion knight": 1}
+{"richard tate": 1, "davros seaworth": 1, "ser davos": 1}
+{"craster": 1, "gilly": 1, "davos seaworth": 1, "matthos": 1, "ser alton lannister": 1, "cleos frey": 1, "tyrion lannister": 1, "podrick payne": 1}
+{"colleen wing": 1, "harold meachum": 1, "joy meachum": 1, "ward meachum": 1, "davos": 1, "claire temple": 1, "bakuto": 1}
+{"petyr baelish": 1, "lord varys": 1, "stannis baratheon": 1, "melisandre": 1, "ser davos seaworth": 1, "margaery tyrell": 1, "high sparrow": 1, "ellaria sand": 1, "viserys": 1, "daenerys targaryen": 1, "ser davos": 1}
+{"oberyn martell": 1, "ellaria sand": 1, "daario naharis": 1, "alliser thorne": 1, "janos slynt": 1, "ser dontos hollard": 1, "tony": 1}
+{"jo grant": 1, "the eleventh doctor": 1, "ser loras tyrell": 1, "danny rand": 1}
+{}
+{}
+{"dorothy gale": 1, "aunt em": 1, "uncle henry": 1, "toto": 1, "miss gulch": 1}
+{"dorothy gale": 1}
+{"dorothy gale": 1}
+{}
+{}
+{"dorothy gale": 1}
+{}
+{"the wizard of oz": 2}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{"missy": 1}
+{}
+{"ben": 1}
+{"ben": 1}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"ben": 1}
+{}
+{"bubba": 1, "ben": 1}
+{"ben": 1}
+{}
+{}
+{}
+{"flash": 1}
+{"barry": 1}
+{"devoe": 1, "diggle": 1}
+{"barry allen": 1, "flash": 1}
+{}
+{"barry": 1}
+{}
+{"felicity smoak": 1, "laurel lance": 1, "black siren": 1, "siren-x": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{"phoebe halliwell": 2, "prue": 1, "piper halliwell": 1, "phoebe": 1, "lori": 1}
+{"piper halliwell": 1, "phoebe halliwell": 1, "paige matthews": 1, "andy trudeau": 1, "phoebe": 1, "lori": 1}
+{"phoebe halliwell": 2, "prue halliwell": 1, "lori": 1, "phoebe": 1}
+{"ursula": 1, "phoebe buffay": 1, "phoebe": 1}
+{"phoebe": 5}
+{"paige matthews": 2, "prue halliwell": 1, "piper": 1, "phoebe halliwell": 1, "phoebe": 1}
+{"henry mitchell": 1, "phoebe": 1}
+{"phoebe halliwell": 1, "prue": 1, "piper": 1, "phoebe": 1}
+{"paige matthews": 1, "prue": 1, "piper": 1, "phoebe": 1}
+{"phoebe buffay": 1, "joey": 1, "chandler": 1, "monica": 1, "rachel green": 1, "ross": 1, "tony": 1, "david": 1, "roger": 1, "ursula": 1, "phoebe": 1, "jennifer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"matt morgan": 1, "craig belden": 1}
+{}
+{"petey": 1, "morgan": 1, "belden": 1}
+{"rick": 2, "belden": 2, "morgan": 3, "lee": 1}
+{"fred": 1}
+{"matt seely": 1, "tobey barret": 1}
+{}
+{"o'brien": 1}
+{"cora corman": 1}
+{"dr. phillip watters": 1, "ed alzate": 1, "mr. grey": 1, "detective sunday": 1, "barnard thompson": 1, "jon flint": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{"drew": 1}
+{}
+{}
+{"drew": 1}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{"the beast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1, "mayor gene": 1, "don": 1, "deanna": 1, "roy": 1, "candlehead": 1, "rancis fluggerbutter": 1, "jubileena bing-bing": 1, "crumbelina dicaramello": 1, "surge protector": 1, "moppet girl": 1, "beard papa": 1, "zombie": 1, "cyborg": 1}
+{"jennifer": 1}
+{"wreck-it ralph": 1, "vanellope von schweetz": 1, "mario": 1}
+{"moppet girl": 1, "clare wilson": 1, "maybelle": 1}
+{"wreck-it ralph": 1}
+{"wreck-it ralph": 1}
+{"vanellope von schweetz": 1, "ruth": 1}
+{"wreck-it ralph": 2}
+{"allie underhill": 1}
+{}
+{"anna": 1}
+{"leo argyll": 1, "tina argyll": 1, "arthur calgary": 1, "rachel argyll": 1, "hester argyll": 1, "mary argyll": 1, "kirsten lindstrom": 1, "philip": 1, "mary": 1, "anna": 1}
+{}
+{"gwenda vaughan": 1, "jack argyll": 1, "mickey argyll": 1, "leo": 1, "kirsten": 1}
+{"mickey argyll": 1}
+{"mary": 1}
+{}
+{}
+{}
+{"miss marple": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grandmother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary poppins": 1, "mary": 1}
+{"mary": 1}
+{"tony": 1}
+{"the lion king": 1, "the phantom of the opera": 1}
+{"mufasa": 1, "young simba": 1, "young nala": 1, "pumbaa": 1, "timon": 1, "scar": 1, "banzai": 1, "rafiki": 1, "simba": 1}
+{"tony": 1}
+{}
+{}
+{"cats": 1, "old possum's book of practical cats": 1, "les misérables": 1, "the lion king": 1, "chicago": 1}
+{"the lion king": 1, "irene": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{"elves": 1}
+{"balrog": 1}
+{"nona": 1, "corudan": 1, "horn": 1, "gleowine": 1}
+{}
+{"eärendil": 1, "the lord of the rings": 1}
+{"elladan": 1, "elrohir": 1, "ring-bearer": 1, "elves": 1}
+{"anduin": 1}
+{"uruk-hai": 1, "elves": 1}
+{"theoden": 1}
+{"aragorn": 1, "arwen": 1, "frodo": 2, "sam": 1, "merry": 1, "pippin": 1, "bilbo": 1, "elves": 1}
+{"the stand": 1}
+{}
+{}
+{}
+{}
+{"prew": 1}
+{"deathly hallows": 2}
+{"carrie": 1, "margaret": 1, "sue": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dude": 1, "chance": 1, "stumpy": 1, "joe": 1, "colorado ryan": 1, "feathers": 1, "nathan burdette": 1, "ricky": 1}
+{"chance": 1, "dude": 1, "colorado": 1, "stumpy": 1}
+{}
+{"ricky": 1, "howard": 1}
+{"judge roy bean": 1, "nadine groot": 1, "deputy stumpy": 1, "stumpy": 1}
+{"howard": 1}
+{"danny pickett": 1, "jack welker": 1, "grandmother": 1, "max": 1}
+{"stumpy": 1}
+{"dude": 1}
+{"stumpy": 1}
+{}
+{}
+{}
+{"tom joad": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alice": 1, "max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grace": 1}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"matthew scudder": 1, "tj": 1}
+{"matt scudder": 1}
+{"tj": 1}
+{}
+{"matt scudder": 1}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{"justin": 1}
+{}
+{}
+{"mattie ross": 2, "reuben j. \"rooster\" cogburn": 1}
+{"mattie ross": 1, "deputy u.s. marshal reuben j. \"rooster\" cogburn": 1}
+{"rooster cogburn": 2, "mattie ross": 1, "laboeuf": 1}
+{"eula goodnight": 1, "rooster cogburn": 2, "mattie ross": 1}
+{"rooster cogburn": 2, "mattie ross": 2, "laboeuf": 1, "lucky ned": 1, "tom chaney": 1}
+{"mattie ross": 1, "lucky ned pepper": 1, "laboeuf": 1, "tom chaney": 1, "rooster cogburn": 1, "eula goodnight": 1}
+{"mattie": 1, "rooster j. cogburn": 1, "tom chaney": 1}
+{"mattie ross": 1, "rooster cogburn": 2}
+{"parker": 1, "zeke proctor": 1}
+{"mattie ross": 1, "marshal rooster cogburn": 1}
+{"dominic toretto": 1, "brian o'conner": 1}
+{"lykan hypersport": 2, "furious 7": 1, "fast and the furious": 1}
+{"dominic toretto": 2, "brian": 1}
+{"dominic torretto": 1}
+{"deckard shaw": 1}
+{}
+{"dominic toretto": 1, "brian o'conner": 1}
+{"dominic": 1, "brian": 1, "mia": 1, "leo": 1, "santos": 1}
+{"furious 7": 1}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{"goddess": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nebula": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"freeman": 1, "alyx": 1}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"harry potter": 1}
+{"harry potter": 3}
+{"harry potter": 1}
+{}
+{"harry potter": 1}
+{"harry potter": 3}
+{"harry potter": 3}
+{}
+{"harry potter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tom": 1, "jerry": 1}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{"rebecca pearson": 1}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"darlene conner": 1, "leslie winkle": 1, "darlene": 1}
+{"roseanne conner": 1, "dan conner": 1, "jackie harris": 1, "becky conner-healy": 1, "darlene conner": 1, "d.j. conner": 1, "mark conner-healy": 1, "harris conner-healy": 1, "mary conner": 1, "andrea": 1, "darlene": 1, "emma": 1, "mary": 1}
+{"darlene": 1, "d.j.": 1, "harris conner healy": 1, "andrea": 1, "emma": 1}
+{"harris conner healy": 1, "darlene conner healy": 1, "darlene": 1, "emma": 1}
+{"darlene conner": 1, "darlene": 1}
+{"darlene conner": 1, "darlene": 1}
+{"darlene": 1, "doug": 1, "amy": 1, "jan": 1, "jeff": 1, "kevin": 1}
+{"dan conner": 1, "roseanne conner": 1, "darlene conner": 1, "becky conner": 1, "d.j. conner": 1, "jerry garcia conner": 1, "darlene": 1}
+{"leonard hofstadter": 1, "david healy": 1, "darlene conner": 1, "leslie winkle": 1, "jackie harris": 1, "mary cooper": 1, "sheldon": 1, "mary": 1, "darlene": 1}
+{"dan conner": 3, "roseanne conner": 1, "darlene conner": 1, "becky conner": 1, "d.j. conner": 1, "jerry garcia conner": 1, "darlene": 1}
+{}
+{}
+{}
+{"pluto": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mace windu": 1}
+{"obi-wan kenobi": 1, "padmé": 1, "anakin": 1}
+{}
+{}
+{}
+{}
+{"yoda": 1}
+{}
+{"shirley partridge": 1}
+{}
+{}
+{"shirley": 1}
+{"helen marie": 1, "kate bradley": 1, "the fairy godmother": 1}
+{"shirley partridge": 1, "connie": 1}
+{"shirley partridge": 1}
+{"laurie partridge": 1, "grace van owen": 1, "grace": 1}
+{"shirley's mother": 1, "bobby conway": 2, "lionel poindexter": 1}
+{"shirley partridge": 1}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emma": 1}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dr. drew alister": 1, "roswell": 1, "drew": 1, "jennifer": 1}
+{"uncle drew": 1, "max": 1, "ash": 1, "drew": 1}
+{"drew": 1}
+{"michael guerin": 1, "lab tech": 1, "dr. drew alister": 1, "drew": 1}
+{}
+{"dr. topher zia": 1}
+{}
+{"dr. jordan alexander": 1, "dr. topher zia": 1, "dr. shannon rivera": 1, "dr. drew alister": 1, "dr. paul cummings": 1, "dr. scott clemmens": 1, "drew": 1}
+{"uncle drew": 1, "drew": 1, "ben": 1, "max": 1}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fireball roberts": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"green arrow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fairy tail": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"king mongkut": 1, "ramesses ii": 1, "general bounine": 1, "chris adams": 1, "tony": 1}
+{"moses": 2, "pharaoh": 1, "ramses": 1, "god": 1, "ben": 1}
+{"rameses": 1, "nefretiri": 1, "dathan": 1, "sephora": 1, "lilia": 1, "joshua": 1, "sethi": 1, "bithiah": 1, "yoshebel": 1, "memnet": 1, "baka": 1}
+{"anastasia": 1, "the king and i": 1}
+{"prince of egypt": 1}
+{"moses": 1}
+{}
+{"mary": 1}
+{"moses": 1}
+{"king david": 1, "joseph from egypt": 1}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"puss in boots": 1, "little red riding hood": 1}
+{"the nutcracker": 1, "the sleeping beauty": 1, "swan lake": 1}
+{"barbie": 2, "romeo": 1, "juliet": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"terri": 1, "jay": 1}
+{"april ludgate": 1}
+{"ben": 1}
+{"freddy spaghetti": 1, "ben": 1}
+{"ben": 1}
+{"ben": 1, "jennifer": 1}
+{"april ludgate": 1, "ben": 1}
+{"stephanie": 1}
+{"chris traeger": 1, "andy": 3, "mark": 3, "ann": 4, "ben wyatt": 1, "leslie": 1, "ron": 1, "april": 2, "ben": 1}
+{"andy": 2, "april": 2, "april ludgate": 1}
+{"april kepner": 1, "matthew": 2, "jackson": 2, "justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hermie": 1, "oscy": 1, "benjie": 1, "dorothy": 1, "jennifer": 1}
+{"jennifer": 1}
+{"dorothy": 1, "jennifer": 1}
+{"jennifer": 1}
+{}
+{"jennifer": 1}
+{}
+{}
+{"jennifer": 1}
+{"dorothy walker": 1, "jennifer": 1}
+{"hope williams brady": 1, "shawn-douglas brady": 1, "zack brady": 1, "ciara brady": 1, "bo": 1}
+{"hope williams brady": 3, "shawn-douglas brady": 1, "zack brady": 1, "ciara brady": 1, "bo": 1}
+{"bo": 1, "hope": 1, "bonnie lockhart": 1, "patrick lockhart": 1, "mimi lockhart": 1, "connor lockhart": 1, "adrienne johnson kiriakis": 1}
+{"hope": 5, "hope williams": 1, "shawn-douglas": 1, "zack": 1}
+{"bo brady": 3, "hope williams brady": 1}
+{"dave buznik": 1, "warden jane smith": 1, "hope brady": 1}
+{}
+{"colleen brady": 1, "david": 1, "patrick": 1, "the beast": 1}
+{"hope williams brady": 1}
+{"ciara": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"greg heffley": 1, "rowley jefferson": 1, "frank heffley": 1, "susan heffley": 1, "rodrick heffley": 1, "angie steadman": 1, "manny heffley": 1, "manny": 1, "grace": 1}
+{"greg": 1, "rowley": 1, "frank": 1, "susan": 1, "rodrick": 1, "manny": 1, "angie": 1, "fregley": 1, "grace": 1}
+{"greg heffley": 1, "manny": 1}
+{"meemaw": 1, "manny": 1}
+{"greg": 1, "rodrick": 1, "manny": 1}
+{}
+{"manny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"quincy mccall": 1, "monica wright": 1}
+{"quincy mccall": 1, "monica wright": 1}
+{"monica wright": 1, "quincy mccall": 1}
+{"paula santilli": 1, "young amanda": 1}
+{"tina turner": 1, "marcia": 1}
+{}
+{"quincy": 1, "monica": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stephanie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"riley matthews": 1, "maya hart": 1, "cory": 1, "ben": 1}
+{"cory matthews": 1, "george feeny": 1, "shawn hunter": 1, "eric": 1, "topanga": 1, "alan": 1, "amy": 1, "morgan": 1, "angela moore": 1, "ben": 1}
+{"cory": 1, "topanga": 1, "maya hart": 1, "shawn hunter": 1, "eric matthews": 1, "harley keiner": 1, "stuart minkus": 1, "mr. feeny": 1}
+{"sho'nuff": 1, "sgt. alvin moore": 1, "angela moore": 1}
+{"cory matthews": 1, "ben": 1}
+{"riley matthews": 1, "cory": 1, "topanga": 1, "maya": 1, "elliot": 1}
+{"riley": 1, "auggie": 1}
+{}
+{"cory matthews": 1, "shawn hunter": 1, "george feeny": 1, "ben": 1}
+{"jack hunter": 1, "officer carl winslow": 1, "morgan matthews": 2}
+{}
+{}
+{"haffron": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"old man": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nikanor \"nick\" chebotarevich": 1, "tony": 1}
+{}
+{}
+{}
+{"linda": 1}
+{"superman": 1}
+{}
+{"franky doyle": 1, "joan ferguson": 1}
+{}
+{}
+{}
+{}
+{}
+{"carol": 1, "allie novak": 1}
+{}
+{}
+{"rita connors": 1}
+{"barry allen": 1, "flash": 1}
+{}
+{"the flash": 1, "vixen": 1, "legends of tomorrow": 1}
+{"green arrow": 1, "justin": 1}
+{"green arrow": 2, "felicity": 1}
+{"the flash": 1, "arrow": 1}
+{"oliver queen": 2, "arrow": 2, "flash": 1, "felicity": 1}
+{"barry allen": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"michael scofield": 1, "lincoln burrows": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"spock": 3}
+{"captain james t. kirk": 1, "commander spock": 1, "spock": 1, "justin": 1}
+{"sylar": 1, "spock": 1}
+{"spock": 3}
+{"james t. kirk": 1, "spock": 1, "nero": 1}
+{"sylar": 1, "spock": 1}
+{"uhura": 1, "spock": 2, "jim kirk": 1}
+{"spock": 3}
+{"spock": 2, "leland": 1}
+{"spock": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"zhong kui": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daya jethalal gada": 1, "daya": 1}
+{"jethalal": 1, "daya": 1, "natu kaka": 1, "baagha": 1}
+{}
+{"dr. hansraj hathi": 1}
+{"anjali mehta": 1}
+{}
+{"sundar lal": 1, "daya jethalal gada": 1, "daya": 1}
+{"babita iyer": 1}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{"taylor hayes": 1}
+{}
+{}
+{}
+{"jesus christ": 1, "virgin mary": 1, "mary magdalene": 1, "mary": 1}
+{"ash": 1, "max": 1}
+{"jesus christ": 1, "virgin mary": 1, "mary magdalene": 1, "mary": 1}
+{}
+{"satan": 1}
+{}
+{}
+{"ash": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"precious": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dr. stephanie edwards": 1, "stephanie": 1}
+{}
+{"drew": 1, "sloan": 1}
+{}
+{"alex karev": 1, "jo wilson": 1, "miranda bailey": 1, "justin": 1}
+{"sam": 1, "casey": 1, "vik": 1, "taryn": 1, "dahlia": 1, "levi": 1, "dr. michelle velez": 1}
+{}
+{"owen hunt": 1, "megan hunt": 1}
+{"drew": 1}
+{}
+{}
+{"mary": 1}
+{}
+{"first lady": 1}
+{}
+{}
+{}
+{}
+{"tricia walker": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joker": 1}
+{"joker": 1}
+{"benjamin": 1}
+{"unannounced character": 1}
+{}
+{"alexander": 1}
+{}
+{}
+{"losing joker": 1, "brother-in-loss": 1, "joker": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"little ricky": 1, "ricky": 1}
+{"little ricky": 3, "ricky": 1}
+{"ricky ricardo, jr.": 1, "little ricky": 1, "ricky": 1}
+{"little ricky": 3, "ricky ricardo jr.": 1, "ricky": 1}
+{"ricky ricardo jr.": 1, "little ricky": 2, "ricky": 1}
+{"ricky ricardo, jr.": 1, "little ricky": 1, "drew": 1, "ricky": 1}
+{"ricky ricardo": 1, "lucy": 1, "little ricky": 1, "ricky": 1}
+{"lucy ricardo": 1, "ricky ricardo": 1, "ricky": 1}
+{"lucy ricardo": 2, "little ricky": 1, "ricky": 1}
+{"little ricky": 1, "ricky": 1}
+{}
+{"heaven's door": 1, "pat garrett": 1, "billy the kid": 1}
+{}
+{}
+{}
+{"alias": 1}
+{"pat garrett": 1, "billy the kid": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mr. chipping": 1}
+{"mr chipping": 1, "mr chips": 1}
+{"mr. chipping": 1}
+{"katherine": 1}
+{"mr. chips": 2}
+{}
+{"mr. chips": 1}
+{}
+{"max": 1}
+{"chips": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{"mr. smee": 1, "justin": 1}
+{"ted mosby's future son luke": 1, "justin russo": 1, "justin": 1}
+{"officer justin lewis": 1, "jeffrey harrington": 1, "justin": 1}
+{"mike the intern": 1, "luke": 1, "sid": 1, "justin foley": 1, "justin": 1}
+{}
+{"luke": 1, "justin russo": 1, "justin": 1}
+{"hanna young": 1, "katheryn cryer": 1}
+{"justin barber": 1, "lt. raines": 1, "mark bradley": 1, "justin": 1, "mary": 1}
+{"pilar lopez-fitzgerald": 1, "celine gonzales": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lizzie richfield": 1, "the marley family": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{"zig and zag": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{"violet baudelaire": 2, "april o'neil": 1, "kara zor-el": 1, "jennifer": 1}
+{"violet baudelaire": 1, "april o'neil": 1, "kara zor-el": 1}
+{"count olaf": 1, "violet": 1, "klaus": 1, "mr. poe": 1, "lemony snicket": 1}
+{"violet baudelaire": 1, "klaus baudelaire": 1}
+{"violet baudelaire": 1, "klaus baudelaire": 1}
+{"count olaf": 1, "violet": 1, "klaus": 1, "mr. poe": 1, "tony": 1, "violet baudelaire": 1}
+{"violet baudelaire": 1}
+{"count olaf": 1, "aunt josephine": 1, "uncle monty": 1, "violet": 1, "klaus": 1, "mr. poe": 1, "lemony snicket": 1}
+{"sonny": 1}
+{"aday walker": 1, "the explorer": 1, "violet adams": 1, "liza": 1}
+{"mary": 1}
+{"mary": 1}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stephanie": 1}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{"miriam": 1, "riley": 1}
+{"derek": 1}
+{}
+{"riley": 1}
+{"colin": 1}
+{"riley": 1}
+{}
+{}
+{}
+{"john marston": 1}
+{}
+{"marston": 1}
+{}
+{}
+{"arthur morgan": 1}
+{}
+{"colin": 1}
+{}
+{"mary": 1}
+{}
+{"fargo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stephanie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"greg": 1, "rowley": 1, "fregley": 1, "rodrick": 1}
+{}
+{}
+{"greg heffley": 1}
+{"greg heffley": 1}
+{"greg heffley": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{"max": 1}
+{}
+{"clone troopers": 1}
+{"executor": 1, "venator": 1, "acclamator": 1, "imperial": 1, "star wars": 1, "darth vader": 1}
+{"executor": 1, "ravager": 1, "darth vader": 1}
+{"executor": 1, "lusankya": 1, "knight hammer": 1, "pellaeon": 1, "eclipse": 1, "eclipse ii": 1}
+{"han solo": 1, "darth vader": 1}
+{"darth vader": 1, "princess leia organa": 1, "obi-wan kenobi": 1, "r2-d2": 1}
+{"rey": 1, "kylo ren": 1, "supreme leader snoke": 1}
+{"darth vader": 1, "princess leia organa": 1}
+{"darth vader": 1, "brazzo": 1, "selle": 1, "4-d": 1, "mala mala": 1, "b-6": 1, "ban papeega": 1}
+{"darth vader": 2}
+{"marcy bradford": 1, "nicole bradford": 1, "emma": 1}
+{"shelby haskell": 1}
+{"marcy bradford": 1, "nicole bradford": 1, "emma": 1}
+{"nicole bradford": 1, "dana foster": 1}
+{"shelby haskell": 1}
+{"bernice fish": 1, "detective fish": 1, "edna \"ma\" firpo": 1, "margaret wilbur": 1}
+{"nicole bradford": 1}
+{"francine smith": 1}
+{"nicole bradford": 1}
+{"katy": 1, "deonne wilburn": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{"luthor": 3}
+{}
+{}
+{"the second doctor": 1}
+{}
+{}
+{}
+{}
+{"beowulf": 1, "howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{"red": 2, "andy": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the wizard of oz": 1, "over the rainbow": 1}
+{"winnie-the-pooh": 2, "pooh bear": 1}
+{"tigger": 1, "winnie the pooh": 2}
+{"winnie-the-pooh": 2, "edward bear": 1}
+{"pooh": 1}
+{}
+{"pooh": 1, "tigger": 1, "piglet": 1, "eeyore": 1, "lottie the otter": 1}
+{"winnie-the-pooh": 2}
+{"pooh": 1, "piglet": 1}
+{"winnie-the-pooh": 2, "piglet": 1, "eeyore": 1, "owl": 1, "rabbit": 1}
+{"winnie-the-pooh": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lexie grey": 1, "grace": 1}
+{"sloan": 1, "grace": 1}
+{"owen hunt": 1, "teddy altman": 1, "miranda bailey": 1, "lexie": 1}
+{"meredith grey": 1, "derek shepherd": 1, "cristina yang": 1, "lexie grey": 2, "mark sloan": 1, "arizona robbins": 1, "sloan": 1}
+{"lexie": 3, "meredith": 3, "shepherd": 2, "yang": 2, "sloan": 3}
+{}
+{}
+{"lexie": 1, "grace": 1}
+{}
+{"mark sloan": 1, "jerry": 1, "yang": 1, "robbins": 1, "sloan": 1, "shepherd": 1, "lexie": 1}
+{"akame": 1, "leone": 1, "mine": 1, "sheele": 1, "lubbock": 1, "bulat": 1, "night raid": 1}
+{}
+{"night raid": 1}
+{"jem": 2, "scout": 2, "tom robinson": 1, "boo radley": 1}
+{"akame": 1}
+{"tyrant": 1, "danger beast": 1, "night raid": 1}
+{"susanoo": 1, "chelsea": 1, "akame": 1, "night raid": 1}
+{"night raid": 1}
+{"night raid": 1}
+{"night raid": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bubba": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"koala": 1}
+{"koala": 1}
+{"ash": 1, "johnny": 1}
+{}
+{}
+{"characters from the simpsons": 1, "characters from futurama": 1}
+{"rosita": 2, "mike": 1, "johnny": 1, "ash": 2, "meena": 1, "gunter": 1, "gorilla": 1, "grandmother": 1}
+{}
+{"meena": 1}
+{"paul edgecomb": 2, "john coffey": 1}
+{"paul edgecomb": 1, "john coffey": 1, "nebula": 1}
+{"bear": 1, "john coffey": 1}
+{"john coffey": 1}
+{"paul edgecombe": 2, "john coffey": 2}
+{"john coffey": 1, "mr. jingles": 1}
+{"john coffey": 1}
+{"john coffey": 1}
+{}
+{"john coffey": 1}
+{}
+{"lara croft": 1}
+{"lara croft": 1, "terry": 1, "bruce": 1, "bill": 1, "rog": 1, "baxter": 1}
+{}
+{"lara croft": 1}
+{"lara croft": 2}
+{}
+{"lara croft": 3}
+{"tomb raider": 1}
+{"lara croft": 1, "jason bourne": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jack skellington": 1}
+{"jack skellington": 3}
+{"prince humperdinck": 1, "jack skellington": 1}
+{"prince humperdinck": 1, "jerry dandrige": 1, "mike norris": 1, "jack skellington": 1}
+{"jack skellington": 1}
+{"santa claus": 2, "jack skellington": 1, "oogie boogie man": 1}
+{"jack skellington": 3}
+{"jack skellington": 1}
+{"pumpkin king": 1, "jack skellington": 1}
+{"jack skellington": 1, "oogie boogie": 2, "doctor finklestein": 1, "lock": 1, "shock": 1, "barrel": 1}
+{}
+{}
+{"hailey upton": 1}
+{}
+{}
+{"jimmy borelli": 1}
+{"gabriela dawson": 1}
+{}
+{"officer julie tay": 1, "officer sean roman": 1, "officer kim burgess": 1}
+{"elizabeth short": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"powerline": 1, "roxanne": 1, "max": 1}
+{"goofy": 1, "max": 1}
+{"max goof": 1, "goofy": 1, "max": 1}
+{"max": 2}
+{"goofy": 1, "max": 1}
+{"pete junior": 1, "max": 1, "peg": 1, "pistol": 1}
+{"mickey mouse": 1}
+{"goofy": 2, "max": 2, "p.j.": 1, "pete": 1, "bobby": 1, "roxanne": 2}
+{"max": 1, "steve": 1, "tony": 1}
+{"max goof": 1, "max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"avery martin": 1, "noah ashby": 1, "ethan": 1, "carrie grey": 1}
+{"mary": 1, "viola": 1}
+{"noah": 2, "carrie": 2, "avery": 2, "ethan": 1}
+{}
+{"none": 0}
+{}
+{"avery": 2, "noah": 2, "carrie": 1, "ethan": 1, "max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grace bowman": 1, "grace": 1}
+{"grace bowman": 1, "grace": 1}
+{"amy": 1, "derek": 1, "max": 1, "grace bowman": 1, "nicki": 1, "grace": 1}
+{"ben boykewich": 1, "marshall": 1, "ashley": 1, "griffin": 1, "ben": 1, "grace": 1}
+{}
+{"lauren treacy": 1}
+{}
+{"lauren miller": 1, "madison cooperstein": 1, "amy juergens": 1}
+{"grace manning": 1, "zoey": 1, "grace": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{"catherine duke": 1, "jackie robbins": 1, "peter benton": 1, "mary": 1}
+{"jennifer greene": 1, "josie ray": 1, "dotty": 1, "rimmer": 1, "kaye faulkner": 1, "linda wyatt": 1, "sarah hughes": 1, "sid": 1, "jennifer": 1}
+{"dr. mark greene": 1, "dr. douglas \"doug\" ross": 1, "dr. susan lewis": 1, "john carter": 1, "dr. peter benton": 1, "peter benton": 1}
+{"holly hunter’s sister": 1, "grace": 1}
+{"dr. peter benton": 1, "peter benton": 1}
+{"dr. peter benton": 1, "tony": 1, "peter benton": 1, "the beast": 1}
+{}
+{"lisa miller": 1, "audrey reede": 1, "abby lockhart": 1, "helen solloway": 1}
+{}
+{"luka kovac": 1, "susan": 1, "maurice boscorelli": 1, "faith yokas": 1}
+{"max": 1}
+{}
+{}
+{"max": 1}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{"the pardoner": 1}
+{"death": 1}
+{"death": 1, "the wandering jew": 1, "old age itself": 1, "death's messenger": 1}
+{"the pardoner": 1}
+{}
+{}
+{"old man": 1}
+{}
+{"the pardoner": 1}
+{"rosencrantz": 2, "guildenstern": 2, "hamlet": 1}
+{"rosencrantz": 2, "guildenstern": 2}
+{"rosencrantz": 2, "guildenstern": 2}
+{"rosencrantz": 3, "guildenstern": 3, "hamlet": 1}
+{"rosencrantz": 1, "guildenstern": 1, "king lear": 1, "hamlet": 1}
+{"rosencrantz": 1, "guildenstern": 1, "hamlet": 1}
+{"hamlet": 1, "rosencrantz": 3, "guildenstern": 3, "claudius": 1}
+{"hamlet": 1, "rosencrantz": 1, "guildenstern": 1}
+{}
+{"rosencrantz": 2, "guildenstern": 2, "the player": 1}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"toby": 1, "maggie": 1, "suzanne": 1}
+{}
+{}
+{}
+{}
+{"the three little pigs": 1, "the wolf": 1}
+{"the three little pigs": 1, "big bad wolf": 1}
+{"bugs": 1, "wolf": 1}
+{}
+{"the pied piper": 1, "the grasshopper": 1, "the ants": 1, "the tortoise": 1, "the hare": 1, "the prince": 1, "the pauper": 1}
+{"three little pigs": 1, "big bad wolf": 1, "little red riding hood": 1, "grandmother": 1}
+{}
+{"brer rabbit": 1, "browny": 1, "whitey": 1, "blacky": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bill": 1, "ted": 1}
+{}
+{"bill": 1, "ted": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the boss baby": 1}
+{}
+{}
+{"the boss baby": 3}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{"howard": 1}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"beast": 2, "belle": 2, "the beast": 1}
+{"beast": 3, "the beast": 1}
+{"beast": 3, "the beast": 1}
+{"belle": 1, "beast": 1, "gaston": 1, "mrs. potts": 1, "lefou": 1, "garderobe": 1, "maurice": 1, "emma": 1, "the beast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{"tony": 1}
+{"shaggy": 1}
+{}
+{}
+{}
+{"shaggy": 1}
+{"gestapo major": 1, "lewis morris": 1, "howard": 1}
+{"gestapo major": 1, "lewis morris": 1, "howard": 1}
+{"major hochstetter": 2, "hogan": 1, "howard": 1}
+{"major hochstetter": 1, "estelle": 1, "howard": 1}
+{"klink": 1, "schultz": 1, "burkhalter": 1, "major hochstetter": 1, "howard": 1}
+{"colonel robert hogan": 1, "colonel wilhelm klink": 1, "sergeant hans schultz": 1}
+{"general burkhalter": 1}
+{"major zolle": 1, "general metzger": 1, "major kiegel": 1, "general von rauscher": 1}
+{"hogan": 1}
+{"master sergeant schultz": 1}
+{}
+{}
+{"bhushan": 1, "shreya": 1, "sanjana": 1}
+{}
+{}
+{}
+{}
+{"ashwathama": 1, "akaash": 1, "yuvraaj sehgal": 1}
+{}
+{}
+{"libby friedman": 1, "estelle": 1, "tony": 1}
+{"estelle leonard": 1, "joey": 1, "tony": 1, "estelle": 1}
+{"pippi longstocking": 1, "estelle": 1, "joey tribbiani": 1, "darlene": 1}
+{"jennifer": 1}
+{"eunice tate-leitner": 1, "estelle": 1, "mary": 1, "jennifer": 1}
+{"dr. charlie wheeler": 1}
+{"estelle 'mother winslow'": 1, "estelle": 1}
+{"kathy": 1, "emily prentiss": 1, "elise": 1, "mr. mumbles": 1, "frankie dart": 1, "sadie doyle": 1}
+{"frank jr.": 1, "phoebe": 1, "joey": 2, "kate": 1, "monica": 1, "pete becker": 1, "ross": 1, "rachel": 1, "kathy": 1, "chandler": 1}
+{"rhoda rooter": 1, "estelle leonard": 1, "joey": 1, "estelle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fantine": 2}
+{"fantine": 1}
+{"fantine": 1}
+{"fantine": 1}
+{"fantine": 1}
+{}
+{"gavroche": 1, "javert": 1}
+{}
+{"cosette": 2, "jean valjean": 1, "javert": 1, "fantine": 1, "thénardiers": 1, "marius": 1}
+{"lida": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"game of thrones": 1, "a song of ice and fire": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{"carl hanratty": 1, "frank abagnale, sr.": 1, "brenda strong": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"laverne & shirley": 1, "friends": 1, "s.w.a.t.": 1, "pokémon": 1, "drake & josh": 1, "icarly": 1}
+{"laverne & shirley": 1}
+{}
+{"laverne": 1, "shirley": 1}
+{}
+{"starsky": 1, "hutch": 1, "laverne": 1, "shirley": 1}
+{"laverne": 1, "shirley": 1}
+{}
+{}
+{"jenny humphrey": 1, "cindy lou who": 1}
+{"rocky the flying squirrel": 1, "lucifer": 1, "cindy lou who": 1, "jokey smurf": 1, "granny": 1, "grammi gummi": 1, "magica de spell": 1}
+{"cindy lou who": 1}
+{"rocky the flying squirrel": 1, "lucifer": 1, "cindy lou who": 1, "jokey smurf": 1, "granny": 1, "grammi gummi": 1, "magica de spell": 1}
+{"jenny humphrey": 1, "cindy lou who": 1}
+{"the grinch": 2, "old max": 1, "cindy lou who": 2, "young max": 1, "max": 1}
+{"bubbles": 1, "cindy lou who": 1, "talky tina": 1}
+{"debbie dunham": 1, "mary lou": 1, "faye": 1, "mary": 1}
+{"cindy lou who": 1}
+{"cindy lou": 1, "grace": 1}
+{"dancing banana": 1}
+{}
+{}
+{}
+{}
+{}
+{"jennifer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"atom": 3, "twin cities": 2, "zeus": 2, "max": 1}
+{"atom": 1}
+{"ricky": 1}
+{"atom": 4, "midas": 1, "metro": 1, "noisy boy": 1, "max": 1}
+{"max": 1, "ricky": 1}
+{"zeus": 2, "atom": 4, "ricky": 1}
+{"noisy boy": 1, "max": 1}
+{"atom": 3, "zeus": 3, "max": 1}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{"nelson": 1, "otis": 1, "lucky": 1, "lefty": 1, "charlie t. jr.": 1, "buster sidebury": 1}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"elizabeth thacher": 1, "wyn delaney": 1, "grace": 1}
+{"elizabeth thacher thornton": 1}
+{"elizabeth thacher thornton": 1}
+{"tanya gabriel": 1, "elizabeth thatcher": 1}
+{"amberle elessedil": 1}
+{"elizabeth thatcher": 1, "jack thornton": 1, "abigail stanton": 1, "lori": 1}
+{"julie thatcher": 1, "kate andrews": 1}
+{"clay mcneil": 1, "lord weston": 1, "red king": 1, "vice-president brubaker": 1, "colin mcfadden": 1, "william thatcher": 1, "colin": 1, "mr. thatcher": 1}
+{"elizabeth thacher": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emma": 1, "viola": 1}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"desirée": 1}
+{}
+{}
+{"desirée": 1}
+{"desirée": 1}
+{"desirée": 1}
+{}
+{"desiree armfeldt": 1, "winifred banks": 1, "tony": 1, "mary": 1}
+{}
+{}
+{}
+{"klaatu": 1}
+{"klaatu": 2}
+{"gunga din": 1, "high lama": 1, "ben": 1}
+{"klaatu": 1, "gort": 1}
+{"the high lama": 1, "gunga din": 1, "ben": 1}
+{"jennifer": 1}
+{}
+{"gort": 1}
+{"colin": 1}
+{"kacie carter": 1, "lucrezia": 1, "meredith quill": 1, "alison": 1, "viviane wembley": 1}
+{"lucrezia donati": 1, "meredith quill": 1}
+{"meredith quill": 1, "howard the duck": 1, "cosmo": 1, "retch": 1, "half-nut": 1, "brahl": 1, "gef": 1, "scrote": 1, "oblo": 1, "narblik": 1, "tullk": 1, "howard": 1}
+{"guardians of the galaxy": 2}
+{"mantis": 1, "ayesha": 1, "taserface": 1, "ego": 1}
+{"ego": 1, "quill": 2}
+{"ego": 1, "quill": 1, "ayesha": 1}
+{"meredith quill": 1, "adam warlock": 1}
+{"yondu": 1, "peter quill": 1, "star-lord": 1, "rocket": 1, "groot": 1}
+{"peter quill": 1, "gamora": 2, "drax": 1, "rocket": 1, "baby groot": 1, "ayesha": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daryl": 1}
+{}
+{"nettie": 1}
+{"daryl": 1}
+{"howard": 1}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{"overlook hotel": 1, "mary": 1}
+{}
+{"jack": 2, "danny": 1}
+{"the shining": 1, "hotel danbury": 1}
+{}
+{"the shining": 1, "the caine mutiny": 1, "color of a brisk and leaping day": 1}
+{"grady sisters": 1, "the lady in the bath tub": 1}
+{"the shining": 1}
+{"danny": 1, "jack": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ananya puri": 1, "baby": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"hook": 1, "emma swan": 1, "emma": 1, "jennifer": 1}
+{"baelfire": 2, "rumplestiltskin": 1, "emma": 1}
+{"emma": 1}
+{"captain hook": 2, "emma": 1}
+{"hook": 1, "snow": 1, "charming": 1, "dark one": 1, "evil queen": 1, "emma": 1, "black fairy": 1}
+{"hook": 2, "mr. gold": 1, "pan": 1, "emma": 1}
+{"evil queen": 1, "emma": 1}
+{"will": 2, "terri": 1, "carl howell": 1, "emma": 3}
+{"emma pillsbury": 1, "will schuester": 1, "terri": 1, "emma": 1}
+{"wicked witch": 1, "dark one": 1, "emma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"justin": 1}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{"katniss everdeen": 1, "peeta mellark": 1, "jennifer": 1}
+{"charlie mcbutton": 1, "theseus": 1, "minotaur": 1}
+{}
+{}
+{}
+{"katniss everdeen": 1, "peeta mellark": 1}
+{}
+{"peeta mellark": 1, "katniss": 1}
+{"wally": 2}
+{"wally": 1}
+{"wally": 2}
+{"judy moody": 1, "stink": 1, "maisey mouse": 1}
+{"wally": 3}
+{"wally": 3}
+{"wally": 1}
+{"wally": 1, "woof": 1, "wenda": 1, "wizard whitebeard": 1, "odlaw": 1}
+{"wally": 1, "the wally-watchers": 1}
+{"wally": 1}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"klaus": 1, "bonnie": 1, "finn": 2, "esther": 1, "kol": 1, "vincent": 1, "elijah": 1, "rose": 2}
+{"elijah mikaelson": 2, "elijah": 1}
+{"esther": 1, "klaus": 2, "elijah": 1, "bonnie": 1, "abby bennett": 1, "meredith sulez": 1}
+{"elena gilbert": 1}
+{"elijah": 1, "klaus": 2, "tatia": 1}
+{"elijah mikaelson": 1, "elijah": 1}
+{"elijah": 1, "esther": 1, "elena": 1}
+{"klaus": 1, "elijah": 1, "elena": 1, "damon": 1, "stefan": 1}
+{"elijah mikaelson": 1, "elijah": 1}
+{"elena": 2, "damon": 1, "elijah": 1}
+{"judas iscariot": 1}
+{"judas iscariot": 1}
+{}
+{"judas iscariot": 1}
+{"sonia": 1, "falstaff": 1}
+{}
+{}
+{}
+{"judas iscariot": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"captain bubba skinner": 1, "bubba": 1}
+{}
+{"joshua lucas": 1, "jennifer": 1, "sonny": 1}
+{"althea": 2, "bubba": 2, "nicole": 1, "bobby skinner": 1, "chief gillespie": 1, "mary": 1}
+{"bubba": 1}
+{"captain bubba skinner": 1, "bubba": 1, "mary": 1}
+{"virgil tibbs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{"buddy holly": 1, "mary tyler moore": 1, "mary": 1, "sonny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{"meg murry": 1, "charles wallace murry": 1, "calvin o'keefe": 1}
+{}
+{"aunt beast": 1}
+{"the happy medium": 1}
+{"meg": 1, "charles wallace": 1}
+{"jennifer": 1}
+{}
+{}
+{"it": 3}
+{"calvin o'keefe": 1, "the murrys": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"beowulf": 1}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"kevin": 1}
+{}
+{}
+{}
+{"dr. belinda brown": 1, "kevin (probably) saves the world": 1, "saul": 1}
+{"kevin": 1, "yvette": 1, "amy": 1}
+{"kevin girardi": 1, "ethan haas": 1, "sean walker": 1, "dipper pines": 1, "mark cyr": 1}
+{"gloria": 1, "jessica darling": 1, "val": 1}
+{"yvette": 2}
+{"gloria": 1}
+{}
+{}
+{"immanuel": 1}
+{"potiphar's wife": 1, "ben": 1}
+{}
+{}
+{"gandhari": 3, "duryodhana": 2, "dushala": 2}
+{"ben": 1}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"gone with the wind": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"elizabeth bennet": 1}
+{}
+{"elizabeth": 1, "darcy": 1}
+{}
+{}
+{}
+{}
+{"sense and sensibility": 1, "first impressions": 1, "pride and prejudice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lord vishnu": 1, "rama": 1}
+{}
+{}
+{"colin atkinson": 2, "death": 1, "colin": 1}
+{"colin atkinson": 1, "robert": 1, "colin": 1}
+{"robert scorpio": 1, "jake": 1, "colin atkinson": 1, "colin": 1}
+{"robert scorpio": 1, "jake": 1, "colin atkinson": 1, "colin": 1}
+{"cane ashby": 1, "colin atkinson": 1, "colin": 1, "genie": 1}
+{"colin": 1, "cane": 1}
+{"dr. brett cooper": 1, "jo reynolds": 1, "charles": 1, "morgan earp": 1, "cameron kirsten": 1, "paul hollingsworth": 1}
+{"peter caine": 1, "kwai chang caine": 1, "gambit": 1, "evan owen": 1, "tim fleming": 1}
+{"colin": 1, "molly jones": 1, "brendan jones": 1, "john palmer": 1}
+{"alex dettmer": 1}
+{}
+{}
+{}
+{}
+{}
+{"patrick denham": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mike": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sue ellen crandell": 1}
+{"sue ellen crandell": 1}
+{}
+{"kelly bundy": 1, "tony": 1}
+{"sue ellen crandell": 1, "kenny": 1, "zach": 1, "melissa": 1, "walter": 1}
+{}
+{"kelly bundy": 1, "tony": 1}
+{}
+{"jesse james": 1, "zach crandell": 1}
+{"carolyn": 1}
+{}
+{"mary": 1}
+{}
+{}
+{"mary": 1}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{"crawley": 1}
+{}
+{"eileen lewis": 1, "denker": 1}
+{"mrs hughes": 2, "andinio": 1, "lady jane felsham": 1}
+{"anna bates": 1, "anna": 1}
+{}
+{"anna bates": 1, "anna": 1}
+{"lady rose macclare": 1, "lady mary": 1, "mary": 1}
+{}
+{}
+{"wirt": 1, "greg": 1, "beatrice": 1, "elijah": 1}
+{"wirt": 1, "greg": 1, "elijah": 1}
+{"beatrice": 1, "wirt": 1, "adelaide": 1}
+{"uncle fester": 1, "merlock": 1, "the woodsman": 1, "the hacker": 1}
+{"drew": 1}
+{}
+{"anna": 1, "wirt": 1, "greg": 1, "beatrice": 1, "the woodsman": 1}
+{"greg": 1, "wirt": 1, "jack jones": 1, "the beast": 1}
+{"wirt": 1, "gregory": 1, "beatrice": 1, "elijah": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1, "motoko kusanagi": 1}
+{"buster": 1, "rosita": 1, "meena": 1, "gunter": 1, "norman": 1, "johnny": 1, "judith": 1, "ash": 1}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cheetah": 1}
+{"doctor poison": 2, "princess maru": 2, "wonder woman": 2}
+{"wonder woman": 2}
+{}
+{"ares": 3, "wonder woman": 2}
+{"wonder woman": 1}
+{"doctor poison": 1, "queen hippolyta": 1}
+{"cheetah": 1}
+{"steve trevor": 1, "queen hippolyta": 1, "general antiope": 1, "erich ludendorff": 1, "doctor poison": 1, "ares": 1, "batman": 1, "wonder woman": 2, "doomsday": 1}
+{"wonder woman": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"john connor": 3}
+{"john connor": 2, "sarah connor": 1}
+{"terminator": 2, "john connor": 1, "t-1000 terminator": 1}
+{"john connor": 1, "kyle reese": 1}
+{"sarah connor": 1, "john": 1, "t-1000": 1}
+{"terminator": 3, "t-800 (model 101)": 1, "john connor": 1}
+{"sarah connor": 2, "john connor": 2, "guardian": 1}
+{"sarah connor": 2, "john connor": 1, "t-800 model 101": 1}
+{"john connor": 1}
+{"sarah connor": 1, "catherine chandler": 1, "vicky": 1, "mary elizabeth bartowski": 1, "mary": 1, "the beast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brian johnson": 1, "allison reynolds": 1, "claire standish": 1}
+{"percy": 1, "grover": 1, "annabeth": 1}
+{}
+{"percy jackson": 1}
+{"percy jackson": 1}
+{"percy jackson": 2}
+{"percy jackson": 1}
+{}
+{}
+{"minotaur": 1, "poseidon": 1}
+{"percy jackson": 2}
+{}
+{}
+{"violet baudelaire": 1, "klaus baudelaire": 1, "sunny baudelaire": 1, "count olaf": 1}
+{"snicket": 1}
+{"violet baudelaire": 1, "klaus baudelaire": 1, "sunny baudelaire": 1, "count olaf": 1}
+{"baudelaire children": 1}
+{"baudelaire children": 1}
+{"the wide window": 1, "the vile village": 1, "the hostile hospital": 1, "the penultimate peril": 1, "the ersatz elevator": 1}
+{"count olaf": 1}
+{"snicket": 1}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grace": 1, "ben": 1}
+{}
+{"mcmahon": 1}
+{}
+{}
+{"mcmahon": 1}
+{"h.g. wells": 1}
+{"ben": 1}
+{}
+{"mitch": 1, "lt brett biggle": 1}
+{}
+{}
+{}
+{}
+{"mockingbird": 1}
+{}
+{"atticus finch": 1, "scout": 1, "mary": 1}
+{}
+{}
+{"atticus finch": 1, "scout": 1, "mary": 1}
+{"david creegan": 1, "susan branca": 1}
+{}
+{"d.i. dave creegan": 1, "d.i. susan taylor": 1}
+{"david creegan": 1, "susan branca": 1}
+{}
+{"ben": 1}
+{"david creegan": 1, "susan branca": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"george bailey": 1, "young george bailey": 1}
+{"george bailey": 1, "young george bailey": 1}
+{"george bailey": 1, "bert": 1, "ernie bishop": 1, "marty hatch": 1, "sam wainwright": 1, "harry": 1}
+{"george bailey": 1, "harry bailey": 1, "mary": 1}
+{"george bailey": 1, "clarence odbody": 1}
+{"george bailey": 1, "harry bailey": 1, "harry land": 1, "mary": 1}
+{"mary hatch": 3, "george bailey": 1, "mary pratt": 1, "marty hatch": 1, "mary": 1}
+{"george bailey": 1, "clarence odbody": 1}
+{"tommy bailey": 1, "scotty": 1, "mary": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ricky": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chuck noland": 1}
+{}
+{"woody": 1, "max": 1}
+{}
+{"sheriff woody": 1}
+{"chuck noland": 1, "wilson": 1}
+{}
+{"wilson": 1}
+{}
+{"tom's character": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{"buster sidebury": 1, "ayrton wilbury": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{"jonny 2×4": 1, "plank": 1, "jimmy": 1, "sarah": 1, "rolf": 1, "kevin": 1}
+{"ed": 1, "double d": 1, "eddy": 1, "jonny 2×4": 1, "jimmy": 1, "sarah": 1, "rolf": 1, "kevin": 1, "nazz": 1, "tony": 1}
+{"ed": 1, "edd": 1, "eddy": 1, "the three stooges": 1, "plank": 1, "the kanker sisters": 1}
+{"ed": 1, "edd": 1, "eddy": 1, "tony": 1}
+{"ed": 1, "edd": 1, "eddy": 1}
+{"captain melonhead": 1, "splinter the wonderwood": 1, "wilfred": 1, "the kanker sisters": 1}
+{"eddy's brother": 1, "howard": 1}
+{"ed": 1, "double d": 1, "eddy": 1, "rolf": 1, "the kanker sisters": 1}
+{"plank": 1, "ed": 2, "double d": 1, "eddy": 2, "sarah": 1, "bubbles": 1, "grim": 1, "the kanker sisters": 1}
+{"eddy": 2, "flash": 1, "tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"": 0}
+{}
+{}
+{}
+{}
+{"cosette": 2, "thénardiers": 1, "jean valjean": 1}
+{"cosette": 3}
+{"jean valjean": 1}
+{"cosette": 1, "jean valjean": 1}
+{"jean valjean": 1, "cosette": 1}
+{"cosette": 1}
+{"jean valjean": 1, "cosette": 1}
+{"cosette": 2}
+{"cosette": 3, "ursule": 1, "lark": 1, "mademoiselle lanoire": 1, "jean valjean": 1}
+{"cosette": 1, "thénardiers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{"izabella": 1, "king arthur": 1}
+{"seymour simmons": 1, "hound": 1, "cogman": 1}
+{"king arthur": 1, "merlin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{"d.j.": 1}
+{"danny tanner": 1, "joey gladstone": 1, "nicky katsopolis": 1, "alex katsopolis": 1, "ramona": 1, "kimmy": 1, "steve hale": 1, "teri": 1, "nathan": 1, "dj tanner": 1}
+{"stephanie": 1}
+{"stephanie": 1}
+{"d.j.": 1, "gia": 1, "claire": 1, "rebecca": 1, "jesse": 1}
+{"michelle": 1, "teddy": 1, "lisa": 1, "nicky": 1, "alex": 1, "stephanie": 1, "dj tanner": 1}
+{"d.j.": 1, "stephanie": 1, "kimmy": 1, "ramona": 1}
+{"d.j.": 1, "steve hale": 1, "danny": 1, "vicky": 1, "jesse": 1, "joey": 1, "rebecca": 1, "stephanie": 1}
+{"danny tanner": 1, "nicky": 1, "alex": 1}
+{"stephanie tanner": 1, "carey bell": 1, "stephanie": 1}
+{"sandy": 1, "tina": 1, "bradley": 1, "jennifer": 1}
+{}
+{"jennifer": 1}
+{"vicky": 1, "jennifer": 1}
+{"terry": 1, "beth sohapi": 1, "daniel sohapi": 1, "treshawn": 1, "gina jackson": 1, "dave lowe": 1, "annette langston": 1, "george barnum": 1, "melissa mcguire": 1, "julie ross": 1, "tony": 1}
+{"miranda": 1, "kristin": 1, "jesse": 1, "gabi": 1}
+{}
+{"lydia": 1, "johnny": 1, "mother": 1, "beth": 1}
+{"melissa": 1, "treshawn": 1}
+{}
+{"tony": 1}
+{}
+{"justin": 1}
+{"justin": 1}
+{"tony": 1, "ben": 1}
+{"grace": 1, "bubba": 1, "justin": 1}
+{"bubba": 1, "justin": 1}
+{}
+{"justin": 1, "grace": 1}
+{}
+{"madea": 2}
+{"heathrow": 1, "madea": 1, "joe": 1}
+{}
+{"madea": 2}
+{"madea": 2}
+{"madea": 4, "heathrow": 1}
+{}
+{"madea": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{"joker": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"gasparina": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the tyger": 1, "pi": 1}
+{"pi patel": 1}
+{"richard parker": 2, "tiger": 1, "tiger in life of pi": 1}
+{"thirsty": 2, "richard parker": 2}
+{"pi patel": 1, "richard parker": 1}
+{}
+{"richard parker": 1}
+{"hyena": 1, "tiger": 1, "cook": 1, "sailor": 1, "mother": 1}
+{"pi": 1, "mahisha": 1}
+{"tiger in life of pi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"caesar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sloan": 1, "howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"orcus": 3, "hades": 1, "dis pater": 1, "horkos": 1, "pluto": 1}
+{"orcus": 1, "pluto": 1}
+{"dante": 1, "orcus": 1, "pluto": 1}
+{"orcus": 3, "hades": 1, "dis pater": 1, "horkos": 1, "pluto": 1}
+{"orcus": 5, "pluto": 1, "hades": 1, "dis pater": 1}
+{"pluto": 1, "orcus": 1}
+{"orcus": 1, "pluto": 1}
+{"orcus": 1, "pluto": 1}
+{"orcus": 2, "pluto": 1}
+{"mors": 5, "vita": 1, "nox": 1, "somnus": 1, "pluto": 1, "orcus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"timothy mcgee": 1}
+{"lt. jane doe": 1}
+{"mike franks": 1, "jackson gibbs": 1, "anthony dinozzo, sr.": 1, "abigail borin": 1, "sarah porter": 1, "delilah fielding": 1, "tony": 1}
+{"gibbs": 1}
+{"special agents": 1}
+{"agent gibbs": 1, "tony": 1}
+{}
+{"mcgee": 1, "ziva david": 1, "eleanor bishop": 1, "alexandra quinn": 1, "nicholas torres": 1, "dr. donald mallard": 1, "dr. jimmy palmer": 1, "abby sciuto": 1, "kasie hines": 1, "clayton reeves": 1, "dr. jacqueline sloane": 1, "jennifer shepard": 1, "leon vance": 1, "jennifer": 1}
+{"tibbs": 1, "tony": 1}
+{"mcgee": 1, "grace": 1}
+{"yoda": 3}
+{"yoda": 3, "maz kanata": 1}
+{"yoda": 4}
+{"yoda": 4}
+{"yoda": 3}
+{"luke skywalker": 1, "yoda": 1}
+{"c-3po": 1, "luke skywalker": 1, "lando calrissian": 1, "yoda": 1, "obi-wan kenobi": 1, "darth vader": 1, "boba fett": 1}
+{"mace windu": 1, "chancellor palpatine": 1, "darth sidious": 1, "darth vader": 1, "yoda": 1, "cin drallig": 1, "serra keto": 1}
+{"yoda": 3}
+{"yoda": 2}
+{}
+{}
+{"ricky": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the monk": 1, "melmoth": 1, "the flying dutchman": 1}
+{"wandering jew": 1}
+{"sherlock holmes": 1}
+{}
+{"seeiah owens": 1}
+{"ginger": 1}
+{"oobi": 1, "as told by ginger": 1, "clifford's puppy days": 1}
+{"dodie bishop": 1, "baby alice": 1, "amanda payne": 1}
+{}
+{"teen seal girl": 1, "little seal girl": 1}
+{"oobi": 1, "as told by ginger": 1, "clifford's puppy days": 1}
+{"ginger": 2, "darren patterson": 1}
+{"ginger": 1, "grandmother": 1}
+{"ginger foutley": 1}
+{"joe": 1, "jerry": 1, "spats colombo": 1, "toothpick charlie": 1, "tony": 1}
+{"tony": 1}
+{"daphne": 1, "josephine": 1, "jerry": 1, "joe": 1, "tony": 1}
+{}
+{"josephine": 1, "daphne": 1, "sugar kane": 1}
+{}
+{"little bonaparte": 1, "josephine": 1}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{"eddie": 1}
+{"luke garroway": 1}
+{"dr. emmet": 1, "baseball coach": 1, "congressman trey thomason": 1}
+{"legendary man": 1}
+{"gary hobson": 1, "coach eric taylor": 1}
+{"tony": 1}
+{"fan coach": 1}
+{}
+{"brad williams": 1, "coach": 1, "wasabi": 1}
+{}
+{"georgia nicolson": 1, "angus": 1}
+{"georgia nicholson": 1}
+{}
+{"georgia nicolson": 1}
+{}
+{"georgia nicolson": 1}
+{}
+{"georgia nicolson": 1}
+{"angus": 2, "jas": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"missy": 1}
+{"missy": 1}
+{"jonah": 1, "missy": 1}
+{"missy": 1}
+{"missy": 1}
+{"missy": 1}
+{"little ladykiller": 1, "missy": 1}
+{"missy": 1}
+{"papa": 1, "missy": 1}
+{"missy": 1}
+{"caesar": 2}
+{"caesar": 1, "colonel": 1, "bad ape": 1}
+{"caesar": 1, "kolp": 1, "virgil": 1, "macdonald": 1, "aldo": 1, "lawgiver": 1, "gorilla": 1}
+{"caesar": 1}
+{"nova": 1, "caesar": 1}
+{"king kong": 1, "caesar": 3, "king bohan": 1}
+{"caesar": 1}
+{"cornelius": 1, "caesar": 1, "galen": 1}
+{"will rodman": 1, "caesar": 1}
+{"caesar": 1, "cornelius": 1, "armando": 1, "governor breck": 1, "kolp": 1, "macdonald": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"loria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"estelle": 1}
+{}
+{}
+{}
+{}
+{"dragon ball z": 3, "one piece": 1}
+{"dragon ball z": 1, "cardcaptors": 1, "mobile suit gundam wing": 1, "yuyu hakusho": 1, "batman beyond": 1}
+{}
+{"dragon ball z": 3, "one piece": 1, "toriko": 1}
+{"dragon ball z": 3}
+{}
+{}
+{}
+{"dragon ball z": 1, "cardcaptors": 1, "mobile suit gundam wing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sloan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tegan and sara": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"luke skywalker": 1}
+{"luke": 1, "biggs": 1, "howard": 1}
+{}
+{}
+{"luke skywalker": 1}
+{}
+{}
+{}
+{}
+{"thrawn": 1}
+{}
+{}
+{"james bond": 1}
+{}
+{}
+{}
+{"charles vine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nolan sorrento": 1}
+{"anorak": 1}
+{"wade watts": 1, "ben": 1}
+{"parzival": 1, "art3mis": 1, "aech": 1}
+{}
+{"bryce lynch": 1}
+{"ben": 1}
+{"overlook hotel": 1, "the shining": 1}
+{"anorak": 1, "parzival": 3}
+{}
+{}
+{"grace": 1}
+{"grace": 1}
+{}
+{"colin": 1, "drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lone ranger": 2, "fonzie": 1, "title character": 1}
+{"lone ranger": 3}
+{"lucy": 1}
+{"jamison selff": 1, "lone ranger": 2, "tonto": 1}
+{"the lone ranger": 1}
+{"tonto": 1, "john reid": 1, "justin": 1}
+{"tonto": 1, "john reid": 1, "justin": 1}
+{"tonto": 2, "lone ranger": 2}
+{"tonto": 1}
+{"lone ranger": 1, "john reid": 1, "luke hartman": 1, "tonto": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the rugrats": 1, "the fairly oddparents": 1}
+{"peanuts": 1}
+{"rugrats": 3, "the wild thornberrys": 1, "king of the hill": 1, "american dad!": 1, "robot chicken": 1, "squidbillies": 1, "all growed up": 1, "all grown up!": 1}
+{}
+{"tommy": 1, "chuckie": 1, "phil": 1, "lil": 1, "angelica": 1}
+{}
+{"rugrats": 1, "spongebob squarepants": 1, "squiditis": 1, "demolition doofus": 1, "all growed up": 1}
+{"tommy": 1, "dil": 1, "kimi": 1, "kira": 1, "fifi": 1}
+{"tommy pickles": 1, "chuckie finster": 1, "phil": 1, "lil": 1}
+{}
+{"jackson storm": 1, "cruz ramirez": 1, "doc": 1, "mcqueen": 1, "cruz": 1}
+{"cruz ramirez": 1, "cruz": 1}
+{}
+{"lightning mcqueen": 1, "cruz ramirez": 1, "jackson storm": 1, "cruz": 1}
+{"ximena sermeño": 1, "josefina valverde": 1, "sonia": 1, "cruz ramírez": 1, "cruz": 1}
+{"mcqueen": 1, "cruz": 1, "sterling": 1, "tex": 1}
+{"tony": 1}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wonder woman": 5}
+{"wonder woman": 3}
+{"wonder woman": 5}
+{"wonder woman": 3}
+{"wonder woman": 3, "suprema": 1}
+{"wonder woman": 2, "fantomah": 1, "black widow": 1, "invisible scarlet o'neil": 1, "nelvana of the northern lights": 1}
+{"circe": 1}
+{"wonder woman": 1, "atom": 1, "flash": 1, "green lantern": 1, "hawkman": 1, "max": 1}
+{"wonder woman": 3}
+{"wonder woman": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"doraemon": 1, "tokyo magnitude 8.0": 1, "magic knight rayearth": 1, "please save my earth": 1, "cardcaptor sakura": 1, "digimon": 1, "detective conan": 1, "sailor moon": 1, "death note": 1, "godzilla": 1, "mothra": 1, "gamera": 1, "king kong": 1}
+{}
+{"mario": 1, "the legend of zelda": 1, "pokémon": 1}
+{"mario": 1}
+{}
+{}
+{}
+{}
+{}
+{"the legend of zelda": 2, "super mario": 1}
+{}
+{"ben": 2, "sam": 1, "beth": 1}
+{"ben": 1}
+{"beth cappadora": 1, "pat": 1, "ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"ben": 1}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"leona stevenson": 1}
+{}
+{}
+{"leona stevenson": 1}
+{}
+{}
+{"weiderman children": 1, "katie weiderman": 1, "bill": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jade": 1, "emma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{"dre parker": 1}
+{}
+{}
+{}
+{}
+{}
+{"dre parker": 1, "mr. han": 1, "sherry parker": 1}
+{}
+{}
+{"justin": 1}
+{"azog": 1, "thorin": 1}
+{"thorin oakenshield": 1, "smaug": 1, "thorin": 1}
+{"thorin": 1}
+{"thorin": 1}
+{"thorin": 1}
+{"thorin": 1}
+{"thorin": 1}
+{"gimli": 2, "elrond": 1, "aragorn": 1, "legolas": 1, "thorin iii": 1, "durin vii": 1, "durin the deathless": 1, "thorin": 1}
+{"thorin": 1}
+{"thorin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"malcolm": 1}
+{"malcolm": 1, "francis": 1, "reese": 1, "dewey": 1, "justin": 1}
+{"malcolm": 1, "lois": 1, "hal": 1, "francis": 1, "reese": 1, "dewey": 1, "justin": 1}
+{"malcolm": 1, "jamie": 1}
+{"jamie": 1}
+{"rory hennessy": 1, "malcolm": 1}
+{"dewey": 1, "malcolm": 1}
+{"malcolm": 1}
+{"walter white": 1, "hal": 1, "dr. tim whatley": 1}
+{"nicole varsi": 1, "cherie jaffe": 1, "anita": 1, "malcolm": 2, "hal": 1}
+{}
+{}
+{}
+{}
+{"justin": 1, "jennifer": 1}
+{"ricky": 1}
+{"mary": 1}
+{}
+{}
+{}
+{"": 0}
+{"none": 0}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"johnny": 1, "june": 1}
+{}
+{"june carter": 1}
+{"johnny cash": 1, "hank garland": 1}
+{}
+{}
+{"henry tawes": 1, "alma mccain": 1}
+{}
+{"buffy": 1}
+{"buffy": 1}
+{"buffy summers": 1, "angel": 1}
+{"buffy summers": 2, "merrick": 1}
+{"buffy summers": 1}
+{"merrick": 2, "buffy": 1}
+{"the slayer": 1, "chosen one": 1}
+{"buffy": 1, "lothos": 1, "amilyn": 1, "oliver pike": 1, "benny": 1, "merrick": 1}
+{"buffy": 2}
+{"harmony kendall": 1, "spike": 1, "daniel \"oz\" osbourne": 1, "buffy summers": 1, "faith": 1, "andrew wells": 1, "willow rosenberg": 1, "darla": 1, "the master": 1, "anne steele": 1, "drusilla": 1}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{"mary rose foster": 1, "mary": 1}
+{"dixie leonard": 1}
+{}
+{}
+{}
+{}
+{"rose": 1, "tony": 1}
+{}
+{"the rose": 1}
+{}
+{"willow": 1, "tara": 2, "willow rosenberg": 1, "tara maclay": 1}
+{"buffy": 2}
+{"ollie": 1}
+{"tara maclay": 1, "willow": 2, "buffy": 1, "the trio": 1}
+{"the trio": 1, "willow rosenberg": 1, "tara maclay": 1}
+{"willow rosenberg": 1}
+{}
+{"tara maclay": 1}
+{"willow rosenberg": 1, "tara": 1}
+{"willow": 2, "tara": 2, "buffy": 2, "dawn": 1}
+{}
+{"grandmother": 1}
+{"drew": 1}
+{"drew": 1}
+{}
+{}
+{}
+{"joker": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"susanna": 1}
+{}
+{}
+{"ray": 1, "maggie": 1, "dolly": 1, "craig": 1, "grandmother": 1}
+{"max": 1, "jennifer": 1}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"frank morris": 1, "clarence anglin": 1, "john anglin": 1, "charley butts": 1}
+{"charlie butts": 1, "warden": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"johnny": 1}
+{}
+{"johnny": 1}
+{"ricky bell": 1, "ricky": 1, "elijah": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stewie griffin": 2, "stewie": 1}
+{"stewie griffin": 2, "brian griffin": 1, "peter griffin": 1, "glenn quagmire": 1, "stewie": 1}
+{"peter griffin": 1, "brian griffin": 1, "stewie griffin": 1, "drew": 1, "stewie": 1}
+{"stewie griffin": 1, "stewie": 1}
+{"stewie griffin": 1, "donkey": 1, "stewie": 1}
+{"peter griffin": 1, "stewie griffin": 1, "brian griffin": 1, "stewie": 1}
+{"peter griffin": 1, "stewie griffin": 1, "brian griffin": 1, "stewie": 1}
+{"stewie griffin": 1, "brian": 1, "stewie": 1}
+{"randall": 1, "mother maggie": 1, "anthony": 1, "julie": 1, "stewie": 1, "colin": 1, "jennifer": 1}
+{"peter griffin": 1, "stewie": 1, "brian": 1, "ricky": 1}
+{"amy": 1, "jim": 1, "jacqui": 1, "lori": 1, "emma": 1}
+{"lori grimes": 1, "theodore \"t-dog\" douglas": 1, "lori": 1}
+{"sara tancredi": 1, "lori grimes": 1, "lori": 1}
+{"judith": 1, "daryl": 1, "lori": 1}
+{"t-dog": 2, "lori": 1}
+{"marita covarrubias": 1, "adele stanton": 1, "cybil bennett": 1, "amanda dumfries": 1, "olivia murray": 1, "andrea": 1, "renee": 1}
+{"lori grimes": 2, "lori": 1}
+{"amy": 1, "jim": 1, "lori": 2, "jacqui": 1, "rick": 1, "emma": 1}
+{"lori grimes": 1, "andrea": 1, "lori": 1}
+{"lori grimes": 1, "lori": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"icarus": 1}
+{"inspector scottie ferguson": 1, "madeleine elster": 1, "cruz": 1}
+{}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ann": 1, "miles": 1, "flora": 1, "mrs grose": 1}
+{}
+{"quintin collins": 1, "beth chavez": 1, "barnabas collins": 1, "kathryn janeway": 1}
+{}
+{"the master": 1}
+{"governess": 1, "miles": 1, "flora": 1}
+{}
+{}
+{"ann": 1, "mrs sarah grose": 1, "dr fisher": 1, "the master": 1, "carla": 1, "peter quint": 1, "emily jessel": 1, "the professor": 1}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"tony": 1}
+{"rick grimes": 1, "tony": 1}
+{"tony": 1}
+{"the governor": 1}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ms. brown": 1}
+{}
+{"drew": 1}
+{"daryl": 1}
+{"daryl": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"a christmas carol": 2, "jennifer": 1}
+{"jennifer": 1}
+{"none": 0}
+{"connor mead": 1, "jenny perotti": 1, "wayne": 1, "jennifer": 1}
+{}
+{"jennifer": 1}
+{"ghost of girlfriends past": 1, "emma": 1}
+{}
+{"melanie": 1}
+{"wayne": 1, "melanie": 1, "brad": 1, "allison": 1, "ben": 1}
+{"lone watie": 1}
+{"josey wales": 2}
+{}
+{"josey wales": 1}
+{"laura lee": 1}
+{"josey wales": 2}
+{}
+{}
+{"josey wales": 2}
+{}
+{"jamal": 1, "miles penfield ii": 1, "jarius \"g-baby\" evans": 1, "kofi": 1, "conor": 2, "elizabeth \"sister\" wilkes": 1, "g-baby": 1}
+{"g-baby": 2, "conor": 1}
+{}
+{"sleepless in seattle": 1, "transparent": 1, "girls": 1, "field of dreams": 1, "uncle buck": 1, "now and then": 1, "volcano": 1, "mary": 1}
+{}
+{"conor o'neill": 1}
+{"mooch": 1}
+{"cruz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"caller": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the beast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{"janitor": 1}
+{}
+{"sheriff jw pepper": 1}
+{"james bond": 2}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"glee": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{"ben": 1}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"b-rabbit": 1}
+{"b-rabbit": 1}
+{"b-rabbit": 1, "stephanie": 1}
+{"b–rabbit": 1}
+{"stephanie": 1}
+{}
+{"eight mile road": 1}
+{}
+{"jesse": 1, "antwone": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ricky underwood": 1, "ricky": 1, "justin": 1}
+{"ricky underwood": 1, "alex": 1, "ricky": 1}
+{"ricky's father": 1, "coach mellor": 1, "ricky": 1}
+{"amy juergens": 1, "grace": 1, "ricky": 1, "ben": 1}
+{"vince blake": 1, "griffin": 1}
+{"ben": 1, "ricky": 1}
+{"priest": 1, "ricky": 1, "zoo doctor": 1}
+{"ricky": 1, "ben": 1}
+{"fred": 2, "velma": 2, "daphne": 2, "shaggy": 1, "scooby": 2, "astro": 1, "ben": 1}
+{"scooby-doo": 1}
+{"scooby-doo": 1, "daphne": 1, "velma": 1, "shaggy": 1}
+{"jennifer": 1}
+{"scooby-doo": 2, "shaggy": 1}
+{}
+{}
+{"scooby-doo": 1, "ben": 1}
+{"scooby": 1, "shaggy": 1}
+{"scooby-doo": 1}
+{"elena gilbert": 2, "bonnie": 1, "kai": 1}
+{"elena": 1}
+{"elena gilbert": 1, "katherine pierce": 1}
+{"elena": 2}
+{}
+{}
+{"elena gilbert": 1}
+{}
+{"elena": 1, "salvatore brothers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jack skellington": 1}
+{}
+{}
+{"jack skellington": 1}
+{"jack": 3, "dr. seuss": 1}
+{"beetlejuice": 1, "edward scissorhands": 1, "the nightmare before christmas": 1, "ed wood": 1, "sleepy hollow": 1, "corpse bride": 1}
+{}
+{"edward tulane": 3, "mary": 1, "grandmother": 1}
+{"edward tulane": 2, "grandmother": 1}
+{"edward tulane": 1}
+{}
+{"edward tulane": 1}
+{}
+{"bill": 3, "ted": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lord vishnu": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jack mccoy": 1, "lt. anita van buren": 1}
+{"jack mccoy": 2}
+{"jack mccoy": 2}
+{"arthur branch": 1, "jack mccoy": 1, "michael": 1}
+{}
+{"tony": 1}
+{"laurel linwood": 1, "jack mccoy": 1, "leah": 1}
+{"jack mccoy": 1}
+{"moriarty": 1, "jack mccoy": 1, "ben": 1}
+{"jack mccoy": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cim": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"yancey cravat": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{"ash": 1}
+{}
+{"ash": 1}
+{"ash": 1}
+{"ash": 1}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sulley": 1}
+{"james p. \"sulley\" sullivan": 1, "mike wazowski": 1, "jennifer": 1, "sulley": 1}
+{"fred flintstone": 1, "robot santa": 1, "pacha": 1, "sulley": 1, "big daddy la bouff": 1}
+{"sulley": 1, "baloo": 1}
+{"sulley": 1, "mike": 1}
+{"sulley": 2, "mary": 1}
+{"sulley": 1, "mike": 1, "boo": 1}
+{"sulley": 1, "mike": 1}
+{"sulley": 1, "mike": 1}
+{"brozo": 1, "lion-o": 1, "sulley": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dr. bill harford": 1, "jennifer": 1}
+{"jennifer": 1}
+{"labyrinth": 1}
+{}
+{"mandy curtis": 1}
+{"mysterious woman": 1, "mandy": 1}
+{}
+{}
+{"tabatha": 1, "mysterious blonde": 1, "mysterious woman": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"simba": 1, "nala": 1}
+{"banzai": 1, "simba": 1, "aisha": 1, "nunka": 1, "kiara": 1, "jennifer": 1}
+{"simba": 3}
+{"simba": 1, "kovu": 1, "nuka": 1, "vitani": 1, "zira": 1}
+{"petunia dursley": 1, "zira": 1, "simba": 1}
+{"simba": 1, "kiara": 1, "timon": 1, "pumba": 1}
+{"lando calrissian": 1, "simba": 1}
+{"simba": 1, "stephanie": 1}
+{"simba": 1, "mufasa": 1}
+{"randy taylor": 1, "young simba": 1, "simba": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alvin and the chipmunks": 1}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{"woody woodpecker": 1}
+{"woody woodpecker": 2, "ben": 1}
+{"woody woodpecker": 2, "ben": 1}
+{"woody woodpecker": 1}
+{"woody woodpecker": 3}
+{"woody woodpecker": 1}
+{"woody woodpecker": 2, "bugs bunny": 1, "daffy duck": 1, "ben": 1}
+{"woody": 2}
+{}
+{"woody woodpecker": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the grinch": 2}
+{}
+{}
+{"romeo": 1, "juliet": 1, "henry v": 1, "love's labour's lost": 1}
+{}
+{"grinch": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the grinch": 1, "max": 1, "santa claus": 1}
+{"the grinch": 1, "max": 1}
+{"the grinch": 2, "howard": 1}
+{"grinch": 1, "whos": 1, "howard": 1}
+{"grinch": 3, "cindy lou who": 1, "max": 2, "cat in the hat": 1}
+{"the grinch": 2, "cindy lou who": 1, "max": 2}
+{"grinch": 1, "max": 1, "santa claus": 1}
+{"grinch": 2}
+{"the grinch": 2}
+{"the grinch": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"scout": 1, "jem": 1, "boo": 1, "mary": 1}
+{"scout": 1, "jem": 1, "tom robinson": 1}
+{"walter cunningham": 1}
+{"dill": 1, "scout": 2, "jem": 2, "boo": 1, "tom robinson": 1}
+{"mayella ewell": 1}
+{"scout": 1, "jem": 1, "boo radley": 1}
+{"radleys": 1, "tom robinson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the proud family": 1}
+{"the proud family": 1, "austin powers": 1}
+{}
+{"trudy proud": 1, "howard": 1}
+{"the proud family": 1}
+{"jump in!": 1, "the proud family movie": 1, "queen of the damned": 1, "scary movie 3": 1, "pirates of silicon valley": 1, "nuns on the run": 1, "in too deep": 1, "friday": 1, "soul men": 1}
+{"anna": 1}
+{"puff": 1, "suga mama": 1}
+{"penny": 1, "gross sisters": 1}
+{"penny": 1, "suga mama": 1}
+{"harry potter": 1, "ron weasley": 1, "hermione granger": 1, "emma": 1}
+{"harry potter": 1}
+{"harry potter": 2}
+{"harry potter": 2}
+{"harry potter": 2}
+{"harry potter": 1, "ron weasley": 1, "hermione granger": 1, "emma": 1}
+{"fluffy": 1}
+{"harry potter": 2}
+{"lord voldemort": 1, "quirrell": 1, "hagrid": 1, "norbert": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"icarus": 1, "daedalus": 1}
+{"icarus": 2}
+{}
+{"icarus": 2, "daedalus": 2}
+{"theseus": 1, "minos": 1, "minotaur": 1, "icarus": 1}
+{"icarus": 1}
+{"icarus": 1}
+{"icarus": 2}
+{"icarus": 1}
+{"icarus": 1, "daedalus": 1}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"caesar": 1}
+{}
+{"horatius cocles": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lori": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stefan salvatore": 1, "damon salvatore": 1, "bonnie bennett": 1, "caroline": 1}
+{"elena gilbert": 1, "katherine pierce": 1, "amara": 1, "stefan salvatore": 1, "silas": 1, "tom avery": 1}
+{"klaus": 1}
+{"elena gilbert": 1, "katherine pierce": 1, "stefan salvatore": 1}
+{"elena gilbert": 1, "stefan salvatore": 1, "damon salvatore": 1}
+{}
+{}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stumpy": 1}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{"john willoughby": 1}
+{"mrs dashwood": 1, "margaret dashwood": 1, "john dashwood": 1, "fanny": 1}
+{"edward ferrars": 1, "sir john middleton": 1, "fanny ferrars dashwood": 1, "charlotte jennings palmer": 1, "mr. palmer": 1}
+{"elinor dashwood": 1, "marianne": 1, "emma": 1}
+{}
+{"lucy steele": 1, "robert ferrars": 1, "mr. dashwood": 1, "miss grey": 1}
+{"john willoughby": 1, "margaret dashwood": 1, "mrs. dashwood": 1, "john dashwood": 1}
+{"marianne": 1}
+{"mr. dashwood": 1}
+{"elinor": 1, "marianne": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"pennywise the dancing clown": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"galina \"red\" reznikova": 1}
+{}
+{"maria ruiz": 1}
+{"maria ruiz": 1}
+{"romi": 1, "michele": 1}
+{"brooke soso": 1, "sue sylvester": 1, "liz lemon": 1}
+{}
+{}
+{"ben": 1}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jack": 1}
+{"none": 0}
+{}
+{}
+{}
+{"ryder": 1}
+{"kelly": 1}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alexandra cabot": 1, "casey novak": 1, "stephanie": 1}
+{"elliot stabler": 1, "olivia benson": 1}
+{"olivia benson": 1, "elliot stabler": 1}
+{}
+{}
+{"arlo beck": 1, "anna mill": 1, "anna": 1}
+{"bart ganzel": 1, "carrissa gibson": 1, "defense attorney marvin exley": 1, "delia wilson": 1, "cassidy": 1, "paula foster": 1, "captain cragen": 1}
+{"melinda warner": 1, "elizabeth olivet": 1, "elana barth": 1}
+{"prince miller": 1, "supreme": 1}
+{"john conway": 1, "gavin riley": 1}
+{"hazel grace lancaster": 1, "augustus waters": 1, "hazel": 1, "grace": 1}
+{"hazel grace lancaster": 1, "hazel": 1, "grace": 1}
+{"hazel grace": 1, "augustus waters": 1, "frannie lancaster": 1, "issac": 1, "michael lancaster": 1, "hazel": 1}
+{"hazel grace lancaster": 1, "grace": 1, "hazel": 1}
+{"hazel grace lancaster": 1, "waters": 1, "hazel": 1, "grace": 1}
+{"augustus": 1, "isaac": 1, "hazel": 1, "mr. lancaster": 1, "peter van houten": 1}
+{"sam merlotte": 1, "michael lancaster": 1, "missy": 1, "hazel": 1}
+{"grace": 1, "hazel": 1}
+{"patrick": 1, "hazel": 1}
+{"hazel": 1}
+{"ferris bueller": 1}
+{"sloane peterson": 1}
+{"ferris bueller": 1, "jeanie bueller": 1, "sloane": 1, "jennifer": 1}
+{"ferris bueller": 1}
+{"genie": 1, "jennifer": 1}
+{"ferris bueller": 1, "simba": 1, "david lightman": 1, "leo bloom": 1, "john brown": 1, "tony": 1}
+{"ferris": 1}
+{"sloane": 1, "cameron": 1, "ferris's sister jeanie": 1, "jennifer": 1}
+{"sloane peterson": 1, "princess lili": 1}
+{}
+{}
+{"riley": 1, "manny kin": 1, "coach gunderson": 1, "kari langsdorf": 1, "millie": 1, "ms. angela": 1, "uncle kelbo": 1, "manny": 1}
+{}
+{}
+{"daryl": 1}
+{"alex": 1, "justin": 1, "max": 1, "harper": 1}
+{}
+{"the wizards of waverly place": 1}
+{}
+{"alex": 3, "justin": 2, "max": 1, "mason": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"winnie-the-pooh": 2}
+{"winnie-the-pooh": 1, "piglet": 1, "eeyore": 1, "owl": 1, "rabbit": 1, "kanga": 1, "roo": 1}
+{"winnie the pooh": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{"michonne": 1, "axel": 1, "the governor": 1, "tyreese williams": 1, "merle dixon": 1, "daryl dixon": 1, "morgan jones": 1, "rick grimes": 1, "daryl": 1}
+{"merle dixon": 3, "daryl": 1, "the governor": 1}
+{"rick grimes": 1, "daryl dixon": 1, "theodore \"t-dog\" douglas": 1, "glenn rhee": 1, "merle": 1, "daryl's brother": 1, "daryl": 1}
+{"merle dixon": 2, "daryl": 1}
+{"alicia florrick": 1, "owen": 1, "gregory yates": 1, "milton mamet": 1, "eliot delson": 1}
+{"jim baxter": 1}
+{"axel": 1, "rick": 1, "lori": 1, "michonne": 1, "daryl": 1, "merle": 1, "glenn": 1, "carl": 1, "maggie": 1}
+{"king ezekiel": 1, "henry": 2, "sophia": 1}
+{"carl gallagher": 1, "frank gallagher": 1, "monica gallagher": 1, "lip gallagher": 1, "liam gallagher": 1, "fiona gallagher": 1, "debbie gallagher": 1, "stella gallagher": 1, "ian gallagher": 1, "nigel": 1, "delia": 1}
+{"merle dixon": 1, "t-dog": 1, "shane walsh": 1, "lori": 1, "carl": 1, "daryl": 1, "daryl's brother": 1}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"marvin punk anderson": 1, "boss godfrey": 1, "the walking boss": 1}
+{"marvin punk anderson": 1, "boss godfrey": 1, "the walking boss": 1}
+{}
+{"luke": 1, "boss godfrey": 1, "arletta": 1}
+{"lucas \"luke\" jackson": 1, "walking boss godfrey": 1, "the captain": 1}
+{"colonel cassius claiborne": 1, "emma": 1, "the walking boss": 1}
+{}
+{"boss higgins": 1}
+{"luke": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"amy hughes": 1, "guinevere beck": 1, "anna": 1}
+{"anna": 3, "kristoff": 1, "elsa": 1, "david": 1}
+{"amy hughes": 1, "guinevere beck": 1, "anna": 1}
+{"anna": 2, "kristoff": 1}
+{"anna": 1, "amy": 1}
+{"dana waring": 1, "tamara jacobs": 1, "shira huntzberger": 1, "anna": 1}
+{"anna dimera": 1, "dana waring": 1, "anna": 1}
+{"eve": 1, "ruth lanier": 1, "anna": 1}
+{"anna dimera": 1, "dana waring": 1, "anna": 1}
+{"damien": 1, "antichrist": 1}
+{"avatar": 1}
+{}
+{"aang": 1, "sokka": 1}
+{"aang": 1}
+{"aang": 1, "sokka": 1, "katara": 1}
+{"drew": 1}
+{}
+{}
+{}
+{"aang": 1, "sokka": 1, "toph beifong": 1}
+{"scooby": 2, "fred": 1, "shaggy": 1, "daphne": 1}
+{"stevo": 1, "dennis rafkin": 1, "shaggy rogers": 3, "shaggy": 1}
+{"shaggy rogers": 1, "shaggy": 1}
+{"fred": 1, "daphne": 1, "shaggy": 1}
+{"shaggy": 2, "fred": 1, "daphne": 1, "velma": 1}
+{"scooby-doo": 2, "fred": 1, "daphne": 1, "shaggy": 1, "velma": 1}
+{"chip": 1, "emmanuel \"cereal killer\" goldstein": 1, "stu macher": 1, "stevo": 1, "billy brubaker": 1, "jerry conlaine": 1, "dez howard": 1, "joey": 1, "jack rusoe": 1, "shaggy rogers": 2, "howard": 1, "shaggy": 1}
+{"scooby-doo": 3, "norville \"shaggy\" rogers": 1, "scrappy-doo": 1, "fred flintstone": 1, "shaggy": 1}
+{"norville \"shaggy\" rogers": 1, "grace": 1, "shaggy": 1}
+{"shaggy rogers": 1, "popeye": 1, "shaggy": 1}
+{"drake parker": 1, "josh nichols": 1}
+{"drake parker": 1, "josh nichols": 1}
+{}
+{"drake": 1, "josh": 1}
+{"drake parker": 1, "josh nichols": 1}
+{}
+{"drake": 1, "josh": 1, "crazy steve": 1, "sally": 1}
+{"peter parker": 1, "spider-man": 1}
+{"tom lucas": 1}
+{"drake": 1, "josh": 1}
+{"the joads": 1}
+{"tom joad": 1, "jim casy": 1}
+{"the joads": 1}
+{}
+{"joads": 1}
+{}
+{"the joads": 1}
+{}
+{"grandma": 1, "noah": 1, "connie": 1}
+{}
+{"rebecca bunch": 1}
+{"rebecca bunch": 1}
+{"rebecca bunch": 1}
+{"rebecca bunch": 1}
+{"rebecca bunch": 1}
+{"white josh": 1, "nathaniel": 1, "rebecca": 1}
+{}
+{"rebecca bunch": 1}
+{"white josh": 1, "nathaniel": 1}
+{"valencia": 1, "bloom": 1, "rebecca": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"auggie": 1}
+{"auggie pullman": 2, "auggie": 1}
+{}
+{"mr. browne": 1, "roberts's character's mother": 1, "auggie": 1}
+{"isabel": 1, "auggie": 1}
+{}
+{"auggie": 1, "isabel": 1, "nate": 1, "olivia \"via\"": 1, "daisy": 1, "mr. tushman": 1}
+{"jack newsome": 1, "august pullman": 1, "auggie": 1}
+{"auggie": 3, "via": 2, "miranda": 1, "summer": 1, "jack": 1}
+{"our town": 1, "auggie": 1}
+{"the creeper": 1, "trish jenner": 1}
+{"creeper": 1}
+{"the creeper": 1, "trish": 1}
+{"roach": 1, "coach dwayne barnes": 1, "the creeper": 1, "trish jenner": 1}
+{"the creeper": 1}
+{}
+{}
+{"jennifer": 1}
+{"alec holland": 1, "leon c. nash": 1, "leland palmer": 1, "jack taggart sr.": 1, "don hollenbeck": 1, "vice president hal gardner": 1, "the devil": 1, "marvin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"justine": 1}
+{}
+{}
+{}
+{"edgar": 3, "edmund": 3, "albany": 2, "gloucester": 2, "goneril": 3, "lear": 1, "cordelia": 1}
+{"king lear": 1, "emma": 1, "king lear characters": 1}
+{"cordelia": 2}
+{"cordelia": 1, "fool": 1}
+{"king lear": 1, "cordelia": 2}
+{"king lear": 2}
+{"king lear": 2}
+{"lear": 2, "cordelia": 2, "lear's final lines": 1}
+{"lear": 1, "cordelia": 2, "regan": 3, "goneril": 2, "edmund": 3, "albany": 3, "edgar": 1, "king lear characters": 1}
+{"lear": 1, "cordelia": 1, "edgar": 1, "king lear characters": 1}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"darlene": 1}
+{"gilbert grape": 2, "darlene": 1}
+{"morbidly obese mother": 1, "gilbert grape": 1, "darlene": 1}
+{"gilbert": 1, "darlene": 1}
+{"arnie": 1, "darlene": 1}
+{"grandmother": 1}
+{"mayor lucy rodell": 1}
+{"karen buckman": 1, "clara clayton": 1, "doc brown": 1, "mary": 1}
+{"mayor lucy rodell": 1}
+{}
+{"tom": 1, "summer": 1}
+{}
+{}
+{}
+{}
+{"tom hansen": 1, "summer": 1, "drew": 1}
+{}
+{}
+{}
+{"summer": 1, "tom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cosette": 1, "fantine": 1}
+{"cosette": 1, "fantine": 1}
+{"young cosette": 1, "young eponine": 1, "marta": 1, "adele": 1, "cosette": 1}
+{"rebecca \"becca\" moody": 1, "young cosette": 1, "cosette": 1}
+{"cosette": 2, "tony": 1}
+{"valjean": 2, "javert": 1, "fantine": 1, "marius": 1, "monsieur thénardier": 1, "madame thénardier": 1, "éponine": 2, "cosette": 1, "enjolras": 1, "young cosette": 1, "young éponine": 1, "jennifer": 1}
+{"marius": 1, "thénardier": 2, "madame thénardier": 1, "fantine": 1, "éponine": 1, "enjolras": 1, "cosette": 1, "young cosette": 1, "bishop of digne": 1}
+{"valjean": 1, "javert": 1, "fantine": 1, "thénardier": 1, "mme. thénardier": 1, "éponine": 1, "gavroche": 1, "marius": 1, "enjolras": 1, "cosette": 1}
+{"fantine": 1, "marius": 1, "cosette": 1}
+{"éponine": 2, "gavroche": 1, "young cosette": 1, "madame thénardier": 1, "thénardier": 1, "fantine": 1, "javert": 1, "young éponine": 1, "brujon": 1, "combeferre": 1, "grantaire": 1, "joly": 1, "feuilly": 1, "montparnasse": 1, "courfeyrac": 1, "old woman": 2, "prouvaire": 1, "bishop": 1, "babet": 1, "claquesous": 1, "fauchevelant": 1, "jennifer": 1, "cosette": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"saul": 1}
+{}
+{}
+{"leah": 1, "shimmer": 1, "shine": 1, "genie": 1}
+{}
+{"shimmer": 2, "shine": 2, "genie": 1}
+{"zeta": 1}
+{"roya": 1, "zeta": 1, "nazboo": 1}
+{}
+{"colin": 1}
+{"jennifer": 1}
+{"ned flanders": 1, "jennifer": 1}
+{"murderous fisherman": 1}
+{"helen": 3, "elsa": 2, "barry": 1}
+{"michael myers": 2, "nakoma": 1, "ben willis": 1, "ben": 1, "benjamin willis": 1}
+{"michael myers": 1, "nakoma": 1, "benjamin willis": 1, "ben": 1}
+{}
+{}
+{"colby patterson": 1, "zoe": 1, "roger": 1, "p.j.": 1, "fisherman": 2, "ben willis": 1, "amber": 1, "ben": 1}
+{"howard": 1}
+{}
+{"dwayne cassius pride": 1, "christopher lasalle": 1, "meredith brody": 1, "sebastian lund": 1, "loretta wade": 1, "patton plame": 1, "sonja percy": 1, "tammy gregorio": 1, "daryl": 1}
+{}
+{"meredith brody": 1, "tammy gregorio": 1, "hannah khoury": 1, "daryl": 1}
+{}
+{"sonja percy": 1, "tammy gregorio": 1, "sebastian lund": 1, "patton plame": 1, "dr. loretta wade": 1, "daryl": 1}
+{"leroy jethro gibbs": 1, "abby sciuto": 1, "ellie bishop": 1, "jimmy palmer": 1, "daryl": 1}
+{}
+{}
+{"admiral a. j. chegwidden": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"captain thomas \"tommy\" gregson": 1}
+{}
+{"sherlock holmes": 1}
+{"katie benedetto": 1, "kate crawford": 1, "lyanna stark": 1, "jennifer": 1}
+{}
+{"antoinette cosway": 1, "princess": 1}
+{}
+{"katie benedetto": 1, "kate crawford": 1, "lyanna stark": 1}
+{"nikko": 1}
+{"dorothy gale": 1}
+{}
+{"oz": 1, "tony": 1}
+{}
+{"dorothy gale": 1}
+{}
+{"alex": 1, "justin": 1, "max": 1}
+{}
+{"mick callaghan": 1, "the wizard": 1, "oscar lindquist": 1, "john proctor": 1, "jimmy porter": 1, "i": 1, "mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max rockatansky": 1, "max": 1}
+{"max": 1}
+{"max": 1}
+{"mad max rockatansky": 1, "max": 1}
+{"max": 1}
+{"max": 1}
+{"mad max rockatansky": 1, "max": 1}
+{"charlie": 1, "officer jim goose": 1, "max": 1}
+{"max": 1}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"it": 1}
+{"bill denbrough": 1}
+{}
+{}
+{"pennywise": 1, "georgie denbrough": 1}
+{"it": 1}
+{"it": 1}
+{"it": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"freaky friday": 1}
+{}
+{}
+{}
+{"grandmother": 1}
+{"grace": 1}
+{"none": 0}
+{"clouseau": 1}
+{}
+{"jan": 1}
+{"jan": 1}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{"the royal": 2}
+{}
+{}
+{"ben": 1}
+{"hamlet": 1}
+{}
+{}
+{}
+{"queen helena": 1, "liam": 1, "eleanor": 1, "ophelia": 2, "cyrus": 1, "penelope": 1, "maribel": 1, "gemma": 1}
+{}
+{}
+{}
+{"mr. ryan": 1, "roy a. eberhardt": 1}
+{}
+{}
+{"mullet fingers": 1, "beatrice \"the bear\" leep": 1}
+{"delinko": 1, "beatrice": 1, "roy": 1, "leroy 'curly' branitt": 1, "muckle": 1}
+{"officer david delinko": 1, "roy": 1, "mullet fingers": 1}
+{"officer delinko": 1, "roy eberhart": 1, "beatrice leep": 1, "leroy brannit": 1, "mr. eberhart": 1, "mayor grandy": 1, "napoleon leep": 1, "chuck muckle": 1}
+{}
+{}
+{"penny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{"max": 1}
+{"max": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sloan": 1}
+{"joe": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"aeneid": 1}
+{"caesar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{"tony": 1}
+{"tony": 1}
+{}
+{"tony": 1}
+{"tony": 1}
+{"wallace": 1, "gromitt": 1, "forrest gump": 1}
+{}
+{"tony": 1}
+{"tony": 1}
+{}
+{}
+{"john morris": 1, "sally": 1}
+{}
+{"william \"billy\" bulger": 1, "scott garriola": 1, "charles mcguire": 1}
+{"bulger": 1}
+{}
+{}
+{"bulger": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grace": 1}
+{"grace": 1}
+{}
+{"grace": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mallory": 1}
+{}
+{}
+{}
+{"mickey": 1, "mallory": 1}
+{"ben": 1}
+{}
+{"tributes": 1}
+{"jennifer": 1}
+{}
+{"beetee": 1, "gloss": 1, "mags": 1, "wiress": 1, "annie cresta": 1, "cressida": 1, "messalla": 1, "president alma coin": 1}
+{"effie trinket": 1, "haymitch abernathy": 1, "cinna": 1, "seneca crane": 1, "caesar flickerman": 1, "corolanus snow": 1, "primrose everdeen": 1, "katniss": 2, "johanna mason": 1, "plutarch heavensbee": 1, "finnick odair": 1, "caesar": 1}
+{"mockingjay": 1, "harry potter": 1}
+{"katniss everdeen": 1, "peeta mellark": 1}
+{"katniss everdeen": 1, "peeta mellark": 1, "jennifer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joseph bradley": 1, "patrick denham": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daniel larusso": 1, "mr. miyagi": 1}
+{"daniel larusso": 1, "mr. miyagi": 1}
+{}
+{}
+{}
+{"miss hattie": 1, "lucy wilde": 1, "gru": 1, "el macho": 1}
+{}
+{}
+{}
+{"hart": 1, "agent fuller": 1}
+{"neo": 1, "trinity": 1, "morpheus": 1, "smith": 2, "brown": 3, "jones": 1}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{"trollhunter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"anna": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"colin": 1}
+{}
+{}
+{}
+{"torquatus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1, "cruz": 1}
+{}
+{}
+{"tony": 1}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"john dexter": 1, "paul": 2, "ricco": 1, "lou": 1, "flynn": 1, "seymour liebergot": 1, "ken": 1, "whobris": 1, "sheriff purdy": 1, "lloyd davis": 1, "herbert trimpy": 1, "paul lucas": 1, "howard": 1}
+{"the grinch": 2}
+{"the grinch": 1, "mayor of whoville": 1}
+{"whobris": 1, "the elderly timekeeper": 1, "the surprised who": 1, "howard": 1}
+{"the grinch": 2}
+{"the grinch": 3}
+{"the grinch": 1, "general tom thumb": 1, "timmy": 1}
+{"missy": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sonny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"james bond": 2}
+{"james bond": 2}
+{"james bond": 2}
+{}
+{}
+{}
+{}
+{"james bond": 3}
+{"james bond": 3, "peter fugitive": 1}
+{"james bond": 2, "dr. no": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nebula": 4, "skunge": 1, "kehl": 1, "gunthar": 1, "levan": 1}
+{"nebula": 3}
+{"amy pond": 1, "nebula": 1, "martha": 1}
+{"nebula": 1, "emma": 1}
+{"nebula": 1}
+{"nebula": 4, "thanos": 1}
+{"thanos": 2, "ronan": 1, "nebula": 1}
+{"ronan the accuser": 1, "nebula": 1, "the collector": 1, "korath": 1, "nova prime irani rael": 1, "thanos": 1, "rocket": 1}
+{"nebula": 3, "silver surfer": 1, "the graces": 1, "stellaris": 1}
+{"nebula": 2}
+{"lemony snicket": 2, "jennifer": 1}
+{"sonny": 1}
+{"the hook-handed man": 1, "rodney": 1, "gordon": 1}
+{}
+{"the hook-handed man": 1, "rodney": 1, "gordon": 1}
+{"klaus baudelaire": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"al schmid": 1}
+{"jake carter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"natty bumppo": 1, "chingachgook": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alaska": 1, "miles": 1}
+{}
+{}
+{}
+{"optimus": 1, "megatron": 2, "the fallen": 1, "starscream": 1, "scrapper": 1, "mixmaster": 1, "bonecrusher": 1, "long haul": 2, "rampage": 2, "devastator": 1}
+{"the fallen": 1, "decepticon pretender": 1, "bumblebee": 1}
+{"bumblebee": 1, "ravage": 1, "decepticon rampage": 1}
+{"devastator": 1}
+{"demolisher": 1, "sideways": 1, "sideswipe": 1, "optimus prime": 1, "megatron": 1, "soundwave": 1, "ravage": 1}
+{}
+{"optimus": 2, "jetfire": 1, "megatron": 2, "the fallen": 2, "scorponok": 1}
+{"megatron": 1, "starscream": 1, "the fallen": 1, "wheelie": 1}
+{"hot rod": 1, "kup": 1, "ultra magnus": 2, "arcee": 1, "springer": 1, "blurr": 1, "perceptor": 1, "blaster": 1}
+{"megatronus": 3}
+{"marius josipović": 1, "pete murphy": 1}
+{"raleigh leefolt": 1, "josh shiffman": 1, "robert": 1, "taylor": 1}
+{"pete murphy": 1, "russell griswold": 1, "mark": 1, "agent toby grant": 1, "preston meyers": 1, "greg mendell": 1, "declan giggs": 1, "coyote": 1, "carter": 1, "grace": 1}
+{"marius josipović": 1, "pete murphy": 1}
+{"louis piquett": 1, "john cotter": 1, "otto bernhardt": 1}
+{"tony": 1}
+{}
+{"detective winslow": 1}
+{"pete": 1}
+{"caesar": 1}
+{}
+{}
+{"caesar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"janie crawford": 1}
+{"janie crawford": 1}
+{"lori": 1}
+{"johnny taylor": 1, "wade robinson": 1}
+{"janie": 3}
+{"grandmother": 1}
+{"johnny taylor": 1, "wade robinson": 1}
+{"cappy": 1}
+{"celie": 1}
+{}
+{"norma arnold": 1, "pamela douglas": 1, "stephanie forrester": 1, "stephanie": 1}
+{"stephanie": 1, "joanna manning": 1, "lauren fenmore": 1}
+{"joanna manning": 1, "lauren fenmore": 1, "stephanie forrester": 1, "stephanie": 1}
+{"brooke logan": 2, "stephanie": 1}
+{"stephanie forrester": 1, "stephanie": 1}
+{"stephanie": 1}
+{"stephanie forrester": 2, "stephanie": 1}
+{"leslie stewart": 1, "stephanie douglas forrester": 1, "stephanie": 1}
+{"stephanie": 1}
+{"ridge": 1, "thorne": 1, "kristen": 1, "felicia": 1, "angela": 1, "stephanie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"will salas": 1, "justin": 1}
+{"rolex robin hood": 1, "justin": 1}
+{"justin": 1}
+{"justin": 1}
+{"lead character": 1, "trolls": 1, "anna": 1, "justin": 1}
+{"prince artie pendragon": 1, "justin": 1}
+{"branch": 1, "justin": 1}
+{"justin": 1}
+{"justin": 1}
+{"justin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cain": 2, "abel": 2}
+{}
+{}
+{}
+{"the smurfs": 3}
+{"papa smurf": 1, "hefty smurf": 1, "brainy smurf": 1, "bugs bunny": 1}
+{}
+{"the smurfs": 3}
+{"the smurfs": 1}
+{}
+{"smurfs": 2}
+{"the smurfs": 2}
+{}
+{"smurfs": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"claire thorpe": 1}
+{}
+{}
+{}
+{}
+{"chastain park memorial hospital": 1}
+{"sharon carter": 1, "agent 13": 1}
+{"theo huxtable": 1, "malcolm mcgee": 1, "dr. alex reed": 1, "dr. aj austin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"bugs bunny": 1, "howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{"eleanor shellstrop": 1, "michael": 1, "manny": 1}
+{}
+{}
+{"janet": 1}
+{"chidi anagonye": 1}
+{"eleanor shellstrop": 1, "michael": 1}
+{"chris": 1, "chidi": 1, "tessa": 1, "tahani": 1, "jason": 1, "janet della-denunzio": 1, "manny": 1}
+{"hank larsson": 1, "the afterlife architect": 1}
+{"jason mendoza": 1, "manny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"romeo": 1, "juliet": 1}
+{}
+{"juliet": 1}
+{"rosaline": 2, "romeo": 1, "juliet": 1, "the main female character in as you like it": 1}
+{"montague": 2}
+{}
+{"romeo": 1, "juliet": 1, "ophelia": 1}
+{}
+{"morgan jones": 1}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{"siddiq": 1, "rick grimes": 1, "negan": 1, "maggie": 1, "king ezekiel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dr. smith": 2, "dr. zachary smith": 1}
+{"bradford webster": 1, "dr. zachary smith": 1, "doctor smith": 1}
+{"major don west": 1, "detective sgt. chris ballard": 1}
+{"major don west": 1}
+{"zachary smith": 1, "the robot": 1, "doctor smith": 1}
+{"dr. zachary smith": 1, "peepo": 1, "doctor smith": 1}
+{"crown prince chulalongkorn": 1, "king of siam": 1, "tee gar soom": 1, "dr. smith": 1}
+{"rupert thorne": 1, "skipper": 1, "dr. smith": 1}
+{"dr. zachary smith": 1, "the robot": 1, "doctor smith": 1}
+{"maxwell smart": 1, "dr. zachary smith": 1, "zachary": 1, "doctor smith": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{"ricky": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ricky": 1}
+{}
+{}
+{"eli": 1, "jennifer": 1}
+{"eli": 1}
+{"eli": 1, "solara": 1}
+{}
+{"max": 1}
+{"eli": 1, "lombardi": 1, "carnegie": 1, "claudia": 1, "engineer": 1}
+{}
+{"george": 2, "martha": 2, "eli": 3, "solara": 2, "carnegie": 3}
+{"eli": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cedie": 1}
+{}
+{"mickey mouse": 3, "oswald the lucky rabbit": 1}
+{"dick tipton": 1}
+{"little lord fauntleroy": 2}
+{}
+{"goofy": 3, "mickey mouse": 1, "donald duck": 1, "disney cartoon characters": 1}
+{"cedie": 2, "little lord fauntleroy": 1, "cedric erol": 1}
+{"donald": 3}
+{"furby": 1, "goofy": 1, "tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"johnny bravo": 1}
+{"johnny bravo": 2}
+{"johnny bravo": 2}
+{"jungle boy": 1}
+{"johnny bravo": 1}
+{"johnny bravo": 2}
+{}
+{"johnny bravo": 3}
+{"johnny test": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"timon": 2}
+{"timon": 1, "pumbaa": 1, "max": 1}
+{"timon": 1}
+{"timon": 2, "pumbaa": 2}
+{"timon": 2, "pumbaa": 2, "simba": 1, "rafiki": 1, "timon's mother": 1, "uncle max": 1, "max": 1}
+{"orpheus": 1, "eurydice": 1, "tony": 1}
+{"tony": 1}
+{"tony": 1}
+{"josh": 1, "effy": 1, "ben": 1, "tony": 1}
+{"tony": 1}
+{"tony": 1, "mysterious girl": 1}
+{"tony": 1}
+{"teresa di marco": 1, "simon": 2, "homer": 1, "tony": 1}
+{"tony": 1}
+{"sketch": 1, "tony": 1}
+{}
+{}
+{}
+{"drew": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"teenage mutant ninja turtles": 1}
+{"teenage mutant ninja turtles": 1}
+{}
+{}
+{"shredder": 1}
+{"teenage mutant ninja turtles": 4}
+{"teenage mutant ninja turtles": 4}
+{"splinter": 1, "april o'neil": 1, "casey jones": 1, "the shredder": 1}
+{"april o'neil": 1, "turtles": 1, "splinter": 1}
+{}
+{}
+{}
+{}
+{}
+{"none": 0}
+{}
+{}
+{}
+{}
+{"faith howells": 1}
+{}
+{}
+{}
+{"faith howells": 1, "evan": 1}
+{}
+{}
+{}
+{"faith": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tony": 1}
+{}
+{"tony": 1}
+{"peter griffin": 1}
+{}
+{}
+{"tony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ash": 1}
+{}
+{}
+{"ash": 1}
+{}
+{"ash": 1}
+{"ash": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"novalee": 1, "forney hull": 1, "mary elizabeth": 1, "nurse lexie coop": 1, "mama lil": 1, "forney": 1, "mary": 1}
+{}
+{"novalee nation": 1}
+{"forney": 1}
+{"forney": 1, "mary": 1}
+{"novalee nation": 1, "willy jack picken": 1, "americus nation": 1}
+{"forney": 1}
+{"mary": 1, "forney": 1}
+{"amy snowden": 1, "ellie jardin": 1}
+{"forney": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cigarette smoking man": 1, "fox mulder": 1}
+{"smoking man": 1, "cigarette smoking man": 1}
+{"cigarette smoking man": 1}
+{"fox mulder": 1, "the smoking man": 1, "cigarette smoking man": 1}
+{"fox mulder": 1}
+{"cigarette smoking man": 1}
+{"scully": 2, "mulder": 2, "smoking man": 2}
+{"fox mulder": 1, "william": 1}
+{"the smoking man": 2, "the lone gunmen": 1, "fox mulder": 1, "cigarette smoking man": 1}
+{"mulder": 2, "cigarette-smoking man": 2, "the smoking man": 1, "cigarette smoking man": 1}
+{}
+{}
+{}
+{"brad": 1, "jessie caine": 1}
+{}
+{}
+{"ortho god": 1}
+{}
+{}
+{"rayna jaymes": 1, "juliette barnes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sim": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mary": 1}
+{}
+{}
+{}
+{"mary": 1}
+{"mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"emma": 1}
+{}
+{"lornie kuhle": 1, "margaret court": 1, "ted tinling": 1, "rosie casals": 1, "kerry melville reid": 1}
+{}
+{"jack kramer": 1}
+{}
+{}
+{}
+{}
+{"david sheff": 1, "nic": 1, "emma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"anna": 1}
+{}
+{}
+{}
+{}
+{"anna": 1}
+{"anna": 1}
+{}
+{}
+{"scott calvin": 1, "santa claus": 1, "jack frost": 1}
+{}
+{"scott calvin": 1, "charlie": 1}
+{"scott calvin": 1, "santa claus": 1, "charlie": 1}
+{"charlie calvin": 1, "little john": 1, "kevin arnold": 1}
+{"scott calvin": 1, "charlie": 1}
+{}
+{"scott calvin's boss": 1, "father time": 1}
+{"grace marshall": 1, "grace": 1}
+{}
+{}
+{}
+{}
+{}
+{"howard": 1}
+{}
+{"gossip girl": 1, "chuck bass": 1, "blair waldorf": 1, "bart bass": 1, "stephanie": 1}
+{"harold waldorf": 1, "blair": 1, "chuck": 1, "dan": 1, "serena": 1, "bart bass": 1}
+{"bart": 1, "stephanie": 1, "bart bass": 1}
+{"bart": 1, "stephanie": 1, "bart bass": 1}
+{"bart bass": 1}
+{"bart bass": 1}
+{"bart bass": 1}
+{"damien dalgaard": 1, "jack bass": 1, "russell": 1, "bart bass": 1, "ben": 1}
+{"serena": 1, "dan": 1, "georgina": 1}
+{"bart bass": 1}
+{}
+{}
+{}
+{}
+{}
+{"fred figglehorn": 1}
+{}
+{"fred claus": 2, "mother claus": 1, "frederick": 1}
+{}
+{"fred figglehorn": 1}
+{"darius woodley": 1, "mad hatter": 1}
+{"owen": 1, "jacob harding": 1, "the mad hatter": 2, "jervis tetch": 1, "mad hatter": 1}
+{"mad hatter": 2, "jervis tetch": 1, "batman": 2}
+{"the joker": 1, "the penguin": 1, "the riddler": 2, "catwoman": 2, "mr. freeze": 1, "the mad hatter": 1, "mad hatter": 1, "joker": 1}
+{"mad hatter": 1, "ra's al ghul": 1, "count vertigo": 1, "red claw": 1, "the ventriloquist": 1, "harley quinn": 1, "the penguin": 1, "joker": 1}
+{"hatter": 1}
+{"batman": 1, "robin": 1}
+{"batman": 2}
+{"batman": 1, "poison ivy": 1, "catwoman": 1, "the riddler": 1, "the mad hatter": 1, "ra's al ghul": 1, "talia al ghul": 1, "man-bat": 1, "the penguin": 1, "the scarecrow": 1, "killer croc": 1, "bane": 1, "the ventriloquist": 1, "scarface": 1, "the gray ghost": 1, "mad hatter": 1, "tony": 1}
+{"the riddler": 1}
+{}
+{}
+{}
+{}
+{"tiffany maxwell": 1, "jennifer": 1}
+{"chameleon": 1, "tombstone": 1, "tarantula": 1}
+{"phoebe": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"jennifer": 1}
+{"grace": 1}
+{}
+{}
+{"death": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
