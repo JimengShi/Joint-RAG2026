@@ -216,7 +216,7 @@ def llm_answer(model_type, query, cells, k=3, retrieval_method='hypercube'):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else "gpt-4o-mini",
+            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else "gpt-4o-mini-2024-07-18",
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {

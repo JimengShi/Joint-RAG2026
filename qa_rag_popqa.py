@@ -303,7 +303,7 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube', hc_ran
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4o-mini-2024-07-18",
             messages=messages,
             temperature=0,
         )

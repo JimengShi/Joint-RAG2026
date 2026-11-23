@@ -370,7 +370,7 @@ def _chat(model_type, messages, sampling):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else model_type,
+            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else "gpt-4o-mini-2024-07-18",
             messages=messages,
             **sampling,
         )

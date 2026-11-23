@@ -1,7 +1,6 @@
 # Joint-RAG: Jointly Structured Multi-Dimensional Indexing for Retrieval-Augmented Generation
 
 <div align="left">
-<!-- <img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube-rag1.jpg" alt="joint-rag" width="1000"/>  -->
 <img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/joint-rag-framework.png" alt="joint-rag" width="1000"/>   
 </div>
 
@@ -14,7 +13,7 @@
 - `QA`: saves the question-answering pairs
 - `corpus`: saves the original corpus
 - `hypercube`: saves the constructed multi-dimensional index of Joint-RAG (one file per dimension, line-aligned with the passages)
-- `baselines`: baseline methods (BM25, NV-Embed-v2, BM25+NV-Embed-v2 hybrid, graph-based RAG and HippoRAG 2), see [Baselines](#33-run-the-baselines)
+- `baselines`: baseline methods (BM25, NV-Embed-v2, BM25+NV-Embed-v2 hybrid, graph-based RAG and HippoRAG 2)
 - `evaluation`: computes evaluation scores
 - `gpt_extraction`: extracts entities to construct the multi-dimensional index
 - `utils`: helper functions
@@ -83,33 +82,6 @@ python qa_rag_hurricane.py --data hurricane --model gpt-4o-mini --retrieval_meth
 
 Results are saved to `output/<data>/<model>/`. Entity embeddings are cached in `ent2emb/` on the first run.
 
-
-
-#### 3.3 Run the baselines
-All baselines use the same answer prompts and LLM settings as each other and retrieve the top-5 documents (`--k 5`), so they differ only in retrieval. `--data` can be `nq`, `popqa`, `legalbench`, `geography`, `hurricane` or `aging_dam`; `--model` can be `gpt-4o-mini` or `llama3`. Outputs are saved to `output/<data>/<model>/llm_output_<method>_k5_responses.json` and can be scored with the [evaluation](#4-evaluation) scripts using the same `--retrieval_method`.
-
-| Baseline | Script | `--retrieval_method` | Notes |
-|---|---|---|---|
-| BM25 | `baselines/qa_rag_bm25.py` | `bm25` | `rank_bm25` (BM25Okapi) on lowercased whitespace tokens |
-| NV-Embed-v2 | `baselines/qa_rag_nvembed.py` | `nvembed` | `nvidia/NV-Embed-v2`; passage embeddings are cached in `cache/` |
-| BM25+NV-Embed-v2 Hybrid | `baselines/qa_rag_hybrid.py` | `hybrid` | BM25 and NV-Embed-v2 rankings fused by reciprocal rank fusion (`--rrf_k 60`) |
-| GraphRAG | `baselines/qa_rag_graph.py` | `graphrag` | Lightweight graph retriever over a spaCy noun-phrase co-occurrence graph (needs `python -m spacy download en_core_web_sm`) |
-| HippoRAG 2 | `baselines/qa_rag_hipporag2.py` | `hipporag2` | Official package (`pip install hipporag`, [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)) with NV-Embed-v2 |
-| RAPTOR | official code | `raptor` | Run with [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor) |
-
-```
-python baselines/qa_rag_bm25.py --data legalbench --model gpt-4o-mini --k 5
-python baselines/qa_rag_nvembed.py --data geography --model gpt-4o-mini --k 5
-python baselines/qa_rag_hybrid.py --data geography --model llama3 --k 5
-python baselines/qa_rag_graph.py --data legalbench --model gpt-4o-mini --k 5
-python baselines/qa_rag_hipporag2.py --data legalbench --model gpt-4o-mini --k 5
-python evaluation/nlp_metric.py --data legalbench --model gpt-4o-mini --retrieval_method bm25 --k 5
-```
-
-Notes:
-- NV-Embed-v2 needs a GPU with enough memory for a 7B embedding model; its model card recommends specific `transformers` / `sentence-transformers` versions, so a separate environment may be needed.
-- HippoRAG 2 generates answers with its own QA prompt. For `--model llama3` it calls Together AI through an OpenAI-compatible API, so set `OPENAI_API_KEY` to your Together key for that run (or pass `--llm_base_url`).
-- The baseline results on NQ and PopQA in Table 1 are taken from the HippoRAG 2 paper ([Gutiérrez et al., 2025](https://arxiv.org/abs/2502.14802)).
 
 
 ### 4. Evaluation
