@@ -147,11 +147,11 @@ def llm_answer(model_type, query, cells, k, retrieval_method='hypercube'):
         res = completion.choices[0].message.content  
         return res, [id + 1 for id in doc_ids]
     
-    elif model_type == 'gpt-4o':
+    elif model_type in ('gpt-4o', 'gpt-4o-mini'):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-2024-08-06",
+            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else "gpt-4o-mini",
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {

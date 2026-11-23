@@ -212,11 +212,11 @@ def llm_answer(model_type, query, cells, k=2, retrieval_method='hypercube'):
         res = completion.choices[0].message.content
         return res
     
-    elif model_type == 'gpt-4o':
+    elif model_type in ('gpt-4o', 'gpt-4o-mini'):
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-4o-2024-08-06",
+            model="gpt-4o-2024-08-06" if model_type == 'gpt-4o' else "gpt-4o-mini",
             messages=[
                 {"role": "system", "content": instruction + docs},
                 {
@@ -333,9 +333,9 @@ from utils.metric import bleu_score, semantic_score
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
-    parser.add_argument("--model", type=str, required=True, choices=["gpt-4", "gpt-4o", "gpt-3.5-turbo", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
+    parser.add_argument("--model", type=str, required=True, choices=["gpt-4", "gpt-4o", "gpt-4o-mini", "gpt-3.5-turbo", "deepseek", 'llama3', 'llama4', 'gemma', "qwen"], help="Select llm to get answer.")
     parser.add_argument("--retrieval_method", type=str, required=True, default="hypercube", choices=['hypercube', 'semantic', 'union'], help="Retrieval methods.")
-    parser.add_argument("--k", type=int, default=3, help="Number of retrieved documents.")
+    parser.add_argument("--k", type=int, default=5, help="Number of retrieved documents.")
     parser.add_argument("--save", type=str, default="true", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
     return parser.parse_args()
 

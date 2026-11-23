@@ -19,6 +19,8 @@
 - `gpt_extraction`: extracts entities to construct the multi-dimensional index
 - `utils`: helper functions
 - `qa_norag.py`: script to run LLMs without retrieval
+- `qa_rag_nq.py`: script to run Joint-RAG on the NQ dataset
+- `qa_rag_popqa.py`: script to run Joint-RAG on the PopQA dataset
 - `qa_rag_hurricane.py`: script to run Joint-RAG on the hurricane dataset
 - `qa_rag_geography.py`: script to run Joint-RAG on the geography dataset
 - `qa_rag_dam.py`: script to run Joint-RAG on the dam dataset
@@ -52,18 +54,34 @@ export CUDA_VISIBLE_DEVICES=GPU_ID
 export OPENAI_API_KEY="your OPENAI_API_KEY"
 export TOGETHER_API_KEY="your TOGETHER_API_KEY"
 ```
-In our work, we use multiple datasets `NQ`, `PopQA` (see [Datasets](#datasets)), `LegalBench (law)`, `SciDCC (hurricane, geography, aging_dam)` with two LLMs, `gpt-4o-mini` and `Llama-3.3-70B-Instruct` (`--model llama3`, called via Together AI; set `TOGETHER_API_KEY`). If you want to save the QA results, set the following "save" to true; otherwise, false.
+In our work, we use multiple datasets `NQ`, `PopQA`, `LegalBench (law)`, `SciDCC (hurricane, geography, aging_dam)` with two LLMs, `gpt-4o-mini` and `Llama-3.3-70B-Instruct` (`--model llama3`, called via Together AI; set `TOGETHER_API_KEY`). If you want to save the QA results, set the following "save" to true; otherwise, false.
 ```
 python qa_norag.py --data `DATASET` --model `MODEL_NAME` --save `true`
 ```
 
 
 #### 3.2 Run Joint-RAG
-The following script takes the hurricane dataset and GPT-4o as an LLM base.
+All RAG methods retrieve the top-5 documents (`--k 5`, the default). `--model` can be `gpt-4o-mini` or `llama3` (Llama-3.3-70B-Instruct).
 
+NQ:
 ```
-python qa_rag_hurricane.py --data hurricane --model gpt-4o --retrieval_method hypercube --save true
+python qa_rag_nq.py --data nq --model gpt-4o-mini --retrieval_method hypercube --k 5 \
+    --hc_rank dense_tiebreak --fill --cells_from hypercube/nq/cells_v1.json \
+    --gold QA/nq/gold_passage_ids.json --qa_format hipporag_norefusal2 --save true
 ```
+
+PopQA:
+```
+python qa_rag_popqa.py --data popqa --model gpt-4o-mini --retrieval_method hypercube --k 5 --save true
+```
+
+LegalBench and SciDCC (e.g., hurricane):
+```
+python qa_rag_legalbench.py --data legalbench --model gpt-4o-mini --retrieval_method hypercube --k 5 --save true
+python qa_rag_hurricane.py --data hurricane --model gpt-4o-mini --retrieval_method hypercube --k 5 --save true
+```
+
+Results are saved to `output/<data>/<model>/`. Entity embeddings are cached in `ent2emb/` on the first run.
 
 
 
