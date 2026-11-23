@@ -15,7 +15,7 @@
 {}
 {"Lynn Lane": 1, "Industrial Park Road": 1, "Oktibbeha County Lake Dam": 1, "County Lake Road": 1, "Davis Wade Stadium": 1}
 {}
-{}
+{"gold mine": 1}
 {"the Oroville Dam's": 1, "Oroville Dam": 3}
 {}
 {"Oroville Dam": 2, "the Oroville Dam": 1, "The Oroville Dam": 1, "#OrovilleDam itself": 1, "orovilledam": 1}
@@ -58,7 +58,7 @@
 {"the Edenville Dam": 3}
 {"the Sanford Lake Dam": 1, "the Edenville Dam": 3, "Oroville Dam": 1}
 {"U.S. 127": 4, "Evart": 2, "the Croton Dam": 1, "Old 27": 1, "the Wraco Lodge Dam": 1}
-{"U.S. 141": 1, "the Paint River Dam": 1}
+{"U.S. 141": 1, "the Paint River Dam": 1, "Beaver dam": 1}
 {}
 {"Chute Bell": 1, "Bell Falls": 3, "the Riviere du Nord": 1}
 {"the Edenville Dam": 3, "Edenville Dam": 3, "the Sanford Dam": 1}
@@ -92,7 +92,7 @@
 {"Corrego do Feijao": 2, "Buena Vista": 1, "Mount Polley": 1, "the Pebble Mine": 4, "Pebble Mine": 2, "Pebble": 1}
 {"O'Neal Lake Dam": 1, "Wilderness State Park": 1}
 {"the Barker Dam": 1, "Barker Reservoir": 1, "Addicks": 3, "Barker": 3, "Precinct 3 County": 1}
-{"the Spencer Dam": 5, "Spencer": 1, "Stuart-Naper Bridge": 1, "Spencer Dam": 2, "Nebraska Highway 11 bridge": 1, "Spencer Dam's": 1, "the Spencer Dam's": 1}
+{"the Spencer Dam": 5, "Spencer": 1, "Stuart-Naper Bridge": 1, "Spencer Dam": 2, "Nebraska Highway 11 bridge": 1, "Spencer Dam's": 1, "the Spencer Dam's": 1, "Spencer Dam": 1}
 {"the Edenville Dam": 4, "Edenville Dam": 1, "the Sanford Dam": 1}
 {"the Sanford Dam": 2, "the Edenville Dam": 4, "The Edenville Dam": 1, "a High Hazard Dam": 1}
 {"the Edenville Dam": 1, "the Edenville Dam\u2019s": 1}
@@ -128,7 +128,7 @@
 {"Trenton Dam": 1, "Trenton Falls": 1, "the Hinckley Dam": 1, "Hinckley Reservoir": 1}
 {"the Beaverton Dam": 2, "The Beaverton Dam": 1, "the Edenville Dam": 2, "Sanford Dam": 1, "Edenville Dam": 3}
 {"The Vernon Hydroelectric Dam": 1, "Great River": 1, "the Deerfield Town Hall": 1}
-{"The Edenville Dam": 1, "Sanford Dam": 1, "the Edenville Dam": 1, "Edenville": 1, "Sanford": 1, "Edenville Dam": 1, "Edenville\u2019s": 1}
+{"The Edenville Dam": 1, "Sanford Dam": 1, "the Edenville Dam": 1, "Edenville": 1, "Sanford": 1, "Edenville Dam": 1, "Edenville\u2019s": 1, "Edenville Dam": 1}
 {"the Mosul Dam": 2, "The Mosul Dam": 1, "Mosul Dam": 1}
 {"Three Gorges Dam": 1, "the Three Gorges Dam": 2, "Kwanyin temple": 1, "Wangjiaba": 1}
 {}
@@ -139,7 +139,7 @@
 {"Edenville Dam": 2, "the Edenville Dam": 2, "the Sanford Dam": 1, "the Edenville Dam's": 1, "the Oroville Dam": 1}
 {"U.S. 23": 1, "M-65": 1, "Standish": 1, "Townline": 1, "Pinnacle": 1, "Franklin Trail": 1, "Miller": 1, "the Sanford Dam": 5, "the Edenville Dam": 7, "Sanford Dam": 1, "US-10": 1, "River Road": 1, "M-30": 2, "Stryker\u2019s Marina": 1, "Sanford": 1, "Edenville Dam": 4, "Midland High School": 1}
 {"Oroville Dam": 12, "the Oroville Dam": 1, "Hoover Dam": 1, "Glen Canyon Dam": 1, "Auxiliary Spillway": 1, "the Emergency Spillway": 2, "the Main Spillway": 2, "Main Spillway": 1}
-{"C\u00f3rrego do Feij\u00e3o": 2, "B1": 2}
+{"C\u00f3rrego do Feij\u00e3o": 2, "B1": 2, "Córrego do Feijão mine": 1}
 {"Mount Polley": 2, "the Testalinden Dam": 1, "Highway 97": 1}
 {"Moccasin Dam": 4, "the Moccasin Dam": 3, "the Moccasin Reservoir Dam": 1, "State Route 49": 1, "State Route 120": 1, "the Don Pedro Reservoir": 1, "Hetch Hetchy": 1, "SR120": 2, "SR49": 1, "Moccasin Reservoir Dam": 1, "Don Pedro Reservoir": 1, "Golden Gate Bridge": 1, "Yellowstone National Park": 1}
 {"Oroville Dam": 6}
@@ -160,14 +160,14 @@
 {"Hauser Dam": 8}
 {}
 {"the Guajataca Dam": 3, "Guajataca Dam": 4, "Guajataca": 2, "Carraizo": 1, "Carite": 1, "Rio Blanco": 1, "The Guajataca Dam": 1}
-{"the Edenville Dam": 2, "Jefferson Avenue": 4, "Dow Diamond": 3, "E. Sugnet Road": 1, "Plymouth Pool": 2}
+{"the Edenville Dam": 2, "Jefferson Avenue": 4, "Dow Diamond": 3, "E. Sugnet Road": 1, "Plymouth Pool": 2, "Edenville Dam": 1, "Sanford Dam": 1}
 {"Oroville Dam": 8, "Oroville Dam Spillway": 1, "Beale Air Force Base": 1, "Kariba Hydo Electric Power Station": 1}
 {"The Hall Park Dam": 3, "Broken Bow Dam": 1, "Hall Park": 2, "the Hall Park Dam": 1, "Robinson Street": 1}
 {"Lake Wood": 3, "Lake Wood Dam": 2, "Lake Dunlap": 1, "GBRA": 1, "Dunlap": 1, "District 18": 1, "Dunlap Dam": 1, "the Lake Dunlap Dam": 1}
 {"Edenville": 1, "Sanford Dams": 1, "the Edenville and Sanford Dams": 2, "Sanford": 1, "Edenville Dam\u2019s": 1, "Sanford Dam": 4, "Edenville Dam": 5, "Sandford Dams": 1, "the Oroville Dam": 1}
 {"Mullaperiyar": 6, "Idukki Dam": 1}
 {}
-{"Banqiao Dam": 1, "Kariba": 1, "The Itaipu Dam": 1, "Addicks and Barker": 1, "the Guajataca Dam": 3, "Oroville Dam": 1, "Arthur A. Bowman": 1, "The\u00a0Kariba Dam": 1, "Ronald Reagan Building": 1}
+{"Banqiao Dam": 1, "Kariba": 1, "The Itaipu Dam": 1, "Addicks and Barker": 1, "the Guajataca Dam": 3, "Oroville Dam": 1, "Arthur A. Bowman": 1, "The\u00a0Kariba Dam": 1, "Ronald Reagan Building": 1, "dam infrastructure": 1}
 {"The Sanford Dam": 1, "West Main Street": 1, "Main Street": 1, "Saginaw Road": 1, "the Edenville Dam": 2, "Sanford Dam": 1}
 {"the Penfield Dam": 1, "Marcy Dam": 2, "Marcy Dam/Almanack": 1, "Dam 230": 1, "Damned Dam 230": 1, "Indian lake Dam": 1, "The Dam Road": 1, "Jerry Sevarie Rd": 1, "Mt Jo Long Trail": 1}
 {"Pebble": 2, "Mount Polley dam": 1, "Mount Polley": 3, "TSF": 1, "Iliamna Airport": 1}

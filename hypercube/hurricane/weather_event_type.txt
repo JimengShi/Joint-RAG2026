@@ -1,0 +1,844 @@
+{}
+{"atmospheric circulation": 2, "ocean warming": 1, "extreme weather events": 1, "trade winds": 1}
+{"moisture": 6, "winds": 2, "rainfall": 1, "sea surface temperature": 2}
+{"cyclones": 1}
+{"hurricane winds": 2, "rainfall": 1}
+{"hurricane frequency": 1, "intense hurricanes": 1, "major hurricanes": 1, "sea-surface temperatures": 2}
+{"storm": 7, "winds": 2, "clouds": 2, "radiative feedback": 1, "evaporation": 1}
+{"cyclone activity": 2, "storm movement speed": 1}
+{"winds": 1, "jet stream": 1}
+{"global temperatures increase": 1, "climate variability": 4, "warming": 2, "temperature": 2, "atmospheric variations": 1, "ocean variability": 1, "warming oceans": 1}
+{"temperature": 1}
+{"storms": 3, "storm events": 2, "intensification": 2, "heatwave": 2, "hurricane": 2, "heat content events": 1}
+{"sea-surface temperatures": 1, "temperature-depth profiles": 1, "surface currents": 1, "cooling": 1, "stratified": 1, "cold pool": 2, "thermocline": 1, "cooler surface temperatures": 1}
+{}
+{"rainfall": 5, "climate change": 3, "global warming": 4, "temperature": 2, "torrential rainfall": 1, "drought": 1, "temperature extremes": 1, "storm surge": 1, "flood": 1, "landslide": 1}
+{"rainwater": 1, "overflow": 2}
+{"precipitation patterns": 1, "temperature": 1, "salinity": 1}
+{"wind": 2, "wind shear": 2}
+{"wind": 2, "sea surface temperatures": 2, "vertical wind shear": 1, "trade winds": 1, "monsoon": 1}
+{"rainfall": 2, "fire": 4, "rain": 3, "flooding": 2, "landslides": 1, "winds": 2, "wind": 1, "rain-driven flooding": 1, "wildland fire": 1, "flash flooding": 1, "coastal flooding": 1}
+{"rainfall": 8, "flood": 3, "rainfall intensity": 2, "flood risks": 2}
+{"rain": 1, "hurricanes": 4, "storm": 2, "flooding": 1, "winds": 3, "rainfall": 1, "thunderstorms": 1}
+{"storm surges": 1, "extreme rainfall": 1, "high river discharge": 1, "floods": 1, "climatic extreme events": 1, "natural hazards": 1}
+{"rising waters": 1, "wave energy": 2, "wave heights": 2, "erosion": 1, "flood-damage": 1, "climate change": 2, "sea-level rise": 2, "extreme weather": 1, "hurricane damages": 1}
+{"winds": 2, "waves": 3, "high seas": 1, "rising water temperatures": 1}
+{"warming": 3, "temperature": 1, "climate": 2}
+{"atmospheric conditions": 1, "clouds": 3, "temperature fluctuations": 1, "water vapor": 1, "thermal radiation": 1}
+{"storm": 1, "climate change": 2, "natural hazards": 1}
+{"warming": 4, "storms": 4, "hurricane motion": 2, "winds": 2, "storm's strength": 1, "translational motion": 2, "forward speed": 1, "slow-moving": 1, "wind gusts": 1}
+{}
+{"wind": 4, "rain": 5, "rainfall": 3, "flooding": 1, "hurricane": 4, "storm": 2, "precipitation": 1, "moisture": 1, "tropical cyclone": 1}
+{"floodwaters": 1, "salinity": 1}
+{"storms": 5}
+{"storm winds": 2, "sea level rise": 3, "wind strength": 1, "atmospheric and oceanic circulation": 1}
+{"climate extremes": 1, "extreme weather": 3, "climate changes": 1, "temperature": 1, "dry conditions": 1, "ocean temperature": 1}
+{"movement rate": 1, "habitat selection": 1, "rain": 1}
+{"sea level rise": 5, "global warming": 1, "melting ice sheets": 1, "glaciers": 1, "expansion of sea water": 1}
+{"precipitation": 1, "rainfall": 3, "storm": 6, "winds": 1}
+{"fire": 4, "storm surge": 1, "wind gusts": 2}
+{"water temperatures": 1, "surface water temperature": 1, "ocean temperature": 1, "phase transitions": 1, "kinetic energy": 1}
+{"rainfall": 1, "heat wave": 1, "temperatures": 1}
+{"rains": 2, "rainfall": 3, "storm surges": 1, "winds": 2, "extreme rainfall": 1}
+{}
+{"climatic change": 1, "climate change": 1, "climate signal": 2, "global warming": 1}
+{"storm": 2, "wind": 2, "hurricane": 3, "winds": 2, "rains": 1}
+{"global warming": 3, "storms": 5, "rainfall": 6, "wind": 3, "temperature": 2, "sea surface temperatures": 2}
+{"disaster": 4}
+{"storm season": 1, "strong ocean waves": 1, "seismic source activity": 1, "seismic events": 2, "transcontinental surface waves": 1, "stormquake activity": 1, "seismic wave field": 1, "seismic waves": 1}
+{"flooded": 1, "storm surge": 1}
+{"climate change": 4, "tropical storms": 1, "sea level rise": 1, "waves": 1, "storm surge": 1, "high-tide flooding": 1, "warming oceans": 1}
+{"temperature": 1}
+{"intensity": 4, "prediction": 3, "rapid intensification": 1}
+{"storm": 3, "waves": 2, "sea-level rise": 2}
+{"storms": 2, "winds": 2, "cooling": 1, "currents": 2, "underwater waves": 1, "algae bloom": 2}
+{"flooding": 2, "sea-level rise": 1}
+{}
+{"raging winds": 1, "storm": 1}
+{"clouds": 1, "rain": 1, "hurricane intensity": 2, "hurricane vortex generation": 1, "eyewall": 1, "secondary circulations": 1, "cloud intensity": 1}
+{}
+{"rainfall": 4, "precipitation": 3, "flooding": 2, "rain": 1, "evaporation": 2}
+{"rainfall": 1, "temperature": 2}
+{}
+{"floodwaters": 2, "flooding": 2, "tropical storms": 1, "floods": 1}
+{"erosion": 5, "storm surges": 1, "flooding": 1}
+{"hurricane": 2, "storm": 1}
+{"rainfall": 4, "runoff": 1, "flood": 1}
+{}
+{}
+{"rainfall": 4, "precipitation": 4, "flooding": 3, "extreme rain": 1, "extreme precipitation": 2, "tropical cyclones": 1, "inland flooding": 1, "freshwater flooding": 1}
+{"flooding": 3, "rainfall": 1, "storm": 1}
+{}
+{"hurricanes": 3, "winds": 3, "rain": 2, "tropical cyclones": 1, "rainfall": 2}
+{}
+{}
+{"hurricanes": 3, "floods": 3, "tornadoes": 3, "natural disaster": 2, "emergency": 3, "wind": 1}
+{"landslides": 3, "rainfall": 2, "soil moisture": 1, "geology": 1}
+{"floodwaters": 1, "hurricane": 1, "storms": 1}
+{"illumination": 1}
+{"rainfall": 1, "gas exchange": 2, "chlorophyll": 2, "canopy damage": 1}
+{"rain": 1}
+{"rain": 1, "winds": 2, "storm": 2}
+{"rainfall": 4, "wind speeds": 2, "storm": 3, "flooding": 1, "global warming": 1, "greenhouse gas emissions": 1, "surface temperatures": 1, "cloud clusters": 1}
+{"rainfall": 8, "flooding": 5, "flood": 3, "winds": 2, "precipitation": 2, "storm-water infiltration": 1}
+{"windspeeds": 1, "storm surge": 1, "water temperature": 1}
+{"natural disasters": 2}
+{"rainstorms": 1, "rainfall": 1, "precipitation": 1, "winds": 2}
+{"clouds": 3, "rainfall": 2, "wind": 2, "temperature": 2, "thunderstorms": 2, "storm surges": 1, "humidity": 1}
+{"temperature": 1}
+{"thunderstorms": 2, "storms": 2, "tornado": 1, "hurricanes": 1, "fog": 1, "winds": 1, "snow": 1, "ice": 1, "fires": 1, "water vapor": 2, "lightning": 1}
+{"temperature": 2}
+{"hurricane-force winds": 1, "tropical-storm-force winds": 1, "clouds": 1, "storms": 2, "vertical wind shear": 1, "convection": 1, "eyewall": 1, "thunderstorms": 1, "rainfall": 1, "maximum sustained winds": 1, "gusts": 1}
+{"storm": 1}
+{"hurricane": 2, "storm surges": 1, "fires": 1}
+{"storms": 3, "cyclone": 1}
+{"winds": 1, "weather": 2}
+{}
+{"extreme events": 1, "heat stress": 1, "hot episodes": 1, "increasing temperatures": 1, "rain": 1}
+{"atmospheric circulation": 1, "wind shear": 2, "moisture": 2, "jet stream": 3, "sea ice": 5, "climate change": 1, "climate variability": 1}
+{"flooded": 1, "landslides": 1}
+{"flooding": 3, "rainfall": 1, "storm-water runoff": 1}
+{"storm": 4, "radio blackout": 1, "wind": 1, "rain": 1}
+{"flood": 4, "wind": 1, "rain": 1, "soil moisture": 2}
+{"winds": 3, "hurricane-force winds": 1, "high winds": 1}
+{"temperature inversion": 1, "cloud": 3, "sunlight": 2, "sea surface temperature": 2, "land surface temperature": 1, "radiation": 1, "atmosphere": 2, "cumulus clouds": 1}
+{"sea level": 1, "river deltas": 1, "salt water flooding": 1, "rainfall variability": 1}
+{"dust storms": 2, "winds": 1, "aerosols": 1}
+{"wind": 1, "extreme rainfall": 1}
+{"hurricane": 4, "winds": 2}
+{"sea level": 2, "high tide": 1, "low tide": 1, "seasonal fluctuations": 2, "rossby waves": 2, "tides": 1, "storm drains": 1}
+{"wind": 2, "sea surface temperatures": 2, "warming": 1, "wind shear": 1}
+{"wind": 1, "rain": 2, "rainfall": 3, "global temperatures": 1, "warming": 1, "climate change": 2, "water vapor": 1}
+{"landfall": 1}
+{"storm": 5, "hurricanes": 5, "rain": 2, "winds": 1, "rainfall": 1}
+{"lightning": 1, "gamma-ray": 5, "x-rays": 2, "radiation": 2, "electric fields": 1}
+{}
+{"moisture": 1, "rains": 1, "precipitation": 1, "flooding": 1, "rain": 2, "winds": 1, "evaporation": 3, "heat": 4, "temperature": 2, "sea surface temperatures": 1, "latent heat": 1, "water vapor": 1}
+{"temperature": 3, "wind speed": 2, "sea temperature": 1, "humidity": 1, "clouds": 1, "heat content": 2, "wind direction": 1}
+{"temperature": 3, "cooling": 1, "winds": 2, "sea surface temperatures": 3, "circulation": 2, "warming": 2}
+{"rainfall": 1, "rain": 1}
+{"psychological distress": 2, "physical injury": 2, "infections": 1, "respiratory problems": 1, "allergies": 1, "depression/anxiety": 1, "headaches": 1, "skin rashes": 1}
+{"hurricane": 2, "storm": 2}
+{"waves": 3, "wind": 2}
+{}
+{"climate changes": 1, "temperatures": 1}
+{"sea surface temperature": 4, "evaporation": 1, "precipitation": 1}
+{"storms": 3, "hurricane": 1, "snow": 1, "weather conditions": 1, "bad weather": 1}
+{"global temperature increases": 1, "rising seas": 1, "high tides": 1, "storm surge": 1, "storm tide": 1, "rising mean sea levels": 1, "extreme sea levels": 2, "rising global sea level": 1, "global mean surface temperature": 1, "global temperatures": 1, "warming": 1}
+{"erosion": 4, "sea level rise": 4, "storms": 1, "climate change": 1}
+{"seismic data": 3, "seismic record": 3, "secondary microseisms": 2, "ocean waves": 2, "wind-driven ocean storms": 1, "waves crashing": 1}
+{"ambient sounds": 1, "fish choruses": 2, "snapping shrimp activity": 2, "bird and insect calls": 1, "insect sounds": 2, "snapping rhythm": 1, "snapping activity": 1, "turbidity": 2, "high-frequency shrimp snaps": 1, "vocalizations": 1}
+{"storm surges": 6, "atmospheric circulation": 3, "onshore winds": 1, "wind gusts": 1}
+{"wave energy": 1, "hurricane exposure": 1}
+{"rain": 1, "storm": 1}
+{"flooding": 2, "hydrologic (water-related)": 1}
+{"fire": 1}
+{}
+{"rain": 2, "rainwater": 3, "winds": 1}
+{"flooding": 1, "extreme weather events": 4, "extreme storms": 1}
+{}
+{"flooding": 1, "wind damage": 1, "rainfall": 5, "precipitation": 3, "temperatures": 2}
+{"extremely severe cyclonic storm (escs)": 2, "wind": 3, "rain": 1, "flooding": 1, "temperatures": 1}
+{"wind": 2, "flooding": 1, "precipitation": 2, "storm surge": 2}
+{"wind hazard": 1, "hazard intensity": 1, "hazard occurrence rate": 1}
+{"drought": 2, "cyclone activity": 2, "temperature": 1}
+{"rainfall": 5, "rain": 2, "storms": 4, "hurricanes": 2, "extreme rainfall": 2, "floods": 1}
+{"wind speed": 5, "central pressure deficit": 3, "pressure": 2, "sea surface temperatures": 1, "solar radiation": 2, "ocean temperature": 1}
+{}
+{"hurricane-force winds": 1}
+{"rainfall": 1, "floodwater": 3, "freshwater": 2, "precipitation": 1}
+{"sea surface temperature": 1, "ocean temperatures": 1, "wind": 2, "wind-driven rain": 1, "storm surge": 1, "flooding": 1}
+{"storm": 1}
+{"forecast": 7, "intensity": 3, "size": 3, "damage": 1}
+{"sea surface temperatures": 3, "wind shear": 1, "humidity": 1}
+{"storm surge": 2, "high tides": 1}
+{"flooding": 1, "climate change": 2}
+{"rainfall": 1, "low salinity": 2, "harmful algal blooms": 2, "low oxygen levels": 2, "freshwater": 3}
+{"flood": 1, "flooding": 2, "wind": 1, "stormwater": 2, "hurricane": 2}
+{"rain": 3, "flood": 5, "rainfall": 2}
+{"temperature spikes": 1, "storms": 1, "flooding": 1}
+{"wind": 8, "pollution": 1, "turbulence": 1}
+{"flood": 2}
+{"flood": 3, "storm": 1, "coastal waters": 1}
+{"sea level rise": 1, "storms": 1, "flooding": 2, "erosion": 1}
+{"wave direction": 1, "sea level rise": 2, "storm patterns": 2, "wave energy": 1, "hurricane-force winds": 1, "intense rain": 1, "large ocean waves": 1, "coastal erosion": 2, "storm tides": 1}
+{"high tides": 1, "waves": 1, "storm": 2, "sea level rise": 2}
+{"dust emission": 2, "solar radiation": 1, "insolation": 1, "atmospheric circulation": 1}
+{"wind": 4, "hurricane-force winds": 1}
+{"tropical storms": 1, "hurricanes": 2, "intense hurricanes": 1, "cyclonic activity": 1, "storm": 1, "category 2 storm": 1, "category 5": 1, "category 4": 1, "relative humidity": 1}
+{"weather disaster": 1, "tropical cyclone/hurricane": 1, "extreme weather": 1, "weather-related events": 2, "extreme events": 1, "disasters": 2}
+{"waves": 5, "atmospheric gravity waves": 1, "thunderstorms": 1, "wind": 1}
+{"winds": 1, "storms": 2}
+{}
+{"ocean temperature": 1, "salinity": 1, "currents": 1, "wind events": 1, "thermal layers": 1, "intensity": 2, "heat and moisture fluxes": 1}
+{"waves": 5, "wind": 1}
+{"warm ocean temperatures": 1, "low vertical wind shear": 1, "cooler than average sea surface temperatures": 1, "higher than average wind shears": 1, "ocean temperatures": 2, "wind shear": 3, "sea surface temperatures": 2, "high ocean temperatures": 1, "high shear": 1, "low wind shear": 1, "higher wind shear": 1, "lower wind shears": 1}
+{"temperature": 1, "pressure": 1, "humidity": 1, "wind velocity": 1, "winds": 2}
+{"storms": 2, "drought": 1, "severe weather": 2, "hurricanes": 1, "thunderstorms": 1, "winter storms": 1, "wind storms": 1}
+{"high winds": 1, "sea spray": 3, "evaporation": 1, "wind speeds": 1}
+{"flooding": 1, "coastal erosion": 1, "sediment transfer": 1, "saltwater intrusion": 1}
+{"storm": 3, "storms": 4, "hurricane track": 3, "hurricane activity": 1, "hurricane risk": 1, "hurricane history": 1, "sea surface temperatures": 2, "moisture belts": 1}
+{"erosion": 6, "waves": 1, "storm": 2, "flooding": 1}
+{}
+{"temperatures": 5, "climate change": 3, "greenhouse gases": 2, "sea ice": 3, "melting": 2, "ocean heat": 1, "sea-level rise": 2, "rainfall": 1, "heat": 1, "storm surges": 1, "cyclones": 1, "rainy season": 1, "precipitation": 1}
+{"climate": 1, "warming": 2, "temperatures": 1}
+{}
+{"rainfall": 2, "flooding": 2, "fresh water flooding": 1, "weather and climate disasters": 1}
+{"warming": 2, "temperature": 1, "rainfall": 1, "snowfall": 1, "precipitation": 1, "wind speeds": 1, "flooding": 2, "storm surge": 2, "winds": 2, "storm surge flooding": 1, "wind damage": 1, "coastal flooding": 1, "inland flooding": 1, "storm tracks": 1}
+{"landfall": 2, "wind": 2, "rainfall": 1, "storm surge": 1}
+{"hurricanes": 2, "typhoons": 1, "storm surges": 2, "melting ice": 1, "tropical cyclones": 1}
+{"surges": 3, "waves": 1, "water levels": 2, "low pressure": 1}
+{"storm trends": 2, "storm surges": 2, "gale winds": 1, "high winds": 1}
+{"wind speed": 1}
+{"temperature": 1}
+{"warming": 3, "rain": 1, "wind": 1, "temperature": 1, "flooding": 1}
+{"wind": 3, "rain": 1, "storm surge": 1, "flooding": 2}
+{"nutrient runoff": 1, "nutrient loading": 1}
+{"storms": 6, "waves": 6, "currents": 3, "erosion": 2, "storm surge": 1, "overwash": 1}
+{"floods": 1, "storm": 3, "pressure": 3, "atmosphere": 2}
+{"wind speed": 2, "sea level pressure": 2, "temperature": 1, "moisture": 1}
+{"landfall": 3, "flooding": 1, "rainfall": 1, "temperature": 1}
+{}
+{"disaster": 2}
+{"wind": 2, "temperature": 3, "water vapor": 4, "clouds": 4, "brightness temperature": 5, "radiation": 3}
+{"extreme weather events": 5, "climate change": 8, "storm frequency": 1, "intensity": 1}
+{"hurricane intensity": 2, "hurricane track": 1, "storm intensities": 1, "wind speeds": 1, "winds": 1, "cooling": 4}
+{"sunspot activity": 2, "cool temperatures": 1, "solar radiation": 1, "greenhouse gas emissions": 1}
+{"wave-derived overwash deposition": 1, "storm overwash": 1, "storm waves": 1, "storm-wave energy": 1, "wave energy": 2, "storm surge elevations": 1}
+{"sea surface temperature": 3, "rain": 2, "winds": 2, "storm surge": 1, "air temperature": 1, "moisture": 1}
+{"winds": 4, "tropical-storm force": 1, "hurricane force winds": 1, "tropical storm force winds": 1, "low pressure system": 1, "thunderstorms": 1, "deep convection": 1}
+{"thunderstorms": 2, "convection": 1, "wind shear": 1}
+{"cyclone-force winds": 1}
+{"storms": 3, "waves": 4, "hurricanes": 3, "northeast storms": 1, "wind climate": 1, "wave climate": 1}
+{"climate change": 8, "rising temperatures": 1}
+{"floods": 1, "storm": 1, "hurricane-surge": 2, "sea-level rise": 1}
+{"precipitation": 2, "climate change": 2}
+{"ocean heat content": 3, "surface temperature": 2, "currents": 2, "eddies": 3, "fronts": 3, "current": 2, "temperature": 1, "salinities": 1}
+{"temperature": 2, "rainfall": 1}
+{"sea-level rise": 4, "storm surge": 1, "flood heights": 2, "flood risk": 1, "hurricane activity": 1}
+{}
+{"flood": 3}
+{"storms": 4, "hurricanes": 1, "climate change": 3}
+{"hurricanes": 3, "rainfall": 1, "rain": 1, "fire": 4, "storms": 1, "lightning": 1}
+{"storm": 4, "upwelling": 2, "downwelling": 3, "ocean temperatures": 1, "currents": 1}
+{"storm": 3, "flood": 1, "storm surge": 1}
+{"flooding": 4, "storm surge": 6, "high precipitation": 2, "rainfall": 3, "river discharge": 2, "extreme storm surge": 1}
+{"sediment": 8, "waves": 8, "sand": 3, "silt": 1}
+{"oxygen levels": 1, "nutrient pollution": 1, "nitrate": 2, "phosphorus": 1}
+{}
+{"storm": 2, "sea level rise": 2, "subsidence": 2, "coastal storm surge flooding": 1, "currents": 2, "water levels": 2, "winds": 1, "density of the water": 1}
+{"winds": 3, "storm surge": 3, "sea surface temperatures": 1, "frontal boundaries": 2, "jet stream": 2, "low-pressure systems": 1}
+{"rainfall": 1, "soil moisture": 2, "atmospheric circulation": 1, "saturation": 1}
+{"ocean temperatures": 1, "wind speed": 1, "storm season": 1}
+{"tropical cyclones": 1, "eyewall replacement cycle": 2, "rain": 5, "rainfall": 1, "winds": 1, "latent heating": 1, "convection": 1, "updrafts": 1}
+{"wind": 2, "sea surface temperatures": 2}
+{"rain": 1, "rainfall": 2}
+{"rainfall": 2, "precipitation": 2, "sea surface temperature": 3}
+{"sea surface temperature": 1, "currents": 2, "atmospheric patterns": 1, "hypoxia": 1}
+{"disturbances": 5, "cloud cover": 3, "cloud tops": 2, "waves": 2, "cyclone energy": 1}
+{"waves": 1, "hurricanes": 2}
+{"storms": 3, "currents": 3, "flow": 3}
+{"wave": 2, "sea level": 3, "wind speed": 1, "tropical cyclones": 1, "flood": 1}
+{"sea level rise": 7, "storm surges": 1, "warming": 3, "temperature rise": 2, "ice melt": 2, "flooding": 1}
+{"wind": 3, "storm intensity": 2, "extreme weather": 2, "storm surge": 1, "rain": 1}
+{"temperature": 1, "climate change": 3}
+{}
+{"sea-level rise": 3, "wave energy": 1, "storms": 2, "erosion": 1, "wave climate change": 1, "saltwater intrusion": 1}
+{"climate disturbance": 1, "surface ocean warming": 1, "tropical cyclone (tc) activity": 1, "atmospheric conditions": 1, "vertical wind shear": 1, "oceanic environment": 1, "heat": 5, "subsurface heat": 1, "tropical atmospheric circulation": 1, "global climate warms": 1}
+{"high temperatures": 1, "warmest winter": 1, "warmer winter temperatures": 1, "warm weather": 1, "warmer winters": 1}
+{"evacuation": 2}
+{"temperature": 3, "winds": 2, "sea-surface temperatures": 2, "heat": 2}
+{"storm surges": 1, "wind damage": 1, "flooding": 3, "storms": 2}
+{"extreme events": 3, "storm": 1}
+{"rainfall": 2, "rain": 1, "ocean water level": 1, "storm": 1, "climate change": 2}
+{"warming ocean temperatures": 1, "solar radiation": 2, "increased ocean acidification": 1}
+{"power outages": 1}
+{"waves": 1}
+{"cloud": 5, "aerosols": 2, "dust": 3, "smoke": 1, "pollution": 1, "water": 1, "ice": 1}
+{"cloud": 4, "aerosols": 2, "dust": 3, "smoke": 1, "pollution": 1, "water": 1, "ice": 1}
+{"wind": 4, "kinetic energy": 2, "flooding": 2}
+{}
+{"lightning": 3, "rainfall": 1, "cloud cover": 1, "temperature": 1, "winds": 1, "sulfate aerosols": 1, "cloud droplets": 1, "raindrops": 1}
+{"wind": 3, "water temperature": 1, "air-water interface": 2, "waves": 1, "spray": 1}
+{"storm": 2, "winds": 5, "rain": 3, "temperature": 1}
+{"extreme precipitation": 2, "drought": 2}
+{"wind": 2, "wave": 2}
+{"rain": 2, "ice": 1, "precipitation": 4, "storm": 3, "rain bands": 1, "eye wall": 1, "rainbands": 1}
+{"wind": 8, "solar heat": 1, "sea breezes": 1}
+{"aftermath": 1, "landfall": 1, "damage": 2, "power outages": 1}
+{}
+{"carbon dioxide": 2, "sunlight": 1, "energy": 2, "photosynthesis": 1, "respiration": 2, "carbon emissions": 1, "climate change": 1, "global warming": 1}
+{"severe hurricanes": 2, "severe storms": 2, "hurricane fatalities": 1, "damaging storms": 1, "severe hurricane": 1, "severe storm": 1}
+{"wind": 1, "precipitation": 1, "temperature": 1, "humidity": 1, "rainfall": 1, "ocean surface winds": 1}
+{"wind shear": 2, "trade winds": 2, "atmospheric stability": 1, "cloud systems": 1, "temperatures": 2, "storm surge flood": 1}
+{"wind": 2, "rain": 2, "flooding": 1, "rainfall": 1}
+{"hurricane season": 3, "vertical wind shear": 1}
+{"maximum intensity": 2, "warming climate": 1, "vertical wind shear": 1, "wind": 1, "ocean temperatures": 1}
+{"natural disaster": 1, "climate change": 1}
+{"rainfall": 3, "temperature": 2, "winds": 1, "precipitation": 1, "dust plumes": 1, "convection": 1, "sea surface temperature": 1, "wind shear": 1}
+{"flood": 1, "storms": 1, "severe weather": 1, "climate change": 3}
+{"tropical cyclone": 1, "storm tide": 3, "flooding": 2, "storm surge": 2, "wind": 1, "rainfall": 1}
+{}
+{"moisture": 3, "storms": 2}
+{"hurricane": 3, "rain": 3, "winds": 1, "precipitation": 2, "rainfall": 1}
+{"aerosols": 5, "precipitation": 1, "rainbands": 1, "wind speeds": 1, "winds": 1}
+{"air pollution": 1, "wind": 4, "storm surge": 3, "wave height": 1}
+{"storm": 3, "rainfall": 1, "precipitation": 1, "clouds": 1, "winds": 1}
+{"erosion": 3, "sea-level rise": 2, "storm": 3}
+{"atmospheric pressure": 1, "greenhouse warming": 1, "sea ice cover": 1, "thawing coastal permafrost": 1}
+{}
+{}
+{"storm": 4}
+{}
+{"wind": 2, "temperature": 1, "air pressure": 2, "precipitation": 1, "sea ice": 2}
+{"erosion": 3, "pollutants": 1, "heavy metals": 1, "sea-level rise": 1}
+{"flood": 3, "flooding": 3, "sea level rise": 8, "shoreline erosion": 1, "barrier island degradation": 1, "shoreline retreat": 1, "climate variability": 1}
+{"storm": 3, "hurricane": 3}
+{}
+{"tropical cyclone": 1, "thunderstorms": 3, "rain": 1, "storm": 1}
+{"hurricane": 5, "atmospheric pressure": 3}
+{"storm": 2, "flood": 2, "floodwaters": 1, "sea level": 1, "storm surge": 1, "rising waters": 1}
+{"sea level": 3, "storm": 3, "tide": 2}
+{"storm": 5, "flooding": 2, "storm surge": 2, "high tide": 1}
+{"landfall": 2}
+{"power outages": 1}
+{"air contaminants": 1, "airborne dust particles": 1, "solar radiation": 1, "sea surface temperatures": 1, "climate change": 1}
+{"flood": 3, "storm surge": 1}
+{"circulation": 1, "dust layer": 1, "clouds": 1, "temperature": 1, "dewpoint": 1, "convection": 1}
+{"storm": 3, "cyclone": 1, "storm waves": 1}
+{"lightning": 1}
+{"winds": 2, "flooding": 1}
+{"storm": 3, "storm surge": 1}
+{"flooding": 1, "high winds": 1, "rainfall": 1, "evaporation": 2, "latent heat": 2}
+{"waves": 2, "flooding": 2, "erosion": 1, "overwash": 1, "breaches": 1, "storm": 2, "sea level rises": 1}
+{"wind": 5, "wind speed": 5, "pressure": 1, "humidity": 1, "temperature": 1}
+{"temperature": 2, "rainfall": 1, "warming": 2, "cool": 1}
+{"dust": 5, "cloud": 3, "precipitation": 1, "raindrops": 1, "temperature": 2, "humidity": 2, "winds": 1, "convection": 1, "thunderstorms": 2}
+{"salinity": 1, "chlorophyll": 1, "nitrogen": 2, "flushing": 2}
+{"pressure": 1, "temperature": 1, "humidity": 1, "wind": 2, "waves": 2, "warm, moist air": 1, "heat transfer": 1}
+{"hurricanes": 6, "storms": 6, "tropical activity": 1, "wind shear": 1, "tropical systems": 1}
+{"eyewall": 1, "rainband": 1, "winds": 2, "precipitation": 2, "convection": 1, "storms": 5, "gamma ray emissions": 1, "lightning": 1, "rain": 1, "temperature": 1, "humidity": 1, "cloud physics": 1}
+{"hurricane": 5, "storm": 5, "winds": 3, "rain": 1, "flooding": 1, "tornadoes": 1, "wind shear": 1}
+{"global warming": 2, "moisture": 2, "wind": 2, "temperature": 2, "vertical wind shear": 1, "dry conditions": 1, "westerly subtropical jet": 2, "easterly": 1}
+{"storm": 3, "wind": 2, "storm surge": 2, "waves": 2}
+{"seismic waves": 6, "microseisms": 3, "storm surge": 1, "tropical-storm-force winds": 1, "standing waves": 3, "wind speeds": 1}
+{"evaporation": 1, "warming": 2, "temperatures": 4, "global warming": 3}
+{}
+{"storm": 2, "hurricanes": 1, "tornados": 1, "earthquakes": 1, "tsunamis": 1}
+{"sea ice loss": 2, "atmospheric phenomena": 1, "high-pressure blocking pattern": 1, "east winds": 1, "high tides": 1, "ocean waves": 1}
+{"tides": 2, "winds": 1, "erosion": 3}
+{"power outages": 1, "destruction": 2, "damage": 2}
+{"precipitation": 2, "storm clouds": 1, "hurricane": 1}
+{"thunderstorms": 1, "winds": 1, "storm": 3, "squall line": 1, "droughts": 1}
+{"precipitation": 4, "temperature": 5, "snow": 2, "snowfall": 1, "snow cover": 1, "heat": 1, "storm surge": 1, "torrential rains": 1}
+{"rainy season": 1, "thunderstorms": 1, "precipitation": 1, "hot and dry": 1, "storms": 2, "solar wind": 1}
+{"storm": 1}
+{"precipitation": 2, "temperature": 2}
+{"storm intensity": 1, "duration": 1, "frequency": 1}
+{"flooding": 1}
+{"storm": 3, "tropical weather": 1, "bad weather": 1}
+{"temperature": 1}
+{"rain": 1, "wind": 3, "storm": 4, "hurricane": 3, "winter storm": 1}
+{"wind": 1}
+{"storm": 3}
+{"flooding": 1}
+{"infrared": 1, "jet stream": 1, "tropical": 2, "extratropical": 1, "thunderstorms": 1, "flooding": 1, "wind": 1}
+{"flooding": 1}
+{"sunlight": 2}
+{"snow": 4, "rain": 3, "wind": 2, "temperature": 1, "precipitation": 2}
+{"strong winds": 1, "high tides": 1, "heavy rainfall": 1, "rainfall": 3, "high winds": 1, "remnant clouds": 1}
+{"outages": 3, "wind": 2, "gust wind speed": 1, "strong winds": 1}
+{"auroras": 1, "airglow": 1, "gas flares": 1, "city lights": 2, "fires": 1, "reflected moonlight": 1, "clouds": 1, "hurricane-force winds": 1, "tropical-storm-force winds": 1}
+{"tropical depression": 1, "cold front": 1, "high pressure air mass": 1, "storm": 3, "storm surges": 1, "blizzard conditions": 1, "surface trough": 1, "low pressure": 1, "gale warnings": 1, "small craft advisories": 2, "flood": 2, "coastal flood": 1, "winter storm warnings": 1, "winter weather advisories": 1}
+{}
+{"circulation": 2, "winds": 4, "rainfall": 1, "snow": 2, "snowfall": 2, "gale force winds": 2, "flash flood": 1}
+{"outages": 5, "wind": 1, "strong winds": 1}
+{"storm": 3, "hurricanes": 2}
+{"power outages": 2, "temperature": 3, "ventilation": 1, "lighting": 1, "environmental conditions": 1}
+{"winds": 5, "precipitation": 1, "showers": 1, "thunderstorms": 2, "rain": 1, "snow": 2, "rainfall": 3, "snowfall": 2, "surf conditions": 1, "flooding": 1, "temperature": 2}
+{"hurricane": 4, "storm": 3, "rain": 1, "wind": 2, "precipitation": 1}
+{"rainfall": 3, "winds": 3, "rain": 2, "convection": 1, "surf": 1, "waves": 1}
+{"storm intensity": 1, "tides": 1, "overwash": 3, "storm surge": 3, "waves": 2, "beach and dune erosion": 3, "inundation": 2, "collision": 1}
+{"storm-tide": 4, "storm-surge": 3, "tidal-surge": 1, "wind": 2, "flood": 2, "precipitation": 1}
+{"rainfall": 5, "cloud cover": 2, "cold front": 3, "winds": 5, "flooding": 2, "surf": 1, "waves": 1, "storm surge": 2, "tide": 1, "thunderstorms": 2, "convection": 1}
+{"rainfall": 8, "storm surge": 3, "flooding": 2, "winds": 3, "snow": 1, "surf": 1, "waves": 1, "clouds": 1}
+{"thunderstorms": 1, "storm": 3, "hurricane": 3, "tropical-storm-force winds": 2, "wind": 1, "cold front": 1}
+{"gale-force winds": 1, "rainfall": 3, "flooding": 2, "storm surge": 2, "wind": 1, "wind shear": 1, "rain": 1, "santa ana winds": 1, "fire threat": 1}
+{"storm surges": 3, "sea level": 2, "global temperatures": 1, "temperature": 1}
+{"winds": 3, "pressure": 1, "temperature": 1, "humidity": 1}
+{"rain": 2, "hurricanes": 1}
+{"wind": 3, "temperature": 3, "humidity": 2, "aerosol": 1, "rain": 3, "water vapor": 2, "precipitation": 1}
+{"flooding": 2, "rain": 1, "floods": 1, "tremors": 1}
+{"hurricane": 2, "tropical depression": 3, "low pressure area": 1, "rainfall": 1, "rain": 1}
+{"temperature": 1, "humidity": 1}
+{"winds": 3, "temperature": 3, "water vapor": 3, "precipitation": 3, "aerosols": 2, "cloud structure": 2, "rain": 1, "humidity": 1, "rainband": 1, "eyewall": 1, "sea surface temperature": 1, "dust": 1, "sea salt": 1, "smoke particles": 1, "wind fields": 1, "rain rates": 1}
+{"cloud-top temperatures": 1, "rain": 1}
+{"winds": 3, "waves": 1}
+{"winds": 1, "rainfall": 1, "rain": 2, "hot towers": 3, "cumulonimbus cloud": 1, "precipitation": 3, "updrafts": 2, "latent heat": 2, "radar echos": 1}
+{"wind": 1, "storm": 4, "hurricane": 3}
+{"rain": 3, "wind": 3, "showers": 1, "thunderstorms": 1}
+{}
+{"heavy rain": 2, "cold fronts": 1, "warm fronts": 1, "winds": 2, "moisture": 1, "humidity": 2, "heat": 1, "cool nights": 1, "warm days": 1, "calm days": 1}
+{"funnel": 1, "debris": 2, "flood": 1}
+{"sea surface temperature": 3, "rainfall": 2, "cloud reflectivity": 1}
+{"winds": 3, "turbulence": 1, "precipitation": 2, "temperature": 3, "humidity": 2, "cloud structure": 2, "aerosols": 2, "rain": 1}
+{"rain": 1, "winds": 2, "heat": 4, "temperature": 2}
+{"hurricanes": 3, "storm": 2, "wind": 1, "sea surface temperatures": 1, "flooding": 1}
+{"turbulence": 2, "unstable air": 1}
+{"high-pressure system": 1, "hottest summer weather": 1, "extreme heat": 2, "dehydration": 1}
+{"rainfall": 2}
+{"storm": 5, "stress": 5, "ventilator": 2, "meconium aspiration": 2, "respiratory problems": 1, "breathing problems": 1}
+{"temperature": 2, "water vapor": 2, "rainfall": 1}
+{"clouds": 4, "showers": 2, "thunderstorms": 2, "winds": 3, "rainfall": 2, "storm surges": 1, "tornadoes": 1}
+{"winds": 3, "sea surface temperatures": 2, "wind shear": 1}
+{"temperature": 1, "precipitation": 2, "rains": 1, "drier-than-average": 1}
+{"wind": 1, "water": 1, "waves": 1}
+{"storm": 3, "winds": 2, "precipitation": 1, "clouds": 1, "convection": 1, "humidity": 1, "temperature": 2}
+{"rainfalls": 1, "rain": 2, "hottest summer": 2, "heat": 1, "temperature": 2, "precipitation": 2, "storms": 1, "typhoons": 1, "hurricanes": 1, "cold extremes": 1, "heat extremes": 1}
+{"storm": 3, "thunderstorms": 1, "cloud top temperatures": 1, "winds": 2}
+{"storm": 8, "sea level": 3, "wind": 2}
+{"climate change": 5, "warming": 1, "barometric pressure": 1, "wind speed": 1}
+{"rainfall": 1, "rain": 1, "wind": 1}
+{"cyclonic weather": 1, "thunderstorms": 2, "storm": 2, "wind gusts": 1, "wind shear": 1}
+{"clouds": 2, "winds": 1}
+{"cloud top temperatures": 1, "convection": 1, "thunderstorms": 2, "easterly wind shear": 1, "rainfall": 2, "winds": 2, "rough surf": 1, "sea surface temperatures": 1}
+{"storm": 2, "hurricane": 3}
+{"cloud": 3, "rainfall": 3, "temperature": 2, "thunderstorm": 1, "hurricane-force winds": 1, "winds": 1, "waves": 1}
+{"climate warming": 1, "winds": 2, "rain": 2, "moist air": 1, "cold air": 1, "updrafts": 2, "helicity": 1}
+{"sea surface temperature (sst)": 1, "surface temperature": 1, "hurricane": 1, "nao (north atlantic oscillation)": 1}
+{"rain": 2, "heavy rain": 1, "erosion": 1, "tropical cyclones": 1}
+{"rainfall": 3, "storms": 2, "showers": 1, "thunderstorms": 2, "wind": 1, "wind shear": 1}
+{"winds": 1, "thunderstorms": 2}
+{"storm intensity": 2, "vortex initialization": 2, "air-sea fluxes": 1, "clouds": 1, "convection": 1, "ocean circulation": 1, "wave components": 1}
+{"storm-surge flooding": 1}
+{"electromagnetic radiation": 1, "energetic particles": 1, "explosive heat": 1, "electric fluctuations": 1}
+{"hurricane warning": 2, "tropical storm warning": 1, "thunderstorms": 2, "rainfall": 2, "convection": 1, "winds": 3, "cloud top temperatures": 1, "infrared imagery": 2, "ocean temperatures": 1}
+{"rainfall": 3, "rain": 1, "winds": 1, "wind shear": 1, "convection": 1, "thunderstorms": 2, "cloud top temperatures": 2}
+{"climate change": 2}
+{"convection": 2, "rainfall": 1, "winds": 1, "wind shear": 1, "cloud tops": 2}
+{"rainfall": 1, "storm surge": 1, "rough seas": 1, "cloud top temperatures": 2, "thunderstorms": 1}
+{}
+{"convection": 3, "thunderstorms": 2, "cloud tops": 1, "wind": 1, "pressure": 1}
+{"cloud heights": 1, "rainfall rates": 1, "rainfall": 1, "winds": 1, "convective towers": 1, "hot towers": 1}
+{"temperature": 3, "precipitation": 2}
+{"storm": 1, "severe weather": 1}
+{"rains": 1, "storm": 3}
+{"temperature": 2, "water vapor": 1, "clouds": 3, "precipitation": 1}
+{"tides": 2, "wind speed": 1, "storm surge": 1, "waves": 1, "beach erosion": 1}
+{"hurricane": 5, "tropical storm-force winds": 1, "hurricane-force winds": 2, "wind gusts": 1, "rip currents": 1, "high surf": 1, "rainbands": 1, "showers": 1, "thunderstorms": 1, "cloud": 1, "sea surface temperature": 1}
+{"wind": 2, "storms": 2, "earthquake": 2, "high winds": 1}
+{"low pressure area": 3, "winds": 3, "cooler waters": 2, "wind shear": 2, "rainfall": 1, "gusty winds": 1, "showers": 1, "thunderstorms": 1, "ocean swells": 1, "surf": 1, "rip current": 1}
+{}
+{"climate": 1, "sea surface height": 3, "cool and foggy spring": 1, "jet stream patterns": 1, "weather swings": 1, "soaking": 1, "wild and punishing weather": 1, "mild hurricane season": 1}
+{"jet stream": 6, "humid atmosphere": 1, "moisture": 1, "uplift": 1, "wind pattern": 1, "rotation": 1, "death and destruction": 1, "hurricane": 1, "climate system": 1, "weather system": 1}
+{"flood": 1, "heat wave": 1, "earthquake": 1}
+{"rainfall": 4, "rain": 1, "thunderstorm": 2, "storm": 1, "winds": 1, "severe weather": 1}
+{"rain": 1, "landslides": 5, "sediment": 3, "erosion": 3}
+{"sea level rise": 6, "storms": 2, "climate change": 4}
+{"rapid intensification": 4, "convection": 1, "thunderstorms": 2, "winds": 2, "precipitation": 1, "surface temperature": 1}
+{"carbon emissions": 2, "carbon sink": 2, "carbon dioxide": 2, "greenhouse gas": 1, "global warming": 1, "climate change": 1, "climate": 1}
+{"stress": 5, "posttraumatic stress symptoms": 2}
+{"heat stress": 1, "high summer temperatures": 1}
+{}
+{"flooding": 1}
+{"rain": 1, "storm surges": 1, "flooding": 1}
+{"rain": 2, "snowpack": 2, "temperature": 2, "wind": 1, "humidity": 1, "cloud": 1}
+{"ambient noise": 1, "microseisms": 1, "surface waves": 1, "ocean storms": 1, "storm": 1}
+{"storm": 5, "hurricane": 8, "winds": 4, "storm surge": 2, "rainfall": 1, "tide": 1, "gale": 1}
+{"rainfall": 2, "thunderstorms": 1, "convection": 1, "rain": 1, "winds": 2, "waveheights": 1, "pressure": 2}
+{"winds": 1, "temperature": 2, "precipitation": 1, "clouds": 3}
+{"temperature": 2, "water vapor": 1, "clouds": 3, "precipitation": 1, "thunderstorm": 1, "winds": 2, "wind shear": 2}
+{"precipitation": 2, "rainfall": 2, "dry conditions": 1, "wildfire danger": 1, "fires": 1}
+{"severe weather": 2, "storms": 1, "gusty winds": 1, "heavy rain": 1, "thunderclouds": 1, "air pressure": 4}
+{"wind": 1, "lightning": 1, "cloud": 2, "precipitation": 1, "humidity": 1, "pressure": 1, "temperature": 1}
+{"sea surface temperatures": 1, "thermal stress": 3, "high temperatures": 2, "temperatures": 2, "cooling": 1}
+{"wind": 6, "wind setdown": 2, "hurricane": 2, "windstorm": 1}
+{"storm": 2, "storm surge": 1, "storm waves": 1, "tropical storm": 1, "rough seas": 1}
+{"solar activity": 1, "weather": 3}
+{"hot gas": 1, "magnetic forces": 1, "solar activity": 2}
+{}
+{"storm": 1}
+{"rain": 5, "hailstones": 1, "snowflakes": 1, "ice needles": 1, "precipitation": 5, "rainfall": 3, "microwave radiation": 2, "brightness temperature": 2, "clouds": 1, "lightning": 1}
+{"air circulation": 3, "heat distribution": 1, "winds": 1, "temperature": 1}
+{"storm": 2, "wind": 2, "temperature": 2, "heat": 1, "moisture": 1, "humidity": 1, "currents": 1, "waves": 1, "turbulence": 1, "aerosol": 1, "sea spray": 1}
+{"storms": 5, "temperature": 2, "winds": 2, "precipitation": 1, "clouds": 1, "convection": 1, "lightning": 1}
+{"wind shear": 1, "storm clouds": 1, "ocean and atmospheric conditions": 1}
+{}
+{"wind": 5, "strong wind": 2, "extreme wind": 1, "high winds": 1, "maximum wind speeds": 1, "intensity": 1, "intensification": 1, "ocean heat content": 1}
+{"temperature": 1, "humidity": 1, "wind speed and direction": 1, "ice particles": 2, "cloud systems": 2}
+{"high winds": 1, "flooding": 1, "storm surges": 1, "wind speed": 1, "temperature": 2, "precipitation": 1, "rainfall": 1}
+{"oil landfall": 1, "high seas": 1}
+{}
+{"rainfall": 2, "thunderstorms": 2, "hot towers": 2}
+{"storm": 1, "rainfall": 1, "mudslides": 1}
+{"energy": 4, "temperature": 2}
+{"rainfall": 2, "cloud": 2, "temperature": 2, "precipitation": 2, "wind": 1, "lightning": 1, "aerosols": 1, "water vapor": 2}
+{"wind": 2}
+{"freshwater": 2, "saltwater": 1, "flood": 2}
+{"storm surge": 1, "waves": 1}
+{"wind": 1}
+{"power": 1, "water": 1}
+{"climate change": 1, "greenhouse gases": 1, "carbon emissions": 1, "water vapor": 1, "ozone layer": 1, "solar energy": 1, "aerosols": 1, "ozone-producing gases": 1}
+{"storms": 4, "hurricane": 2, "tropical systems": 1, "sea surface temperatures": 1, "surface evaporation": 1, "ocean temperatures": 1, "atmospheric and oceanic conditions": 1}
+{"seasonal average": 1}
+{"rainfall": 1}
+{"currents": 5, "winds": 1, "waves": 3, "mudslides": 2}
+{"storm": 3, "flood": 2, "storm surge": 2}
+{"storm": 1, "flooding": 2, "storm surges": 1}
+{"oil": 3, "cloud": 1, "cold weather": 1}
+{"storm surge floods": 1, "winds": 1, "storms": 2, "floods": 1}
+{"weather conditions": 1, "weather prediction": 1, "weather forecasts": 1, "solar activity": 1}
+{"hurricane communication": 2, "hurricane protection systems": 1, "levees": 1, "warning systems": 1, "pumps": 1}
+{"temperature": 1, "climate": 2, "cold water": 2, "warm water": 1}
+{"seismic": 2, "hurricane season": 1}
+{"storm surge": 2, "winds": 1, "flood": 1, "extreme meteorological and oceanographic events": 1, "hurricanes": 1}
+{"water": 1}
+{}
+{"current": 2, "heat": 1, "temperature": 1}
+{}
+{"wind": 1, "polar ice": 1, "climate": 1, "atmosphere": 1, "ocean": 1}
+{"climate change": 1}
+{"wind": 1, "precipitation": 1}
+{"warming": 1, "storms": 2, "seismic noise": 2, "earthquakes": 1}
+{"bleaching": 8, "disease": 5, "thermal stress": 1, "temperature": 1, "warming": 1}
+{"cyclones": 3, "cold water eddies": 1, "algal blooms": 1, "currents": 1, "wind": 1, "cool wakes": 1, "warm eddy": 1}
+{"warm water current": 1, "wind sheer": 1, "rainy season": 1, "sea surface temperature": 2}
+{"rain": 1, "wind": 1, "moisture": 2}
+{"ground moisture": 3, "rains": 1, "evaporation": 2, "flooding": 1}
+{"rainfall": 3, "storms": 3, "clouds": 8, "thunderstorms": 2, "rain": 1, "wind": 1, "temperature": 2, "humidity": 1, "lightning": 1, "pressure": 1}
+{"clouds": 1, "showers": 2, "thunderstorm": 1, "winds": 1}
+{"wind shear": 2, "temperature": 1, "sea surface temperature": 1, "storms": 3, "warm waters": 1}
+{"hurricane": 2, "tropical storm": 2, "thunderstorms": 1}
+{"high sea surface temperatures": 1, "hurricane winds": 1, "high temperatures": 1}
+{"winds": 3, "pressure": 2, "clouds": 2, "thunderstorms": 2, "convection": 1}
+{"hurricanes": 2}
+{"storms": 2, "hurricanes": 2, "ocean temperatures": 2, "sea surface temperatures": 2, "climate predictability": 1}
+{"rainfall": 2, "storm": 3, "cloud": 2, "thunderstorm": 1, "winds": 1, "pressure": 1}
+{"atmospheric moisture": 1, "rainfall": 1, "moisture fields": 2}
+{"storm": 2, "warming": 3, "cooling": 1}
+{"hurricane": 1}
+{"hurricane-force winds": 8, "storms": 5, "rainfall": 1, "winds": 3, "high surf": 1, "coastal flooding": 1, "heavy rains": 1, "river flooding": 1, "blizzard conditions": 1, "cold fronts": 1, "warm fronts": 1, "occluded fronts": 1, "clouds": 1, "rain": 1, "wind speeds": 1}
+{"wave height": 2, "current depths": 1, "salinity ratios": 1, "water temperature": 1, "air temperature": 1, "wind speed": 2, "wind direction": 1, "visibility": 1, "current velocities": 1, "waves": 1, "currents": 2, "loop current": 1}
+{"temperature": 2, "cloud-top cooling": 2, "cloud development": 1, "convective initiation": 1}
+{"wind": 5, "wind forces": 2, "wind uplift forces": 1, "wind-borne debris": 2}
+{"cyclone activity": 1, "storm": 2, "surface winds": 1, "sea surface heights": 1, "temperatures": 2, "rainfall intensity": 1, "lightning": 1, "cloud water": 1, "water vapor": 1, "cloud heights": 1, "cloud cover": 1, "cloud temperature": 1, "humidity": 1, "atmospheric pressure": 1, "cloud development": 1, "sea surface temperature": 2, "sea-level height": 1, "wind shear": 1}
+{"temperature": 1, "water vapor": 1}
+{"sea levels": 2, "rainfall": 1, "groundwater": 1}
+{}
+{"warming": 2, "climate": 2}
+{"hurricane-protection": 5, "storm surge": 2, "flood": 4, "flooding": 3}
+{"rain": 1, "seismic activity": 1}
+{"clouds": 4, "water vapor": 4, "ice": 2}
+{"storm": 6, "wind": 2, "flooding waves": 1, "storm surges": 1, "temperature": 3, "moisture": 1}
+{"hurricane": 5, "landslides": 2, "flooding": 4, "rainfall": 5, "floods": 3, "mudslides": 2, "tropical storm": 2, "storm": 2, "torrential rainfall": 2, "heavy rain": 2, "freshwater flooding": 1, "thunderstorms": 1, "squalls": 1}
+{"warming": 3, "temperature": 3, "dust storm": 3, "dust storms": 2, "dust": 4, "climate": 2, "global warming": 2}
+{"storm surge": 1}
+{"storm": 2}
+{"ocean surface temperatures": 1, "greenhouse-gas emissions": 2, "land ice melting": 1, "global warming": 2, "ocean surface warming": 1, "freshening": 1}
+{}
+{"temperature": 1, "warm layers of ocean water": 1, "sea surface temperatures": 1, "sea surface heights": 1, "ocean heat": 1}
+{}
+{}
+{"storm": 1, "hurricane": 1}
+{}
+{"wind": 1}
+{"storms": 1, "winds": 2, "hurricane force": 1, "high wind speeds": 1}
+{"severe weather": 2, "winter weather": 2, "summer weather": 1}
+{"hurricane": 5, "storm": 2, "sediment": 4, "erosion": 2, "rain": 1}
+{}
+{"wind": 2, "humidity": 2, "temperature": 2, "barometric pressure": 1}
+{}
+{}
+{"flooding": 2}
+{"storms": 2, "surge": 3, "back surge": 3, "erosion": 2}
+{"sea surface temperature": 2, "temperature": 1, "climate variability": 1}
+{}
+{"floodwall": 1, "dikes": 1, "levees": 2, "floodwalls": 2}
+{"global warming": 3, "rainfall": 1, "intensity": 2, "severe weather": 1, "drought": 1}
+{"devastation": 1, "monitoring": 1, "detection": 1, "transmitting": 1, "prevention": 1}
+{"sea level rise": 5, "storm-surge flood": 1, "flooding": 1, "storm surge": 2}
+{"winds": 2, "water levels": 1, "waves": 2, "rainfall": 1, "land loss": 1, "rising sea levels": 1}
+{"surge": 1, "flood warning": 1, "storm surges": 1, "rainfall": 1}
+{"wind": 3, "rainfall": 2, "winds": 3, "raindrop": 1}
+{}
+{"wind": 4, "wave": 2, "sea surface temperature": 1, "sea surface height": 1, "cloud structure": 1, "precipitations": 1, "swell fields": 1, "sea surface roughness": 2, "sea surface velocity": 2}
+{"ocean temperatures": 1, "rainfall": 2, "rain": 2, "wind shear": 2, "sea surface temperatures": 1, "wind": 1}
+{"tropical wave": 1, "hurricane": 4, "storm": 2, "winds": 3}
+{"wind": 3, "temperature": 2, "ocean temperatures": 2, "wind speeds": 2, "warm air": 1, "colder air": 1, "wind shear": 1}
+{}
+{"disaster": 2}
+{"hurricane": 1, "storms": 2, "winds": 1, "storm surge": 1}
+{"flooding": 1}
+{"winds": 1, "mould": 1, "water": 1, "wind damage": 1}
+{"sea surface temperatures": 3, "wind": 2, "sea level pressure": 1, "humidity": 3, "dust": 5, "dry air": 3}
+{"sea surface temperature": 1, "vertical wind shear": 1, "ocean temperature": 1, "wind shear": 2, "water temperature": 1}
+{"storms": 3, "hurricanes": 4, "wind shear": 1, "trade winds": 1, "monsoon": 1, "winds": 1, "water": 1, "flooding": 1, "severe weather": 1}
+{"storm surges": 1, "storm": 3, "flooding": 4, "storm surge flooding": 2, "storm tides": 1, "sea level rise": 2, "high tide": 2, "spring high tide": 2, "wind intensity": 1}
+{"storm": 3, "heat exhaustion": 1}
+{"sea surface height": 6, "wave heights": 2, "temperature": 1, "heat content": 3}
+{"surges": 1, "wind": 1}
+{"wind": 5}
+{"temperature": 1, "humidity": 1, "wind": 2, "friction": 2, "pressure drop": 1, "airspeed": 1}
+{"rain": 3, "raindrop size": 3, "rain intensity": 2, "rainfall": 3, "reflectivity": 2}
+{"hurricane": 3, "storm": 3, "tropical cyclone": 1, "depression": 1, "tropical storm": 1, "major hurricanes": 2}
+{"wind shear": 2, "sea surface temperatures": 2, "global warming": 2, "warming": 2, "storm": 1}
+{"storm": 2, "hurricane": 1}
+{}
+{}
+{"warming climate": 1, "storms": 2, "climate change": 1, "temperature": 1}
+{"vortices": 2}
+{"winds": 5, "central pressure": 4, "barometric pressure": 2, "rotational winds": 2}
+{"winds": 2, "wind-speed": 1, "wind power": 1, "wind-generated noise": 1, "storm": 4, "storms": 3, "waves": 2, "sea salt": 2}
+{"sea surface temperature": 2, "trade winds": 1, "el nino": 1, "sea level pressures": 1, "tropical storm-force": 1, "hurricane-force": 1, "intense hurricane-force": 1}
+{"temperature": 2, "precipitation": 3, "flooding": 2, "sea-level rise": 1, "heat waves": 1, "snow": 1, "ice": 1}
+{"warm weather": 1, "saltwater intrusion": 1}
+{"hurricane": 6, "storm": 1}
+{"flood": 1, "sea level rise": 1, "melting glaciers": 1, "melting ice cap": 1}
+{"temperature": 2, "dust": 10, "sunlight": 1, "energy": 2}
+{"volcanism": 3, "lava flows": 3, "lava dams": 2, "basalt flows": 2, "lava cascades": 1}
+{"sea surface warming": 3, "sea surface temperature": 3, "atmospheric circulation": 1, "wind": 1}
+{"warming": 5, "vertical wind shear": 5, "sea surface temperatures": 2, "humidity": 1, "sea level pressure": 1}
+{"flood": 1, "flooding": 1}
+{"storm": 2, "nutrients": 2}
+{"temperature": 2, "warmth": 3, "freeze": 1, "evaporation": 1, "precipitation": 1, "rainfall": 1, "sea surface temperatures": 1}
+{"temperature": 4, "warming": 6, "moisture": 1}
+{"rainfall": 10, "rain": 3, "temperature": 2, "precipitation": 1, "snow": 2}
+{"storm": 1}
+{"climate change": 5, "sea surface temperature": 2, "ocean temperature": 2, "moisture": 1, "wind": 1}
+{"environmental disasters": 2, "climate change": 2, "environmental degradation": 2}
+{"storm": 5, "cyclone": 1, "hurricane": 1, "tropical storm": 2}
+{"storm": 1}
+{"hurricanes": 2, "flooding": 2}
+{"warming climate": 2, "carbon dioxide release": 2, "carbon cycle": 2, "tree mortality": 1, "carbon sink": 2, "carbon source": 2}
+{}
+{"precipitation patterns": 1, "temperature": 1, "weather patterns": 1, "environmental conditions": 1}
+{"wind": 1}
+{"storm surges": 2, "surface waves": 1, "wind waves": 1}
+{"lightning": 7, "rainfall": 2, "winds": 1, "heat": 3, "updrafts": 2}
+{"storms": 3, "hurricane": 3, "sea surface temperatures": 1, "sea level pressure": 1}
+{"winds": 1, "rainfall": 1, "waves": 2}
+{"cloud structure": 2, "wind": 5, "wave fields": 1, "sea surface temperature": 2, "sea surface height": 2, "pressure": 1, "precipitation": 1, "water vapour": 1}
+{"sea surface temperatures": 5, "warm sea surface waters": 1, "warming": 1, "jet stream": 1}
+{"storm": 5, "cyclone": 3, "winds": 1}
+{"evacuating": 3, "evacuation": 5, "evacuation shelters": 2, "evacuation routes": 1, "evacuation zone": 1, "evacuation center": 1, "evacuation shelter": 1}
+{"hurricane": 2, "hurricane-force winds": 1}
+{"temperature": 2}
+{"rising sea levels": 2, "storm": 3, "flooding": 2, "evacuations": 1, "downed power lines": 1, "shoreline erosion": 1}
+{"storm": 1}
+{"wind": 4, "high winds": 1}
+{"sea-surface temperatures": 1, "wind shear": 1}
+{"rain": 5, "storm surge": 2, "high winds": 1, "rainfall": 6, "wind": 1}
+{"flooding": 1, "storm surge": 1, "hurricane winds": 1}
+{"temperature": 2, "warm water": 3, "cold water": 3, "tropical cyclones": 2}
+{"wind": 5, "rain": 3, "rainfall": 1, "water": 2}
+{"storm": 2, "winds": 1, "rains": 1, "sea surface temperatures": 1}
+{"winds": 2, "temperature": 1}
+{"hurricane": 8, "storm": 5, "sea surface temperatures": 1}
+{"winds": 4, "barometric pressure": 1}
+{}
+{"hurricane": 5, "thunderstorms": 1, "precipitating clouds": 1, "clouds": 2, "hot towers": 5, "updrafts": 2, "wind": 2, "winds": 2, "wind shear": 2}
+{"temperature": 1, "salinity": 1}
+{"ocean temperature": 1, "surface wind": 2, "rain": 1, "waves": 1, "pressure": 1, "wind-speed": 1, "surface temperature": 1, "ocean currents": 2, "surface waves": 2, "sea spray": 1, "high winds": 1, "intense rainfall": 1}
+{"high wind": 1, "fire": 2}
+{"wind shear": 5, "warming": 3, "climate": 2}
+{"severe weather": 2, "low pressure development": 1, "high-rainfall": 1, "fire detection": 1}
+{"wind": 2, "sea-breeze": 1, "high winds": 1}
+{"high winds": 1, "flooding": 1, "gravity": 1, "wave forces": 1, "seismic": 1, "wind": 1}
+{"storms": 5, "wind shear": 1, "sea surface temperatures": 3, "global surface temperatures": 1}
+{"winds": 3, "wind speed": 3, "waves": 2, "currents": 3, "wind profiles": 1, "wind stress": 1}
+{"dust": 8, "sunlight": 1, "cooler waters": 2, "sea surface temperatures": 3, "temperature difference": 1, "surface winds": 2, "evaporation": 1, "clouds": 1, "water vapor": 1, "pressure": 1, "wind patterns": 1, "shear": 1}
+{"hurricane": 5, "storm": 2, "storm surge": 1, "overwash event": 1}
+{"rainfall": 2, "wind": 2, "temperature": 2, "dust": 4, "cloud": 2, "precipitation": 1, "humidity": 1, "pressure": 1, "water vapor": 2}
+{"rainbands": 3, "eyewall": 5, "moat": 3, "winds": 2, "clouds": 2, "barometric pressure": 1}
+{"wind": 3, "tip jets": 3, "reverse tip jets": 1, "turbulence": 1}
+{"hurricane intensity": 1, "hurricane strength": 2, "sea-surface temperatures": 1, "wind speeds": 1, "wind directions": 1, "temperatures": 2}
+{"temperature": 2, "precipitation": 2, "hurricane": 3, "rainfall": 2, "winds": 1}
+{"snow": 1, "cyclones": 1}
+{"winds": 8, "sea surface temperatures": 5, "rain": 1, "floods": 1, "high pressure": 2, "wind shear": 2}
+{"winds": 2, "rainfall": 2}
+{"flood": 2}
+{"temperature": 2, "water vapor": 2, "electron density": 2, "space-weather": 1, "stratospheric temperature": 1, "cloud cover": 1}
+{"storm": 1}
+{"convection": 2, "wind shear": 1, "ocean surface temperature": 1, "winds": 2, "precipitation": 1, "air temperature": 1, "low pressure area": 1}
+{"hurricane": 5, "winds": 5, "rainfall": 2, "temperature": 2, "moisture": 2, "rain": 2, "ice particles": 1, "hot towers": 2, "condensation": 1, "heavy rainfall": 1}
+{"surface temperatures": 2, "temperature": 2, "winter conditions": 1, "rainfall": 5, "rain": 1, "precipitation": 1, "sea-surface temperature anomalies": 1, "ozone hole": 2, "ozone layer": 1, "sea ice": 2, "snowmelt": 1}
+{"land storms": 1, "ocean storms": 1, "african dust": 1, "saharan dust storms": 1, "easterly waves": 2, "saharan dust outbreaks": 1, "convection": 1, "cloud microphysics": 1, "precipitation": 1, "rainfall": 1, "air pressure": 1, "wind power": 1}
+{}
+{"heat stress": 1, "heat waves": 2, "infectious diseases": 2, "flooding": 1, "droughts": 1, "famines": 1, "precipitation patterns": 1}
+{"warming": 2, "melting": 1, "global warming": 1, "storm": 1, "wind": 1}
+{"salinity": 3, "turbidity": 1}
+{"sea surface temperature": 10, "temperature anomaly": 2, "rainfall": 1, "winds": 3, "storm": 2}
+{"surge": 3, "winds": 3, "wave": 3}
+{"ocean temperatures": 2, "clouds of dust": 1, "wind": 1, "trade winds": 1}
+{"storm": 3, "waves": 6, "wind": 2, "sea height": 1, "ocean wave": 3, "wave height": 3, "wave direction": 2, "wave field": 2, "storm surge": 1}
+{"flood": 3, "mold": 2, "roof leakage": 1, "standing water": 1}
+{"rainfall": 3, "lightning": 1, "precipitation": 2, "rain": 1}
+{"winds": 5, "dry air": 2, "dusty air": 1, "mineral dust": 1, "convection": 1, "turbulence": 1, "rainfall": 1, "stratiform clouds": 1, "cirrus clouds": 1}
+{"wind": 1}
+{"temperature": 1, "humidity": 1, "winds": 1, "turbulence": 1, "rainfall": 1, "storms": 1}
+{"temperature": 1, "warming": 2, "greenhouse gases": 2, "ozone": 1, "aerosol particles": 1, "wind shear": 1, "moisture availability": 1, "atmospheric stability": 1}
+{"wildfire": 1, "wind": 1}
+{"storm": 2, "rainband": 2, "wind": 1, "rain": 1, "temperature": 1}
+{"weather conditions": 2, "weather system": 1, "weather": 1, "stratospheric cold": 1, "intense sunlight": 1, "temperature extremes": 1}
+{}
+{"storm structure": 1, "winds": 1, "cloud motion": 1, "flood water": 1, "inundation": 1}
+{"temperature": 3, "air temperature": 2, "sea surface temperature": 3, "winds": 1, "warming": 2}
+{"heat wave": 2, "maximum temperatures": 1}
+{"storm surges": 1, "winds": 2, "floodwaters": 1, "sea level rise": 1}
+{"rain": 1, "wind": 3, "temperature": 1, "humidity": 2, "cloud": 3, "precipitation": 1}
+{"winds": 4, "wind-driven rain": 1, "rain": 1, "flying debris": 1, "uplift wind forces": 1}
+{"magnetic fields": 2, "plasma": 1, "solar wind": 1, "eclipse": 3}
+{"winds": 2, "temperature": 1, "salinity": 1}
+{"lightning": 8, "thunderstorms": 2, "cloud-to-ground lightning strokes": 1, "cloud-to-cloud lightning": 1, "electric fields": 1}
+{"global warming": 6, "tropical storms": 1, "sea-surface temperatures": 3, "warming waters": 1, "warming": 2, "cooling": 1}
+{"hurricane": 5, "storm": 3, "rainfall": 1, "sea level rise": 2, "flood": 2, "tropical storm": 1}
+{}
+{"storm surge": 1, "global warming": 2}
+{"warmth": 1, "sea surface temperatures": 6, "aerosol impacts": 1, "cooling": 4, "warming": 1, "global warming": 1}
+{"wind shear": 2, "easterly winds": 1, "warmer waters": 1}
+{"wind": 2, "ocean water": 1, "cloud structure": 1}
+{"storm": 3, "flooding": 1, "category 5 storm": 1}
+{"sea-surface temperatures": 4, "warming": 3, "temperature": 2, "wind": 1, "moisture": 1}
+{"winds": 3, "sea surface temperatures": 4, "precipitation": 1, "wind patterns": 1, "atmospheric pressure": 1, "surface winds": 1, "wind shear": 1}
+{"wind": 3, "rain": 1, "temperature": 2, "humidity": 2, "air pressure": 1, "precipitation": 1}
+{"wind": 2, "rainfalls": 1, "temperature": 1, "winds": 1, "pressure": 1, "humidity": 1}
+{"flooding": 1}
+{"water cycle": 4, "water availability": 1, "water vapor": 2, "precipitation": 2, "runoff": 2, "atmospheric water vapor": 1, "soil moisture": 1, "evapotranspiration": 2, "growing season length": 1, "wintertime mountain glacier mass": 1, "snowfall": 1, "wintertime mass accumulation": 1, "moisture": 1}
+{"sea surface temperatures": 4, "wind shear": 3, "humidity": 1, "zonal stretching deformation": 1, "hurricane intensity": 2}
+{"hurricane": 2, "storm": 1}
+{"temperature": 2, "wind": 2, "rainfall": 2, "storm surge": 2, "cloud": 2, "flash flooding": 1, "heat": 1}
+{"freshwater input": 2, "phytoplankton": 4, "algal blooms": 1, "oxygen depletion": 1, "diatoms": 1, "green algae (chlorophytes)": 1, "blue-green algae (cyanobacteria)": 1, "zooplankton": 2, "deep-water mixing": 1}
+{"temperature": 3, "rainfall": 1, "snowpack": 2, "precipitation": 2, "snowfall": 1, "snow": 2, "sea ice extent": 2, "sea surface temperatures": 1}
+{"floodwater": 1}
+{"storm": 5, "sedimentation": 2, "mud": 1, "sand": 2}
+{}
+{"storm water": 3, "wind": 1, "water surge": 1}
+{"floodwaters": 2, "wind speed": 1, "direction": 1}
+{"wind": 4, "storm": 2, "rain": 1, "cloud": 2, "temperature": 1}
+{"rain": 2, "wind": 2, "precipitation": 2, "eyewall": 3, "storm": 3}
+{"hurricane": 3}
+{"storm": 1}
+{"sea surface temperatures": 2, "ocean currents": 2, "air pressure": 1, "temperature": 1, "rain": 1}
+{"rain": 1, "floodwater": 2, "flooding": 3, "pollution": 2, "sediments": 2, "flood": 1, "fire": 1}
+{"winds": 2, "sea surface temperatures": 2, "evaporation": 2}
+{}
+{"tropical storm": 2, "hurricane": 2}
+{"flood waters": 2, "standing water": 2, "mold": 2}
+{}
+{"flood": 2, "flood waters": 2}
+{"rainfall": 1, "wind": 1, "flooding": 2}
+{"storm": 3, "hurricane": 3, "storm surges": 1, "flooding": 1, "winds": 1}
+{}
+{"windspeeds": 1, "waves": 1}
+{"water": 1, "roof damage": 2, "window damage": 1, "electrical power": 1, "communication": 1, "debris": 1}
+{"wind speeds": 1, "energy release": 1, "storm intensity": 1, "average temperatures": 1, "warming": 1}
+{"cirrus": 3, "ice crystal": 3, "clouds": 3, "storm": 1, "hurricane": 2, "solar radiation": 1}
+{"rain": 1, "winds": 2, "rainbands": 5, "eye wall": 3, "temperature": 1, "humidity": 1, "atmospheric pressure": 1}
+{"rain": 2}
+{"waves": 5, "storm": 2, "winds": 1, "mudslides": 1}
+{"sea-surface temperatures": 1, "wind shear": 1}
+{"winds": 6, "turbulence": 6, "rain": 1}
+{"rain": 3, "rainfall": 3, "cloud": 2, "wind": 2}
+{"tornadoes": 1, "flooding": 1}
+{"wind": 4, "rain": 2}
+{"thunderstorm": 1, "storm": 1, "wind": 1, "downdraft": 1}
+{"storm": 1, "wind": 2, "updrafts": 1, "downdraft": 1}
+{"hurricane-force winds": 4, "winds": 3, "storm tracks": 1, "steering currents": 2}
+{"rain": 2, "thunderstorms": 2}
+{"monsoon": 1, "wind": 1, "ocean temperature": 1, "flooding": 1, "droughts": 1, "rains": 1}
+{"wave": 10, "wind": 1}
+{"storms": 3, "storm buffer": 1, "large storms": 2, "oil production rigs": 1, "natural gas pipelines": 1}
+{"wind": 5, "air humidity": 1, "heat": 2, "moisture": 2, "evaporation": 2, "vertical wind shear": 1}
+{"storm": 2, "storms": 2, "severe weather": 1}
+{"temperature": 5, "rainfall": 2, "flooding": 2, "snowfall": 1, "snowpack": 1, "wind": 1, "precipitation": 2, "fire": 1, "smoke": 1}
+{"wind": 5, "waves": 5, "sea spray": 1}
+{"storm surge": 1, "temperature": 2, "wind": 2, "rainfall": 1, "air pressure": 1, "wind speed": 2, "precipitation": 1}
+{"storm": 2}
+{"downpour": 1, "rain": 1, "storm": 1}
+{"winds": 1, "rains": 1}
+{"cool, wet weather": 1}
+{"wind speeds": 3, "wind": 1, "soil moisture": 1}
+{"rainfall": 2, "cloud": 2, "cloud-top height": 1}
+{"storm surge": 3, "currents": 2}
+{"extreme wind": 1, "wind": 4, "storms": 1}
+{"winds": 3, "precipitation": 2, "rainy thunderstorms": 1, "clouds": 3, "sea surface temperature": 3, "temperature": 2, "wind fields": 2, "wave fields": 1, "pressure": 1, "rain": 1}
+{"rain": 5, "rainfall": 6, "winds": 3, "wind speeds": 2, "freshwater flooding": 1}
+{"rainfall": 2, "precipitation": 2, "water": 1, "energy": 1, "clouds": 1}
+{"precipitation": 5, "rain": 3, "storm clouds": 1, "solar activity": 1, "frozen precipitation": 1, "cloud systems": 1}
+{"storm": 3, "storms": 2, "storm surge": 1, "storm wave": 1, "beach erosion": 1}
+{"high winds": 1, "storm": 2}
+{"water quality": 4, "floodwaters": 3, "oxygen depletion": 1, "dissolved oxygen deficits": 1, "contaminants": 2, "nitrogen": 1, "phosphorus": 1, "fecal bacteria": 1, "flooding": 1}
+{"rain": 1, "cloud": 2, "latent heat": 2, "water vapor": 1, "precipitation": 1}
+{"storm": 1, "rainfall": 2, "flooding": 1, "rain": 1, "winds": 1}
+{}
+{"wind": 5, "wind speed": 3, "hurricane-force winds": 1, "high-wind storms": 1}
+{"wind": 2, "gusts": 2, "rain": 1}
+{}
+{"sea surface temperature": 3, "precipitation": 2, "winds": 3, "temperature": 2, "humidity": 2, "rainfall": 3, "thunderstorms": 2}
+{"winds": 2, "storm": 1, "flood": 1}
+{"heat": 4, "rain": 3, "wind": 2, "rainfall": 1, "sea spray": 3, "water vapor": 1, "clouds": 1}
+{"cirrus": 3, "ice crystal": 3, "clouds": 3, "optical effects": 1, "arcs and halos": 1, "sea spray": 2, "solar radiation": 1}
+{"pollution": 1, "sea levels": 2, "climate": 1}
+{"breaking waves": 5, "ocean currents": 2, "heat": 2, "gas transfer": 2, "aerosol generation": 1, "ocean spray": 1, "thermal structure": 1, "air-sea interface": 1, "hurricane winds": 1, "waves": 1}
+{"carbon dioxide": 5, "carbon storage": 3, "carbon sequestration": 2, "carbon pools": 1}
+{"wind": 2}
+{"floods": 1, "high winds": 1}
+{"rain": 1, "ice particles": 1, "temperature": 3, "wind": 2, "air speed": 1, "velocity": 1, "precipitation levels": 1, "surface pressure": 2, "moisture": 2}
+{"floods": 1, "high winds": 1}
+{"cloud": 1, "atmospheric conditions": 1, "nontropical low": 2, "midlatitude weather systems": 1, "showers": 1, "thunderstorms": 1}
+{"winds": 2, "water": 2}
+{"flood": 1, "waves": 2, "water": 1}
+{"storms": 3, "winds": 4, "precipitation": 1, "wind field": 1, "rain": 1}
+{"storm": 1, "cloud": 1, "haze": 1}
+{"temperature": 2, "precipitation": 2, "rainfall": 3, "drought": 1, "evaporation": 1, "storm": 1}
+{"clouds": 2, "winds": 5, "rain": 2, "rainfall": 1}
+{"clouds": 2, "surface winds": 1, "rainfall": 1, "wind": 2, "rain": 2}
+{"smoke": 3, "storm": 1}
+{"hurricane": 3, "storm": 3, "rain": 1, "wind": 2, "flooding": 1}
+{"storm surge": 2, "wind": 1, "rains": 1, "rainfall": 1}
+{"rainfall": 2, "clouds": 3, "storm": 2, "climate": 2, "microwave radiation": 1, "infrared radiation": 1, "sea-surface temperatures": 5, "air-sea interactions": 1, "climate variability": 1, "tropical waters": 1}
+{"clouds": 1, "severe weather": 1}
+{"storm": 3, "waves": 2, "currents": 1, "winds": 1, "air-sea interaction": 1, "wave dynamics": 1}
+{"surface temperature": 4}
+{"westerly winds": 3, "easterly winds": 1, "wind burst": 1, "wind speeds": 1}
+{"hurricane activity": 4, "storms": 2, "storm activities": 1, "storm makes landfall": 1, "hurricane landfalls": 4, "intense hurricanes": 1}
+{"rainfall": 10, "rain": 1, "precipitation": 1}
+{"rainfall": 1, "wind": 2}
+{"rain": 1, "rainfall": 1}
+{"rains": 1, "storm": 1}
+{"warm core rings": 3, "warm water": 3, "ocean temperatures": 1, "surface temperatures": 1}
+{"winds": 3, "temperature": 1, "low-pressure cell": 1}
+{"wind": 4}
+{"storms": 2, "hurricane": 2, "sea-surface temperatures": 1, "winds": 1, "wind speeds": 2, "wind direction": 1}
+{"wind": 5, "storm": 1, "water damage": 1}
+{"wind": 2, "ocean-surge": 1}
+{"winds": 2}
+{"wind": 5, "hurricane-force winds": 2, "storm": 2}
+{"high winds": 2, "wind damage": 1, "water intrusion": 1, "storm surge": 1, "flood damage": 1}
+{"hurricane": 6, "storms": 1, "ocean temperatures": 1, "winds": 1}
+{"winds": 2, "storm": 2, "rainfall": 1, "temperature": 1, "barometric pressure": 1}
+{"sea surface temperatures": 3, "cold water": 2, "westerly stratospheric winds": 1, "barometric high pressure": 1, "sea-level pressure": 1, "easterly waves": 1}
+{"winds": 4, "wind speeds": 3, "wind loads": 1, "wind damage": 1, "gust structure": 1}
+{"magma flow": 2, "seismic": 2, "deformation": 2, "earthquakes": 1, "lava": 3, "ash": 3, "gas": 1}
+{}
+{"winds": 2, "rainfall": 1, "wind patterns": 1, "wind gusts": 1, "rain": 2}
+{"climate": 5, "rain": 2, "drought": 5, "heat waves": 2, "mudslides": 1, "coastal erosion": 1, "snow": 1}
+{"tropical rainfall": 1, "rainfall": 3, "wind patterns": 1, "clouds": 3, "rain": 2, "ice": 2, "water vapor": 1, "lightning": 2, "storm": 2, "hurricanes": 2, "sea-surface temperature": 1, "temperature": 2, "ocean temperatures": 2}
+{"hurricane": 1}
+{}
+{"wind": 5, "storms": 2, "gusts": 2}
+{"wind": 1, "storm surges": 1, "storms": 3, "overwash channels": 1, "turbid water": 1}
+{"winds": 4, "rain": 1, "flooding": 1, "floods": 1, "funnel clouds": 1, "wind streaks": 3}
+{"wind speeds": 1}
+{"rains": 2, "streamflow": 4, "flooding": 2, "storm surges": 1}
+{"wind": 2}
+{"ocean waves": 1, "storm": 2, "cloud cover": 1, "wind speeds": 1, "barometric pressure": 1, "humidity levels": 1, "rain": 1, "cloudiness": 1, "moisture": 2, "winds": 1}
+{"rainfall": 1, "moisture": 2, "wind": 1}
+{"rain": 1, "cloud-seeding": 2, "pollution": 6, "rainy": 1, "precipitation": 2, "rainfall": 1, "wind speed": 1, "thermal changes": 1}
+{"wind": 2, "storm": 2, "tidal surge": 1, "flood": 1, "fire": 1}
+{"wind": 4, "flooding": 1, "seismic activity": 1, "storms": 1}
+{"wind shear": 3, "stormy weather": 1, "warm surface water": 2, "warm surface temperatures": 1, "wind speed": 1, "humidity": 1, "temperature": 2}
+{"wind": 2}
+{"tropical storms": 1, "hurricane activity": 3, "ocean temperatures": 2, "winds": 3, "wind shear": 1, "sea surface temperatures": 2, "air temperatures": 1, "stratospheric winds": 1}
+{"low-pressure storm centers": 1, "high winds": 1, "heavy precipitation": 1, "hurricane-force winds": 1}
+{}

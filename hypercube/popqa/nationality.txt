@@ -1,1475 +1,8676 @@
 {"australian": 1}
 {}
+{}
+{"italian": 1}
+{"american": 20, "scottish": 1, "canadian": 1, "irish": 1, "english": 1}
+{"american": 1, "canadian": 2, "australian": 2, "anglo-indian": 1, "scottish": 1, "english": 1, "irish": 1}
+{"australian": 1}
+{}
+{}
+{}
+{"australian": 1}
+{"australian": 1}
 {"scottish": 1}
 {}
+{"italian": 1, "venezuelans": 1}
+{}
+{"ghanaians": 1}
+{}
+{}
+{"canadian": 1}
+{"american": 1, "armenian": 1, "brazilian": 1, "bulgarian": 1, "canadian": 1, "french": 1, "german": 1, "hong kong": 1, "indian": 1, "italian": 1, "malawian": 1, "pakistan": 1, "slovenian": 1, "south african": 1, "sri lankan": 1, "swedish": 1, "uruguayan": 2}
+{"british": 1, "indian": 1}
+{}
+{}
 {"english": 1}
+{"british": 1}
+{}
+{}
+{"british": 6}
 {"democrat": 1}
+{}
+{}
+{}
+{"american": 3, "canadian": 2}
+{}
 {"american": 1}
+{}
+{"french": 1, "american": 1, "venezuelan": 1, "cuban": 1, "mexican": 1, "russian": 1, "belgian": 1, "israeli": 1, "palestinian": 1, "ivorian": 1, "tunisian": 1, "algerian": 1, "chinese": 1, "franco-burkinab\u00e9": 1}
+{"australian": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
 {}
 {"dutch": 1}
 {}
+{"dutch": 6, "german-american": 1}
+{}
+{"african-american": 1, "american": 2, "bengali": 1, "brazilian": 1, "chinese": 1, "german": 1, "greek": 2, "hungarian": 1, "indian": 1, "iranian": 1, "italian": 1, "jewish": 2, "jewish american": 1, "muslim": 1, "polish": 1, "russian": 1, "slovenian": 1, "turkish": 1, "ukrainian": 1, "welsh": 1}
+{}
+{}
+{}
+{"germans": 1}
+{"jews": 1, "ukrainian-israeli": 1}
+{}
+{"dutch": 1}
 {"american": 1, "canadian": 1}
 {"british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"belgian": 1}
+{}
+{}
+{"belgian": 1}
+{"flemish": 1}
 {"belgian": 1}
 {"british": 4, "scottish": 1}
+{}
+{}
+{}
+{}
+{}
 {"icelandic": 1}
 {"italian": 2, "english": 1}
+{"telugu": 1, "tamil": 1}
+{"pakistani": 0}
+{}
+{"albanian": 1, "afghan": 1, "armenian": 1, "assyrian": 1, "austrian": 1, "azerbaijani": 1, "bangladeshi": 1, "brazilian": 1, "british": 2, "bulgarian": 1, "burmese": 1, "canadian": 1, "chilean": 1, "chinese": 2, "croatian": 1, "czech": 2, "danish": 1}
+{}
+{"icelandic": 8}
+{}
+{}
+{}
 {"honduran": 1}
+{}
+{}
+{}
+{"honduran": 1}
+{}
 {"canadian": 1}
+{}
+{"canadian": 1}
+{}
+{"german": 5, "canadian": 3, "american": 2, "austrian": 1, "jewish": 1}
+{"german": 4, "canadian": 3, "american": 7, "finnish": 1, "south african": 1, "dutch": 2, "british": 2}
 {"american": 1}
+{}
+{"turkish": 1, "turkish-kurdish": 1}
+{"turkish": 1, "turkish cypriot": 1}
+{"czechs": 1}
+{}
+{}
+{"american": 4}
+{}
+{}
+{"turkish": 1, "german": 1}
+{"australian": 1}
+{"australian": 3, "american": 1, "british": 1}
 {}
 {"australian": 1}
+{}
+{}
 {"south korean": 1}
+{"south korean": 28}
+{}
+{"south korean": 1}
+{}
 {"peruvian": 2}
+{}
+{}
+{}
+{}
+{}
 {"american": 4}
 {"english": 1}
+{}
+{"british": 1, "jewish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"canadian": 2}
+{"european": 1, "canadian": 1}
+{"american": 1}
+{"american": 1, "british": 1}
+{"german": 1, "british": 2, "new zealand": 1, "scottish": 1, "irish": 1, "canadian": 1}
+{"scottish": 1}
+{"american": 1}
+{"native americans": 1, "indians": 1}
+{}
+{"southern": 1}
+{"native americans": 1}
 {"american": 1}
 {"japanese": 1}
+{}
+{"japanese": 1}
+{}
+{}
+{"japanese": 9, "american": 1}
 {"austrian": 1}
+{"austro-marxist": 1}
+{}
+{"german": 2}
+{"austrian": 2, "austrian-german": 1, "german": 1, "russian": 1}
+{"jewish": 1}
+{"british": 1}
+{}
+{}
+{}
+{}
+{"japanese": 1}
 {"british": 1}
 {"japanese": 1}
-{"american": 1}
 {}
 {}
 {}
 {"american": 1}
+{"british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"african americans": 1}
+{}
+{"african americans": 1}
+{"african american": 1}
+{}
+{"american": 3, "french": 2, "native american": 1, "english": 1}
+{}
+{}
+{}
+{"african americans": 1}
+{}
+{"german": 4}
+{"german": 2}
+{"french": 1, "german": 1}
+{}
+{"jews": 2, "french": 1, "german": 1}
+{"american": 1}
+{}
+{}
+{"nepalese": 1, "saudi arabian": 1, "indian": 6, "british": 1, "american": 2, "south korean": 1}
+{"american": 1}
+{}
+{"iranian": 1, "british": 1, "french": 1, "colombian": 7, "mauritanian": 1, "uruguayan": 1, "spanish": 2}
+{}
+{}
+{}
+{"american": 2, "scottish": 1, "new zealand": 1, "british": 1}
 {}
 {"american": 1}
+{}
+{}
+{"american": 2, "german": 1}
+{}
+{}
+{}
+{}
+{"new zealand": 1}
+{"australian": 1}
+{}
 {}
 {"japanese": 2}
+{}
+{}
+{}
+{}
+{"european": 1, "french": 1, "native american": 1}
+{"saxon": 1, "roman": 1}
+{}
+{}
+{}
+{}
 {}
 {"canadian": 1}
+{"canadian": 1, "german-canadian": 1}
+{"canadian": 1}
+{}
+{}
+{}
 {"japanese": 2}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 11}
+{}
+{}
+{"japanese": 1}
 {"japanese": 1}
 {"new zealand": 1, "english": 1}
 {}
+{"hong kong": 1, "canadian": 1, "filipino": 1, "irish": 1, "new zealand": 1, "us": 1}
+{}
+{"dutch": 4, "flemish": 1, "american": 1}
+{"new zealand": 1}
+{}
+{}
+{"bangladeshi": 1, "uk": 1}
+{}
+{}
+{}
 {"american": 1}
+{}
 {"american": 1}
+{"japanese": 1, "us": 1, "korean": 1, "republican": 1}
+{"american": 7}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
 {"japanese": 1}
 {}
 {}
+{"american": 9, "british": 3, "scottish": 1, "irish": 1, "italian": 1}
+{"japanese": 1}
 {}
+{}
+{"japanese": 9}
 {"british": 1}
-{"british": 1}
-{"swedish": 1}
+{"american": 5, "english": 1, "iranian": 1, "armenian": 1, "czech": 1, "british": 1, "new zealand": 1, "italian": 1, "russian": 1}
+{}
+{"australian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{"american": 1}
+{"british": 1}
+{"british": 1}
+{}
+{"american": 1, "australian": 1, "canadian": 1, "ghanaian": 1, "indian": 1, "irish": 1, "lebanese": 1, "new zealand": 1, "pakistan": 1, "philippine": 1, "rwandan": 1, "scottish": 1, "west african": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"swedish": 1}
+{}
+{"swedish": 1}
+{"swedish": 1}
+{}
+{}
+{"american": 1}
+{}
+{"zulu": 1}
+{"guinean": 22, "guinean-reggae": 1}
+{"guinean": 28, "guinean-reggae": 2}
+{"american": 1}
+{"australian": 1}
+{}
+{"german": 1}
+{}
+{}
 {}
 {"mexican": 1}
+{"mexican": 1, "spanish": 1}
+{}
+{}
+{}
 {"american": 1}
+{"us": 1, "soviet": 1}
+{}
+{}
+{}
 {"danish": 1}
+{"danish": 4}
+{"danish": 1}
+{}
+{}
+{"danish": 3}
 {"tunisian": 2}
+{"egyptian": 1, "cameroonian": 1, "tunisian": 1}
+{"tunisian": 1, "syrian": 1, "omani": 1, "arabic": 1}
+{}
+{"tunisian": 1, "arabic-language": 1}
+{"tunisian": 1}
 {"american": 1}
+{}
+{}
+{}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"zimbabwean": 1, "ghanaian": 1, "malian": 3}
+{}
+{}
+{}
+{}
 {}
 {"jewish": 2, "christian": 1}
 {}
+{"american": 1, "soviet": 1}
+{"british": 1, "german": 1}
+{"portuguese": 1, "spanish": 1}
+{"nestorian": 1, "irish": 1}
+{"southern baptist": 1, "american": 1, "australian": 1}
+{}
+{"german": 2}
+{"british": 1}
+{"british": 1}
+{"british": 1}
 {"japanese": 1}
-{"american": 1}
+{}
+{"japanese": 12, "american": 1}
+{"japanese": 1}
+{}
+{}
 {"american": 1}
 {}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 3, "australasian": 2, "royal": 6, "canadian": 1, "irish": 1, "scottish": 1, "english": 1}
+{}
+{"black": 1}
+{}
+{}
+{}
+{"african-american": 2}
+{}
+{"black": 1}
 {"senegalese": 2}
 {}
+{"senegalese": 1, "french": 1}
+{"hungarian": 1}
+{"senegalese": 8, "french": 3, "french-italian": 1}
+{"gambian": 6, "belgian": 1, "senegalese": 4, "american": 1, "norwegian": 1, "chadian": 1, "african": 1}
+{"romanian": 1}
+{"senegalese": 2}
+{"bulgarian": 1}
+{"polish": 1}
+{"senegalese": 1}
+{}
 {"luxembourgish": 1, "british": 1}
+{"luxembourgish": 1}
+{"luxembourgers": 1}
+{"luxembourg": 1}
+{"luxembourgish": 4}
+{"luxembourgish": 3}
 {"italian": 1}
 {}
+{"jewish": 1, "american": 1}
+{}
+{}
+{}
+{"us": 1}
+{"venetian": 1}
+{"argentino": 1}
+{"romanians": 1, "french": 1}
+{"romanian": 1, "french": 1}
+{"romanians": 1, "german": 1, "french": 3}
 {"irish": 1}
+{"irish": 3}
+{}
+{}
+{}
+{}
+{"british": 1}
+{"british": 1}
+{}
+{}
+{}
 {"british": 1}
 {"italian-canadian": 1}
 {}
+{}
+{}
+{"italian-canadian": 1}
+{}
+{"italian": 21}
+{}
+{}
+{"brazilian": 1, "italian": 1, "american": 1}
+{}
+{"italian": 1}
 {"english": 1}
+{}
+{"baltic german": 1, "german": 2, "russian": 0}
+{"estonian": 1}
+{"brazilian": 1, "american": 4, "swedish": 3, "dutch": 1, "italian": 1}
+{"french": 2, "american": 4, "swedish": 1, "dutch": 1, "canadian": 1, "scottish": 1}
+{}
+{}
+{"british": 2, "germans": 1}
+{"canadian": 1}
+{"british": 3, "new zealand": 3, "english": 3}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{"british": 1}
+{"danish": 1}
+{}
+{}
+{}
+{}
+{}
+{"danish": 0}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"canadian": 1, "japanese": 1}
+{"british": 1, "jewish": 1, "south african": 1, "marxist": 1}
+{"american": 5, "scottish": 1, "canadian": 1, "indian": 4, "mexican": 1, "english": 1, "australian": 1, "philippines": 1}
+{"german": 1, "israeli": 1}
+{}
+{}
+{"american": 8, "saint lucian": 1, "canadian": 1, "russian": 1, "soviet": 1, "chinese": 1, "swedish": 2, "german": 1}
+{}
+{}
+{}
+{"norwegian": 2}
+{}
+{"norwegian": 9}
+{"norwegian": 1}
+{"norwegian": 2}
+{"norwegian": 1}
+{"english": 1}
+{"british": 1}
+{"english": 1}
+{"scottish": 0, "scotland": 1}
+{"english": 1, "british": 2, "american": 1}
+{}
+{"mexican": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"british": 1}
+{"british": 1}
+{"british": 1}
+{"british": 1}
+{}
+{}
+{"panamanian": 1}
+{"italian": 1}
+{"panamanian": 1}
+{"mexican": 1, "uruguayan": 1}
+{"uruguayan": 2, "italian": 1, "panamanian": 1, "mexican": 1}
+{}
+{"malaysian": 1}
+{}
+{}
+{}
+{"indonesian": 1}
+{"malaysian": 1}
+{"english": 1}
+{"english": 2, "scottish": 2, "british": 1}
+{}
+{}
+{}
+{}
+{"icelandic": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"italian": 1}
+{}
+{}
+{}
+{"japanese american": 1, "united states": 1}
+{"american": 2}
+{}
+{"english": 1, "scottish": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 3, "german": 1, "polish": 2}
+{}
+{"british": 3}
+{}
+{"english": 1}
+{}
+{"british": 3, "australian": 1, "american": 2, "canadian": 3}
+{}
+{"bundjalung nation aboriginal": 1}
+{"russian": 1}
+{"british": 2}
+{}
+{"german": 1, "argentine": 1}
+{}
+{"australian": 1}
+{"english": 1}
+{"dutch": 1}
+{"cherokee": 2}
+{"new zealand": 1, "australian": 1}
+{}
+{"dutch": 1}
+{"dutch": 11, "surinamese": 1}
+{"dutch": 1}
+{"dutch": 3, "german": 1}
+{"dutch": 4}
+{"canadian": 1}
+{}
+{"malacca portuguese": 1, "bugis": 1}
+{"american": 1, "british": 1}
+{"australian": 1, "scottish": 1}
+{}
+{}
+{}
+{"australian": 1, "scottish": 1}
+{}
+{"american": 1}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{}
+{}
+{}
+{"german": 3}
+{"german": 1}
+{}
+{"british": 1}
+{}
+{}
+{"english": 1}
+{"german": 1}
+{}
+{"british": 1}
+{}
+{"american": 1, "british": 4, "english": 2, "irish": 4}
+{}
+{"english": 1, "british": 1}
+{"british": 1}
+{"american": 1, "greek": 1}
+{"american": 1}
+{}
+{}
+{"greek": 1, "american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"english": 1}
+{}
+{"american": 1, "argentine": 1, "australian": 1, "austrian": 1, "british": 1, "canadian": 1, "chinese": 1, "danish": 1, "dutch": 1, "french": 1, "german": 1, "japanese": 1, "mexican": 1, "new zealand": 1, "nigerian": 1, "norwegian": 1, "spanish": 1, "swedish": 1}
+{"bangladeshi": 1, "chinese": 1, "greek": 1, "korean": 1, "new zealand": 1, "norwegian": 1, "polish": 1, "slovenian": 1, "turkish": 1}
+{"american": 1, "australian": 1, "austrian": 1, "british": 1, "canadian": 1, "chinese": 1, "danish": 1, "dutch": 1, "french": 1, "german": 1, "japanese": 1, "mexican": 1, "new zealand": 1, "spanish": 1, "swedish": 1}
+{}
+{}
+{"german": 1}
+{}
+{"yemeni": 2, "british": 1, "english": 1}
+{}
+{}
+{}
+{"yemeni": 1}
+{}
+{"italian": 1}
+{"italian": 2, "german": 1}
+{}
+{"sammarinese": 2, "italian": 4, "american": 1}
+{"brazilian": 2, "british": 1, "croatian": 3, "dutch": 2, "ecuadorian": 1, "english": 1, "german": 1, "italian": 1, "portuguese": 2, "slovenian": 1}
+{"italian": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"prussian": 1, "american": 1, "german": 1}
+{}
+{}
+{}
+{"german": 1, "american": 1}
+{}
+{}
+{"argentinian": 1, "colombian": 1, "salvadoran": 1, "mexican": 1, "grenadian": 1, "chinese": 1, "ukrainian": 1, "zimbabwean": 1}
+{"prussian": 0, "german": 1, "american": 0}
+{}
+{"german": 2, "american": 1}
+{}
+{"american": 1}
+{"japanese-american": 1}
+{"french": 1, "european": 1}
+{}
+{"french": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{"portuguese": 1}
+{"norwegian": 1, "spanish": 1}
+{"portuguese": 2}
+{}
+{"portuguese": 2}
+{"portuguese": 1}
+{"british": 1}
+{}
+{"british": 1}
+{"english": 1}
+{"british": 1}
+{"british": 1}
+{"chinese": 1, "asian": 1}
+{"belgian": 1, "german": 1}
+{"chinese": 1}
+{}
+{}
+{"belgian": 2}
+{"french": 1}
+{"german": 2, "austrian": 1, "swiss": 1}
+{}
+{"french": 0}
+{"new caledonian": 1, "kanak": 1}
+{"new caledonian": 1}
+{"japanese": 1}
+{"japanese": 13}
+{"japanese": 6}
+{"japanese": 11}
+{"japanese": 1}
+{"japanese": 1}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"chilean": 1, "basque": 1}
+{"haitian": 2, "dominican": 2}
+{"chilean": 0, "spanish": 0, "french": 1}
+{"chilean": 1, "basque": 1}
+{"chilean": 6, "basque": 3, "bolivian": 2}
+{}
+{"polish": 2}
+{}
+{"polish": 3}
+{"estonian": 1}
+{}
+{"polish": 1}
+{"polish": 2, "austrian": 1}
+{"polish": 3}
+{"chinese": 2}
+{"jews": 1}
+{}
+{"polish": 9, "slovak": 1, "indian": 1}
+{"chinese": 2}
+{}
+{}
+{}
+{}
+{}
+{"flemish": 1, "belgian": 1}
+{"belges": 1}
+{"belgian": 1, "fran\u00e7aise": 1}
+{}
+{"belgian": 3, "flemish": 1}
+{"flemish": 1, "belgian": 2}
+{"canadian": 1}
+{}
+{"canadian": 1}
+{}
+{"canadian": 1}
+{"american": 4, "canadian": 2, "british": 1, "australian": 1, "new zealand": 1}
+{"dutch": 1}
+{"dutch": 1}
+{}
+{"moldovan": 1, "romanian": 2, "estonian": 1, "russian": 3, "german": 1, "israeli": 1, "dutch": 1}
+{"dutch": 2}
+{}
+{"dutch": 1}
+{}
+{}
+{"dutch": 1}
+{}
+{"dutch": 1}
+{"british": 1}
+{}
+{}
+{}
+{"american": 1, "african-american": 1}
+{}
+{"thai": 2}
+{}
+{"thailand": 1}
+{"thai": 3}
+{"thai": 1}
+{}
+{"united states": 2}
+{"english": 1}
+{"african american": 2}
+{}
+{}
+{"american": 6, "english": 3}
+{"british": 1}
+{}
+{"lithuanian": 1}
+{}
+{"lebanese": 1, "british": 1}
+{"nationalist": 1}
+{"soviet": 2, "british": 1, "german": 2, "us": 1}
+{}
+{"british": 1}
+{"irish": 1, "nationalist": 2}
+{}
+{"american": 1, "asian american": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{"irish american": 1}
+{"irish": 2}
+{"irish": 0, "american": 0}
+{}
+{"australian": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 6, "australian": 1, "british": 1, "canadian": 1, "english": 5, "scottish": 1, "welsh": 1}
+{}
+{}
+{"french": 2}
+{}
+{}
+{"american": 4}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 5, "english": 3}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"tanzanian": 1}
+{}
+{}
+{"tanzanian": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 7}
+{}
+{}
+{"french": 2}
+{}
+{}
+{"french": 3}
+{}
+{}
+{}
+{}
+{"british": 1, "jewish": 2}
+{}
+{"romanian": 1, "american": 1}
+{}
+{}
+{"american": 10, "canadian": 1}
+{"british": 2}
+{}
+{}
+{"romanians": 1}
+{"japanese": 1}
+{"japanese": 1}
+{"japanese": 1}
+{"japanese": 1}
+{"japanese": 16, "japanese-french": 1}
+{"japanese": 16, "korean-japanese": 1}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
+{}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{"german": 1}
+{"german": 1}
+{"american": 2, "german": 1}
+{"american": 7, "australian": 1, "british": 3, "ukrainian": 1, "welsh": 1, "german": 1}
+{"japanese": 1}
+{"japanese": 11}
+{}
+{}
+{"japanese": 1}
+{"japanese": 13, "mexican": 1}
+{"german american": 1}
+{}
+{}
+{"american": 2, "dutch": 1}
+{}
+{}
+{}
+{"german": 1, "american": 1}
+{"german": 1, "american": 1}
+{}
+{}
+{}
+{"american": 1}
+{"american": 2}
+{"american": 1}
+{}
+{}
+{}
+{"italian": 1}
+{}
+{}
+{"new zealand": 1, "austrian": 1, "italian": 4}
+{"italian": 1}
+{"italian": 12}
+{"american": 1}
+{"american": 1}
+{"american": 7, "irish": 3, "english": 1}
+{"american": 11, "swedish": 1, "english": 1, "canadian": 1}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{"japanese": 2}
+{}
+{"japanese": 1}
+{"canadian": 1}
+{}
+{"dutch": 1}
+{}
+{"canadian": 1}
+{}
+{"hungarian": 2}
+{"jewish": 1, "orthodox": 1, "non-orthodox": 1}
+{"austrian": 1}
+{}
+{}
+{}
+{}
+{"german": 1}
+{}
+{"hungarian": 1, "jewish": 1}
+{}
+{}
+{"american": 1}
+{}
+{"ukrainian": 1}
+{"german": 1}
+{}
+{}
+{"english": 1, "german": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1, "korean": 1, "vietnamese": 1}
+{}
+{}
+{}
+{"u.s.": 1}
+{"polish": 1, "jewish": 1}
+{}
+{"polish": 3}
+{"polish": 1, "german": 1}
+{"polish": 1}
+{}
+{"french": 1}
+{"french": 1}
+{}
+{}
+{"french": 1}
+{"french": 0}
+{"italian": 2}
+{}
+{}
+{"italian": 1}
+{}
+{"italian": 1}
+{"south african": 1}
+{"south african": 1}
+{}
+{}
+{}
+{"south african": 1}
+{"filipino": 1}
+{}
+{"japanese": 1, "philippine": 1}
+{"philippine": 1}
+{"spanish": 2, "mexican": 2, "filipino": 1}
+{}
+{"italian": 1}
+{}
+{"italian": 1, "catholic": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"kosovo albanian": 1}
+{"albanian": 6, "kosovo albanian": 2}
+{"albanian": 1}
+{"albanian": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"united states": 1}
+{"british": 2, "loyalist": 1}
+{}
+{"german": 1}
+{}
+{"german": 2}
+{}
+{}
+{"american": 2, "german": 4, "swiss": 3}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"italian": 1}
+{}
+{}
+{"italian-american": 1, "united states": 1}
+{"american": 1}
+{"english": 1}
+{}
+{"britain": 1}
+{"american": 1}
+{}
+{}
+{"serbian": 1, "russian": 1, "norwegian": 1}
+{}
+{}
+{}
+{}
+{}
+{"english": 1, "uk": 1}
+{}
+{}
+{"mexican": 0, "french": 0, "eritrean": 0, "yemeni": 0}
+{"european": 3, "british": 1, "belgians": 1, "german": 1}
+{}
+{"iraqi": 1}
+{}
+{"assyrian": 1}
+{}
+{}
+{"assyrian": 1}
+{}
+{"american": 5}
+{"canadian": 2, "american": 3, "canadian-american": 1, "british": 1}
+{"american": 2, "japanese": 1, "israeli": 2, "british": 1}
+{}
+{"american": 5}
+{"irish": 1}
+{"english": 3, "scottish": 1, "australian": 3, "irish": 5, "irish-american": 1, "new zealand": 1, "u.s.": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"italian": 1}
+{"italian": 7}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1, "marxist": 1}
+{"italian": 2}
+{"uruguayan": 1}
+{"uruguayan": 0}
+{}
+{}
+{}
+{"uruguayan": 1}
+{"american": 1}
+{"african american": 1}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{"irish": 1}
+{}
+{}
+{}
+{"polish": 1, "jewish": 1, "israeli": 1}
+{"italian": 1}
+{}
+{}
+{"jewish": 1, "israeli": 1, "polish": 1, "american": 1}
+{}
+{"israeli": 1, "hebrew": 1, "yiddish": 1}
+{}
+{}
+{"american": 1}
+{}
+{"israeli": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"indian": 1}
+{}
+{"urdu": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"indian": 1}
+{"british": 1}
+{"indian": 1}
+{"indian": 1, "american": 1}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"british": 1}
+{"british": 1}
+{}
+{}
+{"welsh": 1, "new zealand": 1, "british": 2, "australian": 1, "english": 1, "anglo-australian": 1}
+{}
+{"puerto rican": 1}
+{}
+{}
+{}
+{"spanish": 1}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{"cambodian": 2}
+{"cambodian": 0}
+{"cambodian": 1}
+{"ukrainian": 2}
+{"ukrainian": 1, "polish": 1, "soviet": 1, "german": 1}
+{"nazi": 1, "ukrainian": 1, "polish": 1, "slavic": 1, "aryan": 1}
+{"english": 1, "australian": 1, "british": 1}
+{"israeli": 1, "south-african": 1}
+{}
+{}
+{}
+{}
+{"indian": 1}
+{}
+{"afghan": 1, "indian": 0}
+{"pashtun": 2, "pashtuns": 1}
+{}
+{"pakistan": 1, "indian": 0}
+{"american": 1}
+{}
+{}
+{}
+{"cuban": 1}
+{}
+{"german": 1}
+{}
+{"german": 1, "english": 1, "spanish": 1, "portuguese": 1, "italian": 1, "french": 1, "russian": 1}
+{"lithuanian": 1, "danish": 1, "russian": 2, "estonian": 1, "czech": 1, "dutch": 1, "german": 2, "polish": 1, "finnish": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"greek": 2}
+{}
+{"greek": 3}
+{"greek": 2}
+{"greek": 13, "cretan": 1}
+{"brazilian": 1, "greek": 2}
+{"american": 1, "romanian": 1}
+{}
+{"romanian": 1}
+{}
+{"romanian": 1}
+{"irish": 1}
+{}
+{}
+{}
+{"irish": 1, "anglican": 1}
+{}
+{}
+{}
+{"irish": 1, "anglican": 1}
+{"irish": 1, "canadian": 1, "new zealand": 1}
+{}
+{}
+{"austrian": 1, "new zealand": 1, "australian": 1}
+{}
+{"australian": 1, "austrian": 1}
+{}
+{"german": 1, "canadian": 1, "us": 1, "british": 1}
+{}
+{"american": 4, "german": 1, "jewish": 1, "israeli": 1, "hungarian": 1}
+{"us": 5, "german": 2, "serbian": 1}
+{"us": 6, "german": 1}
+{}
+{}
+{"estonian": 1}
+{"american": 1}
+{}
+{}
+{"canadian": 1}
+{"italian": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"british": 1}
+{}
+{"british": 1, "german": 1, "northern irish": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"swiss": 2}
+{}
+{"cherokee": 3}
+{"german": 1}
+{"german": 1}
+{"german": 1}
+{"german": 4, "us": 1}
+{"german": 1}
+{"german": 1}
+{"american": 1, "canadian": 1}
+{}
+{}
+{}
+{}
+{}
+{"british": 1}
+{}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"american indian": 1}
+{}
+{}
+{"greek": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"canadian": 1}
+{"canadian": 1}
+{}
+{}
+{"mexican": 1}
+{}
+{"american": 1, "british": 1}
+{}
+{"american": 1}
+{}
+{"malaysian": 1}
+{"american": 1, "british": 1}
+{}
+{}
+{}
+{"english": 1, "american": 1}
+{}
+{"british": 3, "american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"new zealand": 1, "northern irish": 1, "canadian": 1, "american": 4}
+{}
+{"turkish": 1}
+{}
+{}
+{"turkish": 1}
+{}
+{}
+{"british": 1}
+{}
+{}
+{"british": 1}
+{}
+{"american": 8, "english": 3, "british": 2, "english-american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"british": 1, "english": 3, "american": 5}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"norwegian": 1}
+{"prussian": 1}
+{"norwegian": 3, "german": 2}
+{}
+{"norwegian": 1}
+{"norwegian": 2, "german": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"germans": 1, "soviet": 1}
+{"german": 2, "american": 4}
+{"british": 1}
+{}
+{}
+{"british": 1}
+{}
+{}
+{"nigerian": 1}
+{"nigerian": 1}
+{"nigerian": 1}
+{}
+{"congolese": 1, "british-american": 1, "nigerian": 1, "african": 1}
+{"nigerian": 1}
+{"canadian": 1, "metis": 2, "d\u00ebnes\u0173\u0142in\u00e9": 1}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{"english": 1}
+{"french": 1}
+{}
+{}
+{"american": 1}
+{"english": 1}
+{"american": 2, "german": 1, "english": 1, "pakistani": 1}
+{}
+{"british": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"new zealand": 1}
+{"british": 1, "american": 3, "new zealand": 3, "english": 1}
+{}
+{}
+{}
+{"american": 1}
+{"english": 3, "australian": 1, "american": 3, "british": 1, "barbadian": 1, "canadian": 1}
+{"australian": 1, "english": 3, "british": 3}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"jews": 1}
+{}
+{}
+{"singaporean": 1}
+{"singaporean": 1}
+{}
+{"singaporean": 1}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{"swedish": 2}
+{"swedish": 3}
+{}
+{}
+{"swedish": 1}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{"italian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"pakistani": 5, "muslim": 1, "liberal": 1, "secularist": 1}
+{"pakistan": 1, "pakistani": 2}
+{}
+{"pakistani": 1}
+{}
+{}
+{"english": 1, "british": 1}
+{}
+{"zimbabwean": 1, "british": 1, "english": 2, "german": 1, "welsh": 1, "american": 1}
+{}
+{"english": 1, "british": 2}
+{"british": 1}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{"danish": 2, "american": 1, "german": 1}
+{"german": 1}
+{"german": 1}
+{"german": 1}
+{}
+{}
+{}
+{"english": 5, "british": 1, "american": 2}
+{"dutch": 2}
+{"dutch": 1}
+{"dutch": 1}
+{}
+{"american": 1}
+{}
+{"polish": 1}
+{}
+{"polish": 1}
+{"german": 1, "soviet": 1}
+{"polish": 10}
+{"polish": 1}
+{"canadian": 3}
+{}
+{"nepal": 1}
+{"british": 1, "american": 0}
+{}
+{"scottish": 1}
+{}
+{}
+{}
+{}
+{"scottish": 1}
+{}
+{"american": 1, "japanese": 1}
+{"american": 1, "japanese": 1}
+{}
+{"japanese": 4}
+{}
+{}
+{"english": 1, "italian": 1}
+{"australian": 1}
+{}
+{}
+{"american": 1, "australian": 1, "british": 1, "canadian": 2, "english": 4, "welsh": 1}
+{}
+{"british": 1, "radical": 1}
+{}
+{}
+{}
+{"british": 1}
+{"british": 2}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"welsh": 1}
+{}
+{}
+{}
+{"welsh": 1, "english": 1}
+{}
+{}
+{"nigerian": 1}
+{"yoruba": 1, "british": 1, "catawba": 1}
+{}
+{"nigerian": 24, "american": 4, "japanese": 2, "south sudanese": 1, "canadian": 2, "english": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"czech-jewish": 1}
+{}
+{"czech-jewish": 1}
+{}
+{"czech": 2, "czech-jewish": 2, "slovak": 1}
+{}
+{"czech": 1, "austrian": 3, "american": 2, "brazilian": 1, "german": 1}
+{}
+{}
+{"czech": 11}
+{}
+{}
+{"australian": 3}
+{}
+{}
+{"australian": 1}
+{"australian": 1}
+{}
+{"nigerian": 2, "african": 1}
+{}
+{}
+{"nigerian": 1}
+{}
+{"british": 1}
+{"american": 1}
+{"english": 1}
+{"american": 1, "british": 1}
+{}
+{}
+{}
+{"bosnian": 3, "bosnian jews": 1, "sephardic": 1}
+{}
+{"bosnian": 3, "sephardic": 1}
+{"bosnian": 1, "norwegian": 1, "swedish": 5, "estonian": 1, "icelandic": 1}
+{}
+{"yugoslav": 1, "bosnian-croatian": 1}
+{"british": 1}
+{}
+{}
+{}
+{"american": 1}
+{"italian": 1}
+{}
+{}
+{}
+{"italian": 1}
+{}
+{"sri lankan": 1}
+{}
+{"ceylonese": 3, "sri lankan": 14, "british": 1}
+{"sri lankan": 1, "sinhala": 1}
+{}
+{"american": 1}
+{}
+{"british": 1}
+{"british": 3, "american": 4, "south african": 1, "canadian": 2, "new zealand": 1, "english": 1}
+{}
+{"swedish": 3}
+{"swedish": 1}
+{"swedish": 1}
+{}
+{}
+{"swedish": 1}
+{"indian": 1, "urdu": 1}
+{}
+{}
+{"urdu-language": 1}
+{}
+{"muslims": 1}
+{"canadian": 1}
+{}
+{}
+{"american": 1, "australian": 3, "canadian": 2, "english": 4, "french": 1, "german": 1, "british": 2}
+{}
+{"serbian": 1}
+{}
+{}
+{}
+{"serbian": 2}
+{"serbian": 9, "bosnian serb": 2, "croatian": 2}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{}
+{"german": 3}
+{}
+{}
+{"puerto rico": 1}
+{"hispanic": 1}
+{}
+{}
+{"indian": 1}
+{"indian": 1}
+{"indian": 1}
+{}
+{}
+{}
+{"italian": 2}
+{"english": 1}
+{}
+{}
+{}
+{}
+{"west indian": 1}
+{}
+{}
+{}
+{"brazil": 1}
+{"brazilian": 0}
+{"brazil": 1}
+{"brazilian": 1}
+{"south african": 1}
+{"portuguese": 1}
+{"pakistan": 1}
+{}
+{"american": 1}
+{}
+{"jewish": 1, "mormon": 1}
+{"german-jewish": 1}
+{}
+{"american": 1}
+{"indian": 1}
+{"telugu-language": 1}
+{}
+{}
+{}
+{}
+{"somali": 2}
+{"somali": 2}
+{"somali": 1}
+{"somali": 3}
+{"somali": 1}
+{}
+{"german": 1}
+{"german": 2}
+{"american": 1}
+{}
+{"dutch": 6, "danish": 2, "german": 2, "low german": 1, "belgian": 2, "australian": 1, "american": 1}
+{"united states": 3}
+{}
+{}
+{}
+{}
+{"new zealand": 1, "american": 5, "canadian": 2, "australian": 1, "english": 1, "british": 1}
+{"singaporean": 1}
+{}
+{}
+{"indian": 1, "singaporean": 1}
+{"indian": 1, "singapore": 1}
+{"indian": 1, "singaporean": 1, "ceylonese tamil": 1, "japanese-chinese": 1}
+{"finnish": 1}
+{"finnish": 1}
+{"german": 2, "chinese": 1}
+{"finnish": 3}
+{"finnish": 1, "swedish": 1}
+{"finnish": 1}
+{"american": 1}
+{"french": 1}
+{}
+{"israeli": 2, "jewish": 1}
+{}
+{}
+{"indian": 1}
+{"indian": 1}
+{}
+{}
+{"indian": 1}
+{}
+{"welsh": 1}
+{}
+{"welsh": 1}
+{"welsh": 7}
+{"british": 1}
+{"welsh": 1}
+{"south korean": 2}
+{"korean": 1}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"british": 2, "soviet": 1, "us": 1, "nazis": 1}
+{}
+{"english": 1}
+{}
+{}
+{"british": 1}
+{}
+{"australian": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{}
+{"canadian": 1}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 2}
+{}
+{"american": 1}
+{"american": 1}
+{"burmese": 2}
+{}
+{"burmese": 1}
+{}
+{"burmese": 1}
+{"burmese": 14}
+{"french": 1}
+{"french": 2}
+{}
+{"french": 1}
+{}
+{"habsburg": 1, "bourbon": 1, "austrian": 1, "spanish": 1, "french": 1}
+{"american": 1}
+{"canadian": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 2, "german": 2, "german-american": 1, "canadian": 1}
+{}
+{"indian": 1}
+{}
+{}
+{}
+{}
+{"tamil": 8, "telugu": 5, "hindi": 2, "malayalam": 2}
+{}
+{}
+{"indian": 1, "odia": 1, "hindi": 1}
+{"american": 1, "brazilian": 1, "canadian": 1, "finnish": 1, "british": 2, "australian": 1, "korean": 1, "filipino": 1, "french": 1, "italian": 1, "indian": 2, "german": 1, "malaysian": 1, "netherlands": 1, "south african": 1}
+{"indian": 1}
+{}
+{"romanian": 2}
+{"romanian": 1}
+{"romanian": 2}
+{"romanian": 1}
+{"romanian": 1}
+{"romanian": 1}
+{"soviet": 1, "russian": 1}
+{"soviet": 1, "russian": 1}
+{"soviet": 2}
+{}
+{"russian": 6, "soviet": 1, "latvian": 1, "estonian": 1, "ukrainian": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"english": 1, "french": 1, "german": 1, "polish": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"vietnamese": 1}
+{"french": 1}
+{"french": 1}
+{}
+{"french": 3, "british": 1}
+{"french": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"english": 1}
+{}
+{}
+{"american": 6, "ghanaian": 2, "scottish": 1, "english": 5, "brazilian": 1, "nigerian": 1, "british": 1}
+{"irish": 1}
+{"irish": 1}
+{}
+{}
+{"american": 1, "new zealand": 1}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{"spanish": 1}
+{"ukrainian": 1}
+{"ukrainian": 1}
+{"ukrainian": 0}
+{"ukrainian": 1}
+{"ukrainian": 1, "soviet": 1}
+{"russian": 1}
+{"british": 1}
+{}
+{}
+{}
+{"british": 3, "american": 1, "australian": 3}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"puerto rican": 1, "spanish": 1}
+{}
+{}
+{}
+{}
+{"brazilian": 2}
+{}
+{}
+{"brazilian": 2, "american": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"english": 1, "indonesian": 1}
+{"indonesian": 1}
+{"indonesian": 1}
+{}
+{}
+{}
+{"japanese": 1}
+{"japanese": 13}
+{"japanese": 1, "french": 1}
+{}
+{"japanese": 2}
+{}
+{"anglo-irish": 1}
+{}
+{}
+{}
+{"english": 2, "british": 2, "english-american": 1, "canadian": 2, "irish": 2, "french": 1, "american": 1, "scottish": 0}
+{}
+{"north carolina": 1}
+{}
+{}
+{}
+{}
+{}
+{"cypriot": 2}
+{"greek": 7, "cypriot": 2, "cypriot-born greek": 1}
+{}
+{"greek": 2, "cyprus": 1}
+{"cypriot": 2}
+{"american": 1}
+{"american": 2}
+{}
+{"american": 1}
+{}
+{}
+{"indian": 2, "jewish": 1, "south asian": 1}
+{"indian": 0, "asian": 1, "australian": 0}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{"japanese": 3}
+{"japanese": 1}
+{"japanese": 1, "american": 1}
+{}
+{"japanese": 2}
+{"japanese": 2}
+{}
+{"japanese": 1, "chinese": 1, "western": 1}
+{"japanese": 1}
+{}
+{}
+{"french": 1}
+{"french": 1}
+{}
+{"french": 11, "canadian": 4}
+{}
+{}
+{"irish": 2}
+{"irish": 4, "british": 2, "american": 2, "canadian": 2, "australian": 1}
+{"american": 1, "dane": 1}
+{}
+{}
+{"british": 2, "belgian": 1}
+{"english": 1}
+{}
+{"american": 1}
+{"french": 1}
+{}
+{"american": 1}
+{"catalan": 2}
+{"occitan": 1, "italian": 1, "iberian": 1, "german": 1, "galician": 1, "portuguese": 1, "french": 1}
+{"occitan": 1, "english": 1, "catalan": 1, "french": 1, "spanish": 1}
+{}
+{"roman": 1, "occitans": 1}
+{}
+{"catalan": 1}
+{}
+{"catalan": 1}
+{}
+{}
+{}
+{"russian": 1}
+{"russian": 1}
+{"ukrainian": 2}
+{}
+{}
+{}
+{"german": 2, "jewish": 3, "french": 1}
+{"german": 1}
+{}
+{"jewish": 2, "german": 1}
+{"jewish": 2, "german": 1, "french": 1}
+{"german": 1}
+{"spanish": 1, "galician": 2}
+{"galician": 2}
+{"galician": 1}
+{}
+{}
+{}
+{"irish": 1}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{"american": 7, "canadian": 2, "irish": 2}
+{}
+{}
+{"irish": 1, "english": 1, "spanish": 1}
+{"american": 1}
+{"ukrainian": 1, "american": 1}
+{"ukrainian": 1}
+{}
+{}
+{}
+{"ghanaian": 3}
+{"ghanaian": 2}
+{}
+{"ghanaian": 1}
+{"ghanaian": 1}
+{"ghanaian": 4}
+{}
+{}
+{}
+{}
+{}
+{"iranian": 1}
+{"iranian": 1}
+{}
+{"iranian": 3, "afghan": 1}
+{"iranian": 1, "persian": 2}
+{}
+{"british": 1}
+{}
+{}
+{"british": 1}
+{}
+{}
+{"german": 1}
+{"austrian": 2}
+{"german": 17}
+{}
+{}
+{"moldovan": 1}
+{"vlahs": 2}
+{"moldovan": 2}
+{}
+{}
+{"italian": 1}
+{"italian": 1, "sicilian": 1}
+{}
+{"italian": 2}
+{"mexican": 1, "american": 4, "italian": 1, "british": 1}
+{"italian": 1}
+{"french": 1}
+{"dutch": 1}
+{"french-american": 1}
+{"american": 1}
+{"french": 1, "danish": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"persian": 2, "iranian": 1, "afghan": 1, "tajik": 1, "turk": 1, "kurd": 1, "greek": 1, "central asian muslim": 1, "indian subcontinent": 1}
+{}
+{}
+{}
+{}
+{}
+{"belizean": 2, "mennonite": 1}
+{"belizean": 1, "american": 1, "azerbaijani": 1}
+{}
+{}
+{"belizean": 2, "mennonite": 1}
+{"canadian": 1}
+{"japanese": 1}
+{"japanese": 1}
+{"japanese": 1}
+{}
+{}
+{"japanese": 14}
+{"uruguayan": 1}
+{"uruguayan": 1}
+{"uruguayan": 1}
+{}
+{"afro-cuban": 1, "uruguayan": 2}
+{}
+{"french-american": 1}
+{"french-american": 1}
+{}
+{}
+{}
+{"american": 1}
+{"greek": 2}
+{"greek": 1}
+{"greek": 1}
+{}
+{}
+{}
+{"mexican": 1}
+{"cuban": 1, "u.s.": 1}
+{}
+{"cuban": 1}
+{"mexican": 1}
+{"cuban": 1, "argentine": 1, "spanish": 1}
+{"american": 1}
+{}
+{"peruvian": 1}
+{}
+{}
+{}
+{"turkish-belgian": 1}
+{}
+{"turkish": 1, "belgian": 1}
+{}
+{}
+{"turkish": 1}
+{"french": 6}
+{"turkish": 1, "belgians": 1}
+{"jewish": 6}
+{"american": 1, "armenian": 1, "australian": 1, "austrian": 1, "bahamian": 1, "bangladeshi": 1, "belgian": 1, "brazilian": 1, "british": 1, "bulgarian": 1, "canadian": 1, "chinese": 1, "croatian": 1, "cuban": 1, "czech": 1, "danish": 1, "dutch": 1, "egyptian": 1, "estonian": 1, "finnish": 1, "french": 1, "german": 1, "hungarian": 1, "indian": 1, "indonesian": 1}
+{"iranian": 1, "italian": 1, "japanese": 1, "korean": 1, "latvian": 1, "lebanese": 1, "lithuanian": 1, "malaysian": 1, "mexican": 1, "new zealand": 1, "norwegian": 1, "pakistani": 1, "polish": 1, "portuguese": 1, "romanian": 1, "russian": 1, "serbian": 1, "slovak": 1, "slovenian": 1, "spanish": 1, "sri lankan": 1, "swedish": 1, "swiss": 1, "turkish": 1, "uruguayan": 1}
+{}
+{"english": 1, "czech": 1}
+{}
+{"czech": 2}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{"australian": 2}
+{"british": 4, "australian": 4, "american": 1, "english": 1, "new zealand": 1}
+{}
+{"australian": 1}
+{"australian": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"spanish": 1}
+{"mexican": 1}
+{"spanish": 1}
+{}
+{}
+{"indian": 1}
+{}
+{}
+{}
+{}
+{}
+{"south korean": 4}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 13, "canadian": 1, "english": 1}
+{}
+{}
+{}
+{"canadian": 1, "scottish": 1, "british": 1}
+{"australian": 1, "british": 3, "american": 3, "canadian": 2, "zimbabwean": 1, "english": 3}
+{}
+{}
+{}
+{}
+{"filipino": 1}
+{}
+{"filipino": 1}
+{"french": 1, "us": 1, "western": 1}
+{}
+{}
+{"pakistani": 1}
+{}
+{}
+{"pakistan": 1}
+{}
+{}
+{"american": 1}
+{"american": 8, "australian": 1, "canadian": 1, "malaysian": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
+{"peruvian": 1, "uruguayan": 2, "italian": 1}
+{}
+{"italian": 1}
+{"new zealand": 2}
+{"australian": 1}
+{"new zealand": 2}
+{}
+{}
+{"english": 1, "australian": 0}
+{}
+{}
+{}
+{}
+{}
+{"pennsylvania dutch": 1, "british": 1}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{}
+{"german": 2, "american": 1}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{}
+{"italian": 1}
+{}
+{"italian": 2}
+{}
+{"italian": 5}
+{"italian": 1}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{}
+{}
+{}
+{"puerto rican": 1}
+{}
+{}
+{}
+{}
+{}
+{"french": 1, "american": 1}
+{"austrian": 1, "german": 7, "u.s.": 3, "french": 1}
+{"dutch": 2, "belgian": 1, "english": 1, "german": 1}
+{"french": 2, "american": 1}
+{"german": 1}
+{}
+{"dutch": 1}
+{}
+{"dutch": 10, "canadian": 1, "danish": 2}
+{"dutch": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{}
+{}
+{}
+{"english": 1}
+{"american": 1}
+{}
+{}
+{"new zealand": 1}
+{}
+{"soviet": 1, "russian": 1}
+{"jamaican": 1, "american": 4, "british": 1, "soviet": 1}
+{"russian": 1, "white": 1, "black": 1, "hispanic": 1, "chinese": 1, "japanese": 1, "turks": 1, "caucasians": 1}
+{"soviet": 1, "russian": 1}
+{"russian": 1}
+{"russian": 4}
+{"norwegian": 1}
+{"norwegian": 2}
+{}
+{"norwegian": 1, "catalan": 1, "english": 1, "french": 1, "german": 1, "hebrew": 1, "italian": 1, "portuguese": 1, "spanish": 1}
+{"norwegian": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{"germanic": 1}
+{"british": 1, "american": 1}
+{"canadian": 1, "english": 1, "australian": 1}
+{}
+{"new zealand": 1}
+{}
+{}
+{"indian": 4}
+{"swedish": 3}
+{"swedish": 2}
+{"swedish": 14, "dutch": 2, "german": 1}
+{"swedish": 3, "russian": 1}
+{}
+{}
+{"american": 1}
+{"american": 8, "british": 1, "scottish": 1}
+{"negroes": 1, "american": 1}
+{"america": 1}
+{"negro": 2}
+{}
+{"hong kong": 2, "chinese": 1}
+{}
+{}
+{}
+{}
+{}
+{"french": 5}
+{"french": 3}
+{"french": 1}
+{"french": 2}
+{"french": 2}
+{"french": 1}
+{"russian": 2, "soviet": 1}
+{}
+{}
+{"belarusian": 1, "russian": 2, "bulgarian": 1, "tatar": 1}
+{}
+{"russian": 1}
+{"british": 2}
+{"british": 1}
+{"american": 1, "jews": 1}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{"aboriginal australians": 1, "british": 1, "australian": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"irish": 1}
+{"irish": 1}
+{"irish": 2}
+{}
+{}
+{"australian": 1}
+{"australian": 1}
+{"australian": 1}
+{}
+{}
+{}
+{"greek": 2}
+{"greek": 1, "turkish": 1}
+{"greek": 2}
+{"greek": 3}
+{"greek": 12, "french": 2, "cypriot": 1}
+{"greek": 1}
+{"english": 1}
+{}
+{}
+{}
+{"american": 2, "canadian": 1}
 {}
 {"american": 1}
 {"danish": 1}
 {}
-{"american": 1}
 {}
 {}
-{"norwegian": 2}
-{"english": 1}
-{"mexican": 1}
-{"american": 1}
 {}
-{"british": 1}
-{"panamanian": 1}
-{"malaysian": 1}
-{"english": 1}
-{"icelandic": 1}
-{"american": 1}
-{}
-{"american": 1}
-{"british": 3}
-{}
-{"australian": 1}
-{"dutch": 1}
-{"canadian": 1}
-{}
-{"german": 1}
-{}
-{"british": 1}
-{"british": 1}
-{"american": 1, "greek": 1}
-{"american": 1}
-{"american": 1}
-{}
-{"yemeni": 2, "british": 1, "english": 1}
-{"italian": 1}
-{"american": 1}
-{"prussian": 1, "american": 1, "german": 1}
-{}
-{"american": 1}
-{"english": 1}
-{"portuguese": 1}
-{"british": 1}
-{"chinese": 1, "asian": 1}
-{"french": 1}
-{"japanese": 1}
-{"american": 1}
-{"chilean": 1, "basque": 1}
-{"polish": 2}
-{}
-{"chinese": 2}
-{"flemish": 1, "belgian": 1}
-{"canadian": 1}
-{"dutch": 1}
-{"dutch": 1}
-{"british": 1}
-{"thai": 2}
-{"united states": 2}
-{"british": 1}
-{"nationalist": 1}
-{"american": 1, "asian american": 1}
-{"german": 1}
-{"irish american": 1}
-{}
-{}
-{"american": 1}
-{"american": 1}
-{"tanzanian": 1}
-{"american": 1}
-{"american": 1}
-{"french": 2}
-{}
-{}
-{"japanese": 1}
-{"italian": 1}
-{"german": 1}
-{"japanese": 1}
-{"german american": 1}
-{}
-{"american": 1}
-{"italian": 1}
-{"american": 1}
-{"japanese": 1}
-{"canadian": 1}
-{"hungarian": 2}
-{"jewish": 1, "orthodox": 1, "non-orthodox": 1}
-{"american": 1}
-{}
-{"american": 1}
-{"polish": 1, "jewish": 1}
-{"french": 1}
-{"italian": 2}
-{"south african": 1}
-{"filipino": 1}
-{"italian": 1}
-{"american": 1}
-{"kosovo albanian": 1}
-{"american": 1}
-{"german": 1}
-{"american": 1}
-{"american": 1}
-{"english": 1}
-{}
-{"english": 1, "uk": 1}
-{"iraqi": 1}
-{}
-{"irish": 1}
-{"english": 1}
-{}
-{"italian": 1}
-{"uruguayan": 1}
-{"american": 1}
-{"australian": 1}
-{"polish": 1, "jewish": 1, "israeli": 1}
-{"italian": 1}
-{"american": 1}
-{"american": 1}
-{}
-{"indian": 1}
-{}
-{"indian": 1}
-{"english": 1}
-{"british": 1}
-{"puerto rican": 1}
-{}
-{"cambodian": 2}
-{"english": 1, "australian": 1, "british": 1}
-{"indian": 1}
-{"american": 1}
-{"german": 1}
-{"american": 1}
-{"greek": 2}
-{"american": 1, "romanian": 1}
-{"irish": 1}
-{}
-{"austrian": 1, "new zealand": 1, "australian": 1}
-{}
-{"american": 1}
-{}
-{"american": 1}
-{"american": 1}
-{"german": 1}
-{"american": 1, "canadian": 1}
-{"british": 1}
-{"british": 1}
-{}
-{"canadian": 1}
-{"american": 1, "british": 1}
-{}
-{"american": 1}
-{"american": 1}
-{"turkish": 1}
-{"british": 1}
-{"american": 1}
-{"american": 1}
-{"norwegian": 1}
-{"american": 1}
-{"british": 1}
-{"nigerian": 1}
-{"canadian": 1, "metis": 2, "d\u00ebnes\u0173\u0142in\u00e9": 1}
-{"english": 1}
-{"american": 2, "german": 1, "english": 1, "pakistani": 1}
-{"american": 1}
-{"new zealand": 1}
-{"american": 1}
-{"american": 1}
-{"singaporean": 1}
-{"japanese": 1}
-{"swedish": 2}
-{"italian": 1}
-{}
-{"american": 1}
-{"pakistani": 5, "muslim": 1, "liberal": 1, "secularist": 1}
-{"english": 1, "british": 1}
-{"german": 1}
-{"german": 1}
-{"dutch": 2}
-{"polish": 1}
-{"canadian": 3}
-{}
-{"american": 1, "japanese": 1}
-{"english": 1, "italian": 1}
-{"british": 1, "radical": 1}
-{"american": 1}
-{}
-{"welsh": 1}
-{}
-{"american": 1}
-{"czech-jewish": 1}
-{}
-{"australian": 3}
-{"nigerian": 2, "african": 1}
-{"american": 1}
-{"bosnian": 3, "bosnian jews": 1, "sephardic": 1}
-{"british": 1}
-{"italian": 1}
-{"sri lankan": 1}
-{"american": 1}
-{"swedish": 3}
-{"indian": 1, "urdu": 1}
-{"canadian": 1}
-{"serbian": 1}
-{"german": 1}
-{}
-{"indian": 1}
-{"italian": 2}
-{"west indian": 1}
-{}
-{"american": 1}
-{"indian": 1}
-{"somali": 2}
-{"german": 1}
-{"united states": 3}
-{"singaporean": 1}
-{"finnish": 1}
-{"american": 1}
-{"indian": 1}
-{"welsh": 1}
-{"south korean": 2}
-{"english": 1}
-{"english": 1}
-{"australian": 1}
-{"canadian": 1}
-{"english": 1}
-{"american": 1}
-{"burmese": 2}
-{"french": 1}
-{"american": 1}
-{"american": 1}
-{"indian": 1}
-{}
-{"romanian": 2}
-{"soviet": 1, "russian": 1}
-{"english": 1}
-{}
-{"american": 1}
-{"french": 1}
-{"american": 1}
-{"united states": 1}
-{"irish": 1}
-{"american": 1}
-{"ukrainian": 1}
-{"british": 1}
-{"american": 1}
-{}
-{"brazilian": 2}
-{"american": 1}
-{"english": 1, "indonesian": 1}
-{"japanese": 1}
-{"anglo-irish": 1}
-{"north carolina": 1}
-{"cypriot": 2}
-{"american": 1}
-{"indian": 2, "jewish": 1, "south asian": 1}
-{"japanese": 1}
-{"japanese": 3}
-{"french": 1}
-{"irish": 2}
-{"english": 1}
-{"catalan": 2}
-{"occitan": 1, "italian": 1, "iberian": 1, "german": 1, "galician": 1, "portuguese": 1, "french": 1}
-{"russian": 1}
-{"german": 2, "jewish": 3, "french": 1}
-{"spanish": 1, "galician": 2}
-{"irish": 1}
-{"canadian": 1}
-{"american": 1}
-{"ghanaian": 3}
-{}
-{"iranian": 1}
-{"british": 1}
-{"german": 1}
-{"moldovan": 1}
-{"italian": 1}
-{"french": 1}
-{"american": 1}
-{"persian": 2, "iranian": 1, "afghan": 1, "tajik": 1, "turk": 1, "kurd": 1, "greek": 1, "central asian muslim": 1, "indian subcontinent": 1}
-{"belizean": 2, "mennonite": 1}
-{"japanese": 1}
-{"uruguayan": 1}
-{"french-american": 1}
-{"greek": 2}
-{"mexican": 1}
-{"american": 1}
-{"turkish-belgian": 1}
-{}
-{"english": 1, "czech": 1}
-{"american": 1}
-{"australian": 1}
-{"american": 1}
-{"american": 1}
-{"spanish": 1}
-{"indian": 1}
-{"south korean": 4}
-{"american": 1}
-{"canadian": 1, "scottish": 1, "british": 1}
-{"filipino": 1}
-{"pakistani": 1}
-{"american": 1}
-{"american": 1}
-{"italian": 1}
-{"new zealand": 2}
-{}
-{"pennsylvania dutch": 1, "british": 1}
-{"german": 2, "american": 1}
-{"italian": 1}
-{"american": 1}
-{"american": 1}
-{"canadian": 1}
-{"puerto rican": 1}
-{"french": 1, "american": 1}
-{"dutch": 1}
-{"scottish": 1}
-{"english": 1}
-{"soviet": 1, "russian": 1}
-{"norwegian": 1}
-{"scottish": 1}
-{"canadian": 1, "english": 1, "australian": 1}
-{"swedish": 3}
-{"american": 1}
-{"hong kong": 2, "chinese": 1}
-{"french": 5}
-{"russian": 2, "soviet": 1}
-{"british": 2}
-{}
-{"american": 1}
-{"irish": 1}
-{"australian": 1}
-{"greek": 2}
-{"english": 1}
-{"american": 1}
 {"serbian": 2}
+{}
+{"serb": 1}
+{"serbian": 1}
+{"serbian": 1}
+{"yugoslavian": 1, "american": 1, "serbian": 7, "croatian": 3, "slovenian": 4, "bosnian": 1}
+{"nepalese": 1}
+{}
+{"nepalese": 1}
+{"nepal": 1}
+{"nepalese": 1}
 {"nepalese": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
 {"german": 1}
+{}
+{}
+{}
+{}
+{"british": 1}
+{}
+{}
+{"scottish": 1}
+{"british": 1}
 {"british": 1}
 {"venezuelan": 1}
+{"venezuelan": 1}
+{"venezuelan": 1}
+{}
+{"venezuelan": 1}
+{"venezuelan": 1}
+{}
+{}
+{}
+{"american": 2, "english": 7, "australian": 1, "canadian": 1, "british": 1}
 {}
 {"indian": 1}
-{"american": 1}
-{"american": 1}
-{"american": 1, "french": 1}
-{"japanese": 2}
-{"scottish": 1, "liberal": 1}
-{"american": 1}
-{"american": 1}
+{}
+{}
 {"indian": 1}
+{}
+{}
+{"american": 1}
+{}
+{"australian": 1}
+{}
+{"american": 1}
+{"scottish": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"canadian": 2}
+{"canadian": 2}
+{}
+{"american": 1, "french": 1}
+{"french": 2, "french-american": 1, "jamaican": 2, "canadian-american": 1}
+{}
+{"french-american": 1}
+{"french": 2}
+{"australian": 1}
+{"japanese": 2}
+{}
+{}
+{"japanese": 4}
+{"japanese": 2}
+{}
+{"scottish": 1, "liberal": 1}
+{"welsh": 1, "british": 1, "canadian": 1, "scottish": 3}
+{"scottish": 1, "liberal": 2}
+{"scottish": 4, "australian": 2, "british": 2, "english": 1, "new zealand-born": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 2, "uk": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"indian": 1}
+{}
+{"philippine": 1}
+{"indian": 1}
+{}
+{"american": 2, "british": 1, "sierra leonean": 1, "welsh": 1}
+{}
+{}
+{}
+{}
+{"german": 3, "russian": 1, "english": 1, "scots": 1, "canadian": 1, "american": 3, "norwegian": 2, "danish": 1}
 {}
 {"polish": 1}
+{"polish": 2}
+{"polish": 1}
+{}
+{}
+{"israeli": 5, "american": 4, "syrian": 1, "jewish": 2, "dutch": 1, "polish": 1}
 {"american": 1, "canadian": 1}
+{}
+{}
 {"american": 1}
-{"american": 1}
-{"chilean": 2, "american": 1}
-{"hungarian-american": 1}
-{"indian": 1}
+{}
+{"english": 1, "anglican": 1}
 {"american": 1}
 {"american": 1}
 {}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"british": 1, "german": 1}
+{"chilean": 2, "american": 1}
+{}
+{"east german": 1, "cuban": 1}
+{"chilean": 1}
+{"chilean": 7, "mexican": 1, "spanish": 2}
+{"chilean": 1}
+{"hungarian-american": 1}
+{}
+{}
+{"hungarian": 7, "british": 1, "american": 1, "finnish": 1, "new zealand": 1, "romanian": 1}
+{}
+{}
+{"indian": 1}
+{"indian": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"italian": 1}
+{"american": 1}
+{}
+{}
+{}
+{"israelis": 1, "jews": 1, "palestinians": 1}
+{}
+{}
+{}
+{}
+{"nigerian": 1}
+{}
 {"german": 1}
+{"german": 5, "french": 1, "american": 1, "polish": 1}
+{}
+{}
+{}
 {"english": 1}
+{}
+{}
+{}
+{}
 {"scottish": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{}
 {"haitian": 2}
+{}
+{"french": 1}
+{}
+{}
+{"sri lankan": 1}
+{"sri lankan": 1}
+{"sri lankan": 0}
+{"french": 2}
+{"united states": 1}
+{"haitian": 2, "french": 1}
 {}
 {"roman": 1}
 {"roman": 3}
+{"roman": 3}
+{}
+{"roman": 1}
+{}
+{"roman": 1}
+{}
+{}
+{}
+{}
+{}
 {"canadian": 1, "american": 1}
+{"french-canadian": 1, "slovak": 1, "canadian": 1, "jewish": 1}
+{"canadian-american": 1}
+{}
+{"romanian-canadian": 2, "british": 1, "canadian": 1}
+{}
 {"american": 2}
+{"american": 1}
+{"american": 1}
+{}
+{"french": 1}
+{"american": 1}
+{"canadian": 1}
+{}
+{"israeli": 2, "canadian": 7, "french": 1, "american": 1}
+{"canadian": 1}
+{}
 {"canadian": 1}
 {"swiss": 1, "french": 1}
+{"swiss": 1}
+{}
+{"swiss": 1}
+{"swiss-french": 1}
+{}
 {"french": 1}
+{}
+{"french": 2}
+{}
+{}
 {"german": 1}
+{}
+{"greek": 1}
+{}
+{}
 {"japanese": 3}
+{"japanese": 4}
+{}
+{}
+{}
+{"japanese": 13}
 {"irish": 1}
 {}
 {"american": 1}
+{"irish": 2}
+{}
+{}
+{"guinean": 11}
+{}
+{"guinean": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"english": 1, "british": 1}
+{}
+{"irish": 1}
+{}
+{}
+{"australian": 3, "canadian": 1, "american": 3, "irish": 2}
+{}
 {"irish": 1}
 {"nigerien": 3, "arab": 1}
-{"american": 1}
-{"chinese": 1}
-{"english": 1}
-{"dutch": 1}
-{"nepalese": 1}
-{"belgian": 1}
-{"australian": 1, "labor": 2}
-{"tanzanian": 1}
-{"brazilian": 1}
-{"spanish": 1}
-{"croatian": 1}
-{"australian": 2}
-{"scottish": 1}
-{"israeli": 1}
-{"french": 2}
-{"scottish": 1}
-{"indian": 1}
-{"slovenian": 2, "croatian": 1}
-{"japanese": 1}
-{"english": 1}
-{"english": 1, "american": 1}
-{"german": 1}
-{"american": 1}
-{"american": 1}
+{"nigerien": 1}
+{}
+{}
+{}
+{"nigerien": 1}
 {"american": 1}
 {}
+{}
+{}
+{"american": 1}
+{}
+{"chinese": 1}
+{"han": 11}
+{"chinese": 1}
+{"chinese": 1}
+{"han": 11}
+{"han": 10, "male": 8, "female": 2}
 {"english": 1}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{}
+{}
+{"dutch": 1}
+{"jewish": 1}
+{}
+{"nepalese": 1}
+{"nepalese": 1}
+{}
+{"indian": 1}
+{}
+{"nepalese": 1}
+{"belgian": 1}
+{}
+{}
+{}
+{"french": 5}
+{"australian": 1, "labor": 2}
+{}
+{}
+{}
+{}
+{}
+{"tanzanian": 1}
+{"tanzanian": 1}
+{}
+{}
+{}
+{}
+{"brazilian": 1}
+{"portuguese": 1, "italian": 1, "brazilian": 8, "mexican": 1, "chilean": 1}
+{"portuguese": 3, "brazilian": 5}
+{"brazilian": 1}
+{}
+{"brazilian": 1}
+{"spanish": 1}
+{"spanish": 2}
+{"spanish": 2}
+{}
+{}
+{"spanish": 7, "french": 1}
+{"croatian": 1}
+{"yugoslav": 1}
+{}
+{"croatian": 1}
+{}
+{"australian": 2}
+{"american": 5, "german": 1}
+{}
+{}
+{}
+{}
+{"scottish": 1}
+{}
+{}
+{}
 {"british": 1}
+{}
+{"israeli": 1}
+{"israeli": 1}
+{"jewish": 1, "british": 1, "israeli": 1, "revisionist zionist": 1}
+{}
+{"belarusian": 1, "jewish": 1, "israeli": 2}
+{"israelis": 1}
+{"french": 2}
+{}
+{"french": 1}
+{}
+{"french": 2}
+{}
+{"scottish": 1}
+{}
+{"american": 1}
+{"french": 1, "soviet": 1, "english": 1}
+{}
+{}
+{"indian": 1}
+{}
+{}
+{}
+{}
+{}
+{"slovenian": 2, "croatian": 1}
+{"slovenian": 1}
+{"serbian": 10, "yugoslav": 2, "slovenian": 1, "montenegrin": 1, "qatari": 1, "australian": 1, "south slavic": 1}
+{"slovenian": 1}
+{"yugoslav": 1}
+{"slovene": 1, "croatian": 1}
 {"japanese": 1}
+{"japanese": 1}
+{"japanese": 1}
+{}
+{"japanese": 4}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{}
+{"english": 1, "american": 1}
+{"german": 1}
+{"german": 6, "austrian": 2, "american": 1, "east german": 1}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 11, "australian": 3, "canadian": 1, "scottish": 1, "northern irish": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"welsh": 1}
+{"english": 1}
+{}
+{"american": 9, "english": 1}
+{"english": 1}
+{}
+{}
+{"british": 1}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{"british": 2}
+{}
+{"british": 1}
+{}
+{}
+{}
+{"japanese": 7, "american": 1}
+{}
+{}
 {}
 {"american": 2}
 {}
+{"russian": 1, "soviet": 1, "american": 5, "british": 1, "norwegian": 1, "indian": 1, "english": 1, "chinese": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 6, "british": 1, "romanian": 1, "norwegian": 2, "german": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 13}
 {"american": 3}
 {"british": 1}
+{"russian": 2}
+{"united states": 1}
+{}
+{"american": 3}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
 {"croato-hungarian": 1}
+{"croatian": 4, "serbian": 2, "montenegrin": 1, "montenegrin-ecuadorian": 1, "hungarian": 1}
+{"croatian": 1}
+{}
+{"croato-hungarian": 1}
+{"hungarian": 1}
+{}
+{"soviet": 2, "german": 2}
+{}
+{}
 {}
 {"argentine": 1, "uruguayan": 1}
+{}
+{"argentine": 1}
+{"italian": 1}
+{}
+{"uruguayan": 1}
 {"japanese": 1}
 {"spanish": 1}
+{"spanish": 1}
+{}
+{}
+{"venezuelan": 1, "spanish": 5, "mexican": 1, "basque": 1}
+{}
 {"american": 1}
 {"chinese": 1, "russian": 1}
+{"american": 1, "canadian": 1, "chinese": 1, "dutch": 1, "european": 1, "german": 1}
 {}
+{"united states": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"french": 1, "british": 1, "american": 1}
+{}
+{"american": 1}
+{"british": 1, "american": 1}
 {"british-american": 1}
 {"japanese": 1}
 {}
 {}
+{}
+{"colombian": 2, "belizean": 1, "italian": 1, "spanish": 3, "filipino": 1, "american": 3, "mexican": 1, "puerto rican": 1, "gozitan": 1}
 {"american": 1}
+{}
+{}
+{"indian": 1, "western": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nazi": 2, "british": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
 {"norwegian": 3, "american": 2}
+{}
+{}
+{"norwegian": 3}
+{"south african": 1, "norwegian": 9, "danish-norwegian": 1}
+{}
 {"russian": 1}
+{}
+{}
+{"russian": 2, "american": 1, "ukrainian": 1, "soviet": 2, "slavic": 1}
+{"russian": 1}
+{"soviet": 2}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{"italian": 1}
+{}
 {"italian": 1}
 {"indian": 1}
+{}
+{"indian": 1}
+{}
+{}
+{"indian": 1}
 {"czech": 1}
+{}
+{"czech": 1}
+{"romanian": 1}
+{"czech": 1}
+{}
 {"jamaican": 1, "jew": 1}
+{}
+{}
+{"south african": 1, "jamaican": 2, "australian": 2, "american": 2, "british": 5, "nigerian": 1, "sri lankan": 4, "sinhala": 3}
+{}
 {"american": 1}
+{"kiwi": 1}
+{}
+{}
+{}
+{}
 {"russian": 1}
+{"evenks": 1}
+{"evenk": 2, "russian": 1, "yakut": 1}
+{"russian": 1}
+{"russian": 1}
+{}
 {"american": 1}
+{"american": 1}
+{"hungarian": 0, "slovakian": 0, "english": 1}
+{}
+{"american": 1}
+{}
 {"mexican": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{"american": 9, "australian": 1, "scottish": 1}
 {"czech": 5}
 {}
+{}
+{"czech": 1}
+{"colombian": 1, "french": 3, "mexican": 1, "german": 2, "spanish": 2, "american": 1, "dutch-israeli": 1, "british": 2, "scottish": 1, "polish": 1, "icelandic": 1}
+{}
+{}
+{}
+{"latvian": 1}
+{}
+{}
+{}
 {"english": 1}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{}
+{"scottish": 1}
+{}
+{"scottish": 1}
+{"english": 1}
+{}
 {"scottish": 1}
 {"finnish": 2}
+{"zambian": 1, "finnish": 1, "american": 4, "german": 1, "british": 1, "canadian": 1, "english": 1}
+{"finnish": 2}
+{}
+{"finnish": 1, "british-guyanese": 1}
+{"finns": 1}
 {"american": 1}
+{}
+{}
+{"aboriginal": 1}
+{}
+{"british": 1}
 {"chilean": 1}
+{}
+{"chilean": 0}
+{}
+{}
+{}
+{"chilean": 1}
+{"chilean": 1, "arabic": 1, "moorish": 1, "spanish": 1, "jewish": 1}
+{"american": 2}
+{}
+{}
 {}
 {"british": 1}
 {}
 {}
+{"british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{}
+{"new zealand": 1, "american": 2}
+{"new zealand": 1}
+{}
+{}
 {"english": 1}
+{"english": 1}
+{}
+{}
 {"indian": 1}
+{"indian": 1, "malayalam": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{}
+{"american": 2, "australian": 1, "irish": 2, "english": 1}
+{"english": 1}
+{}
 {"angolan": 1}
 {"angolan": 1}
+{"portuguese": 2}
+{}
+{"brazilian": 1}
+{}
+{"angolan": 1}
+{}
+{"honduran": 1}
+{"filipino": 0}
+{"angolan": 1}
+{}
 {"french": 3}
 {"french": 1}
+{"french": 1}
+{}
+{}
+{}
+{}
+{"french": 1}
+{"french": 5, "australian": 1, "english": 1, "canadian": 2, "american": 2}
+{}
+{"french": 1}
+{"english": 1}
 {"german": 1}
 {"german": 1}
+{}
+{}
+{"german": 1}
+{}
+{}
+{"german": 1, "american": 1, "british": 1}
+{"german": 2}
+{"german": 1}
+{}
+{"norwegian": 1, "swedish": 7, "chilean": 1, "french": 1, "german": 1, "finnish": 1, "american": 2, "slavic": 1}
 {"american": 1}
 {"english": 1, "american": 1}
+{}
+{"native americans": 1, "salvadoran": 1, "spaniards": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"irish": 1, "irish-american": 1}
 {"dutch": 1}
 {"dutch": 4, "multicultural": 1}
+{"danish": 1}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{}
+{}
+{"dutch": 1}
+{}
 {"egyptian": 1}
 {"egyptian": 1, "arab": 2}
+{"saudi": 4, "kuwaiti": 1, "yemeni": 1, "algerian": 1, "egyptian": 1}
+{}
+{}
+{}
+{}
+{}
+{"egyptian": 1}
+{"egyptian": 1, "french": 1}
+{"egyptian": 1}
+{}
 {"romanian": 1}
 {}
+{"romanians": 1, "hungarians": 1, "banat bulgarians": 1, "bulgarian": 1}
+{"bulgarians": 3, "romanians": 1}
+{"romanian": 10, "corsican": 1, "greek-catholic": 1}
+{}
+{"romanian": 1}
+{"romanian": 1}
+{"romanian": 1}
+{"bulgarian": 11, "romanian": 1, "french": 1}
+{"swedish": 1}
+{"swedish": 1}
 {"mexican american": 1}
 {"mexican": 1}
+{"colombian": 1}
+{"mexican": 1}
+{}
+{"mexican": 1}
+{"spanish": 3}
+{}
+{}
+{"dominican": 1}
+{}
+{}
 {"nepalese": 1}
 {"nepali": 2, "british": 1}
 {}
+{}
+{}
+{"nepalese": 6}
+{"nepal": 1}
+{"nepali": 0}
+{}
+{}
+{}
+{}
+{}
 {"u.s.": 1}
+{"british": 3, "american": 6, "english": 2, "australian": 1}
+{"canadian": 1, "australian": 1, "english": 3, "british": 2, "panamanian": 1, "irish": 1, "american": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 3, "west indian": 1, "canadian": 2, "australian": 1, "british": 3, "irish": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{"israeli": 2, "american": 8}
+{}
+{}
+{"united states": 2}
+{}
 {"american": 1}
 {"american": 1}
 {"american": 1}
-{"american": 1}
+{}
+{}
+{"american": 1, "french": 1}
+{"american": 5, "canadian": 1}
+{}
+{"african-american": 1}
+{}
+{"australian": 1}
+{}
 {"british": 1}
 {"greek": 1}
+{}
+{}
+{}
+{"greek": 2}
+{"greek": 1}
+{"british": 3, "scottish": 1, "australian": 1, "american": 1, "canadian": 1, "english": 1}
+{}
+{}
+{"british": 2}
+{}
 {"italian": 1}
 {"italian": 2}
+{"swiss": 1}
+{}
+{"italian": 1}
+{}
+{"american": 1, "israeli": 1}
+{"italian": 2}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
+{"israeli-american": 1}
 {"english": 1}
 {"british": 1}
+{}
+{}
+{"jamaican": 0, "british": 0, "american": 0}
+{"english": 3, "scottish": 1, "canadian": 1, "american": 5, "northern irish": 1, "british": 1}
+{"american": 1}
+{"american": 1}
+{"scottish": 1}
+{}
+{}
 {"german": 2}
 {"german": 3, "european": 1}
+{"american": 1}
+{"german": 2}
+{}
+{}
+{}
+{}
+{}
+{"danish": 1}
+{}
+{}
 {"indian": 1}
 {"indian": 1}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{"european-american": 1, "chickasaw": 1}
+{"english": 1}
+{}
+{}
+{}
 {"australian": 2, "indigenous australian": 1}
 {"australian": 2, "south sea islander": 2, "italian": 1, "maltese": 1, "filipinos": 1}
+{}
+{}
+{"australian": 3, "indigenous australian": 2}
+{}
+{}
+{}
+{"english": 5, "australian": 1, "british": 1}
+{"english": 6, "australian": 1, "american": 1}
+{"english": 5, "australian": 1, "british": 4, "american": 2, "new zealand": 1}
+{"south african": 7, "indigenous australian": 1, "namibian": 1}
 {"bulgarian": 1, "serbian": 1}
 {"bulgarian": 1}
+{}
+{}
+{}
+{"bulgarian": 1}
+{"bulgarian": 1, "serbian": 3}
+{"bulgarian": 1, "serbian": 1, "ottoman": 1}
+{"bulgarian": 1}
+{}
+{"serbian": 2, "bulgarian": 1}
 {"hungarian": 1}
 {"hungarian": 3}
+{"hungarian": 9, "romanian": 3, "austro-hungarian": 1, "american": 1}
+{"hungarian": 1}
+{}
+{"hungarian": 10, "polish": 1, "transylvanian saxon": 1, "romanian": 1, "ethnic hungarian": 1}
+{}
+{}
+{}
+{}
+{"german": 7, "brazilian": 2, "american": 2}
+{}
 {"soviet": 1, "russian": 1}
 {"russian": 3}
+{"russian": 6, "soviet": 7, "belarusian": 1, "american": 1, "french": 1}
+{"russian": 1}
+{}
+{}
+{"russian": 1}
+{"russian": 0}
+{}
+{}
+{}
+{"serbian": 1, "armenian": 1, "russian": 8, "ukrainian": 1}
 {"american": 1, "french": 1}
+{}
+{}
+{"french": 2}
+{}
+{"african-american": 1}
+{}
+{}
+{}
+{"american": 1, "german": 1}
 {}
 {"persian american": 1, "persian": 1}
 {"persian": 1, "iranian": 2}
+{}
+{}
+{}
+{"venezuela": 3, "north korea": 1, "peru": 1, "united states": 1, "taiwan": 3, "south korea": 2, "senegal": 2}
+{"persian": 2, "american": 1}
+{}
+{}
+{}
+{"iranian": 1}
+{"french": 1}
 {"french": 1}
 {"french": 1, "german": 1}
+{"french": 1, "english": 1}
+{"germans": 1, "french": 1}
+{}
+{"french": 1, "alsatian": 2}
+{}
+{}
+{"french": 0}
+{"german": 1}
+{}
 {"swedish": 1, "finnish": 1}
 {"sweden finn": 1, "swedish": 1}
+{"sweden finn": 1}
+{"swedish": 2}
+{"swedish": 2}
+{"american": 4, "norwegian": 1, "swedish": 1, "finnish": 1}
+{}
+{}
+{"swedish": 1}
+{}
+{"swedish": 1, "finnish": 1}
+{"swedish": 1}
 {"canadien": 1, "british": 1}
 {"canadian": 1, "french": 1}
+{}
+{}
+{}
+{}
+{}
+{"canadian": 1, "french": 12}
+{}
+{"french": 1}
+{}
+{"canadian": 2, "american": 10, "english": 1, "irish": 1, "scottish": 0, "british": 0, "australian": 0}
 {"german": 1}
+{}
+{}
+{}
+{}
+{"german": 1}
+{}
+{}
+{"jewish": 1, "german": 1, "italian": 1}
+{}
+{}
 {}
 {"bulgarian": 2}
 {"bulgarian": 5, "european": 1}
+{}
+{"bulgarian": 1}
+{"bulgarian": 1, "russian": 1}
+{"bulgarian": 1}
+{}
+{}
+{}
+{}
+{"bulgarian": 1}
+{}
 {"indonesian": 1}
 {"indonesian": 1, "javanese": 1, "muslim": 2}
-{"american": 1}
-{"american": 1}
-{"british": 1}
-{"scottish": 4, "british": 1}
-{"american": 1}
-{"american": 1}
-{"italian": 1}
-{"milanese": 1, "italian": 2, "insubres": 1}
-{"austrian": 1, "german": 1}
-{"austrian": 1, "german-speaking": 1}
-{"dutch": 1}
-{"dutch": 1}
-{"english": 1, "spanish": 1}
+{"indonesian": 1}
+{"indonesian": 1}
+{}
+{}
+{"indonesian": 2, "armenians": 1, "filipinos": 1, "japanese": 1, "koreans": 1}
+{}
+{}
+{}
+{"moldovan": 6, "bulgarian": 1, "israeli": 1, "indonesian": 1, "soviet": 1, "austrian": 2, "german": 1, "canadian": 1}
 {}
 {"american": 1}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{"african-american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"british": 1}
+{"scottish": 4, "british": 1}
+{"canadian": 1}
+{"scottish": 1, "english": 1}
+{}
+{}
+{"american": 2, "jamaican": 1, "canadian": 2, "australian": 1}
+{"scottish": 1}
+{"british": 1}
+{}
+{"scottish": 1, "australian": 0}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"oglala sioux": 1}
+{"american": 1}
+{}
+{"italian": 1}
+{"milanese": 1, "italian": 2, "insubres": 1}
+{}
+{"italian": 1}
+{}
+{}
+{}
+{"lombard": 1, "western": 1, "milanese": 1}
+{"american": 1, "italian": 1}
+{"italian": 4, "brazilian": 1, "austrian": 1, "argentine": 1, "swiss": 1, "american": 1}
+{"argentine": 1, "american": 1, "italian": 6, "mexican": 1}
+{"austrian": 1, "german": 1}
+{"austrian": 1, "german-speaking": 1}
+{}
+{"danish": 1, "german": 8, "dutch": 1, "jewish": 1, "american": 1}
+{"austrian": 1, "german": 1}
+{}
+{}
+{}
+{"slovak": 1}
+{"austrian": 1}
+{"german": 1, "australian": 1}
+{"czechs": 1, "hungarians": 1, "jews": 1}
+{"dutch": 1}
+{"dutch": 1}
+{"american": 1}
+{"swedish": 1}
+{"english": 3, "british": 2, "dutch": 1, "new zealand": 1, "united states": 1}
+{"dutch": 1}
+{}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{"english": 1, "spanish": 1}
+{}
+{}
+{"british": 2, "irish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"german": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
 {"u.s.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"french": 1}
 {"french": 1}
+{"canadian": 0, "american": 0}
+{}
+{}
+{"indian": 1}
+{}
+{}
+{"french": 1}
+{}
+{"chilean": 1}
+{}
 {"ukrainian": 2}
 {"ukrainian": 2}
+{}
+{"ukrainian": 8, "soviet-ukrainian": 1, "russian": 2, "french": 1}
+{}
+{"ukrainian": 1}
+{}
+{}
+{"ukrainian": 1, "pakistan": 1, "russian": 1, "eastern european": 1}
+{"ukrainian": 0}
+{"ukrainian": 0}
+{}
 {"ecuadorian": 1, "german": 2}
 {"ecuadorian": 1}
+{}
+{}
+{}
+{"ecuadorian": 1, "colombian": 1, "venezuelan": 1, "spanish": 1, "american": 1}
+{}
+{}
+{"cuban": 1, "kazakhstani": 1, "belarusian": 1, "mexican": 1, "french": 1, "german": 1, "uzbek": 1, "turkmen": 1}
+{"argentine": 1}
+{}
+{"ecuador-born": 1, "german": 1}
 {"nigerian": 1}
 {"indigenous": 1, "itsekiri": 1, "urhobo": 1, "ijaw": 1}
+{"nigerian": 0}
+{"australian": 4}
+{"nigerian": 1}
+{"nigerian": 2}
+{"nigerian": 7, "nigerian-british": 1, "british": 1, "american": 1, "yoruba": 1}
+{"nigerian": 0}
+{"british": 1}
+{}
+{}
 {"american": 1, "african american": 1}
 {"algonquian": 1, "english": 1}
+{}
+{}
+{"algonquian": 1}
+{"american": 1}
+{"american": 1}
+{"english": 1}
+{}
+{}
+{"canadians": 1}
+{}
 {"english": 1}
 {"british": 1}
+{"american": 1}
+{"british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"english": 1}
 {"american": 1}
 {"spanish": 1, "mexican": 1, "american": 2}
 {}
+{}
+{}
+{}
+{}
+{}
+{}
+{"indian": 1, "canadian": 1, "jamaican": 1, "australian": 1, "manx": 1, "dutch": 1, "english": 3, "american": 3}
+{"american": 7, "australian": 1, "british": 1, "english": 2, "african-american": 1}
+{"american": 5, "english": 2, "irish": 1, "canadian": 1, "uruguayan": 1, "british": 1}
+{}
 {"arab": 1, "syrian": 1}
+{"armenian": 1, "canadians": 1}
+{}
+{"arab": 1, "muslim": 2, "byzantine": 1}
+{"armenian": 2, "canadian": 0, "syrian": 0, "lebanese": 0, "hungarian": 0}
+{}
+{"syrian": 1, "danish": 1, "norwegian": 1, "us": 1}
+{}
+{"syrian": 1}
+{}
 {"argentinian": 1}
 {"argentinian": 1, "multicultural": 1}
+{}
+{"argentine": 2}
+{"peruvian": 0}
+{}
+{"argentinian": 0}
+{}
+{}
+{"argentine": 4, "mexican": 2, "venezuelan": 1, "paraguayan": 1, "brazilian": 5, "guatemalan": 1, "uruguayan": 2}
+{"chilean": 2}
+{"argentina": 1}
 {"american": 1}
 {"spanish": 1, "european": 1, "american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
 {"hungarian": 5, "east german": 1}
+{"hungarian": 9}
+{}
+{"hungarian": 2, "east german": 1, "united states": 1}
+{}
+{"hungarian": 1}
 {"french": 3}
 {"french": 1}
+{"cherokee": 3}
+{}
+{"european-american": 1, "cherokee": 1}
+{"french": 1}
+{}
+{"french": 2, "international": 1}
+{"french": 11, "swiss": 2}
+{"english": 2, "american": 6, "australian": 1, "british": 1, "canadian": 1}
+{"american": 5, "british": 1, "african-american": 1, "cherokee": 1, "english": 1}
+{}
 {"american": 1}
 {"american": 1, "british": 1}
+{}
+{"american": 1}
+{"asian": 1, "united states": 1}
+{}
+{}
+{}
+{"united states": 12}
+{"united states": 12}
+{}
+{"british": 2, "welsh": 2, "english": 3, "australian": 2, "canadian": 1, "american": 1}
 {"american": 1}
 {"u.s.": 1}
+{"american": 1}
+{"united states": 1}
+{}
+{}
+{"united states": 1}
+{}
+{"american": 1}
+{"united states": 1}
+{}
+{}
 {"german": 2}
 {"german": 2, "sorbian": 1, "american": 1, "british": 1, "polish": 1, "saxon": 1}
+{"german": 1}
+{}
+{}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{}
+{"upper saxon": 1, "upper sorbian": 1}
+{"german": 1}
 {"african american": 1}
 {"american": 1, "dutch": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
 {"indian": 2}
 {"indian": 1}
+{"indian": 2}
+{"indian": 1, "hindu": 1}
+{"indian": 2, "european": 1}
+{"tamil": 2}
+{"indian": 1}
+{}
+{}
+{}
+{"indian": 1}
+{}
 {"ukrainian": 2}
 {"ukrainian": 1, "polish": 2, "roman catholic": 1, "latin catholic": 1}
+{}
+{}
+{}
+{"ukrainian": 1}
+{"ukrainian": 2}
+{}
+{"russian": 1}
+{"ukrainian": 1, "belarusian": 1, "hungarian": 1}
+{"ukrainian": 1, "russian": 1, "latin": 2}
+{"ukrainian": 1}
 {"australian": 3, "south african": 1}
 {}
+{}
+{"south african": 1, "australian": 2}
+{"south african": 1, "australian": 0}
+{}
+{"south african": 1}
+{"australian": 1}
+{}
+{"south african": 1}
+{}
+{"south african": 4, "australian": 1, "japanese": 1, "afrikaner": 1}
 {"australian": 2}
 {"australian": 3, "british": 1, "german": 1}
+{}
+{}
+{"australian": 2, "japanese": 1}
+{"australian": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{}
+{"australian": 1, "scottish": 1}
 {"argentine": 1}
 {"argentinian": 1}
+{"spanish": 1}
+{}
+{}
+{}
+{"argentine": 1}
+{}
+{"argentine": 1}
+{}
+{}
+{}
 {"australian": 1}
 {"chinese": 1, "sub-saharan african": 1, "global": 1, "asia-pacific": 1}
+{"british": 1, "american": 1, "canadian": 1, "korean": 1, "japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"welsh": 1}
 {"welsh": 3}
-{"portuguese": 1}
-{"portuguese": 2, "european": 1}
-{"british": 1, "canadian": 1}
 {}
-{"armenian": 1, "russian": 1}
-{"armenian": 5}
-{"japanese": 1}
-{"japanese": 3}
-{"swedish": 1}
-{"swedish": 4, "scandinavian": 1}
-{"egyptian": 1}
-{"canadian": 1}
-{"canadian": 5}
-{"german": 1, "jew": 1}
-{"german": 1}
-{"italian": 5}
-{"italian": 4, "european": 1}
-{"italian": 1}
-{"italian": 1}
-{"english": 1}
+{"welsh": 1}
 {}
-{"swiss": 1}
-{"french-speaking": 1}
-{"flemish": 1, "belgian": 1}
-{"belgian": 1}
-{"brazilian": 1}
-{"brazilian": 1}
-{"chinese": 4}
-{"chinese": 1}
-{"american": 1}
-{}
-{"french": 1}
-{"american": 1}
-{"californian": 1, "american": 1}
-{"dominican": 1, "latin": 2}
-{"spanish": 2, "dominican": 1}
-{"english": 1}
-{"english": 1, "british": 1}
-{"rajput": 1}
-{"indian": 1, "rajput": 1}
-{"argentine": 1}
-{"argentinian": 1}
-{"american": 1}
-{}
-{"american": 1}
-{}
-{"english": 1}
-{"english": 1}
-{"serbian": 2, "yugoslav": 1}
-{"serbian": 1}
-{"austrian": 1, "italian": 1}
-{"english": 1}
-{}
-{"cuban": 1}
-{"cuban": 3}
-{"english": 1}
-{}
-{"english": 1}
-{}
-{"german": 1, "european": 1}
-{"german": 2}
-{"american": 1}
-{"seminole": 1}
-{"american": 1}
-{"american": 1}
-{"u.s.": 3}
-{"british": 1, "jewish": 1}
-{"italian": 1}
-{"italian": 1}
-{"french": 3}
-{"french": 2}
-{"french": 1}
-{"french": 1}
-{"english": 1}
-{"english": 2, "british": 1}
-{"flemish": 1}
-{"flemish": 1}
-{"belgian": 3}
-{"flemish": 1, "belgian": 1, "spanish": 2, "jewish": 1, "haredi": 1}
-{"turkish": 1}
-{"turkish": 2, "greek": 1}
-{"bosnian": 2}
-{"ottoman": 1, "bosnian": 1}
-{"indian": 1}
-{"indian": 1, "british": 1}
-{"american": 3}
 {}
 {"british": 1}
 {}
-{"american": 1}
-{"american": 1, "u.s.": 1}
-{"belgian": 1}
-{"irish": 1}
 {}
+{}
+{}
+{}
+{"portuguese": 1}
+{"portuguese": 2, "european": 1}
+{"portuguese": 1, "french": 1}
+{"portuguese": 1}
+{"portuguese": 1}
+{"brazilian": 9, "angolan": 1, "bolivian": 1, "portuguese": 1}
+{"portuguese": 1}
+{}
+{"portuguese": 1, "french": 1}
+{}
+{"portuguese": 1}
+{}
+{"british": 1, "canadian": 1}
+{}
+{}
+{"australian": 1, "english": 4, "american": 5, "canadian": 1}
+{"english": 3, "american": 2, "british": 2, "canadian": 1, "irish": 1}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{"canadian": 1}
+{"armenian": 1, "russian": 1}
+{"armenian": 5}
+{"russian": 1}
+{}
+{"russian": 1}
+{"armenia": 1, "yazidis": 1}
+{}
+{}
+{}
+{}
+{"armenian": 1, "russian": 1}
+{}
+{"japanese": 1}
+{"japanese": 3}
+{}
+{}
+{}
+{}
+{}
+{"albanian": 1, "bahamian": 1, "bahraini": 1, "beninese": 1, "bolivian": 1, "burkinabe": 1, "cameroonian": 1, "central african": 1, "djiboutian": 1, "eritrean": 1, "swazi": 1, "guinean": 1, "guyanese": 1, "icelandic": 1, "jamaican": 1, "kazakhstani": 1, "kiribati": 1, "north korean": 1, "liberian": 1, "lithuanian": 1, "malagasy": 1, "malian": 1, "maldivian": 1, "montenegrin": 1, "mozambican": 1, "nigerien": 1, "panamanian": 1, "paraguayan": 1, "rwandan": 1, "senegalese": 1, "sierra leonean": 1, "surinamese": 1, "tajikistani": 1, "turkmenistani": 1, "yeemeni": 1}
+{}
+{"qatari": 2, "singaporean": 2, "korean": 2, "swedish": 2, "senegalese": 2, "taiwanese": 3, "turkmen": 2, "tajik": 2, "tongan": 4, "american": 4}
+{"japanese": 0}
+{"japanese": 1}
+{"swedish": 1}
+{"swedish": 4, "scandinavian": 1}
+{"swedish": 1}
+{}
+{}
+{"swedish": 1}
+{}
+{"swedish": 1, "russian": 1}
+{}
+{}
+{"swedish": 2, "danish": 1}
+{"swiss": 1, "danish": 1, "swedish": 1}
+{"egyptian": 1}
+{"egyptian": 1}
+{"lebanese-american": 1, "dutch-palestinian": 1, "syrian-german": 1, "syrian-palestinian": 1, "egyptian": 2, "iranian": 3, "iranian-born u.s.": 1, "palestinian": 1}
+{}
+{}
+{"palestinian": 1, "iraqi": 1, "slovenian": 2, "bosnian": 3, "swedish": 1, "montenegrin": 2, "american": 1, "lebanese": 1, "egyptian": 2, "serbian": 1, "kosovo albanian": 1, "saudi arabian": 1, "yugoslav": 1}
+{"canadian": 1}
+{"canadian": 5}
+{"french-speaking": 1}
+{"american": 3, "canadian": 6, "qu\u00e9b\u00e9cois": 1, "acadian": 1, "north american native": 1}
+{"american": 3, "canadian": 9}
+{}
+{}
+{}
+{}
+{}
+{}
+{"german": 1, "jew": 1}
+{"german": 1}
+{}
+{"german": 1}
+{"german": 1}
+{"german": 2, "jew": 1}
+{}
+{"german": 1, "dutch": 1}
 {"dutch": 2}
-{"dutch": 1}
-{"dutch": 1}
+{}
+{}
+{"german": 1}
+{"italian": 5}
+{"italian": 4, "european": 1}
+{}
+{}
+{"italian": 1, "genovese": 1}
+{"italian": 0}
+{}
+{}
+{"italian": 1}
+{}
+{"italian": 1}
+{}
+{"italian": 1}
+{"italian": 1}
+{"italian": 0, "roman": 0}
+{"italian": 1}
+{}
+{"italian": 1}
+{}
+{"italian": 0}
+{"argentine": 1}
+{}
+{"roman": 1, "italian": 0}
+{}
+{"english": 1}
+{}
+{}
+{"swedish": 1}
+{}
+{}
+{"australian": 1}
+{}
+{}
+{}
+{"english": 1, "botswana": 1}
+{"swiss": 1}
+{"french-speaking": 1}
+{}
+{}
+{"swiss": 1}
+{}
+{}
+{}
+{"swiss": 1}
+{}
+{}
+{"flemish": 1, "belgian": 1}
+{"belgian": 1}
+{}
+{}
+{}
+{"german": 2}
+{}
+{"flemish": 2, "belgian": 1}
+{}
+{}
+{}
+{}
+{"brazilian": 1}
+{"brazilian": 1}
+{"french": 2}
+{}
+{}
+{"brazilian": 1}
+{}
+{"brazilian": 1}
+{"brazilian": 1}
+{"mexican": 1}
+{}
+{"french": 1, "brazilian": 1}
+{"chinese": 4}
+{"chinese": 1}
+{"korean": 1, "chinese": 0}
+{}
+{"chinese": 1}
+{}
+{"chinese": 3}
+{}
+{"swedish": 3, "chinese": 5}
+{"chinese": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"irish": 3, "american": 2, "australian": 2, "british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"french": 1}
+{}
+{}
+{}
+{"french": 1}
+{}
+{"american": 1}
+{"californian": 1, "american": 1}
+{}
+{}
+{}
+{}
+{}
+{"israeli-american": 1, "german": 1, "puerto rican": 1}
+{"british": 1, "german": 2, "austrian": 1, "american": 3, "english": 1}
+{}
+{}
+{}
+{"dominican": 1, "latin": 2}
+{"spanish": 2, "dominican": 1}
+{}
+{"dominican": 1}
+{"colombian-american": 2, "american": 2}
+{"dominican": 1}
+{}
+{}
+{"dominican": 1, "colombian": 1}
+{"dominican": 1}
+{}
+{}
+{"english": 1}
+{"english": 1, "british": 1}
+{}
+{}
+{}
+{"american": 6, "english": 2, "australian": 1, "fiji-born": 1, "new zealand": 1, "barbadian": 1, "canadian": 1}
+{}
+{"english": 9, "australian": 1, "welsh": 1, "scottish": 1, "american": 1}
+{"irish": 1, "australian": 1, "english": 3, "scottish": 3, "northern irish": 1, "british": 1, "american": 1}
+{}
+{}
+{"rajput": 1}
+{"indian": 1, "rajput": 1}
+{"rajput": 2}
+{}
+{"british": 1}
+{}
+{}
+{}
+{}
+{}
+{"indian": 1}
+{}
+{"argentine": 1}
+{"argentinian": 1}
+{}
+{"argentino": 1}
+{}
+{"argentinian": 0}
+{"argentine": 1}
+{}
+{}
+{"american": 4, "argentine": 1, "canadian": 1, "french": 2, "french-canadian": 1, "german": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{}
+{"hungarian-jewish": 1}
+{"german": 2}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{"american": 3, "paraguayan": 1, "colombian": 1, "cape verdean": 1, "chilean": 1, "argentinian": 1}
+{"english": 1}
+{"hungarian": 11, "romanian": 1, "canadian": 1, "slovak": 1}
+{"hungarian": 6, "slovak": 3, "romanian": 1, "czech": 1, "slovenian-croat": 1, "serbian": 1}
+{}
+{}
+{}
+{"american": 1}
+{"english": 1}
+{"english": 1}
+{}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{"serbian": 2, "yugoslav": 1}
+{"serbian": 1}
+{"serbian": 1}
+{"serbian": 1}
+{"serbian": 1}
+{}
+{}
+{"serbian": 2, "yugoslav": 1}
+{}
+{"french": 1}
+{}
+{}
+{"austrian": 1, "italian": 1}
+{}
+{"austrian": 1, "italian": 1}
+{"italian": 8, "austrian": 1, "french": 1}
+{"french": 2, "viennese": 1, "dutch": 1, "scottish": 1, "swedish": 1}
+{"austrian": 1, "spanish": 1, "taino": 1, "latin": 1}
 {"english": 1}
 {}
 {"american": 1}
+{"american": 3, "english": 1}
+{"american": 1}
+{}
+{"english": 1}
+{"english": 1}
+{}
+{}
+{}
+{}
+{"cuban": 1}
+{"cuban": 3}
+{"argentine": 1}
+{"mexican": 1}
+{"colombian": 0}
+{"brazilian": 1}
+{}
+{"cuban": 1}
+{"brazilian": 2, "romanian": 1, "cuban": 1, "mexican": 1, "argentine-born": 1, "french-peruvian": 1, "american": 1, "spanish": 1, "colombian": 1}
+{}
+{"cuban": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{"australian": 4, "american": 2, "british": 3, "english": 3, "canadian": 1, "filipina": 1}
+{"american": 7, "english": 2, "australian": 1, "irish": 1, "british": 1}
+{"australian": 2, "british": 1, "english": 1}
+{}
+{}
+{}
+{}
+{}
+{"british": 4, "american": 1, "canadian": 1}
+{}
+{"german": 1, "european": 1}
+{"german": 2}
+{}
+{"american": 1}
+{"american": 3}
+{"brazilian": 1, "british": 1, "danish": 1, "dutch": 1, "french": 2, "german": 3, "hungarian": 1}
+{}
+{"german": 2}
+{}
+{"american": 1, "russian": 1}
+{}
+{"american": 6, "german": 3, "estonian": 1, "finnish": 1, "french": 1, "english": 1}
+{"american": 1}
+{"seminole": 1}
+{}
+{}
+{}
+{"american": 8}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"seminole": 1}
+{}
+{"american": 1}
+{}
+{}
+{"puerto ricans": 1}
+{}
+{"american": 1}
+{"u.s.": 3}
+{}
+{}
+{}
+{"greek": 2, "calabrian": 2, "italian": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"italian": 1}
+{"british": 1, "jewish": 1}
+{}
+{}
+{}
+{}
+{"english": 1}
+{"italian": 1}
+{"italian": 1}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{"italian": 1}
+{"french": 3}
+{}
+{"italian": 1, "french": 3, "australian": 1, "american": 1}
+{"french": 1}
+{"french": 6, "italian": 1, "italian-french": 1, "russian": 1, "american": 2}
+{"french": 22}
+{"french": 2}
+{"french": 1}
+{}
+{"belgian": 1}
+{"franco-swiss": 1}
+{"french": 2, "german": 1}
+{}
+{"burkinab\u00e9": 1, "french": 3, "dutch": 3, "belgian": 2, "new caledonian": 1, "namibian": 1, "flemish": 1, "canadian": 1}
+{"belgian": 4, "dutch": 6, "french": 2, "american": 1}
+{"belgian": 2, "dutch": 7, "flemish": 1, "french": 1}
+{"chilean": 1, "australian": 3, "american": 1, "canadian": 1, "english": 1, "south australian": 1}
+{"french": 2, "belgian": 1}
+{"french": 1}
+{"american": 1, "jewish": 1, "french": 2, "roman catholic": 1}
+{"english": 1}
+{}
+{}
+{}
+{"english": 1}
+{"english": 2, "british": 1}
+{}
+{"english": 1}
+{}
+{}
+{"english": 2}
+{}
+{}
+{}
+{}
+{}
+{"flemish": 1}
+{"flemish": 1}
+{}
+{"french": 1}
+{"french": 1}
+{}
+{}
+{"spanish": 2}
+{"belgian": 1}
+{"dutch": 2, "belgian": 1, "flemish": 1}
+{"french": 1}
+{}
+{"belgian": 3}
+{"flemish": 1, "belgian": 1, "spanish": 2, "jewish": 1, "haredi": 1}
+{"flemish": 1}
+{}
+{"belgian": 2}
+{}
+{"flemish": 1}
+{"flemish": 1}
+{"flemish": 1}
+{}
+{"dutch": 6, "belgian": 3, "netherlandish": 1, "american": 1, "zealandic": 1}
+{"turkish": 1}
+{"turkish": 2, "greek": 1}
+{"turkish": 1}
+{}
+{}
+{}
+{"turkish": 1, "greek": 1, "armenian": 1, "albanian": 1}
+{"turkish": 1, "circassian": 1}
+{"circassian": 2}
+{}
+{}
+{"austrian": 1, "greek": 1, "armenian": 1}
+{"bosnian": 2}
+{"ottoman": 1, "bosnian": 1}
+{}
+{}
+{}
+{}
+{"ottoman": 2, "serbian": 8, "bosnian": 2, "canadian": 1, "american": 1}
+{}
+{"bosnian": 1, "yugoslav": 1, "serbian": 1}
+{}
+{}
+{}
+{"indian": 1}
+{"indian": 1, "british": 1}
+{}
+{}
+{"urdu": 1, "hindi": 1, "indian": 0, "bollywood": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 3}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 9}
+{}
+{}
+{}
+{"american": 1}
+{"british": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"english": 1}
+{"canadian": 1}
+{}
+{}
+{"english": 1}
+{"american": 1}
+{"american": 1, "u.s.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"scotch-irish": 1, "german": 1}
+{}
+{}
+{}
+{"belgian": 1}
+{"french": 1}
+{"belgian": 1}
+{"belgische": 1}
+{"belgian": 1}
+{"irish": 1}
+{}
+{}
+{}
+{"new zealand": 1}
+{}
+{"new zealand": 1}
+{}
+{}
+{}
+{}
+{"dutch": 2}
+{"dutch": 1}
+{}
+{"dutch": 1}
+{"swedish": 1, "dutch": 8, "indonesian": 1, "belgian": 2}
+{"dutch": 5, "italian": 3, "flemish": 1}
+{}
+{"dutch": 2}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{}
+{"dutch": 1}
+{}
+{"english": 1, "dutch": 1, "norwegian": 3}
+{}
+{"english": 1}
+{}
+{"british": 1}
+{}
+{}
+{"english": 1}
+{}
+{"english": 1}
+{"english": 1}
+{}
+{"northern irish": 1}
+{"british": 1, "english": 3, "australian": 1, "american": 4, "french": 1}
+{"american": 1}
 {"swedish": 1, "great britain": 1, "american": 1}
+{}
+{"american": 1}
+{"irish-american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
 {"danish": 1}
 {"nordic": 1, "danish": 3, "scandinavian": 1}
+{}
+{"danish": 0}
+{}
+{"danish": 1}
+{"danish": 0}
+{"danish": 1}
+{"danish": 1}
+{"danish": 1}
+{}
+{}
 {"polish": 2}
 {"polish": 1, "european": 2}
+{"american": 1, "polish": 2}
+{}
+{}
+{}
+{}
+{"polish": 2}
+{}
+{}
+{"polish": 3}
+{}
 {"japanese": 1}
 {"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
 {}
 {}
 {"american": 1}
 {"english": 1, "portuguese": 1, "foreign-born": 1}
+{"united states": 1}
+{"british": 2, "northern irish": 1, "american": 4, "english": 2, "canadian": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1, "african american": 1}
+{}
 {"apache": 1, "native american": 1}
+{}
+{}
+{}
+{}
+{"canadian": 1, "american": 4, "australian": 1, "northern irish": 1}
+{}
+{}
+{"american": 4, "canadian": 2, "english": 1}
+{}
+{}
 {}
 {"romanian": 1}
 {"romanian": 4, "european": 2}
+{}
+{}
+{"romanian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"romanian": 1}
 {"american": 1}
+{}
+{}
+{"american": 1, "jacksonian": 2}
+{}
+{}
 {"mexican": 2}
 {"mexican": 2}
+{}
+{}
+{}
+{}
+{"mexican": 1, "american": 1}
+{}
+{"mexican": 1}
+{"spanish": 3, "colombian": 1, "dominican": 1, "chilean": 1, "venezuelan": 1, "mexican-american": 1, "mexican": 1, "peruvian": 1, "french": 1, "portuguese": 1}
+{}
+{}
 {"italian": 1}
 {"italian": 3}
+{}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1, "peruvian": 1}
+{"austrian": 1, "swedish": 1, "italian": 1, "serbian": 1}
+{}
+{"italian": 1}
+{}
+{"italian": 1}
+{}
 {"scottish": 1}
 {"scottish": 1}
+{}
+{}
+{"australian": 0, "romanian": 0, "english": 0, "scottish": 0, "chinese": 0, "irish": 0, "french": 0, "welsh": 0, "us": 0, "canadian": 0}
+{}
+{"scottish": 3, "australian": 3, "irish": 1, "irish-american": 2, "english": 1}
+{}
+{"british": 1, "scottish": 1}
+{"scottish": 1}
+{}
+{"scots": 1}
 {"german": 1}
 {"german": 3, "european": 1}
 {}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{"german": 1}
+{}
+{}
+{}
+{}
+{}
 {"spanish": 1}
+{"spanish": 1}
+{}
+{}
+{}
+{"american": 1, "brazilian": 2, "spanish": 1, "mexican": 1, "puerto rican": 1, "venezuelan": 1, "argentinean": 1, "chilean": 1, "ecuadorian": 1}
+{"spanish": 3, "chilean": 1, "venezuelan": 1, "mexican": 1, "italian": 1, "american": 2}
+{}
+{}
+{"colombian": 1}
+{}
+{"belgian": 1}
+{"belgian": 1}
+{"belgian": 1, "french": 1}
+{"belgian": 1}
 {"belgian": 1}
 {"belgian": 1}
 {}
+{}
+{"indian": 1}
+{"australian": 1}
+{"brazilian": 1}
+{}
 {"native american": 1}
+{}
+{"native american": 1, "kickapoo": 1}
+{}
+{}
+{"american": 1, "argentine": 1}
+{}
+{"british": 1}
+{}
+{"american": 1}
+{"new zealand": 1}
 {"surinamese": 1, "dutch": 1}
 {"surinamese": 1}
+{}
+{}
+{"brahmin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
 {"argentine": 2, "latin american": 1}
+{"argentine": 1, "nicaraguan": 1, "uruguayan": 1}
+{"latin american": 1}
+{"italian": 4, "belgian": 1, "german": 1, "chilean": 3, "american": 3}
+{"estadounidense": 1}
+{"american": 2, "brazilian": 1, "italian": 1}
 {"american": 1}
 {"american": 2, "great britain": 1}
+{"american": 1}
+{}
+{}
+{"texas": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
 {"spanish": 1}
 {"spanish": 1, "murcian": 1}
+{}
+{"spanish": 1}
+{"american": 1}
+{}
+{}
+{"european": 1, "russian": 1}
+{}
+{"spanish": 1}
+{}
+{"spanish": 4, "peruvian": 1}
 {"norwegian": 1}
 {"norwegian": 1}
+{}
+{}
+{}
+{}
+{}
+{"norway": 1}
+{"american": 1}
+{"norwegian": 2}
+{}
+{}
 {"yemeni": 1}
 {"yemeni": 1}
+{"qatari": 1}
+{"yemeni": 1}
+{"yemeni": 2, "dominican": 1, "colombian": 1}
+{}
+{}
+{}
+{}
+{"al-muhajiri": 3, "al-awsi": 3, "al-khazraji": 9}
+{"qatari": 1}
+{}
 {"german": 1}
+{}
+{"american": 2}
+{"american": 1}
+{"australian": 1}
+{"american": 1, "greek": 1}
 {"scottish": 1}
+{"american": 1}
+{}
+{}
+{"english": 1}
 {"serbian": 1}
 {"serbian": 3, "catalans": 1}
+{}
+{"serbian": 2, "croatian": 1, "serbo-croatian": 1}
+{"croatian": 1}
+{"serbian": 2}
+{"serbian": 1, "bosnian": 1}
+{}
+{}
+{"serbian": 0}
+{}
+{}
 {"iranian": 2, "persian": 2}
+{}
+{"iranian": 3, "persian": 1}
+{"iranian": 0}
+{"persian": 1}
+{"iranian": 4, "iranian-american": 1, "persian": 2}
 {"american": 2, "romanian": 1}
+{}
+{"american": 2, "romanian": 1}
+{}
+{"american": 1}
+{"american": 1}
 {"japanese": 1}
 {"japanese": 1}
+{"japanese": 1}
+{}
+{}
+{"japanese": 4}
+{}
+{"japanese": 5, "norwegian": 1, "swedish": 3, "swedish-american": 1, "spanish": 2, "latvian": 3, "chinese": 1, "nigerian": 2, "british": 1}
+{}
+{}
+{}
+{}
 {"american": 3}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
 {"american": 1}
 {"german-italian": 1}
 {"german": 2}
+{}
+{"italian": 1}
+{"american": 1}
+{"italian": 1}
+{}
+{}
+{}
+{"dutch": 1}
+{"dutch": 3, "american": 1}
 {"english": 1}
+{}
+{}
+{"british": 2, "american": 1, "english": 4, "scottish": 2, "australian": 1}
+{"english": 3, "british": 1, "canadian": 2, "american": 3, "new zealand": 1}
+{}
 {"montenegrin": 1, "yugoslav": 1}
 {"montenegrin": 2}
+{}
+{"bulgarian": 7, "montenegrin": 1, "montenegrin serb": 1, "yugoslav": 2, "slavic": 1}
+{}
+{}
+{"montenegrin": 0, "serbian": 0}
+{"montenegrin": 1, "yugoslavian": 1}
+{}
+{}
+{}
+{}
 {"russian": 2}
 {"kazakh": 1}
+{}
+{"russian": 2}
+{"russian": 1}
+{}
+{"russian": 2}
+{}
+{"kazakhstani": 1}
+{}
+{}
+{"russian": 5, "soviet": 2}
 {"papua new guinean": 1}
 {"australian": 1, "german": 1, "japanese": 1}
+{"papua new guinean": 1}
+{}
+{"tolai": 1}
+{}
+{"swedish": 1}
+{"japanese": 2}
+{}
+{"niuean": 1, "australian": 2, "american": 3, "malaysian": 1, "franco-belgian": 1, "chinese": 1, "italian": 1, "torres straits islander": 1, "samoan": 1, "papua new guinean": 1}
+{"roman": 1}
+{"croatian-american": 1}
 {"scottish": 1}
 {"scots": 1, "scottish": 1}
+{"australian": 1}
+{}
+{}
+{"british": 1}
+{"scottish": 1}
+{"english": 1, "wales": 1}
+{"american": 1}
+{}
+{}
+{}
 {"american": 1}
 {"french": 1, "american": 1}
+{"scottish": 2, "english": 2, "manx": 1, "american": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 7, "new zealand": 3}
+{}
+{"english": 1}
 {"american": 2}
+{"british": 1}
+{}
+{}
+{"american": 7, "english": 2}
+{}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"german": 2}
+{}
 {"ukrainian": 1}
 {"jewish": 1}
+{"soviet": 1, "ukrainian": 2, "slovak": 1, "polish": 1, "czech": 2, "canadian": 1, "croatian": 1, "russian": 1, "slavic": 1}
+{"polish": 1}
+{"ukrainian": 3, "azerbaijani": 1}
+{"ukrainian": 1}
+{"ukrainian": 1}
+{}
+{}
+{"ukrainian": 1}
+{}
+{"ukrainian": 0}
 {"palestinian-canadian": 1, "palestinian": 2, "canadian": 3}
 {"palestinian": 3, "british": 1}
+{}
+{}
+{"english": 1}
+{"palestinian": 2, "israeli": 1}
+{"french": 1, "algerian": 1, "jewish": 1, "palestinian": 2, "israeli": 1}
+{}
+{"canadian": 2, "italian": 5, "peruvian": 1, "brazilian": 1, "maltese": 1, "american": 1, "nicaraguan": 1, "russian": 1}
+{"american": 3, "turkish": 1, "italian": 3, "danish": 1}
+{"english": 3, "italian": 1, "american": 2, "new zealand": 1, "australian": 1, "manx": 1, "canadian": 1}
+{}
 {"scottish": 1}
 {"scots": 1, "scottish": 3}
+{"scottish": 4}
+{"scottish": 2, "jews": 2}
+{"scottish": 2}
+{}
+{}
+{"swedish": 1, "lenape": 2}
+{"scottish": 1}
+{"english": 1}
+{}
+{"scottish": 2}
 {"american": 1}
 {"u.s.": 1}
+{}
+{}
+{"brazilian": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
 {"german": 1}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{}
+{"american": 1, "austrian": 1, "dutch": 2, "german": 4, "swedish": 4, "welsh": 1}
+{}
+{}
+{"walloons": 1}
 {"german": 1}
 {"danish": 4}
 {"danish": 5, "swedish": 1, "nordic": 1}
+{"danish": 2}
+{"danish": 2}
+{}
+{}
+{"finnish": 2}
+{}
+{"finnish": 1, "swedish": 1, "estonian": 1}
+{}
+{}
+{"finnish": 2, "danish": 1}
 {}
 {"dutch": 1}
+{}
+{}
+{"spanish": 1, "dutch": 1, "english": 1, "french": 1}
+{}
+{"dutch": 1}
+{}
+{"dutch": 8, "flemish": 2}
+{"dutch": 9, "american": 1, "flemish": 1}
+{"flemish": 1, "dutch": 1, "belgian": 1, "canadian": 1}
 {"canadian": 5, "french-canadian": 2}
 {"canadian": 2, "french": 2}
+{}
+{"filipino": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 6, "hong kong": 1}
+{}
+{}
+{"greek": 1}
+{}
+{}
+{}
+{}
 {"greek": 1}
 {}
 {"german": 1}
+{"german": 7, "austrian": 3, "swiss": 1, "american": 1}
+{"german": 8, "franco-russian": 1, "muslim": 1, "austrian": 1, "czech": 1, "polish": 1, "american": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{"hungarian": 1, "french": 1}
+{"swiss": 2, "german": 6, "austrian": 2, "dutch": 1, "american": 1}
+{"german": 3, "american": 1, "canadian": 1, "austrian": 4, "swiss": 1, "polish": 1}
 {"german": 1}
 {"german": 1, "slav": 1, "bavarian": 1, "american": 1}
+{"fr\u00e4nkischen": 1, "bayerische": 1}
+{}
+{}
+{"german": 1, "jewish": 1}
+{}
+{}
+{}
+{"romanian": 1, "hungarian": 1, "american": 3, "german": 3, "jewish": 1, "austrian": 1, "british": 1, "dutch": 1}
+{"german": 3, "u.s.": 1, "bavarian": 1, "southern german": 1}
+{"german": 1}
 {"turkish": 1}
+{"turkish": 1}
+{"turkish": 1}
+{"turkish": 1}
+{"german": 1, "turkish": 1}
+{}
 {"estonian": 1}
 {"estonian": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"finnish": 11, "estonian": 1, "canadian": 1}
+{}
+{"american": 5, "swedish": 1, "estonian": 4}
+{}
 {"namibian": 2}
 {"namibian": 1}
+{}
+{}
+{}
+{"tuvaluan": 1}
+{}
+{"namibian": 1}
+{}
+{}
+{}
+{}
 {"flemish": 1}
+{}
+{}
+{}
+{"catholic": 1}
+{}
 {"mexican": 1}
 {"mexican": 4, "basque": 1}
+{}
+{"mexican": 1}
+{"mexican": 1}
+{"spanish": 2}
+{"mexican": 1}
+{}
+{}
+{"mexican": 1}
+{"american": 1, "christian": 1}
+{"mexican": 1}
 {"finnish": 1}
 {"finnish": 3, "swedish": 2}
+{}
+{}
+{}
+{}
+{"finnish": 1}
+{}
+{}
+{"italian american": 1, "finnish": 8, "indian": 3}
+{}
+{"finnish": 0}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{"german": 4, "czech": 2, "american": 6, "canadian": 1, "austrian": 2}
+{}
+{"jewish": 1}
+{"american": 1}
+{"jewish": 1}
+{}
 {"french": 1}
+{"british": 1}
+{"french": 1}
+{}
+{}
+{}
 {"italian": 1}
 {"german": 1, "italian": 1}
+{"italian": 1}
+{}
+{}
+{"austrian": 1, "italian": 0}
+{}
+{}
+{}
+{"german": 1, "italian": 1}
+{"italians": 1, "new zealand": 1}
 {"mexican": 1}
 {"mexican": 1}
+{"colombian": 1}
+{"sudcalifornianos": 1, "californians": 1}
+{}
+{"north american": 1}
+{"venezuelan": 1, "panamanian": 1, "argentinian": 2, "colombian": 1, "mexican": 1, "costa rican": 3, "peruvian": 3, "american": 2}
+{}
+{"mexican": 1}
+{}
+{}
+{"american": 1}
+{"russian": 1}
+{"canadian": 1}
+{}
+{"australian": 3}
 {"american": 1}
 {"american": 1}
 {}
 {"american": 1}
+{}
+{}
 {"american": 1}
+{}
+{"british": 1, "american": 4, "australian": 1, "welsh": 1, "english": 2, "canadian": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"english": 1}
+{}
+{"american": 1}
+{"english": 3, "canadian": 1, "british": 2, "american": 6}
+{}
+{}
+{}
 {"brazilian": 1}
 {"brazilian": 2}
+{}
+{}
+{}
+{"brazilian": 1}
+{"italian": 1, "brazilian": 2}
+{}
+{"latin": 1}
+{}
+{"brazilian": 1}
+{}
 {"ethiopian": 1}
 {"arab": 1, "egyptian": 3}
+{}
+{}
+{}
+{"egyptian": 1}
+{}
+{}
+{}
+{"british": 1, "spanish": 1, "black": 1}
+{}
+{"american": 1}
 {"italian": 2}
+{"italian": 2}
+{}
+{}
+{}
+{"chilean": 1, "italian": 2}
 {"dutch": 1}
+{"dutch": 1}
+{"flemish": 3, "dutch": 5, "south african": 3}
+{}
+{"dutch": 4}
+{"dutch": 3}
 {"american": 1}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"u.s.": 1}
 {"american": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{"canadian": 0, "german": 1}
+{}
+{}
+{"english": 4, "american": 7}
 {"swiss": 1}
 {"swiss": 3}
+{"dutch": 3, "canadian": 2, "danish": 1, "french": 3, "welsh": 2}
+{"french-cameroonian": 1}
+{"swiss": 1}
+{"australian": 1, "belgian": 1, "egyptian": 1, "russian": 2, "rwandan": 3, "sammarinese": 3, "british": 4}
+{}
+{"swiss": 1, "french": 3, "italian": 1, "canadian": 4, "dutch": 2, "thai": 1, "welsh": 1, "belgian": 1}
+{"american": 2, "austrian": 1, "canadian": 4, "dutch": 2, "french": 3, "welsh": 1}
+{"bangladeshi": 1, "indian": 1, "kazakhstani": 1, "mongolian": 1, "norwegian": 1, "pakistani": 1, "rwandan": 1, "syrian": 1, "thai": 1, "tunisian": 1, "turkmen": 1}
+{}
+{}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{"argentine": 1, "ivorian": 1, "portuguese": 1, "dominican": 2}
+{}
+{"irish": 1, "american": 3, "english": 2, "scottish": 1, "british": 1}
+{"australian": 1, "american": 5, "canadian": 2, "welsh": 1, "british": 1, "english": 2, "scottish": 0}
+{}
 {}
 {"venezuelan": 1}
 {}
+{}
+{"colombian": 1}
+{}
+{}
+{}
+{"venezuelan": 3, "spanish": 4, "paraguayan": 2, "brazilian": 1, "chilean": 1, "american": 4, "puerto rican": 3, "peruvian": 1, "uruguayan": 1, "mexican": 2}
+{"venezuelan": 1}
+{"s\u00e3o tom\u00e9an": 1, "brazilian": 1, "colombian": 1, "venezuelan": 1}
+{"s\u00e3o tom\u00e9an": 1}
 {"australian": 2, "indian": 1, "west indies": 1}
 {"australian": 2, "british": 2, "aboriginal australians": 1, "asian": 1}
+{}
+{}
+{"jewish": 1, "german": 1}
+{}
+{"australian": 0, "scottish": 0, "anglican": 1}
+{"german": 2, "south african": 3, "english": 1, "irish": 1, "american": 3, "east german": 1, "german-russian": 1}
+{"austrian": 1, "american": 3, "australian": 1, "german": 2, "south african": 1, "irish": 1}
+{}
+{}
+{}
 {"american": 1, "soviet": 1}
 {"spanish": 1, "new mexican": 1}
+{}
+{"american": 0}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{"american": 2}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1, "texan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 2, "upper silesian": 1, "polish": 1}
+{}
+{"american": 1}
 {"flemish": 1}
 {"dutch": 1}
+{}
+{"german": 2, "belgian": 2, "dutch": 3, "czech-american": 1}
+{}
+{}
+{"flemish": 1}
+{}
+{}
+{}
+{}
+{}
 {"polish": 2}
 {"polish": 1}
+{}
+{}
+{"polish": 5, "american": 1, "german": 1, "czech": 1}
+{"polish": 2}
+{}
+{}
+{}
+{"polish": 3, "british": 1, "french": 1, "american": 1}
+{}
+{"czech": 1}
 {"flemish": 1, "belgian": 2}
 {"belgian": 2}
+{}
+{}
+{"spanish": 2, "ecuadorian": 1, "mexican": 1, "romanian": 1, "swedish": 1, "paraguayan": 1, "cuban": 1, "italian": 1, "french": 1, "argentine": 1, "american": 2, "filipino": 1}
+{"croatian": 1, "jewish": 2, "british": 1, "russian-american": 1, "ukrainian": 1, "belgian": 1, "cape verdean": 1, "czechoslovak": 1, "yugoslav": 1, "russian": 2, "american": 2, "french": 1}
+{}
+{"flemish": 1}
+{}
+{}
+{"indian": 2}
+{"american": 3, "canadian": 1, "english": 1}
 {"american": 1}
+{"american": 1}
+{"irish": 1}
+{"united states": 1}
+{}
+{}
 {"italian": 5}
 {"italian": 2, "florentine": 1}
+{}
+{}
+{"italian": 4}
+{"italian": 4}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
+{}
+{}
+{}
 {"russian": 2}
+{"russian": 1}
+{"russian": 1}
+{}
+{}
+{"russian": 1}
+{}
+{"russian": 1}
+{}
+{}
+{"russian": 1}
 {"russian": 1}
 {"american": 1}
 {"american": 1}
+{}
+{"french": 2}
+{}
+{"california": 0, "french": 2}
+{}
+{}
+{"russian": 1}
+{}
+{}
+{}
 {"american": 1}
 {"german": 1, "bavarian": 2}
+{"english": 1}
+{}
+{"italian": 9, "austrian": 2}
+{}
+{}
+{"scottish": 2, "english": 1, "american": 3, "british": 1, "australian": 1, "new zealand": 1}
+{}
+{"irish-american": 1, "australian": 2, "english": 2, "british": 5, "irish": 2, "american": 3}
+{}
+{"french": 1, "nazi": 1}
 {"austrian-american": 1}
+{}
+{}
+{}
+{"american": 2, "uruguayan": 1}
+{"czechoslovak": 1, "austrian": 1, "australian": 1, "german": 1, "british": 2, "american": 3, "croatian": 1, "slovak": 1, "czech": 1}
 {"australian": 2}
 {"australian": 1}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"english": 1}
+{}
+{"australian": 0}
+{"bermudian": 2}
+{}
 {"russian": 1, "bolshevik": 1}
+{"belarusian": 1}
+{"russian": 1}
+{"german": 2, "russian": 1}
+{}
+{"turkish": 1}
 {"canadian": 1}
 {"canadian": 1}
+{"australian": 1, "new zealand": 1}
+{"canadian": 5, "australian": 1}
+{"italian": 1}
+{"australian": 1}
+{}
+{}
+{"canadian": 1}
+{"canadian": 1, "british": 1}
+{"canadian": 2}
+{}
 {"indian": 1}
 {"indian": 2, "malayalam-speaking": 1, "malayali": 1}
+{}
+{"ukrainian": 1}
+{}
+{}
+{"indian": 1}
+{}
+{"ethiopian": 1}
+{}
+{}
 {"german": 1}
+{"english": 1, "british": 1}
+{"american": 1}
+{"korean": 1, "american": 1}
+{"british": 1}
+{"austrian": 1, "brazilian": 1}
 {"french-american": 1, "german": 1, "american": 1, "french": 1}
+{}
+{}
+{"german": 2, "polish": 2}
+{"french-american": 1, "german": 1, "american": 1, "french": 1}
+{"german": 1, "vietnamese": 1, "french": 1}
 {"iranian": 1, "muslim": 1}
 {"persian": 1, "iranian": 1}
+{}
+{"arab": 2, "kurdish": 1}
+{}
+{"islamic": 1, "greek": 1, "latin": 1, "western": 1, "arabic": 1, "english": 1}
+{"iranian": 1, "muslim": 1}
+{"persian": 1, "islamic": 1}
+{"iraqi": 1, "iranian": 1}
+{}
+{}
+{}
 {"german": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{}
+{}
+{}
+{"german": 1}
+{}
 {}
 {"canadian": 1}
 {"canadian": 1, "french": 1}
+{"french": 12, "gabonese": 2, "haitian": 1, "ivorian": 3, "luxembourger": 1, "belgian": 1, "american": 1, "congolese": 1, "saint lucian": 1, "beninese": 1}
+{}
+{}
+{}
+{"canadian": 2}
+{"canadian": 0}
+{}
+{}
+{"french": 1}
+{}
 {"hungarian": 1}
 {"hungarian": 2}
+{"hungarian": 1}
+{"austrian": 1, "hungarian": 8, "british": 1, "american": 1, "hungarian-australia": 1}
+{}
+{"hungarian": 1}
+{"hungarian": 1}
+{}
+{}
+{"hungarian": 0}
+{}
+{}
 {"brazilian": 1}
 {"portuguese": 2, "brazilian": 3, "south american": 1}
+{}
+{}
+{"brazilian": 1}
+{"french": 1}
+{}
+{}
+{"cuban": 1, "italian": 3, "argentine": 1, "spanish": 1, "guatemalan": 1, "mexican": 2, "brazilian": 1, "dominican": 1, "peruvian": 1, "colombian": 1, "american": 1}
+{"french": 6, "brazilian": 1}
+{"brazilian": 2, "carioca": 1}
+{}
 {"american": 1}
 {"american": 1}
+{"ghanaian": 1}
+{}
+{}
+{}
+{"ghanaian": 1}
+{}
+{}
+{}
+{"british": 1, "canadian": 1}
+{}
 {"german": 1}
+{"german": 1}
+{}
+{"german": 13}
+{"german": 1}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{"american": 1}
+{}
 {"german": 1}
 {"american": 2}
 {"american": 1}
+{"american": 1}
+{}
+{}
+{"american": 14}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1, "gay": 3}
+{"american": 5, "australian": 2, "english": 1, "scottish": 0, "british": 0}
 {"japanese": 1}
 {"japanese": 1, "asian": 1}
+{"japanese": 1}
+{"japanese": 13}
+{}
+{}
+{"japanese": 2}
+{}
+{}
+{"japanese": 0}
+{"japanese": 5}
+{"japanese": 1}
 {"canadian": 1}
 {"canadian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"german-french": 1}
 {"franco-german": 1, "french": 1, "german": 1}
+{}
+{"german-french": 1}
+{"french": 2, "german": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"armenian": 1, "turkish": 1}
+{"turkish": 1, "armenian": 1}
+{"armenian": 1}
+{"armenian": 1}
+{"ottoman": 1, "turkish": 1, "armenian": 2}
+{"turkish": 1, "armenian": 1}
 {"german": 1}
 {"german": 2}
+{}
+{"westerners": 1}
+{}
+{"soviet": 1, "german": 1, "american": 1, "british": 1, "french": 1}
+{"german": 1}
+{"east german": 2, "soviet": 1, "western": 1, "us": 1}
+{}
+{"east germans": 1, "west germans": 1}
+{}
 {"flemish": 1}
+{"british": 1, "flemish": 1, "croatian": 1}
+{"english": 1, "canadian": 1, "american": 3, "new zealand": 1}
+{}
+{"american": 4, "british": 1}
+{"american": 5, "german": 1}
 {"english": 1}
+{"argentine": 1}
+{"argentine": 2, "italian": 2}
+{}
+{}
 {"montenegrin": 1}
 {"montenegrin": 1, "albanian": 1}
+{}
+{}
+{}
+{}
+{"montenegrin": 1}
+{}
+{"montenegrin": 0, "serbian": 0, "macedonian": 0, "russian": 0}
+{"serbian": 1}
+{}
+{}
 {"east german": 3}
 {"german": 1}
+{}
+{}
+{"east german": 3}
+{"liechtensteiner": 1}
+{}
+{"austrian": 1}
+{}
+{}
+{"german": 2}
+{}
 {"american": 1}
 {}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"republican": 1}
+{"new zealand": 1}
+{"canadian": 1}
 {"french": 1}
 {"french": 1}
+{"french": 0}
+{}
+{"mexican": 0}
 {"american": 1}
+{"french": 1}
+{"italian": 1, "italian-american": 1}
+{"basque": 1, "french": 1}
+{"french": 1, "uruguayan": 1}
+{}
+{"french": 1, "uruguayan": 0, "brazilian": 0}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {}
 {"italian": 1}
+{"italian": 4}
+{"italian": 1}
+{"french": 1}
+{}
+{}
 {"flemish": 1}
+{"flemish": 2}
+{}
+{"belgian": 1}
+{}
+{}
 {"british": 1}
 {"english": 1}
+{"british": 1}
+{}
+{}
+{"american": 12, "australian": 2}
+{}
+{}
+{}
+{}
+{"canadian": 2}
+{"canadian": 1}
 {"american": 1}
 {"american": 0}
 {"american": 1}
 {}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"british-egyptian": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"american": 1}
+{}
+{"scottish": 1}
+{"american": 5, "canadian": 1, "english": 1, "australian": 2, "new zealand": 1, "jamaican": 1}
 {"israeli": 1}
 {"israeli": 1, "jewish": 2, "arab": 1}
+{}
+{}
+{}
+{}
+{}
+{"israeli": 1}
+{}
+{}
+{}
+{}
 {"danish": 1}
 {"danish": 1}
+{}
+{"danish": 2, "nordic": 1}
+{}
+{}
+{"danish": 0}
+{"danish": 1}
+{}
+{"danish": 1}
+{}
+{}
 {"american": 1}
 {"u.s.": 5, "canadian": 2}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{"english": 1}
+{}
+{"welsh": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"british": 1}
 {"taiwanese": 2, "japanese": 1}
 {"austronesian taiwanese": 1, "hoklo": 1, "han chinese": 1, "japanese": 1, "taiwanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 2}
+{}
+{}
 {"norwegian": 1}
+{}
+{"norwegian": 2}
+{}
+{"german": 1, "norwegian": 2}
+{"germans": 1, "norway": 1}
+{"sami": 1, "southern sami": 1}
+{}
+{}
+{"norwegian": 2}
 {}
 {"brazilian": 1}
 {"brazilian": 3}
+{}
+{}
+{}
+{"brazilian": 9, "portuguese": 1, "chilean-born": 1, "american": 1}
+{}
+{}
+{"italian": 1, "puerto rican": 1, "brazilian": 2, "portuguese": 1, "cuban": 1, "namibian": 1, "american": 4, "chinese": 1, "salvadoran": 1}
+{"goan": 1, "brazilian": 7, "portuguese": 7, "indian": 1, "venezuelan": 1, "bangladeshi": 1, "dutch": 1, "luso-goan": 1}
+{"brazilian": 1}
 {"flemish": 1}
+{"dutch": 1}
+{"flemish": 1, "protestants": 1}
+{}
+{"flemish": 1, "protestants": 1}
+{"dutch": 5, "belgian": 2, "american": 1, "scandinavian": 1, "german": 1, "english": 1}
 {"american": 1}
+{"american": 1}
+{"german": 1, "french": 2}
+{}
+{}
+{"american": 2, "british": 1}
 {"hungarian": 4}
+{"hungarian": 3, "english": 1, "french": 1}
+{}
+{"hungarian": 1}
+{}
+{"hungarian": 3}
 {"new zealand": 1}
 {"new zealand-owned": 1}
+{"english": 1, "new zealand": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"new zealand": 2}
+{}
 {"mexican": 1}
 {"indigenous": 1, "spanish": 1, "mexican": 3}
+{}
+{}
+{"mexican": 1}
+{"argentine": 1, "cuban": 1, "honduran": 1, "mexican": 1, "american": 1, "spanish": 1}
+{}
+{"philippine": 0}
+{}
+{}
+{}
+{"mexican american": 1, "u.s.": 1}
 {"zanzibari": 1}
 {"zanzibar": 3, "tanzanian": 1}
+{"british": 2, "german": 2}
+{}
+{}
+{}
+{}
+{"zanzibari": 5}
+{"british": 1, "arab": 1, "european": 1}
+{}
+{}
+{}
 {"barbadian": 1}
+{}
+{}
+{}
+{"west indian": 1, "british": 2, "saint lucian": 1, "guyanese": 1, "barbadian": 1, "dutch": 1}
+{}
+{}
+{"welsh": 1, "us": 1, "american": 2, "australian": 1, "canadian": 1, "english": 1}
+{}
+{}
 {}
 {"english": 1}
 {"british": 1}
+{}
+{}
+{}
+{}
+{"australian": 1, "scottish": 1}
+{"english": 1}
+{}
+{}
+{}
+{}
 {"spanish": 1}
 {"basque": 1, "spanish": 1}
+{"spanish": 1}
+{}
+{"spanish": 6, "spanish-argentine": 1, "uruguayan": 1, "paraguayan": 1, "cuban": 1, "cuban-american": 1, "venezuelan": 1, "basque": 1}
+{"spanish": 1}
+{}
+{}
+{"spanish": 1}
+{}
+{"french": 1}
+{"spanish": 1}
 {"norwegian": 1}
+{"norwegian": 1}
+{}
+{}
+{"norwegian": 1}
+{"norwegian": 1}
+{"norwegian": 1}
+{"norwegian": 0}
+{}
+{"norwegian": 1}
+{}
 {"norwegian": 1}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"english": 3, "new zealand": 2, "british": 1, "australian": 1}
+{}
+{}
+{}
 {"french": 1, "swedish": 1, "italian": 1, "egyptian": 1, "polish": 1}
+{}
+{}
+{"italian": 1, "french": 1}
+{"french": 1}
+{"beninese": 1, "ghanaian": 1}
 {"dutch": 1}
 {"dutch": 2}
+{}
+{}
+{"belgian": 1}
+{}
+{"dutch": 1}
+{}
+{"dutch": 9, "belgian": 4, "american": 1}
+{"dutch": 1}
+{}
+{}
 {"australian": 1}
+{"australian": 2}
+{"welsh": 1, "australian": 2}
+{"australian": 4}
+{"australian": 4}
+{"australian": 2}
 {"new zealand": 2}
 {"new zealand": 1}
+{"new zealand": 1}
+{"welsh": 1, "british": 6, "scottish": 2, "english": 2, "new zealand": 1, "united states": 1}
+{"english": 2, "canadian": 1, "british": 1}
+{"new zealand": 1}
+{}
+{}
+{"american": 1}
+{}
+{"new zealand": 1}
+{"british": 1}
 {}
 {"russian": 1}
+{}
+{"soviet": 1, "russian": 2}
+{"soviet": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"italian": 3}
 {"italian": 1}
+{"italian": 2}
+{}
+{}
+{"italian": 1, "european": 1}
+{}
+{"italian": 1}
+{}
+{"italian": 1, "english": 1}
+{"italian": 9, "new zealand": 1}
+{"italian": 24}
 {"english": 1}
+{}
+{}
+{"irish": 4, "english": 3, "american": 1}
+{"english": 1}
+{"british": 1, "roman": 1, "etruscan": 1, "greek": 1}
 {"french": 1}
 {"french": 1}
+{}
+{}
+{}
+{"french": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"australian": 1}
 {"american": 1}
 {"american": 1}
-{"scottish": 1}
-{"scottish": 3, "british": 2}
-{"french": 1}
-{"french": 1}
-{"irish": 1}
-{"irish": 2}
-{"french": 1}
-{"french": 5, "european": 1}
-{"taiwanese": 3}
+{"american": 1}
+{"english": 1}
 {"american": 1}
 {}
+{}
+{}
+{}
+{}
+{"scottish": 1}
+{"scottish": 3, "british": 2}
+{"scottish": 1}
+{"scottish": 1}
+{"australian": 3, "scottish": 2, "american": 8, "irish": 3, "english": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"french": 1}
+{"french": 1}
+{}
+{"french": 0}
+{}
+{}
+{"canadian": 0, "united states": 0, "saskatchewan": 0}
+{}
+{"british": 1, "canadian": 1}
+{"french": 1}
+{"french": 1}
+{}
+{"irish": 1}
+{"irish": 2}
+{"irish": 1}
+{"australian": 1}
+{"irish": 1}
+{}
+{}
+{}
+{}
+{"canadian": 3, "irish": 1}
+{"irish": 1}
+{"irish": 1}
+{"french": 1}
+{"french": 5, "european": 1}
+{}
+{}
+{}
+{"french": 2, "francophone": 1}
+{"french": 2, "italian": 2}
+{}
+{}
+{}
+{}
+{}
+{"taiwanese": 3}
+{}
+{"taiwanese": 1}
+{}
+{"taiwanese": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"hungarian": 3}
+{"hungarian": 6, "slovak": 1, "american": 3, "ethnic hungarian": 1}
+{"russian": 1, "hungarian": 1}
+{"hungarian": 2}
+{"hungarian": 1}
+{}
 {"american": 1}
 {"u.s.": 1}
+{}
+{}
+{}
+{"liberian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"canadian": 2, "american": 1}
+{}
+{}
+{"kootenai": 1}
+{}
+{"german": 9, "american": 1, "austrian": 1, "finnish": 2}
+{"german": 6, "american": 7, "australian": 1, "canadian": 1, "austrian": 1}
+{"american": 1}
+{}
+{"german": 8, "american": 6, "australian": 1, "polish": 1}
+{}
 {"american": 1}
 {"virginian": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 1}
 {"norwegian": 1}
 {"norwegian": 1}
+{"norwegian": 1}
+{}
+{"norwegian": 1}
+{"norwegian": 1}
+{}
+{}
+{}
+{"norwegian": 8}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{}
+{"scottish": 1, "australian": 1}
+{}
+{}
 {"turkish": 1}
+{}
+{"turkish": 1}
+{"turkish": 2, "spanish": 1}
+{"turkish": 3, "romanian": 1}
+{"turkish": 0}
 {"japanese": 1}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 2, "australian": 2, "australian-dutch": 1, "british": 2, "dutch": 1, "english": 5, "new zealand": 1, "scottish": 0}
+{"american": 1}
+{}
+{}
+{}
 {}
 {"american": 1}
 {}
 {"austrian": 1}
+{"german": 1}
+{"prussian": 1}
+{"austrian": 1}
+{}
+{"german": 2, "australian": 1, "austrian": 1, "american": 1}
 {"latvian": 1, "soviet": 1}
 {"latvian": 1}
+{"latvian": 3, "soviet": 1}
+{"latvian": 1}
+{"latvian": 1}
+{"latvian": 11}
+{"latvian": 1}
+{"latvian": 1}
+{}
+{"latvian": 4}
+{"latvian": 1}
+{"estonian": 2, "french": 1, "ukrainian": 1, "latvian": 2}
 {"british": 2}
+{"british": 1}
+{}
+{"american": 4, "english": 1, "british": 1, "welsh": 1}
+{"american": 4, "australian": 1, "irish": 3, "scottish": 1}
+{"irish": 3}
 {"american": 1}
 {}
+{}
+{"black": 2, "white": 2}
+{}
+{"british": 1, "australian": 1, "international": 1}
+{}
+{}
+{}
+{}
+{"yuchi": 1}
 {"burmese": 1}
 {"burmese": 1}
+{"myanmar": 1}
+{}
+{}
+{"myanmar": 1}
+{}
+{}
+{"british": 3}
+{"burmese": 1}
+{"burmese": 1}
+{"burmese": 2, "lebanese": 1}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"italian": 1, "irish": 1}
 {}
 {"northern irish": 1}
 {"irish": 2, "british": 2, "scottish": 1}
+{}
+{}
+{"ukrainian": 1, "russian": 1, "estonian": 1, "canadian": 1, "jamaican": 1, "british": 2, "pakistani": 1, "dutch": 1, "american": 1, "ethiopian": 1}
+{"pakistani": 2, "filipina": 1, "australian": 1, "american": 1, "malaysian": 1, "english": 3, "armenian": 1, "irish": 1}
+{"irish": 0, "northern irish": 0, "british": 0}
+{}
+{}
+{}
+{}
 {"english": 1}
+{"british": 1}
+{}
+{"american": 1}
+{}
 {"finnish": 1}
 {"finnish": 2, "european": 1}
+{"finnish": 1}
+{"finnish": 6, "english": 8}
+{"finnish": 2}
+{"finnish": 1}
+{"finnish": 1}
+{}
+{}
+{"finnish": 1}
+{"finnish": 1}
+{"finnish": 1}
+{"english": 1, "british": 1}
+{}
+{}
+{}
+{}
+{"american": 8, "british": 4, "french": 1}
+{}
+{}
+{}
+{"american": 1}
 {"english": 1, "british": 1}
 {}
 {"dutch": 2}
 {"dutch": 1}
+{}
+{"dutch": 1}
+{}
+{}
+{"dutch": 3}
+{}
+{}
+{}
+{"dutch": 1}
+{"dutch": 3, "south african": 1}
 {"american": 1}
 {"american": 1}
 {"american": 1}
 {}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"scottish": 1}
+{}
+{}
+{"scottish": 1}
 {"south korean": 1}
 {"south korean": 5, "korean": 3, "american": 1, "japanese": 1}
+{"south korean": 1}
+{}
+{"south korean": 1}
+{"korean": 0, "south korean": 0}
+{"korean": 2, "south korean": 6}
+{}
+{}
+{"south korean": 1}
+{"south korean": 11, "north korean": 1}
+{"south korean": 0, "korean": 1}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 4}
+{}
 {"indonesian": 1}
 {"indonesian": 1, "makassarese": 1}
+{}
+{"indonesian": 1}
+{"indonesian": 1}
+{"indonesian": 1}
+{"indonesian": 1}
+{}
+{}
+{}
+{}
+{}
 {"mexican": 1}
 {"spanish": 1, "indigenous": 1}
+{"colombian": 1}
+{}
+{"german": 2}
+{"mexican": 1}
+{}
+{"mexican": 1}
+{}
+{}
+{"mexican": 1}
 {"american": 1}
 {"californian": 1, "american": 1}
+{}
+{}
+{"irish": 1, "scottish": 1}
+{"british": 2, "canadian": 2, "american": 6, "australian": 1, "english": 1}
+{"american": 1}
+{}
+{}
+{}
+{"scottish": 2, "australian": 1, "american": 5, "irish": 3, "indian": 1, "american-canadian": 1}
+{"irish": 1, "american": 4, "australian": 2, "british": 1, "english": 1}
 {"german": 1}
+{}
+{"danish": 4, "german": 4, "american": 6, "australian": 1, "british": 2, "israeli": 1}
+{}
+{}
+{}
 {"finnish": 1}
 {"russian": 2}
+{"finnish": 8}
+{"finnish": 9}
+{}
+{"finland": 1, "russian": 0}
+{"russian": 1, "finnish": 1}
+{"finnish": 1, "german": 1, "soviet": 1}
+{}
+{"finns": 1, "finnish": 1}
+{"soviet": 2, "finnish": 1, "german": 1}
+{"finnish": 1}
 {}
 {"irish": 5, "european": 1}
+{"republic of ireland": 7, "macedonian": 1, "slovakian": 1, "russian": 1, "andorran": 1, "armenian": 1, "estonian": 2}
+{}
+{}
+{}
+{"northern irish": 0, "irish": 0, "united kingdom": 0, "republic of ireland": 0}
+{}
+{}
+{}
+{}
 {"scottish": 1}
 {"scottish": 3, "british": 1}
+{}
+{}
+{}
+{"english": 1}
+{"australian": 1}
+{}
+{"danish": 1, "estonian": 1, "french": 1, "german": 1, "icelandic": 1, "italian": 1, "dutch": 1, "norwegian": 1, "romanian": 1, "spanish": 2}
+{"english": 1}
+{}
+{}
 {"russian": 2}
 {"russian": 1}
-{"japanese": 1}
-{"japanese": 1}
+{}
+{"russian": 1}
+{"russian": 1}
+{}
 {"soviet": 1}
-{"brazilian": 1}
+{"russian": 1}
+{}
+{"russian": 1}
+{}
+{"russian": 1}
 {"japanese": 1}
+{"japanese": 1}
+{}
+{"japanese american": 1}
+{"japanese": 8, "georgian": 1, "american": 1}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{"japanese": 7, "american": 1}
+{"soviet": 1}
+{"russian": 1}
+{"french": 1}
+{"soviet": 1}
+{"russian": 4}
+{"russian": 9, "soviet": 2, "ukrainian": 1}
+{"brazilian": 1}
+{"brazilian": 1}
+{}
+{"brazilian": 1}
+{}
+{"mexican": 4, "brazilian": 1, "indian": 1, "chilean": 1, "italian": 3, "american": 1, "spanish": 1}
+{"japanese": 1}
+{}
+{}
+{"japanese": 1}
+{}
+{}
 {"russian": 1}
 {"belarusian": 1}
+{}
+{"russian": 11, "soviet": 1}
+{}
+{"russian": 1}
+{"belarusian": 1}
+{"belarusian": 1}
+{}
+{"russian": 1, "belarusian": 1, "cuban": 1}
+{"belarusian": 1}
+{"russian": 2}
 {"french": 2}
+{"german": 1}
+{"french": 3}
+{"french": 1}
+{"french": 2}
+{}
 {"indian": 1}
 {"rajput": 1}
+{}
+{}
+{}
+{}
+{"indian": 2}
+{}
+{}
+{}
+{"mori rajputs": 1}
+{"mughal": 1, "rajputs": 1}
 {"romanian": 2}
 {"romanian": 3}
+{}
+{}
+{"romanian": 0}
+{}
+{}
+{"romanian": 11}
+{"romanian": 2}
+{}
+{}
+{}
 {"german": 1}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{}
+{}
+{"german": 6, "albanian": 1, "swiss": 1, "east german": 1, "west german": 2}
+{}
+{}
 {"german": 1}
 {"american": 1}
 {"spanish": 1, "mexican": 1, "american": 1}
+{}
+{"jewish": 3}
+{}
+{}
+{}
+{"swedish": 0, "american": 0}
+{}
+{"american": 8, "canadian": 1, "south african": 1}
+{"american": 1}
+{"danish": 1}
 {"dutch": 1}
+{}
+{}
+{"dutch": 3}
+{"dutch": 3}
+{}
 {"american": 1}
 {"american": 1}
+{"american": 1}
+{}
+{"new zealand": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"romanian": 11, "romanian-american": 1}
+{"french": 1}
+{}
+{}
+{"flemish": 1, "french": 8, "british": 1, "australian": 1, "mexican": 1, "american": 1, "irish": 1, "french-canadian": 1}
+{}
 {"french": 1}
 {"italian": 1}
 {"slovene": 1, "italian": 1, "mediterranean": 1}
+{"italian": 1}
+{"italian": 3, "british": 1}
+{"italian": 1, "british": 2}
+{"italian": 1, "egyptian": 1}
+{}
+{}
+{}
+{"egyptian": 1}
+{"slovenian": 1}
+{"polish": 2, "american": 3, "canadian": 1}
 {"romanian": 1}
 {"romanian": 1}
+{}
+{}
+{}
+{}
+{"romanian": 3, "moldovan": 1}
+{}
+{}
+{"romanian": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
 {"american": 1}
 {"united states": 2}
+{}
+{}
+{}
+{"jews": 1}
+{}
 {"italian": 2}
+{"italian": 1}
+{"english": 1, "italian": 2, "american": 1}
+{}
+{"italian": 1}
+{}
+{}
+{"italian": 3}
+{"italian": 1}
+{}
+{"italian": 8}
 {"italian": 1}
 {"u.s.": 1}
 {"american": 1}
 {}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{"u.s.": 1}
+{}
+{}
+{}
 {"english": 3, "british": 2}
+{}
+{}
+{"welsh": 5, "scottish": 2, "english": 19, "south african": 1, "irish": 1, "british": 12}
+{"irish": 1}
+{"english": 2, "british": 1}
+{}
+{}
+{}
+{"american": 8, "canadian": 1, "english": 1}
+{}
 {"english": 1, "swiss": 1}
+{}
+{"english": 1, "swiss": 1}
+{}
+{}
+{}
 {"british": 1, "canadian": 1}
 {"british": 1}
+{}
+{}
+{}
+{}
+{"american": 5, "british": 4, "english": 1, "australian": 1, "welsh": 1}
+{}
+{}
+{}
 {"german": 1}
 {}
+{"german": 1}
+{"german": 1}
+{}
+{}
+{}
+{}
+{}
+{"protestant": 1, "danish": 1}
+{"european": 1, "estonian": 1, "finnish": 1, "latvian": 1, "norwegian": 1, "swedish": 1, "german": 1}
+{}
 {"austrian": 3}
+{"american": 2, "dutch": 1, "austrian": 1, "german": 7, "east german": 1}
+{"austrian": 3}
+{"austrian": 1, "malaysian": 1, "singaporean": 1, "mexican": 1}
+{}
+{"french": 1, "british": 2, "belgian": 2, "australian": 2, "new zealand": 1, "welsh": 1, "american": 1, "austrian": 1, "dutch": 1}
 {"american": 1}
 {"sioux": 2, "native american": 1, "european-american": 1, "american": 1}
+{"mexican": 2, "american": 9, "italian": 1, "japanese": 1, "german": 1}
+{"brazilian": 1, "argentine": 1, "american": 6, "canadian": 1, "panamanian": 1, "mexican": 1, "german": 3}
+{"german": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
 {"estonian": 1}
 {"russian": 3, "german": 1}
+{"american": 1}
+{"west german": 1, "german": 0}
+{"german": 2, "russian": 5}
+{"american": 3, "german": 2, "australian": 1}
+{"estonian": 1, "german": 1, "american": 1}
+{"russian": 2}
+{"russian": 25}
+{"russian": 17}
+{"russian": 13}
+{"german": 1, "american": 1, "austrian": 1}
 {"australian": 1}
 {"british": 1, "australian": 3}
+{}
+{"australian": 1}
+{}
+{"australian": 2}
+{}
+{"australian": 11, "english": 1, "new zealand": 1}
+{"australian": 8, "canadian": 1, "australian aboriginal": 1}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{}
+{}
+{}
 {"ukrainian": 3}
 {"ukrainian": 1, "polish": 2, "soviet": 2, "jewish": 1}
+{"ukrainian": 1}
+{"ukrainian": 1}
+{"ukrainian": 1}
+{"ukrainian": 2, "ukrainian-canadian": 1}
+{"ukrainian": 4}
+{}
+{}
+{}
+{"ukrainian": 4, "russian": 1, "belarusian": 1, "east slavic": 1}
+{"ukrainian": 1}
 {"british": 1}
 {"anglo-saxon": 2, "french": 1}
+{"english": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"british": 2}
+{"german": 0, "french": 0}
+{"british": 1}
+{"american": 1}
 {"chinese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chinese": 1, "asian": 1}
+{"chinese": 1}
+{"english": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
+{"english": 1}
 {"english": 1}
 {}
 {"english": 1, "canadian": 2}
+{"british": 1}
+{}
+{"english": 2, "american": 1, "canadian": 1}
+{"scottish": 1}
+{"english": 1, "canadian": 2}
 {"mexican": 1, "nicaraguan": 1}
 {"mexican": 5, "north american": 1}
+{}
+{}
+{}
+{}
+{"mexican": 2, "latin american": 1}
+{}
+{}
+{"mexican": 1}
+{}
 {"canadian": 1}
 {"canadian": 3}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{"canadian": 1, "scottish": 1, "irish": 1}
+{}
+{}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 2, "irish": 2}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
 {}
 {"chinese": 2}
 {"chinese": 2, "global": 1}
+{}
+{}
+{"chinese": 2}
+{}
+{}
+{}
+{}
+{}
+{"british": 2, "french": 1, "german": 1, "american": 3, "japanese": 1, "singapore": 1}
+{"chinese": 2}
 {"spanish": 1}
+{"spanish": 5, "mexican": 1, "colombian": 4, "peruvian": 1, "cuban": 1, "anglo-irish": 1, "anglo-norman": 1}
+{"ecuadorian": 2, "spanish": 3, "colombian": 2, "costa rican": 1, "anglo-irish": 1, "american": 1}
+{}
+{"north american": 1}
 {"roman": 1}
 {"italian": 2, "latin": 1, "latins": 1, "etruscans": 1, "sabines": 1}
+{}
+{}
+{"andorran": 1, "argentinian": 1, "bahraini": 1, "beninese": 1, "ethiopian": 1, "estonian": 1, "ghanaian": 1, "icelandic": 1, "jordanian": 1, "luxembourger": 1, "maldivian": 1, "maltese": 1, "mexican": 1, "moldovan": 1, "myanmarese": 1, "new zealander": 1, "north korean": 1, "pakistani": 1, "peruvian": 1, "thai": 1, "turkmen": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"canadian": 1, "american": 8, "russian": 1, "russian-american": 1, "australian": 1}
 {"polish": 1}
 {"polish": 1}
+{"polish": 1}
+{"polish": 1}
+{"polish": 0}
+{"polish": 0}
+{"polish": 1}
+{"polish": 1, "german": 1}
+{"polish": 6}
+{}
+{}
+{}
 {"english": 1}
 {"english": 1}
+{"welsh": 1}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{"australian": 1}
+{}
+{}
 {"greek": 1}
 {"greek": 1}
+{"ukrainian": 1, "english": 1}
+{"italian": 0, "serbian": 0, "cypriot": 0, "spanish": 0}
+{}
+{"bulgarian": 3, "south african": 7, "angolan-canadian": 1, "south african-born danish": 1, "trinidad and tobago": 1, "irish": 1, "australian": 1, "czech": 1}
+{}
+{"greek": 1}
+{"greek": 1}
+{}
+{}
+{"greek": 2, "german": 1}
 {"west german": 1, "german": 1}
 {"german": 1}
+{"american": 1, "german": 2, "west german": 1}
+{"west german": 1, "german": 1}
+{}
+{}
+{"german": 4, "swedish": 1, "prussian": 1}
+{}
+{}
+{"soviet": 1, "east german": 1, "west german": 2, "japanese": 1, "austrian": 1, "french": 1, "new zealand": 1, "united states": 1}
+{}
+{}
 {"new zealand": 1}
 {"m\u0101ori": 2, "british": 1, "european": 1}
 {}
+{"new zealand": 1}
+{}
+{}
+{}
+{}
+{"new zealand": 1}
+{}
+{}
+{"british": 1, "american": 3, "scottish": 1, "german": 1, "turkish": 1, "finnish": 1}
+{}
 {"canadian": 1}
+{}
+{}
+{"canadian": 4, "american": 7}
+{"american": 7, "canadian": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
 {"australian": 2}
 {"australian": 3, "anglo-celtic": 1, "french": 1}
+{"us": 1, "american": 7, "british": 3, "english": 1}
+{}
+{}
+{"american": 5, "british": 2, "canadian": 1, "irish": 1}
+{}
+{}
+{}
+{}
+{"south african": 1, "canadian": 1, "american": 5, "british": 3, "english": 2, "new zealand": 1}
+{}
 {"english": 1}
 {"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{"australian": 2, "american": 11, "canadian": 1, "english": 1}
+{}
+{}
+{"american": 1}
+{}
 {"irish": 1}
 {}
+{}
+{"australian": 1}
+{"english": 3, "canadian": 5, "australian": 4, "american": 4, "irish": 1}
+{}
+{}
+{"chinese": 1}
+{"argentine": 1}
+{}
+{}
+{"chinese": 2}
 {"greek": 1}
 {"greek": 1}
+{"australian": 1}
+{"greek": 1}
+{}
+{}
+{"australian": 1}
+{}
+{}
+{}
+{}
+{}
 {"canadian": 2}
+{}
+{}
+{}
+{"british": 1}
+{"american": 6, "english": 1, "british": 1, "irish": 1, "scottish": 1, "canadian": 2, "australian": 1}
 {"canadian": 1}
 {"british": 1}
+{}
+{"british": 1}
+{"canadian": 2}
+{}
+{"canadian": 2}
+{"canadian": 0}
+{"canadian": 1}
+{}
+{"canadian": 1}
+{"canadian": 1, "british": 1}
 {"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{"american": 5, "english": 1}
+{"canadian": 1}
+{"canadian": 1}
+{"canadian": 1}
+{}
+{"australian": 2, "canadian": 1}
 {"canadian": 1}
 {"ecuadorian": 1}
 {}
+{"afro-ecuadorian": 1}
+{"chilean": 1, "colombian": 2, "spanish": 2, "venezuelan": 1, "cuban": 1, "ecuadorian": 1, "american": 1, "bolivian": 1}
+{"spanish": 3, "colombian": 3, "ecuadorian": 3, "venezuelan": 1, "mexican": 1, "peruvian": 1}
+{"venezuelan-american": 1, "spanish": 3, "mexican": 2, "american": 3, "chilean": 1, "peruvian": 1}
+{}
+{}
+{"ecuadorian": 1}
+{"american": 1, "mexican": 1, "salvadoran": 1, "ecuadorean": 1}
+{"ecuadorian": 1, "canadian": 1, "korean": 1}
+{}
 {"chinese": 2}
+{"chinese": 1}
+{}
+{"chinese": 2}
+{"chinese": 1}
 {"japanese": 1}
+{"japanese": 1, "french": 1}
+{"japanese": 14}
+{"indigenous": 1}
+{"japanese": 11, "japanese american": 1}
+{}
 {"danish": 1, "british": 1}
+{"indian": 4}
+{"indian": 2}
+{}
+{"indians": 4}
+{"indians": 3}
 {"irish": 1}
 {"irish": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"irish": 3}
+{"irish american": 1}
+{"american": 4, "irish": 3, "british": 1, "new zealand": 1}
+{"irish": 4}
 {"nigerian": 1, "yoruba": 1}
 {"yoruba": 1, "nigerian": 1, "igbo": 1, "hausa": 1, "edo": 1, "ibibio": 1}
+{}
+{}
+{}
+{"nigerian": 1}
+{"british": 3, "nigerian": 3}
+{"yoruba": 1}
+{}
+{}
+{}
+{}
 {"canadian": 1}
+{}
+{}
+{}
+{"canadian": 1}
+{}
 {"swedish": 4, "russian": 2}
 {"finnish": 2}
+{}
+{"finnish": 1}
+{}
+{}
+{"german": 9, "swedish": 1, "british": 1}
+{"swedish": 2}
+{"swedish": 1, "russian": 3}
+{"finnish": 1}
+{"swedish": 2, "russian": 1}
+{"finnish": 1, "swedish": 1}
 {"irish": 1}
 {}
+{}
+{"american": 3, "mexican": 1, "northern irish": 1, "irish": 1}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{"northern irish": 1}
+{}
+{}
 {"japanese": 1}
+{"japanese": 17, "thai": 1}
+{"japanese": 1}
+{}
+{}
+{"israeli": 1, "finnish": 8, "japanese": 4, "american": 1}
 {"canadian": 1}
+{}
+{"northern irish": 1, "american": 3, "canadian": 2, "australian": 2}
+{"american": 1}
+{}
+{"american": 1}
 {"u.s.": 1}
 {"u.s.": 1}
+{"u.s.": 2}
+{}
+{"u.s.": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 2}
 {"german": 1}
 {"german": 1}
+{"german": 1}
+{}
+{}
+{"german": 1}
+{}
+{}
+{"dutch": 1}
+{}
+{"jewish": 1}
+{"bavarian": 1, "german": 1}
 {"french": 1}
 {"french": 5}
+{}
+{}
+{"canadian": 2}
+{"french": 1}
+{}
+{}
+{}
+{"french": 2, "russian": 1, "english": 1}
+{"scottish": 1}
 {"american": 2}
 {"american": 1}
+{}
+{}
+{"american": 6, "british": 2, "english": 3, "australian": 2, "canadian": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
 {"japanese": 2}
 {"japanese": 1, "korean": 1, "chinese": 1}
+{"japanese": 9, "canadian": 1}
+{"japanese": 1}
+{"japanese": 1}
+{}
+{"japanese": 11}
+{}
+{"japanese": 2}
+{}
+{}
+{}
 {"english": 1}
 {"english": 1, "uk": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
 {"irish": 1}
 {"irish": 1}
+{}
+{"french": 2}
+{"irish": 1}
+{"ghanaian": 1, "french": 1}
+{"french": 3}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{"american": 6, "canadian": 3}
+{"american": 1}
+{"english": 2}
+{}
 {"american": 1}
 {"lebanese": 2}
+{}
+{}
+{}
+{"canadian": 2}
+{"english": 1}
+{"american": 2, "australian": 2, "canadian": 1}
+{}
+{"australian": 1, "british": 2, "english": 1, "scottish": 2, "american": 4}
+{}
+{"armenian": 1, "muslim": 1}
 {"american": 2}
 {"american": 1}
+{}
+{}
+{"american": 2}
+{}
+{}
+{"armenian-american": 1}
+{}
+{}
+{}
+{}
 {"spanish": 1}
 {"spanish": 1, "basque": 1}
+{}
+{}
+{}
+{"spanish": 2}
+{"salvadoran": 1, "filipino": 2, "brazilian": 12, "colombian": 1, "venezuelan": 2, "chilean": 1, "cuban-american": 1, "american": 2}
+{"brazilian": 1, "english": 1}
+{}
+{}
+{}
+{"brazilian": 0}
 {"israelites": 1}
 {"canaanites": 2, "phoenicians": 1, "punics": 1}
+{"canadian": 1}
+{}
+{}
+{}
+{"jewish": 1, "semitic": 1}
+{}
+{"israelites": 1, "phoenician": 1, "hebrew": 1}
+{"mexican": 1}
+{"mexican": 1}
+{}
 {"dutch": 1}
+{}
+{"american": 4, "kittitian": 1, "barbadian": 1, "german": 2, "saint lucian": 1, "dutch": 1}
 {"dutch": 1}
+{"american": 8, "dutch": 1, "jamaican": 1, "german": 1, "kittitian": 1}
+{"american": 7, "german": 2}
+{"dutch": 1}
+{"dutch": 2}
+{"dutch": 1}
+{"dutch": 2}
+{}
+{"american": 2, "british": 1, "french": 1, "dutch": 1, "belgian": 1}
 {"czech": 1, "czechoslovakian": 1}
 {"czech": 1}
+{}
+{"czechoslovakian": 1}
+{"czechoslovakia": 1}
+{}
+{}
+{}
+{}
+{}
+{"polish": 1}
 {"romanian": 1}
+{}
+{}
+{"romanian": 1}
+{}
+{}
+{"american": 1}
+{}
+{"new zealand": 1, "bahamian": 1, "scottish": 2, "american": 2, "british": 3}
+{}
+{"scottish": 2}
 {"american": 1}
 {"polish": 1}
 {"polish": 1}
+{"polish-american": 1, "polish": 1}
+{}
+{"colombian": 1}
+{"polish": 7, "american": 3, "english": 2, "czech": 1, "slavic": 1}
+{"european": 1, "ita": 1}
+{}
+{}
+{"polish": 1}
+{"serbian": 1}
+{}
 {"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
 {"finnish": 1}
 {"finnish": 3, "nordic": 1}
+{"finnish": 1}
+{"finnish": 2}
+{"finnish": 1}
+{}
+{"finnish": 1}
+{}
+{"finnish": 4, "finnish-swedish": 1}
+{}
+{}
+{"finnish": 3}
 {"serbian": 2}
 {"serbian": 3}
+{"serbian": 1}
+{"serbian": 3}
+{"serbian": 3, "muslim": 1}
+{"hungarian": 1, "european": 1}
+{}
+{"serbian": 3, "serbs": 2}
+{"rusyn": 1}
+{"serbian": 3, "danish": 2, "macedonian": 2, "polish": 2, "croatian": 2, "swiss": 2, "slovenian": 2, "swedish": 1, "french": 1}
+{}
+{}
+{"italian": 1}
+{}
+{}
+{}
+{"italian": 1}
 {"italian": 1}
 {"swiss": 1}
 {"swiss": 1, "french": 1}
+{"swiss": 4, "brazilian": 1, "german": 2, "monaco": 0, "american": 1}
+{"swiss": 1, "portuguese": 1, "brazilian": 1}
+{"swiss": 1}
+{}
+{}
+{}
+{}
+{"bahraini": 1, "eswatini": 1, "ethiopian": 1, "guyanese": 1, "icelandic": 1, "jamaican": 2, "rwandan": 3, "singaporean": 5}
+{}
+{"swiss": 9}
 {"taiwanese": 1, "japanese": 1}
+{"japanese": 11}
+{}
+{"japanese": 1, "taiwanese": 1}
+{}
+{}
 {"spanish": 1}
 {"spanish": 1}
+{"argentine": 1}
+{"spanish": 2}
+{}
+{}
+{}
+{"peruvian": 1, "spanish": 2, "venezuelan": 2, "palestinian-chilean": 1, "chilean": 1, "colombian": 1, "venezuelan-american": 1, "ecuadorian": 1, "argentine": 2, "cuban-puerto rican": 1, "american": 1}
+{}
+{"argentine": 1}
+{}
+{}
 {"canadian": 1}
 {"canadian": 1}
+{"american": 8, "australian": 1, "british": 2, "canadian": 1, "english": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"canadian": 0}
 {"turkish": 1, "circassian": 1}
+{}
+{}
+{}
+{}
 {"canadian": 2}
 {"canadian": 5, "indigenous": 1, "british": 1, "french": 1}
+{"canadian": 1}
+{}
+{}
+{"canadian": 7}
+{"welsh": 1}
+{"british": 1}
+{}
+{}
+{"canadian": 17, "brazilian": 1, "latin american": 1}
+{"canadian": 0}
 {}
 {"welsh": 2, "uk": 1}
+{"english": 3, "welsh": 1, "australian": 1, "northern ireland": 1}
+{}
+{}
+{}
+{}
+{"american": 4, "british": 3, "german": 2, "trinidad and tobago": 1, "welsh": 2}
+{"welsh": 1}
+{}
+{}
 {"italian argentine": 1, "italian": 3}
+{"spanish": 1}
+{"spanish-american": 1}
+{"filipino": 1}
+{"argentine": 1, "italian": 1}
+{"spanish": 1}
 {"american": 1}
+{}
+{"canadian": 1}
+{"american": 1}
+{}
+{"american": 4, "british": 3, "canadian": 1, "english": 1}
 {"american": 2, "canadian": 2}
 {"canadian": 5, "indigenous": 1}
+{}
+{"french": 1}
+{"french": 0}
+{"american": 2, "british": 1, "danish": 1, "estonian": 1, "french": 2, "german": 5}
+{}
+{}
+{}
+{}
+{}
+{}
 {"new zealand": 1}
 {"maori": 2, "scottish": 2, "chinese": 2}
+{}
+{}
+{}
+{"new zealand": 2}
+{}
+{"british": 1, "english": 3, "new zealand": 1, "scottish": 3, "american": 3, "african american": 1}
+{}
+{}
+{}
+{"new zealand": 1}
 {"english": 1}
 {"english": 1}
+{}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"hispanic": 1, "latino": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 11, "canadian": 2, "kiowa-comanche-italian": 1}
+{}
 {"russian": 1}
 {"russian": 1, "tatar": 1, "chuvash": 1}
+{}
+{}
+{"russian": 2}
+{}
 {"russian": 1}
+{}
+{}
+{}
+{"russian": 1}
+{}
+{"russian": 1}
+{}
+{"russian": 2}
+{"soviet": 1}
+{"russian": 1}
+{"finnish": 1, "russian": 5, "ukrainian": 1, "kazakhstani": 1, "east slavic": 1, "soviet": 1}
 {"chilean": 2}
 {"spanish": 1, "chilean": 4}
+{"peruvian": 1}
+{}
+{"filipino": 2, "brazilian": 1, "puerto rican": 1}
+{"colombian": 1}
+{}
+{"mexican": 1}
+{"argentine": 1}
+{"spanish": 1, "mexican-american": 1, "venezuelan-american": 1}
+{}
+{}
 {"british": 1}
+{}
+{"\ud83c\uddfa\ud83c\uddf8": 1, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f": 2, "\ud83c\udde9\ud83c\uddea": 1}
+{"british": 1, "nigerian": 1, "german": 1}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{}
 {"italian": 1}
 {"italian": 1}
 {"gallic": 1}
+{"gaul": 1}
+{}
+{}
+{}
+{}
 {"spanish": 1}
 {"spanish": 2, "muslim": 1, "iberian": 1, "south american": 1}
+{"spanish": 1, "mancheguian": 1}
+{"spanish": 1}
+{}
+{}
+{}
+{"saudi": 1}
+{"peruvian": 1}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1, "german": 1, "irish": 1, "european": 1, "foreign-born": 1, "white": 1, "black": 1, "asian": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 9}
+{"american": 8}
+{"american": 9}
 {"american": 1}
 {"american": 1}
+{"norwegian": 3, "american": 1}
+{}
+{}
+{}
+{"norwegian": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
 {"slovenian": 1}
 {"slovenian": 1}
+{"european": 1, "slovene": 1}
+{"slovene": 1, "austrian": 1, "danish": 1, "swedish": 1}
+{"austrian": 1, "german": 1, "slovene": 1}
+{}
+{}
+{"slovenian": 1, "german": 1}
+{}
+{"slovenian": 2}
+{"chinese": 0, "mongolian": 0, "south korean": 0, "japanese": 0, "filipino": 0, "malaysian": 0, "bruneian": 0, "indonesian": 0, "singaporean": 0, "thai": 0, "cambodian": 0, "laotian": 0, "vietnamese": 0}
+{}
 {"greek": 2}
+{"greek": 1}
+{"greek": 2}
+{"aboriginal": 1}
+{}
+{"ukrainian": 7, "russian": 1, "australian": 1, "japanese": 1}
 {"hungarian": 2}
+{"hungarian": 2}
+{"hungarian": 1}
+{}
+{"jewish": 1, "italian": 1}
+{"hungarian": 12, "jewish": 1}
 {"polish-jewish": 1}
+{}
+{"soviet": 1, "german": 1, "jewish": 1, "aryan": 1}
+{"jewish": 2, "polish": 3}
+{"polish": 2}
 {"french": 2}
+{"french": 3}
+{}
+{}
+{"american": 1, "chicana": 1, "colombian": 4, "french": 1, "mexican": 1, "panamanian": 1, "spanish": 3}
+{"peruvian": 3, "colombian": 2, "ecuadorian": 1, "american": 1, "cuban": 1, "venezuelan": 1, "argentine": 3, "spanish": 1}
 {"american": 1}
 {"french": 2, "american": 1}
+{}
+{}
+{}
+{"american": 9, "british": 1, "canadian": 1}
+{}
+{}
+{}
+{"irish": 1, "scottish": 2, "french": 4, "british": 1, "new zealand": 1, "canadian": 1}
+{"french": 9}
 {"american": 1}
+{"tobagonian-canadian": 1}
+{"jewish": 1}
+{"yiddish": 1}
+{}
+{}
+{"chinese": 1}
+{"chinese": 1}
+{}
+{}
 {"chinese": 1}
 {"american": 1, "british": 1}
+{}
+{"australian": 1}
+{"guyanese": 1}
+{"chinese": 1, "amerindian": 1}
+{"u.s.": 7, "british": 2, "canadian": 1, "australian": 2, "guyanese": 1}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"italian": 1}
 {"italian": 2, "romagnol": 1}
+{"italian": 1}
+{}
+{"florentine": 1}
+{}
+{}
+{"italian": 1}
+{"filipino": 1}
+{}
+{}
+{"italian": 1}
 {"french": 2, "american": 1}
 {"french": 1}
 {}
+{}
+{"french": 2}
+{}
+{"american": 1, "french": 1}
+{"french": 1}
+{"french": 6, "canadian": 3, "belgian": 1, "luxembourger": 1, "ivorian": 1}
+{}
+{}
+{}
+{}
 {"irish": 1, "northern irish": 1}
+{}
+{"maltese": 1, "english": 1}
+{}
+{"english": 1}
+{"english": 5, "american": 2, "australian": 1}
+{}
+{"english": 1}
+{}
+{}
+{"english": 1}
 {"kazakh": 1, "azeri": 1, "turkish": 1}
 {"talysh": 2, "azerbaijani": 1}
+{"azerbaijani": 1}
+{"azeri": 1, "turkish": 1, "kazakh": 1}
+{}
+{}
+{"uzbekistani": 1}
+{"brazil": 1}
+{"romanian": 0}
+{}
+{"turkish": 3, "turkish meskhetian": 3}
+{}
 {"american": 1}
 {"american": 1}
-{"mexican": 1}
-{"mexican": 1}
-{"puerto rican": 1}
-{"afro-puerto rican": 1, "chinese": 1, "jewish": 1, "dominican": 1}
-{"mexican": 1}
-{"germanic": 1, "catalan": 1, "spanish": 1}
-{"catalan": 1, "spanish": 1}
-{"french": 1}
-{"french": 1}
-{"irish": 1, "british": 1}
-{"american": 2}
-{"american": 1}
-{"american": 1}
-{"indian": 1}
-{"indian": 1, "tamil": 1}
-{"canadian": 1}
-{"american": 1}
-{"american": 1}
-{"cherokee": 2, "native americans": 1, "european-american": 1, "american": 1}
-{"hungarian": 1}
-{"filipino": 1}
-{"filipino": 1}
-{"armenian-iranian": 1}
-{"american": 1}
-{"norwegian": 1}
-{"norwegian": 4}
 {"american": 1}
 {}
+{}
+{}
+{}
+{}
+{}
+{}
+{"u.s.": 1}
+{"american": 9}
+{"mexican": 1}
+{"mexican": 1}
+{"brazilian": 4, "italian": 4, "mexican": 1, "united states": 1}
+{}
+{"italian": 6, "american": 1, "mexican": 1, "brazilian": 2, "portuguese": 1, "peruvian": 1, "chilean": 1}
+{"mexican": 1}
+{"mexican": 2, "latin american": 1}
+{"mexican": 1}
+{"mexican": 1}
+{}
+{}
+{}
+{"puerto rican": 1}
+{"afro-puerto rican": 1, "chinese": 1, "jewish": 1, "dominican": 1}
+{}
+{}
+{}
+{"puerto rican": 1, "dominican": 1}
+{"mexican": 1}
+{}
+{"mexican": 0, "puerto rican": 1}
+{}
+{"puerto rican": 2, "cuban": 1}
+{"mexican": 1, "puerto rican": 2}
+{"mexican": 1}
+{"american": 6, "australian": 2, "new zealand": 1, "scottish": 1, "singaporean": 1, "jamaican-american": 1, "english": 1, "dutch": 1, "taiwanese": 1}
+{"american": 2, "canadian": 2, "filipino": 1, "sri lankan": 1, "english": 2, "australian": 1, "italian": 1, "scottish": 1, "spanish": 1}
+{"american": 8, "australian": 1, "british": 1, "canadian": 1, "french": 1}
+{"canadian": 1}
+{"american": 1}
+{"germanic": 1, "catalan": 1, "spanish": 1}
+{"catalan": 1, "spanish": 1}
+{}
+{}
+{}
+{}
+{}
+{"catalan": 1, "spanish": 1}
+{}
+{}
+{"germanic": 1}
+{}
+{"french": 1}
+{"french": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 11, "australian": 1, "canadian": 1, "british": 1, "new zealand": 1}
+{"american": 15, "australian": 1}
+{"irish": 1, "british": 1}
+{}
+{}
+{"irish": 1}
+{"northern irish": 1}
+{"english": 1}
+{"american": 2}
+{"english": 1}
+{}
+{"american": 4, "israeli": 1}
+{"american": 6, "israeli": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"welsh": 1}
+{"american": 1}
+{"american": 6, "australian": 3, "english": 1, "british": 1}
+{}
+{"indian": 1}
+{"indian": 1, "tamil": 1}
+{}
+{}
+{}
+{}
+{}
+{"indian": 0}
+{"tamil": 1, "indian": 1}
+{"indian": 3}
+{}
+{}
+{"canadian": 1}
+{"british": 1}
+{}
+{"british": 1}
+{"english": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"canadian": 3, "american": 9, "belgian": 1}
+{"american": 1}
+{"cherokee": 2, "native americans": 1, "european-american": 1, "american": 1}
+{}
+{}
+{}
+{"african-americans": 1}
+{}
+{}
+{"irish": 2, "british": 5, "american": 4, "scottish": 1, "australian": 1, "south african": 1, "english": 2, "canadian": 1}
+{}
+{"australian": 2}
+{}
+{"hungarian": 1}
+{"hungarian": 13}
+{"hungarian": 1}
+{"hungarian": 13}
+{"hungarian": 1}
+{"hungarian": 1, "jewish": 1}
+{"filipino": 1}
+{"filipino": 1}
+{}
+{}
+{}
+{}
+{"japanese": 1, "philippine": 1}
+{}
+{"filipino": 1}
+{"filipino": 1}
+{}
+{}
+{"armenian-iranian": 1}
+{"armenian-iranian": 1, "german": 1}
+{}
+{}
+{"armenian": 7}
+{"iranian": 3}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"norwegian": 1}
+{"norwegian": 4}
+{}
+{"norwegian": 1}
+{"danish": 2}
+{"danish": 6, "norwegian": 4, "canadian": 1}
+{"norwegian": 0}
+{}
+{}
+{"norwegian": 1}
+{"norwegian": 2}
+{"norwegian": 1}
+{"american": 1}
+{}
+{"american": 8, "australian": 3, "british": 1}
+{"irish": 2, "british": 1, "american": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 3, "australian": 2, "irish-american": 1, "canadian": 1}
 {"french": 1}
 {"french": 1, "roman": 2, "gallic": 1}
+{}
+{"french": 3}
+{"egyptian": 1, "britons": 1}
+{"french": 1, "german": 1}
+{}
+{"german": 1}
+{}
+{"germans": 1}
+{"french": 1, "frenchmen": 1}
+{}
 {"balinese": 1}
 {"indonesian": 1}
+{}
+{}
+{"indonesian": 2}
+{"dutch": 1}
+{"balinese": 1}
+{"balinese": 1, "french": 1, "indonesian": 1}
+{}
+{}
+{}
+{}
 {"mexican": 1}
+{}
+{}
+{"mexican": 1, "guatemalan": 0}
+{"mexico": 1}
 {"canadian": 1}
 {"french": 1, "british": 1, "francophone": 1}
+{"quebec": 11}
+{}
+{}
+{"canadian": 1}
+{"british": 2, "american": 6, "australian": 3, "scottish": 3, "canadian": 2, "irish": 1, "english": 1}
+{}
+{"qu\u00e9b\u00e9cois": 1}
+{}
+{}
+{}
 {"american": 1}
+{"australian": 2}
+{"american": 10, "canadian": 1, "swedish": 1}
+{"australian": 6, "new zealand": 2}
+{}
+{}
 {"russian": 1, "german": 1, "polish": 1}
+{"australian": 2, "german": 1, "russian": 1, "english": 1}
+{}
 {"uruguayan": 1}
 {"portuguese": 1, "spanish": 2, "british": 1, "criollos": 1}
+{}
+{}
+{}
+{"american": 2, "mexican": 1, "spanish": 1}
+{"uruguayan": 0}
+{}
+{}
+{}
+{"spanish": 1, "native americans": 1}
 {"german": 1}
 {"german": 1}
+{"german": 5, "austrian": 2, "swiss": 2, "american": 1}
+{}
+{"austrian": 1}
+{}
+{}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{}
 {"canadian": 1}
+{"american": 2, "australian": 1}
+{"australian": 1}
+{}
+{"english": 1}
+{"english": 1}
 {"italian": 1}
+{"italian": 11, "brazilian": 1}
+{"italian": 7, "venezuelan": 1, "american": 1}
+{"italian": 10, "canadian": 1, "peruvian": 1}
+{"italian": 1, "american": 1}
+{"italian": 8, "australian": 1, "costa rican": 2}
 {"flemish": 1, "dutch": 1, "calvinist": 1}
 {"english": 1}
 {"american": 1}
+{}
+{"british": 1}
+{}
+{}
+{"flemish": 1, "dutch": 1, "spanish": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
+{"american": 1}
+{"british": 1, "canadian": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
 {"syrian": 1}
+{"syrian": 1, "saudi": 1, "french": 1}
+{"syrian": 1, "saudi": 2, "french": 1}
+{"saudi": 1, "syrian": 1}
+{"saudi arabian": 1}
+{}
 {"czechoslovak": 3}
 {"czech": 1, "european": 1}
+{}
+{"czechoslovak": 2}
+{}
+{}
+{}
+{}
+{}
+{"czech": 1, "australian": 1}
+{}
+{"czech": 1}
 {"latvian": 1}
 {"swiss": 2}
+{}
+{"swiss": 1}
+{"latvian": 1, "swiss": 1}
+{}
+{}
+{}
+{}
+{"swiss": 1}
+{"swiss": 1, "italian": 1, "french": 1}
+{}
 {"american": 1}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{}
+{}
 {"american": 1}
+{"ashkenazi jewish": 1, "jewish": 1}
+{"american": 1}
+{"italian": 9, "american": 7, "argentine": 1, "italian-german": 1}
+{"south-african": 1, "australian": 1, "english": 2, "american": 14, "canadian": 1, "british": 2}
+{"american": 1}
+{"italian": 1, "jewish": 1}
+{}
 {"dutch": 1}
+{}
+{}
+{}
+{"dutch": 2}
+{}
 {"french": 4}
 {"french": 1}
+{"dutch": 1, "french": 6, "american": 2}
+{}
+{}
+{}
+{}
+{"french": 2}
+{}
+{"french": 2}
+{}
+{}
 {"german": 2}
+{"german": 1}
+{"german": 8, "norwegian": 1, "dutch": 3, "austrian": 1}
+{"german": 1, "german-american": 1}
+{}
+{"german": 1}
 {"american": 1}
 {"u.s.": 1}
+{"british": 4, "welsh": 1, "indian": 1}
+{}
+{}
+{"british": 1}
+{"english": 1}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{"belgian": 1}
+{"belgian": 1}
+{}
+{"belgian": 1}
+{"british": 1}
 {"belgian": 1}
 {"french": 1, "brazilian": 1}
+{"french": 2}
+{}
+{"brazilian": 2, "french": 1}
+{"brazilian": 2}
+{"brazilian": 1}
 {"iranian": 1, "persian": 1, "canadian": 1}
+{"iranian": 2, "canadian": 1}
+{}
+{}
+{"english": 1, "anglo-french": 1, "british": 1}
+{"english": 1, "french": 1}
 {"american": 1}
 {"american": 1, "british": 1}
+{}
+{}
+{}
+{"african-american": 1}
+{"scottish": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
 {"costa rican": 1}
 {"spanish": 1}
+{}
+{}
+{"costa rica": 1}
+{"costa rican": 1}
+{}
+{}
+{}
+{}
+{}
+{"costa rican": 1}
 {"swedish": 1, "spanish": 1, "british": 1}
 {"dutch": 1, "german": 1, "scottish": 1, "nordic": 2}
+{"american": 1}
+{}
+{}
+{"american": 7, "belgian": 1, "new zealand": 1, "swedish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 2}
+{}
+{"american": 1}
+{"jewish": 1}
+{"american": 1}
+{}
 {"scottish": 1, "british": 1}
+{}
+{}
+{}
+{"english-language": 1, "us": 5, "scottish": 4, "irish": 1, "sm": 1, "english": 3}
+{}
 {"senegalese": 1}
 {"portuguese": 1, "french": 3, "independent": 1}
+{"senegalese": 1}
+{}
+{}
+{}
+{"african": 1, "american": 1}
+{"british": 1, "french": 3, "gambian": 1}
+{"french": 14, "senegalese": 9, "bissau-guinean": 2, "gambian": 1, "french-senegalese": 2, "senegalese-french": 1, "french-born bissau-guinean": 1, "french-born senegalese": 1}
+{"french": 1, "uruguayan": 2}
+{"dominican": 1, "american": 2, "jewish": 1}
+{}
 {"dutch": 1, "moroccan": 1}
+{}
+{}
+{"moroccan": 5, "german": 1, "dutch": 4, "algerian": 1, "french": 3, "american": 1, "moroccan-dutch": 1}
+{}
 {"canadian": 1}
 {"canadian": 1}
+{"canadian": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"canadian": 1}
+{}
+{"british": 1, "canadian": 2}
 {"japanese": 1}
 {"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
 {"american": 1}
 {"canadian": 1}
+{"irish": 0, "united states citizen": 1}
+{}
+{}
+{"british": 3, "australian": 1, "american": 4, "welsh": 1, "english": 2, "scottish": 0}
+{"british": 1}
 {"ugandan": 1}
 {"ugandan": 6, "british": 1}
+{"african": 2, "ugandan": 1}
+{}
+{}
+{}
+{"ugandan": 0}
+{"ugandan": 0, "african": 1}
+{}
+{}
+{"ugandan": 1}
+{}
 {"basutoland-born": 1, "british": 1, "english": 1}
 {"british": 3, "basotho": 1}
+{"basotho": 1, "british": 1}
+{}
+{"italian": 5, "swiss": 2, "american": 1, "new zealand": 1, "sammarinese": 4, "chilean": 1, "austrian": 1, "italian-american": 1}
+{}
+{"khoi khoi": 1, "sotho": 2, "boer": 1, "british": 1}
+{}
+{"british": 1, "basutoland-born": 1, "english": 1}
+{"german": 1, "italian": 1, "australian": 1, "british": 1, "albanian": 1}
+{}
+{}
 {"english": 1, "british": 1}
 {"uk": 2, "lgbt": 1}
+{}
+{}
+{"british": 1}
+{}
+{"english": 1}
+{}
+{"british": 1}
+{"british": 1}
+{"english": 1}
+{}
 {"filipino": 1}
 {"portuguese": 1, "spanish": 1, "filipino": 1, "hispanic": 1, "latin american": 1}
+{}
+{}
+{}
+{}
+{"filipino": 2, "spanish": 1}
+{"philippine": 7}
+{"filipino": 1}
+{}
+{}
+{}
 {"austrian": 1}
 {"moravians": 1, "czechs": 1, "german": 1}
+{"austrian": 3, "hungarian": 1, "german": 1, "polish": 1, "english": 1, "american": 1}
+{}
+{"australian": 1}
+{}
+{}
+{"austrian": 1}
+{}
+{"austrian": 1}
+{}
+{}
 {"american": 1}
+{}
+{}
+{"american": 8, "australian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {}
 {"japanese": 1}
 {"japanese": 3}
+{"japanese": 12}
+{}
+{"japanese": 1}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
 {"canadian": 1}
+{"canadian": 1}
+{"american": 1, "german": 1, "russian": 1, "french": 1}
+{}
+{"american": 1}
+{}
 {"english": 1, "pakistani": 1}
 {"pakistani": 2}
+{}
+{}
+{}
+{"english": 1, "pakistan": 1, "pakistani": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
 {"spanish": 1}
 {"spanish": 5}
+{}
+{"spanish": 1}
+{}
+{"colombian": 1}
+{"colombian": 1, "spanish": 1}
+{"spanish": 1}
+{"argentine": 3, "venezuelan": 1, "cuban": 1, "spanish": 2, "bolivian": 2, "puerto rican": 1, "uruguayan": 1, "peruvian": 1, "colombian": 1}
+{}
+{}
+{"spanish": 1}
 {"south african": 1}
 {"black": 1}
+{}
+{"nguni": 1}
+{}
+{}
+{}
+{}
+{"south african": 1}
+{}
+{}
+{}
 {"german": 1}
+{}
+{"german": 1}
+{"german": 1}
+{}
+{}
 {"american": 1}
+{}
+{"british": 2, "irish": 1, "american": 3}
+{"australian": 1, "british": 1, "irish": 1, "english": 2, "scottish": 2, "canadian": 1, "american": 1}
+{"english": 1, "northern irish": 1, "american": 1}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
+{"italian": 1}
 {}
 {"italian": 1}
 {"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
 {}
 {"greek": 2}
+{"greek": 1, "jewish": 1}
+{"greek": 2}
+{}
+{"greek": 1}
+{"mexican": 1}
 {"italian": 1}
 {"italian": 3, "greek": 1}
+{"french": 1}
+{}
+{}
+{}
+{}
+{}
+{"french": 1}
+{}
+{"french": 1}
+{"canadian": 2, "french": 1}
 {"swedish": 1}
 {"swedish": 3}
+{"finnish": 7, "swedish": 1}
+{}
+{"swedish": 1}
+{"swedish": 1}
+{}
+{}
+{}
+{"finnish": 2}
+{"swedish": 1}
 {"mexican": 1}
 {"mexican": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"japanese": 1}
+{}
+{"japanese": 11}
+{"japanese": 11}
+{"japanese": 10}
 {"japanese": 1}
 {"native american": 1, "northern cheyenne": 1, "cheyenne": 1}
 {"native americans": 1, "coloradans": 1}
+{}
+{}
+{}
+{}
+{"korean": 1}
+{}
+{"southern cheyenne": 1, "cheyenne": 1}
+{}
+{"native american": 1, "northern cheyenne": 1}
+{}
 {"american": 1}
+{}
+{}
+{"african american": 1}
+{}
+{"united states": 1}
+{}
+{"american": 7, "canadian": 1, "australian": 1, "austrian": 1, "french": 3, "indonesian": 1}
+{}
+{"latvian": 8}
+{}
 {}
 {"brazilian": 1, "italian": 1}
+{"greek": 1, "italian": 8, "brazilian": 1, "canadian": 1, "american": 1}
+{}
+{"argentine": 1, "italian": 7, "english": 2, "american": 3, "french": 1}
+{"brazilian": 0}
 {"american": 1}
 {}
+{"american": 8, "dutch": 1, "english": 2, "norwegian": 1, "german": 1, "african-american": 1}
+{}
+{"american": 6, "greek": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 2}
+{"dutch": 1}
+{"dutch": 1}
+{}
+{"dutch": 6, "south african": 1, "swedish": 1, "american": 1}
+{"dutch": 2, "american": 2, "belgian": 3}
+{"dutch": 1}
+{}
+{"american": 1}
+{}
+{"dutch": 1}
 {"dutch": 1}
 {"dutch": 1}
 {"dutch": 2, "flemish": 1, "northern": 1, "italian": 1}
+{}
+{"american": 1, "dutch": 2, "belgian": 1}
+{}
+{"italian": 1, "dutch": 1}
+{}
 {"swedish": 1}
+{"swedish": 1}
+{"swedish": 1}
+{"swedish": 0}
+{}
+{"swedish": 13, "finnish": 1}
+{}
+{}
+{}
+{"swedish": 1}
+{"swedish": 2}
 {"swedish": 1}
 {"american": 1}
 {"american": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"dutch": 1}
+{}
+{}
+{}
+{}
 {"english": 1}
 {}
+{}
+{}
+{"english": 4, "british": 1}
+{}
+{}
+{}
+{}
+{"british": 2}
+{}
+{"english": 1}
 {"french": 1}
 {}
+{}
+{}
+{"french": 1}
+{"french": 7, "swiss": 2, "canadian": 2, "belgian": 1}
+{}
 {"american": 1}
+{}
+{"puerto rican": 1, "canadian": 2}
+{}
+{"german": 1}
+{}
+{}
+{}
+{"canadian": 1, "australian": 1, "american": 11}
+{}
+{}
 {"irish": 1, "english": 1}
 {"irish": 1, "unionist": 1, "nationalist": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"french": 1}
+{"german": 3, "dutch": 9, "french": 1}
+{"french": 1}
+{}
+{}
+{}
 {"canadian": 1, "quebec nationalist": 1}
+{}
+{}
+{}
+{}
 {"german": 1}
 {"german": 1}
+{}
+{}
+{}
+{"german": 1, "west german": 1}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{}
 {"german": 1}
 {"german": 2}
+{}
+{}
+{"prussian": 1}
+{}
+{"dutch": 1, "german": 12}
+{"german": 13}
+{"estonian": 1, "german": 10}
+{}
+{"german": 1}
 {"icelandic": 2}
 {"native americans": 1, "french": 2, "scandinavian": 1, "german": 2, "somali americans": 1, "hmong": 1}
+{}
+{}
+{}
+{}
+{}
+{"native american": 1, "ojibwe": 4}
+{"finnish": 2, "korean": 1, "american": 1, "icelandic": 1, "indian": 3, "british": 2, "zambian": 1}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1, "german-speaking": 1}
+{"american": 1}
+{"american": 1}
+{"african-american": 1}
 {}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"german": 5, "brazilian": 1, "american": 1, "norwegian": 1, "czech": 1}
+{}
+{"bohemian": 1}
+{"czech": 1}
+{"maltese": 1, "austrian": 4, "german": 8, "american": 4, "jewish": 2, "czech": 2, "french": 2, "luxembourgish": 1, "canadian": 1, "belgian": 1}
 {"finnish": 1}
 {"finnish": 4, "swedish": 2}
+{}
+{}
+{"finnish": 11, "american": 2}
+{}
+{}
+{"finnish": 1, "russian": 1, "azerbaijani": 1}
+{"finnish": 13}
+{}
+{"finnish": 1}
+{}
 {"british": 1}
 {"english": 1, "american": 1}
+{}
+{"british": 1, "swedish": 1, "german": 1}
+{}
+{}
+{"english": 1}
+{}
+{"american": 1, "british": 2}
+{}
+{}
+{}
 {"ukrainian": 2}
 {"ukrainian": 3, "russian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"russian": 2, "ukrainian": 3}
+{}
+{"ukrainian": 1}
 {"swedish": 1}
 {"swedish": 1}
+{"swedish": 1, "australian": 1}
+{}
+{}
+{}
+{"swedish": 1}
+{}
+{"swedish": 2}
+{}
+{"swedish": 1}
+{}
 {"american": 1}
 {"u.s.": 1}
+{}
+{}
+{}
+{"welsh": 1}
+{"english": 1}
+{"british": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{"american": 1, "republican": 1}
+{}
+{}
+{}
+{}
+{"english": 1}
+{}
 {"american": 1}
 {"dutch": 1, "jewish": 1}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{"american": 1}
+{}
+{"danish": 1}
+{}
 {"lithuanian": 1, "soviet": 2}
 {"lithuanian": 2, "european": 2}
+{}
+{"lithuanian": 1, "soviet": 1}
+{}
+{}
+{"lithuanian": 1}
+{"lithuanian": 1}
+{"lithuanian": 1}
+{"lithuanian": 1}
+{"lithuanian": 4}
+{"lithuanians": 1}
 {"canadian": 1}
 {"canadian": 1}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{}
+{}
+{"australian": 3, "canadian": 1, "english": 2, "irish": 1, "scottish": 4}
+{}
+{}
 {"irish": 1}
 {"irish": 1}
+{"irish": 1}
+{}
+{"irish": 2}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"irish": 1}
+{}
 {"english": 1}
 {"english": 1}
+{"european": 1}
+{}
+{"english": 1}
+{}
+{}
+{"greek": 1, "french": 1, "irish": 1}
+{}
+{}
+{}
+{}
 {"american": 1}
 {"u.s.": 1}
+{}
+{}
+{}
+{}
+{"black": 1, "gay": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"canadian": 1}
+{"american": 1}
+{}
+{}
 {"american": 1}
 {"american": 1}
+{"american": 2}
 {"american": 1}
+{"american": 12, "israeli-american": 1, "new zealand": 1, "australian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"american": 1}
+{}
+{}
+{"irish": 1, "american": 1, "english": 1}
+{"british": 1, "american": 3, "canadian": 3, "irish": 1, "australian": 1}
 {"italian": 2}
 {"italian": 2}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"italian": 1, "canadian": 2}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
 {"french": 2}
 {"french": 3, "bretons": 1}
+{"french": 1}
+{}
+{}
+{"french": 9, "norwegian": 2, "canadian": 1, "swiss": 1, "american": 1, "french canadian": 1}
+{"french": 1}
+{}
+{}
+{"french": 3}
+{}
+{"french": 1}
 {}
 {"austrian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"carniolan": 1, "slovene": 1}
+{}
+{}
 {"peruvian": 1}
 {"spanish": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {"jewish": 1, "spanish": 1}
 {"catalan": 1, "spanish": 1}
+{}
+{}
+{}
+{}
+{}
+{"spanish": 1}
+{"spanish": 1}
+{}
+{}
+{"spanish": 1, "jewish": 1}
 {"spanish": 1, "equatorian": 1}
 {"italian": 5}
+{"spanish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"spanish": 1}
+{"spanish": 1, "equatorian": 1}
 {"american": 1}
+{}
+{"american": 1}
+{"american": 8, "british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
 {}
 {"norwegian": 1}
 {"norwegian": 1}
+{}
+{"norwegian": 1}
+{"norwegian": 1}
+{"norwegian": 7}
+{"american": 1}
+{}
+{"norwegian": 0, "european": 0}
+{"norwegian": 1}
+{"norwegian": 1}
+{"norwegian": 2}
 {"american": 1}
 {"american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"african-american": 2, "american": 4, "jamaican": 1}
+{"american": 7, "canadian": 1, "english": 1}
 {"german": 1, "russian": 1}
 {"german": 1, "swedish": 4, "russian": 1}
+{}
+{"swedish": 1, "russian": 1}
+{"danish": 2, "german": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{"german": 1}
+{}
+{"english": 1}
+{}
+{"irish": 1, "hungarian": 1}
+{}
 {"english": 1}

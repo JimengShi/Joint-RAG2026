@@ -1,0 +1,844 @@
+{}
+{"maximum": 1, "decrease": 1}
+{"more": 3, "twice as slowly": 1, "four": 1, "category 4": 1, "more time": 1, "high volumes": 1, "higher levels": 1}
+{"more than 1,000": 1, "increasing": 1}
+{"increase": 1}
+{"fewer": 2, "more": 2, "category 3-5": 1}
+{"a few degrees": 1}
+{"faster": 1, "increase": 1, "less time": 1}
+{"significantly improved": 1, "large errors": 1, "larger": 1, "large meandering": 1, "additional": 2, "more efficient": 1}
+{"2.7 to 4.3 inches": 1, "7 to 11 centimeters": 1, "thousands": 1, "more warm days": 1, "more sunshine": 1, "larger": 1, "more immediate": 1, "large chunks": 1, "up to 20 years": 1, "much faster": 1}
+{"232 samples": 1, "3 sites": 1, "over 100 years": 1}
+{"category 5": 1, "extremely warm state": 1, "warmest ocean conditions": 1, "more frequent": 2, "significant implications": 1}
+{"18 juvenile and adult-sized loggerhead turtles": 1, "more than 200 loggerheads": 1}
+{}
+{"five times more likely": 1, "1.5 degrees celsius": 2, "2\u00b0c": 3, "2.3 times": 1, "4.5 times": 1, "half as likely": 1}
+{"high-resolution": 1, "decent precision": 1, "limited information": 1}
+{"deepest parts": 1, "full-depth": 1, "3000 m": 1}
+{"frequency": 1, "stronger": 2, "fewer": 1, "fifth": 1, "second": 1}
+{"nine named storms": 2, "two named storms": 1, "ninth named storm": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1, "category 3, 4, or 5": 1, "19-25 named storms": 1, "winds of 39 mph or greater": 1, "7-11 hurricanes": 1, "winds of 74 mph or greater": 1, "3-6 major hurricanes": 1, "winds of 111 mph or greater": 1, "85%": 1, "10%": 1, "5%": 1, "2020 named-storm": 1}
+{"multiple": 3, "first": 1, "750": 1, "three": 1}
+{"406 tropical cyclones": 2, "11%": 1, "21 km per hour": 1, "18.6 km per hour": 1, "10%": 1, "21.2 km per hour": 1, "19.1 km per hour": 1, "8%": 1, "90th percentile": 1, "18%": 1, "187 mm": 1, "223 mm": 1, "57-year period": 1, "15 km per hour": 1, "99.1 mm": 1, "25 km per hour": 1, "80.5 mm": 1, "20%": 1, "147 tropical cyclones": 1, "30 mm per day": 1, "200 mm": 1, "82 tropical cyclones": 1, "200 km": 1, "22 were slow-moving": 1, "14 of them": 1, "64%": 1}
+{"30-40 inches": 1, "$125 billion": 1, "$38 billion": 1, "second-costliest": 1, "sixth": 1, "50%": 1, "dozen": 1, "several hundred": 1, "10 kilometers": 2, "damage in billions of U.S. dollars": 1, "billions of U.S. dollars": 1, "losses in billions of U.S. dollars": 1, "Harvey estimated damage": 1}
+{"14 experts": 1, "four main sectors": 1, "full capacity": 1}
+{"31 million": 1, "8.5 million": 1, "100-meter-wide": 1, "two-thirds": 1, "97%": 1, "30.9 million": 1, "700 million": 1, "38%": 1, "11%": 1, "hundreds of billions": 1, "more than a billion": 1, "896 million metric tons": 1}
+{"100 kilometres": 2, "500 kilometres": 1, "four to 20 metres": 1, "50 per cent": 1, "300 kilometres": 1, "1000 kilometres": 1, "10 times": 1, "70 per cent": 1, "150 coral reef ecoregions": 1}
+{"increase": 2, "28-year": 1, "more": 2, "greater": 2, "stronger": 2}
+{"smallest": 1, "0.1 degrees": 1, "20 degrees": 1, "10 and 20 degrees": 1, "1.4 degrees": 1, "billions of dollars": 1}
+{"three-fourths": 1, "25-percent": 1}
+{"six": 2, "15": 1, "90": 2, "quadrupled": 1, "4 degrees celsius": 2, "2 miles per hour": 1, "10 to 20%": 1, "157 miles per hour": 1, "220 miles per hour": 1, "1.3 mph": 1}
+{"9.0 magnitude": 1, "approximately 15 women per 100,000 people": 1, "6.5": 1, "8.4": 1, "14.7": 1, "14.9": 1, "less than 1%": 1, "42.3% of women aged 20-69": 1, "80%": 1, "more than 3%": 1, "7%": 1, "6.9%": 1}
+{"130 miles per hour": 1, "5 feet": 1, "10.4 billion tons": 1, "23 percent": 1, "6 to 15 percent": 1, "20-plus percent": 1, "five times more likely": 1, "50 percent": 1, "a third less": 1}
+{"large": 2, "small": 2, "most": 1, "more": 2, "slower": 1, "faster": 2}
+{"more": 1, "less": 1, "one square kilometer": 1, "$1.8 million per year": 1, "88 hurricanes and tropical storms": 1, "232 u.s. counties": 1, "2.8%": 1, "$430 million": 1}
+{"more than 60 million people": 1, "13 hurricanes": 1, "more than $10 billion": 1, "Gulf of Mexico region population": 1, "population": 1}
+{"over 100": 1, "more than half": 1}
+{"more than half": 1, "increase": 1}
+{"13 million": 1, "hundreds of thousands": 1, "6 feet": 1, "tens of thousands": 1}
+{"50 percent": 1, "80 kilometers": 1, "nine kilometers": 1, "4.9 \u00c2\u00b1 4.6%": 1, "3.8 \u00c2\u00b1 5.7%": 1}
+{"20% per year": 1, "160 mph": 1, "100 mph": 1}
+{"three times": 1, "2 degrees celsius": 1, "26.5 degrees celsius": 1, "79.7 degrees fahrenheit": 1}
+{"50 mm": 1, "90 degrees fahrenheit": 1, "20 to 30 degrees": 1, "22 people": 1}
+{"highest intensities": 1, "roughly $130 billion": 1, "more severe": 1, "largest": 1}
+{"multiple": 1, "three": 1, "less": 2, "smaller": 1}
+{"majority": 1, "more": 3, "rising tendency": 1, "more costly": 1, "more densely populated": 1, "increase": 1}
+{"category 4": 1, "28": 2, "37.5%": 1, "155 mph": 1, "36": 2, "eight": 1, "10": 2, "219 kilograms per hectare": 1, "1,272 kilograms per hectare": 1}
+{"twice as fast": 1, "39 and 73 miles per hour": 1, "saffir-simpson categories 1 through 5": 1, "categories 4 and 5": 1, "more than 4,000": 1, "7%": 1, "twice as high": 1}
+{"increase": 1, "higher": 3, "1,738": 1, "6,557": 1, "45%": 1, "122": 1, "three-fourths": 1, "nearly half": 1, "3%": 1}
+{"more than 10,000": 1, "category 4": 1, "category 1": 1}
+{"44% decrease": 1, "64%": 1, "three times more likely": 1, "412,000 premature deaths each year": 1, "5,500 samples": 1}
+{"662 respondents": 1, "increased frequency": 1, "increased intensity": 1}
+{"increase": 3, "20 fold": 1, "$26 million": 1, "top 5%": 1, "top 1%": 1}
+{"16%": 1}
+{"tripling": 1, "hundreds of kilometers": 1, "more than double": 1, "more than triple": 1}
+{"50 miles": 1, "2,000-pound": 1, "2.8 miles": 1, "4,900 feet": 1, "10,500 feet": 1, "186 miles": 1, "32,800 square miles": 1, "seven category 3 or greater hurricanes": 1, "single cup": 1, "biweekly": 1, "three depths": 1}
+{"four species": 1, "a third": 1, "five other universities": 1}
+{"less than half": 1, "less than a third": 1, "only a quarter": 1, "more than 2,200": 1, "three-quarters": 1, "40 percent": 1, "82 percent": 1, "72 percent": 1, "just over half": 1, "one in four": 1, "2,249": 1}
+{"240 colonies": 1, "more aggressive": 1, "more egg cases": 1, "more spiderlings": 1, "multiple storms": 1}
+{"first time": 1, "first major hurricane": 1}
+{"722 professionals": 1, "more than 200 people": 1, "more than $70 billion": 1, "87 people": 1, "more than 650,000 homes": 1, "37 agencies": 1, "losses in billions of U.S. dollars": 1, "billions of U.S. dollars": 1, "Sandy damage": 1}
+{"six": 1, "seven": 1, "2%": 1, "10.3 million": 1, "6.6 million": 1}
+{"70 percent fewer": 1, "average lifespan": 1}
+{"steady linear improvement": 1, "multiple": 1, "relatively small": 1, "enough": 2, "handful": 1}
+{"multiple": 2, "high levels": 2, "100 million tons": 1, "four independent sets": 1, "seven sites": 1, "three sites": 1, "three sediment samples": 1, "85%": 1}
+{"100%": 2, "15,000": 1, "24,000": 1, "90%": 2, "hundreds of kilometers": 1}
+{"599 people": 1, "majority of respondents": 1}
+{"30mm": 1, "35mm": 1, "50 percent": 1, "45mm": 1, "25mm": 1, "42 percent": 1, "95mm": 1, "100mm": 1, "48.7 percent": 1, "160mm": 1, "165mm": 1, "17.3 percent": 1, "90.6 percent": 1, "94.1 percent": 1, "3d": 1}
+{"more than seven percent": 1, "6,900": 1, "more than 96,000": 1, "more than 6,000": 1, "about 4,600": 1, "about 3,000": 1, "7%": 1, "13 and 30%": 1}
+{"14": 3, "more than 50 percent": 2, "242": 1, "14 communities": 1, "four countries": 1, "262": 1, "1,530": 1, "four to 43": 1, "191": 1, "1,339": 1, "36": 1, "13": 1}
+{"129 storms": 2, "five times more likely": 1, "1,029 millimeters": 1, "41 inches": 1, "top three costliest hurricanes": 1, "top 10 wettest hurricanes": 1, "4.85 times more likely": 1, "huge amounts of precipitation": 1}
+{"0.19 inches": 1, "5 millimeters": 1, "85 percent": 1}
+{"1,997": 1, "seven": 1, "five": 1, "13%": 1}
+{"category 4": 2, "155 miles per hour": 1, "three feet": 1, "20 million to 40 million": 1, "40-acre": 1, "category 3": 1, "twice": 1, "three times": 1, "12 times": 1, "half": 1, "15 percent": 1, "20 percent": 1, "5.75 million tons": 1, "2.5 percent": 1}
+{"71 percent": 1, "65 percent": 1, "22 percent": 1}
+{}
+{"five": 2, "100-200": 2, "millions": 1, "39": 1, "10 per cent": 1}
+{"extent": 1, "density": 1, "average": 1, "greater": 1}
+{"number": 1, "rates": 3, "per 10,000": 1, "six time periods": 1, "six time segments": 1, "higher": 1, "consistently higher": 1}
+{"16 sites": 1, "two sites": 1}
+{"numerous": 1, "13": 2, "11 of 13": 1, "huge": 2, "little": 2, "less": 1, "greater": 1, "higher": 1}
+{"unusually high": 1, "increase": 2, "elevated levels": 1, "four months": 1, "higher": 1, "much greater": 1}
+{"41 percent": 1, "29 percent": 1, "61 percent": 1, "3.9 billion": 1, "600,000": 1, "40 to 60 percent": 1, "one-third": 1, "60 years": 1}
+{"5 to 10 percent": 1, "25 knots": 2, "29 mph": 1, "1 degree celsius": 1, "3 to 4 degrees": 1, "15 to 35 percent": 1, "10 to 15 knots": 1, "15 tropical cyclones": 2, "25 kilometers": 2, "4.5 kilometers": 1, "3 km": 1, "25 km": 2, "millions of computing hours": 1, "10 times": 1}
+{"40 to 60 inches": 1, "higher flood peaks": 2, "greater overall damage": 1, "heavy rainfall": 1, "significantly less rainfall": 1, "significantly different": 1, "year-over-year changes": 1, "population growth": 1, "positive correlation": 1, "significant reduction": 1, "one of the most impressive urban-development booms": 1, "increase in impervious surfaces": 1, "increased flood risk": 1, "increased risk": 1}
+{"134 miles per hour": 1, "8-10 feet": 1, "$2 billion": 1, "millions of dollars": 1}
+{"650 girls": 1, "82 percent": 1}
+{"stronger": 2, "further": 2, "earlier": 1, "half": 1, "increase": 2, "more": 2, "less": 1, "significantly": 1}
+{"-90\u00b0f (-68\u00b0c)": 1, "60\u00b0f (15\u00b0c)": 1, "150 mph (240 kph)": 1, "more than 2,000 channels": 1}
+{"3,057 people": 1, "21.7 per cent": 1, "41.0 percent": 1, "19.8 percent": 1, "29.3 percent": 1, "16.7 per cent": 1, "21.3 per cent": 1, "25.3 per cent": 1, "4.3 per cent": 1, "4.4 per cent": 1, "59.2 per cent": 1, "74.2 per cent": 1, "big-picture": 1, "100-year flood": 1}
+{"40 percent": 1, "14 percent": 1, "17 percent": 1, "one-sixth": 1, "half a mile": 1, "2.5 miles": 1, "16 bands": 1}
+{"50%": 1, "95%": 1, "5-15%": 1, "99%": 1}
+{"80 miles (130 km)": 1, "195 miles (315 km)": 1, "minus 80 degrees fahrenheit (f)/minus 112 degrees celsius (c)": 1, "minus 70f (minus 56.6c)": 1, "70f/56.6c": 1, "latitude 33.1 degrees north": 1, "longitude 75.1 degrees west": 1, "12 mph (20 kph)": 1, "110 mph (175 kph)": 1}
+{"64 people": 1, "large number": 1, "highest risk": 1, "excess deaths": 2, "limited number": 1, "error rates": 2, "number of key recommendations": 1}
+{"two": 2, "100 miles": 1, "1,800": 1, "23": 1, "464 survey points": 1, "34,000 hectares": 1, "700km": 1, "400km": 1, "six": 2, "five": 1}
+{"record number": 1, "28 storms": 1, "maximum number": 2, "1% of the time": 1, "a lot more": 1, "many more": 1}
+{"250 probes": 1, "3,000 feet": 1, "1,000 meters": 1, "three-week": 1, "five weeks": 1}
+{"more than 100,000": 1}
+{"increase": 2, "magnitude": 1, "frequency": 1, "record breaking": 1, "increased": 2, "long-term": 1}
+{"fewer": 1, "significant": 1}
+{"64": 1, "1,139": 1, "459": 1, "564": 1, "116": 1}
+{"800 wastewater treatment plants": 1, "more than two million pounds": 1, "32 feet": 1, "10 feet above flood stage": 1}
+{"three": 1, "category 5": 1, "massive": 1, "150 million kilometers": 1, "93 million miles": 1, "x-2.2": 1, "x-9.3": 1, "90-minute": 1, "eight hours": 1, "category 4": 1, "287 kilometers per hour": 1, "175 miles per hour": 1, "95 percent": 1, "37 people": 1, "10": 1}
+{"one": 2, "eight": 1, "a hundred meters": 1, "10 and 15 km": 1, "25 kilometers": 1, "two days": 1}
+{"$282 billion": 1, "125 mph": 1, "170 mph": 1, "fewer lizards": 1, "100 lizards": 1}
+{"fewer": 1, "less likely": 1, "more frequent": 1, "less severe": 1, "significant impacts": 1, "much less": 1}
+{"millions": 1, "more than 100": 1, "twenty-eight": 1, "nine": 1}
+{"category 3": 2, "900 miles": 1, "category 1": 1, "largest": 1, "more likely": 1, "larger": 1, "more powerful": 1}
+{"increase": 1, "long-term": 1, "serious": 1, "nearly 20 years": 1, "last two decades": 1}
+{"one thousand feet": 1, "60 percent": 1, "one-third": 1, "600,000 laser pulses per second": 1}
+{"much larger": 1, "more": 1, "50 percent": 1, "100 percent": 1}
+{"below-average": 1, "four hurricanes": 1, "two": 2, "category 3, 4 or 5": 1, "seven hurricanes": 1, "11 hurricanes": 1, "six majors": 2, "10 hurricanes": 1, "seventh-most": 1, "1.5 hurricanes": 1, "zero": 1, "slightly below average": 1, "$282.16 billion": 1}
+{"10 percent": 3, "1 degree celsius": 1, "50 inches": 1, "20 percent": 2, "15 percent": 1, "6 percent": 1, "30 percent": 1, "9 percent": 1, "24 percent": 1}
+{"64 excess deaths": 1, "14.3 deaths per thousand": 2, "95% ci 9.8 to 18.9": 1, "8.8 deaths per thousand": 1, "$90 billion": 1, "thousands of residents": 1, "3,299 randomly chosen households": 1, "4,645": 1, "95% ci, 793 to 8498": 1, "more than 30%": 1, "losses in billions of U.S. dollars": 1, "billions of U.S. dollars": 1, "U.S. dollars": 1, "Maria approximate damage": 1}
+{"more than 100 people": 1, "13 percent": 1, "17 percent": 1, "34 percent": 1, "24 percent": 2, "more than 4 feet": 1, "$215 billion": 1, "5 degrees celsius": 1, "9 degrees fahrenheit": 1, "22 named storms": 1, "6 percent": 1, "9 percent": 1}
+{"2.5 kilometers": 1, "1.5 kilometers": 1, "one kilometer": 1, "thousands of times": 1}
+{"more than 20,000": 1, "$392,000": 1}
+{"930-mile wide": 1, "upper 160 meters": 1, "525 feet": 1, "30 degrees celsius": 1, "86 degrees fahrenheit": 1, "28.5 c": 1, "83 f": 1, "26 c": 1, "79 f": 1}
+{"25 knots": 1, "28.8 miles per hour": 1, "13 mph": 1, "3.8 knots": 1, "4.3 mph": 1, "16 separate climate models": 1}
+{"increase": 2, "slowed": 1, "higher frequency": 1, "greater intensity": 1, "more storms": 1, "increased landfall frequency": 1, "more tropical cyclones": 1, "reduced vertical wind shear": 1}
+{"80%": 2, "22%": 1, "4,600-square-kilometre": 1, "1%": 1, "0.2%": 1, "over 1000 mm": 1, "six": 1, "6%": 1, "70%": 1}
+{"18 percent": 1, "4 percent": 1, "37 percent": 1, "48 percent": 1, "8 percent": 1, "30 percent": 1, "22 percent": 2, "39 percent": 1, "26 percent": 1, "10 percent": 1, "5 percent": 1, "3 percent": 3, "36 percent": 1, "90 percent": 1, "60 percent": 1, "41 percent": 1, "29 percent": 1, "500": 1, "ages 18 to 54": 1}
+{"near zero": 1, "90% and 95%": 1, "1,103 schoolhouses": 1, "more than a hundred": 1, "more than a million": 1, "more than 4,000 articles": 1, "28 houses": 1}
+{"category 3": 1, "ten times more": 1}
+{"more than six months": 1, "two or three months": 1, "1,085": 1, "64": 1, "1,000": 1, "27 percent higher": 1, "45 percent higher": 1, "41 percent increase": 1}
+{"19 established sites": 1, "dozens of native ant species": 1}
+{"many thousands": 2, "more than 2,000": 1, "nok 800 billion": 1, "852": 1, "26.5\u00b0c": 3, "32\u00b0c": 1, "100 and 150 metres": 1, "4,000": 1}
+{"80": 1, "23,000": 1, "thousands": 1}
+{"1.5": 3, "2.0": 3, "2.5": 2, "5 million": 1, "60,000": 1, "one": 1, "every five years": 1, "1.6 feet": 1, "48 cm": 1, "1.8 feet": 1, "56 cm": 1, "1.9 feet": 1, "58 cm": 1}
+{"three options": 1, "more social and economic benefits": 1, "ever-increasing cost": 1, "ever more expensive": 1}
+{"statistically significant": 2, "large-amplitude": 1, "short periods": 1, "tiny fluctuations": 1, "more than a century": 1}
+{"short-term": 1, "longer-lasting": 1, "marked reduction": 1, "variety": 1, "steeply": 1, "very precise": 1, "almost like clockwork": 1, "several reasons": 1, "$90 billion": 1}
+{"100 largest": 2, "88 of the 100 largest": 1, "nearly 7.9 feet": 1, "20 percent smaller": 1, "13 percent smaller": 1, "5.4 feet": 1, "6.3 feet": 1, "71 at sewells point": 1, "91 at boston": 1, "140 mph": 1}
+{"more than half": 1, "nearly two feet": 1, "one of the first": 1, "more than 60": 1}
+{"64 inches": 1, "200,000 homes": 1, "13 superfund sites": 1, "more than 800 wastewater treatment facilities": 1, "25 homes": 1}
+{"$5 billion to $10 billion": 1, "$100 million": 1, "50 percent": 1}
+{"$1": 2, "$4": 2, "600 deaths": 1, "1 million injuries": 1, "4,000 cases": 1, "$300 billion": 1, "$27.4 billion": 1, "$157.9 billion": 1, "$3.6 billion": 1, "$15.5 billion": 1, "8-to-1": 1, "$3": 1}
+{"71 per cent": 1, "over 60 years of age": 1, "growing proportion": 1, "hundreds of lives": 1, "quarter of the total canadian population": 1, "one sixth of the global population": 1}
+{"40 feet": 1, "two": 2, "275 trillion pounds": 1, "500-year storm": 2, "100-year storm": 1, "300-year storm": 1}
+{"higher": 2, "declined": 2, "increasing frequency and intensity": 1}
+{"increase": 2, "decline": 1, "highest conservation priority": 1, "most severely threatened": 1, "lack of available resources": 1, "much greater costs": 1}
+{"category 4": 1, "record rainfall": 1, "6 percent increase": 1, "at least 19 percent": 1, "as much as 38 percent": 1, "roughly tripled": 1, "between 1.5 and five times more likely": 1, "between 8 percent and 19 percent": 1, "factor of three": 1}
+{"greater than 102 miles per hour": 1, "130 miles per hour": 1, "30,000 people": 1, "150 miles per hour": 1, "27 people": 1, "39 dead": 1, "115 miles per hour": 1, "category 4 and 5": 1}
+{"several": 1, "maximum": 2, "exponentially": 1}
+{"majority": 1, "large scale": 1, "1-10 km": 1, "largest": 1, "substantially": 1, "total annual loss": 1, "significant": 1, "larger": 1, "optimum": 1, "best": 1}
+{"increased likelihood": 1, "decrease": 1, "enhance": 1, "1.5": 1, "2c": 1}
+{"1 percent": 3, "18 percent": 2, "6 percent": 2, "billions of dollars": 1, "500 millimeters": 2, "3,700 storms": 1, "hundreds of thousands": 1, "one in 100": 1, "one in 2,000": 1, "sixfold increase": 1}
+{"very big": 1, "a lot": 1, "several": 1, "two": 1, "first": 1, "second": 1, "highly localized": 1, "short time": 1, "single": 1}
+{"more than 500,000": 1, "maximum coastal risk index value of 5": 1}
+{"category 1": 1}
+{"record": 1, "10 percent drop": 1, "36 to 32": 1, "36": 2, "35 and 36": 1}
+{"13 coastal counties": 1, "50 miles": 1, "80 percent confidence level": 1, "$7 billion": 1, "$12 billion": 1, "2 percent chance": 1, "expected loss 2005 climate scenario": 1, "50 miles of the coast": 1}
+{"250,000 individuals": 1, "1 to 1.5 years": 1, "2,642,713 agents": 1, "4.38 percent": 1, "$50.94 million": 1, "$101.87 million": 1}
+{"greater": 1, "more": 3, "high": 1, "little": 1}
+{"lower": 1}
+{"record year": 2, "more than half": 1, "a quarter": 1, "a third": 1, "15,744 nests": 1, "8,830": 1, "56 percent": 1, "81 percent": 1, "9,690 nests": 1, "2,290": 1, "24 percent": 1, "91 percent": 1, "23 nests": 1, "16.4 miles": 1, "642": 1, "2,251": 1, "831": 1, "6,229": 1, "466": 1, "eight": 1, "72": 1, "three": 1, "21 km": 1, "26.5 km": 1}
+{"most": 1, "limited": 1, "large-scale": 1, "increasing": 1, "stronger": 1}
+{"11-trillion-gallons": 1, "100-miles": 1, "30 miles": 1}
+{"thousands": 1, "eight": 1}
+{"60-square-mile": 1, "five major rain events": 1, "1-in-100 chance": 1, "1 percent chance": 1, "2 percent chance": 1, "10 percent chance": 1, "13.5 inches": 1, "6 inches": 1}
+{"small": 2, "less significant": 1, "increasing": 1, "more supportive": 1, "modestly stronger": 1, "only modest": 1}
+{"high spatial and temporal resolutions": 1, "high-accuracy": 1, "10 meters": 1, "1.5-micron": 3, "0.3 to 10 microns": 1, "0.2 meters per second": 1, "0.1 meters per second": 1, "1 degrees": 1}
+{}
+{"higher number": 1, "estimated $108 billion": 1, "85 percent": 1, "more than 200": 1, "$1 billion": 1, "$1.2 trillion": 1, "15 percent": 1, "$500": 1, "90-day delinquency rates": 1, "10 percent higher": 1}
+{"1,002": 1, "30,000": 1, "millions": 1, "1.4 times": 1, "fewer than 100": 1, "more than half": 1}
+{"3,000 km": 1, "200 km": 2, "11.5 million cubic metres": 1, "100,000 people": 1, "233 people": 1, "us$75 billion": 1, "1-in-5 year event": 1, "40 cm": 1, "1 metre": 1, "$226 billion": 1, "75 hospitals": 1, "258 police, fire and ambulance stations": 1, "five power stations": 1, "41 waste disposal facilities": 1, "9 meters": 1, "36% greater": 1}
+{"billions of dollars": 1, "20 different methods": 1, "category i hurricane": 1, "category ii": 1, "category iii storm": 1}
+{"much stronger": 1, "more favorable": 1}
+{"five turbines": 1, "90 meters-per-second": 1, "50 meters-per-second": 1, "55 degrees": 1}
+{"15 tropical storms": 1, "seven hurricanes": 1, "three intense hurricanes": 1, "slightly above average": 1, "more than 600 lives": 1, "$15 billion": 1, "more than 50%": 1, "two category 4 or stronger storms": 1}
+{"more than 2,000": 1, "300,000": 1, "19": 1, "five": 1}
+{"25": 1, "five": 1, "hundreds of miles": 1}
+{"more frequent and powerful": 1, "80,000 or more": 1}
+{"millions": 1, "number": 1}
+{"55": 1, "category-5": 1}
+{"decades": 1, "25 kilometers": 3, "100 kilometers": 3, "30 meters": 1, "64 times": 1}
+{"number": 2, "at least part": 1, "many": 2, "greater": 1, "more": 2, "less": 1, "fewer": 1, "much stronger": 1, "category 3 to category 5": 1, "short": 1}
+{"0 and 8 kilometers": 1, "about 5 miles": 1, "3 kg": 1, "6.5 lbs.": 1, "a handful of iphones": 1}
+{"91 percent": 1, "62 percent": 1, "4.5 million": 1, "4.1 million": 1, "9 percent": 1, "10 million": 1, "$33 billion": 1}
+{"over 0.5 milimeters": 1, "1000 times": 1, "more than 35,000": 1, "80 to 120 miles per hour": 1, "250 miles": 1, "less than 50 miles": 1}
+{"52 percent": 1, "half": 1, "14.5 billion": 1, "approximately 30 participants": 1, "11 project initiatives": 1}
+{"increasing": 3, "decreased": 2, "decrease": 1, "marked decrease": 1, "rising": 2, "large number": 1, "tens of billions of dollars": 1, "more frequent": 2, "more often": 1, "more powerful": 1, "more carbon dioxide": 1, "extra energy": 1}
+{"more than 13 feet (4 meters)": 1, "quadrupled": 1, "higher": 2, "few": 1}
+{"three-folds": 1, "half": 1, "150 records": 1, "2,341 records": 1, "more than half a million": 1, "200,000": 1}
+{"0.88\u00b0 celsius": 1, "1.58\u00b0f": 1, "14\u00b0c": 1, "1.2\u00b0c": 1, "1.12\u00b0c": 1, "2.02\u00b0f": 1, "1.09\u00b0c": 1, "1.96\u00b0f": 1, "6\u00b0c to 7\u00b0c": 2, "3\u00b0c": 2, "1\u00b0c": 3, "15 millimetres": 1, "3 to 3.5 mm": 1, "400 parts per million": 1, "4.14 million square kilometres": 1, "590,000 hectares": 1, "2,400 buildings": 1, "4 billion canadian dollars": 1, "us$3 billion": 1, "17 million people": 1, "19.2 million": 1, "14.7 million": 1, "60 million people": 1}
+{"increase": 2, "average intensity": 2, "more": 1, "larger": 1, "greater": 1}
+{"2 million": 1, "four": 1, "eight": 1, "one": 1}
+{"more than 50 percent": 1, "almost half": 1, "$417.9 billion": 1, "15 north atlantic hurricanes": 1, "500 kilometers": 1, "two days": 1, "five days": 1}
+{"4 percent": 1, "1 degree fahrenheit": 1, "100 mph": 1}
+{"category-4": 1, "50 years": 1, "21.8 degrees north latitude": 1, "75.2 degrees west longitude": 1, "55 miles (90 km)": 1, "105 miles (165 km)": 1, "12 mph (19 kph)": 1, "120 mph (195 kph)": 1, "45 miles (75 km)": 1, "175 miles (280 km)": 1, "962 millibars": 1, "155 mph (250 kph)": 1}
+{"significantly": 1, "increase": 3, "rise": 2, "first time": 1, "twice the average rate": 1, "huge impact": 1, "continued warming": 1, "stronger": 1}
+{"abnormal increase": 1, "high spring tides": 2, "high flooding risk": 1, "highest water levels": 1, "particularly severe storm": 1}
+{"eight of the 10": 1, "nearly $154 billion": 1, "$68 billion": 1, "$46 billion": 1, "$9 billion": 1, "215 miles per hour": 1, "six hurricanes": 1, "as many as 15": 1}
+{"increase": 2, "triple": 1, "thousands": 1}
+{"tens of thousands": 1}
+{"more than 6,300 people": 1, "215 mph": 1, "150 mph": 1, "1.5\u00b0f": 1, "90 per year": 1, "twice the effect": 1}
+{"two": 2, "many": 2, "more": 3, "most": 3, "lower": 2, "higher": 2}
+{"5,204 to 6,823 square miles": 1, "3,200 to 8,597 square miles": 1, "146,000 metric tons": 1, "20,800 metric tons": 1, "12 percent above": 1, "25 percent above": 1, "2,700 real-time stream gauges": 1, "60 real-time nitrate sensors": 1}
+{"16 miles": 1, "24 feet": 1, "5.2 feet per second": 1, "85 miles": 1, "60 degrees": 1, "160 feet": 1}
+{"number one": 1, "more than 25 years": 1, "955 millibars": 1, "902 millibars": 1, "10 lowest pressure readings": 1, "27 named tropical storms or hurricanes": 1, "31 miles": 1, "50 km": 1, "8 miles": 1, "12.5 km": 1, "three to four times higher": 1}
+{"small portion": 1, "many variations": 2, "23 hurricanes": 1, "11 storms": 1, "more than 10 percent": 1, "5 and 15 percent": 2, "third major": 1, "billions of dollars": 1}
+{"hundreds of times more": 1, "high number": 1, "relatively few": 1, "amount": 1, "less change": 1, "very negative": 1, "very good reason": 1}
+{"3 miles": 1, "33 crew members": 1, "790-foot": 1, "15,000 feet": 1, "half mile": 1, "13.5-square-mile": 1}
+{"40 percent": 1, "half": 1, "7 times": 1, "2.8%": 1, "6.4%": 1, "1.0%": 1, "2.5%": 1, "78.6 times": 1, "14.7 times": 1}
+{"increase": 2, "decrease": 1, "2.5 miles": 1, "0.6 miles": 1, "6 miles": 1, "one or two": 1, "up to 10": 1}
+{"increased magnitude": 1, "frequency": 3, "more droughts": 1, "three-legged stool": 1, "long-term": 1, "rare": 1}
+{"11 degrees celsius": 1, "20 degrees fahrenheit": 1, "11 storms": 1, "12 miles": 1}
+{"75 percent reduction": 2, "57 billion": 1}
+{"significant increase": 1, "220,000 acres": 1, "5 to 6.5 meters": 1, "about 16 to 21 feet": 1, "200 percent increase": 1, "30 percent and 200 percent higher": 1}
+{"twice as much": 2, "50 to 160 percent": 2, "50 to 100 years": 1, "greater than 82 degrees fahrenheit": 1, "twice its actual size": 1, "50 to 80 percent": 1, "30 to 50 percent": 1, "100 to 160 percent": 1, "180 percent": 1}
+{"twice": 1, "27 meters per second": 1, "60.4 mph": 1, "97.2 kph": 1, "30 mps": 1, "67.1 mph": 1, "108 kph": 1, "782 miles": 1, "1,260 km": 1, "25 miles": 1, "35 km": 1, "150 miles": 1, "240 km": 1, "20 mph": 1, "31 kph": 1, "85 mph": 1, "140 kph": 1, "981 millibars": 1, "20 degrees celsius": 1, "-60 degrees celsius": 1}
+{"695 miles": 1, "1,120 km": 1, "1,345 miles": 1, "2,170 km": 1, "90 mph": 1, "150 kph": 1, "15 knots": 1, "6.8 north": 1, "171.4 west": 1, "979 millibars": 1, "7 mph": 1, "28 to 29 celsius": 1, "82.4 to 84.2 fahrenheit": 1}
+{"more": 1, "several": 2, "many": 1}
+{"less than 1 percent": 1}
+{"more than 125,000": 1, "sixty-five": 1, "three": 1}
+{"more than $200 billion": 1, "more than $25 billion": 1, "at least two alternatives": 1}
+{"28 individual extreme events": 1, "32 groups of scientists": 1}
+{"26\u00b0c": 1}
+{"almost exclusively": 1, "a lot": 1, "overall rise": 1, "twice as many": 1}
+{"1.2 meters": 2, "100,000 people": 1, "twice": 1}
+{"10 percent": 1}
+{"17 feet": 1, "31 to 46 feet": 1, "1,836 people": 1, "billions of dollars": 1, "thousands of miles": 1}
+{"tens of millions": 1, "$110 billion": 1, "more than 1,800": 1, "1.2 million": 1, "$50 billion": 1, "38 percent": 1, "2.5 billion": 1, "100 kilometers": 1, "62 miles": 1, "three-quarters": 1, "60 million": 1, "15 countries": 1, "more than 200": 1, "22 books": 1, "Katrina damage Barbier commentary": 1, "Katrina’s damage": 1}
+{"less": 2, "more": 1, "huge amount": 1}
+{"376": 1, "six": 1, "80 mph": 1, "130 km/h": 1, "$2.39 billion": 1}
+{"1 million": 1, "over 100,000": 1, "27%": 1, "14%": 1, "over 30": 1, "1,000": 2, "1,047,000": 1, "20 miles": 1, "three-dozen": 1}
+{"nearly 40 percent": 1, "over 30 american cities": 1, "17 u.s. port cities": 1, "over one million": 1}
+{"a lot of sediment": 1, "a lot of dams": 1, "25 river deltas": 1, "45 degrees or greater": 1, "greater than or equal to 1": 1}
+{"four": 2, "4,344 to 5,985 square miles": 1, "3,205 to 7,645 square miles": 1, "more than 3,000": 1, "50": 1, "104,000 metric tons": 1, "19,300 metric tons": 1, "21 percent below": 1, "16 percent above": 1}
+{"two": 1, "first": 1, "second": 1, "most": 1}
+{"16,000 miles": 1, "four stations": 1, "five": 1, "six additional": 1, "two locations": 1, "90 percent": 1, "20 percent": 1, "one additional foot": 1, "14 million people": 1, "20 million people": 1, "$234 billion": 1, "$400 million": 1, "14 of the top 20 u.s. ports": 1}
+{"70 percent": 2, "6 to 11": 1, "39 mph": 1, "3 to 6": 1, "74 mph": 1, "zero to 2": 1, "111 mph": 1, "20 percent": 1, "10 percent": 1, "seven": 1, "5": 1, "2 km": 1, "40-member": 1, "five percent": 1}
+{"28 watersheds": 1, "37.4 percent": 1, "nine named storms": 1, "five hurricanes": 1, "one major hurricane": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1}
+{"79 degrees fahrenheit": 1, "1.3 meters per second": 1, "3 miles per hour": 1, "6.1 fewer storms": 1, "1.53 degrees fahrenheit": 1, "nine named storms": 1, "five hurricanes": 1, "one major hurricane": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1}
+{"100 mm/hr": 1, "4 inches/hr": 1, "5 mm/hr": 1, "140 knots": 1, "161 mph": 1, "category 5": 2}
+{"23 percent": 2, "maximum wind speeds in excess of 73 mph": 1, "tens of millions": 1, "57 billion": 1, "six hurricanes per year": 1, "15": 1, "two": 1}
+{"10 others": 1, "11 meters": 1, "half millimeter increments": 1, "more than 2,000 years": 1, "largest": 1, "more than just variations": 1, "more frequent": 2, "fewer": 2}
+{"1,142": 1, "higher": 2, "stronger": 2, "similar": 1, "weak": 1, "strong": 1}
+{"over 100 indicators": 1, "20-40 years": 1}
+{"85 percent": 1, "larger": 3, "higher": 2, "10 percent": 1, "60 disturbances": 1, "90 hurricanes": 1, "10": 2}
+{"15 feet": 2, "a quarter of a mile": 1, "30 miles": 1, "125 miles": 1, "1.4 million people": 1, "433 people": 1, "$7 billion": 1}
+{"45%": 1, "15%": 1}
+{"more than 20 years": 1, "200 storms": 1, "thousands of lives": 1, "five international organisations": 1}
+{"24 feet": 1, "one foot": 1, "50 percent more": 1, "billion people": 1, "three-foot": 1}
+{"$173-million": 1, "eight": 2, "38th parallel north": 1, "four": 1, "32": 1}
+{"27 cities": 1, "50 percent higher": 1, "30 percent increase": 1, "20 percent increase": 1}
+{"22 percent increase": 1, "less than one percent": 1, "31 percent": 1, "69 more deaths": 1, "7 percent": 1}
+{"6-mile stretch": 1, "two-lane road": 1}
+{"huge amount": 2, "100 meters deep": 1, "category 5": 1, "category 6": 1, "abnormal amount": 1, "more frequent": 1}
+{"35 percent": 1, "fourth warmest": 1, "80 percent": 1, "more than 1,000 people": 1}
+{"over 700,000 tweets": 1, "over 53,000 people": 1, "nearly the entire mapped area": 1}
+{"increase": 1, "a lot": 1, "huge amount": 1, "enormous amounts": 1, "record-breaking": 2}
+{"3,090": 1, "10 to 15 states": 1, "hundreds of miles": 1}
+{"nearly 700 million taxi trips": 1, "700 million records": 1}
+{"many": 2, "big": 2, "extremely": 2, "large": 1, "increased": 1, "reduction": 1}
+{"more than 30 species": 1, "a short distance": 1}
+{"90%": 1, "six": 1, "two": 1, "four": 1}
+{"five-meter (16-foot)": 1, "6.3 meters (20.7 feet)": 1, "8.3 meters (27.2 feet)": 1, "11.3 meters (37.1 feet)": 1, "eight meters (26 feet)": 1, "tens of kilometers": 1}
+{"60,000 feet": 1, "twice the altitude of a commercial plane": 1, "94 percent": 1, "5,000 pulses of light per second": 1, "24-hour turn around": 1, "1999": 1, "26 missions": 1, "27th overall": 1, "seventh for the global hawk cpl": 1}
+{"60,000 feet": 1, "twice the altitude of a commercial plane": 1, "94 percent": 1, "5,000 pulses of light per second": 1, "24-hour turn around": 1, "1999": 1, "26 missions": 1, "27th overall": 1, "seventh for the global hawk cpl": 1}
+{"fourth-year": 1, "74 to 95 miles per hour": 1, "157 miles per hour or higher": 1, "96 to 110 miles per hour": 1}
+{}
+{"greater number": 1, "smaller than normal": 1}
+{"category 1": 1, "category 3": 2, "category 5": 1, "500 million": 1}
+{"two": 1, "5 to 100 millimeters per hour": 1, "0.2 to 3.9 inches per hour": 1, "10 to 85 meters per second": 1, "22.3 to 190.1 miles per hour": 1, "36 to 306 kilometers per hour": 1}
+{}
+{"large": 1, "category-3": 1, "category-5": 1, "nearly 65-foot": 1, "$45 million": 1}
+{"five": 1, "1,000 feet": 1, "3 miles": 1, "category 2": 1}
+{"thousands of miles": 1, "30 degrees north and south": 1, "51.6 degrees north to 51.6 degrees south": 1, "five": 1}
+{"hundreds": 1, "more than $50 billion": 1, "nearly 700 voters": 1, "51.1 percent": 1, "47.2 percent": 1, "47 percent": 1}
+{}
+{"decreases": 2, "decrease": 2, "more": 2, "less": 2, "faster": 1}
+{"greater death toll": 1, "fewer protective measures": 1, "nearly triple": 1, "more people": 1, "more than 200 people": 1, "thousands": 1}
+{"greater than 55,000 feet": 1, "three instruments": 1, "three different instruments": 1, "five nasa earth science missions": 1}
+{"50 percent": 1, "40 percent": 1, "10 percent": 2, "70 percent": 1, "8 to 13 named storms": 1, "39 mph": 1, "3 to 6": 1, "74 mph": 1, "1 to 2 major hurricanes": 1, "111 mph": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1}
+{"70 percent": 1, "14 to 20": 1, "7 to 11": 1, "3 to 6": 1, "category 3, 4 or 5": 1, "15": 1, "eight": 1, "four": 1, "two to three": 1}
+{"40 percent": 2, "20 percent": 1, "4 to 7": 1, "4-5": 1, "more": 1, "stronger": 1}
+{"increase": 1, "greater exposure": 1, "decrease": 1, "82 and 86 degrees fahrenheit": 1}
+{"38 out of 64 areas": 1, "almost 205,000 housing units": 1, "more than half": 2, "between 10% and 50%": 2, "1%-10%": 1, "less than 1%": 2, "5194 stillbirths": 1, "40% higher": 1, "more than twice": 1, "every 1% increase": 1, "7% rise": 1, "410 stillbirths": 1, "up to half (117-205)": 1, "17.5% to 30.5%": 1, "more than 40% lower": 1, "79%": 1}
+{"many": 1, "most": 2, "roughly twice": 1, "80 percent": 1}
+{"five": 1, "53 to 63 percent": 1, "49 percent": 2, "42 percent": 1, "61 to 85 percent": 1, "19 percent": 1, "68.6 percent": 1, "24.2 percent": 1, "64.4 percent": 1, "14.4 percent": 1, "77.8 percent": 1, "52.5 percent": 1, "64 percent": 1, "half": 1, "two-thirds": 1}
+{"1,500 miles": 1, "6-minute time-step": 1, "5-day simulation": 1, "6 to 8 inches": 1, "30 meters": 1, "90 feet": 1}
+{"0.7 percent": 2, "2 percent": 1, "almost 3 percent": 1, "2.4 percent": 1, "1,177 heart attack cases": 1}
+{"more than 50 percent": 1, "hundreds": 1}
+{"$65 billion": 1, "nearly 300 people": 1, "seven countries": 1, "685 samples": 1, "more than 125 volunteers": 1}
+{"90": 1, "more than $100 billion": 1, "more than 1,800": 1, "175 miles per hour": 1, "80 percent": 1}
+{"92 mph": 1, "79 percent": 2, "78,000 wind turbines": 1, "36-44 meters per second": 1, "80 and 98 mph": 1, "35-39 meters per second": 1, "78 and 87 mph": 1, "34 percent": 1, "82 billion": 1, "three states": 1, "10 billion and 40 billion": 1, "112 mph": 1, "category 2 to 3 hurricane": 1}
+{"100 km": 1, "50 mile": 1, "60 storm predictions": 1, "10 of the predictions": 1}
+{"$37 million": 1, "$105 million": 1, "69 major storms": 1, "65 miles": 1}
+{"long-term decline": 1, "increase": 2, "strongest": 1, "minimal": 1, "more": 2, "growing more severe": 1}
+{}
+{"large-scale": 1, "two": 1}
+{"three": 1, "two": 1}
+{"less water": 1, "less hazardous waste": 1}
+{"40 percent": 2, "55 degrees latitude": 1, "1,200 cyclones per year": 1, "1,900 cyclones per year": 1, "200 per year": 1, "300 per year": 1}
+{"15 meters": 1, "one mile": 1, "six square miles": 1, "greater abundance": 2}
+{"30 to 45 percent": 1, "1 meter": 1, "3 to 20 years": 1}
+{"fewer": 1, "higher": 1}
+{"two": 2}
+{"165kts": 1, "190mph": 1, "8.0": 1, "210 degrees kelvin": 1, "-81.67f": 1, "-63.15c": 1, "165 knots": 1, "189.9 mph": 1, "305.6 kph": 1, "200 knots": 1, "230.2 mph": 1, "370.4 kph": 1, "10.4 north latitude": 1, "128.1 east longitude": 1, "543 nautical miles": 1, "22 knots": 1, "25.3 mph": 1, "40.7 kph": 1, "50 feet": 1, "15.2 meters": 1}
+{"second-costliest": 1, "32 million": 1, "highest number": 1, "steadily increasing": 1, "greatest number": 1, "worst lows": 1}
+{"40 deaths": 1, "five recommendations": 1, "157 people": 1}
+{"16 inches": 1, "seven": 1, "smaller": 1, "weaker": 1, "shorter and shorter": 1}
+{"wide range": 1, "seven feet": 1, "several millimeters": 1, "entire year": 1}
+{"one": 2, "many": 1}
+{"over 250": 1, "many": 1, "more": 2, "strongest": 1}
+{"first": 1, "fine": 1, "dominant": 1, "very intense": 1, "unusually low": 1, "unusually weak": 1, "more": 1}
+{"approximately three kilometres long": 1}
+{"60,000 feet": 1, "18.3 km": 1, "1.5 and 2.8 miles": 1, "2.5 and 4.5 km": 1, "1.2 miles": 1, "2 km": 1}
+{"high priority areas": 1, "very high-resolution": 1, "near $50 billion": 1, "second-costliest": 1, "at least 147 direct deaths": 1, "72 of these fatalities": 1, "greatest number of u.s. direct fatalities": 1}
+{"many years": 1, "more than double": 1, "more frequent": 1}
+{"55 kilometers": 2, "two meters": 1, "billions of dollars": 2}
+{"a dozen": 1, "category 5": 1, "category 3": 2, "three": 1, "eight of the nine": 1}
+{"220 miles": 1, "350 kilometers": 1, "227 inland tropical cyclones": 1, "45 maintained or increased strength": 1, "17 belonged to this category": 1, "16 of the 45 tropical cyclones": 1, "59 percent of fatalities": 1, "70 watts": 1, "200 watts": 1}
+{"1,260-meter": 1, "three breaches of 165 meters, 59 meters, and 35 meters": 1, "88 percent": 1, "more than half": 1, "factor of two": 1}
+{"5 meters per second": 1, "11 miles per hour": 1, "55 meters per second": 1, "123 miles per hour": 1, "16-inch-long": 1, "20": 1, "750": 1, "10 times": 1, "0.5 meters per second": 1, "1.1 miles per hour": 1, "hundreds of millions": 1, "billions": 1, "few hundred": 1}
+{"2,222": 1, "unusually high": 1, "increasing": 1}
+{"5 kilometers": 1, "16,500 feet": 1, "one million square kilometers": 1, "386,100 square miles": 1, "45 knots": 1, "51.7 mph": 1, "83.3 kmh": 1}
+{"more than 800,000 cells per milliliter": 1, "above 50,000 cells per milliliter": 1, "twice as dense": 1, "two million cells per milliliter": 1}
+{"6 inches": 1, "hundreds of miles": 1, "hundreds at a time": 1, "$250 apiece": 1, "two or three years": 1, "10 years ago": 1}
+{"fifth annual": 1, "70 percent probability": 2, "12 to 17 named storms": 1, "five to 10": 1, "15 named storms": 1, "eight of them hurricanes": 1, "135": 1, "13 to 20 named storms": 1, "seven to 11": 1, "50 individual seasonal atmospheric forecasts": 1, "13 named storms": 1, "seven hurricanes": 1, "19 named storms": 3, "10 hurricanes": 2, "17 named storms": 2, "nine hurricanes": 1, "eight named storms": 1, "four hurricanes": 1, "nine named storms": 1, "three hurricanes": 1, "mean absolute error of 1.9 hurricanes": 1, "2.3 named storms": 1}
+{"second": 2, "first": 2, "several": 2, "greater than 60,000 feet": 1, "three": 1, "five": 1}
+{"70 percent": 1, "13 to 20": 1, "39 mph": 1, "7 to 11": 1, "74 mph": 1, "3 to 6": 1, "111 mph": 1, "12": 1, "6": 1, "3": 1, "10 to 15 percent": 1}
+{"two-to-three-fold increase": 2, "2\u00b0c higher": 1, "3000 miles": 1, "fewer": 1, "more": 2, "very low": 1}
+{"category 2": 1, "285 people": 1, "second costliest": 1, "more than 300 terajoules": 1}
+{"roughly 2 to 3": 1, "many hours": 1, "about 500": 1, "almost 1,100 miles": 1, "three": 1}
+{"0.4 degrees celcius": 1, "doubling": 1, "3-4 times": 1, "two degrees": 1, "10 times": 1, "half": 1}
+{"more than 1,800 people": 1, "23 percent": 1, "10 percent": 1, "16.5 percent": 1, "17.9 to 15.2 percent": 1, "7 percent": 1, "1,044 confirmed heart attack cases": 1, "299 before katrina": 1, "408 in the three years after katrina": 1, "337 in the four and five years after the storm": 1, "45.2 vs. 30.5 percent": 1, "60.2 vs. 36.3 percent": 1, "30.6 vs. 16.1 percent": 1, "43.6 vs. 29.8 percent": 1, "52.3 vs. 34.4 percent": 1, "17.1 vs. 8.4 percent": 1}
+{"1,177 confirmed admissions": 1, "2.4 percent": 1, "48,258": 1, "150 admissions": 1, "0.7 percent": 1, "21,079": 1, "42 percent": 1, "48 percent": 1, "53 percent": 1, "30.7 percent": 1}
+{"record-breaking": 1, "most": 1, "extremely low": 1, "strong": 1, "huge": 1, "record high": 1, "worst-case": 1}
+{"a quarter of a mile": 1, "220 miles": 1, "$15 million": 1, "multi-billion-dollar": 1, "15-foot-high": 1, "725-foot long": 1}
+{"7.5 million": 1, "thousands": 1, "several": 1}
+{"three-dimensional": 1}
+{"one quarter": 1, "over a thousand square miles": 1, "9.1 to 16.9 percent": 1, "more than half a million": 1, "170 miles per hour": 1, "900 square meters": 1, "80 percent": 1, "15 percent": 1, "1,000 miles long": 1, "150 miles wide": 1, "hundreds of millions": 1}
+{"26.57 inches": 2, "2.57 inches": 2, "15th driest year": 2, "61 percent": 2, "9.2 million acres": 2, "third highest": 1, "second most extreme year": 1, "twice the average value": 1, "11 disasters": 1, "$1 billion threshold": 1, "19 states": 1, "26 states": 1, "fourth warmest winter": 1, "third smallest": 1, "less than half of normal": 1, "warmest march": 1, "fourth warmest april": 1, "second warmest may": 1, "5.2\u00b0f above average": 1, "2.0\u00b0f": 1, "76.9\u00b0f": 1, "3.6\u00b0f above average": 1, "73.8\u00b0f": 1, "second hottest summer": 1, "99.1 million people": 1, "10 or more days": 1, "100\u00b0f": 1, "one-third of the nation's population": 1, "25.25 inches": 1, "bottom ten": 1, "fifth wettest year": 1, "9.2 percent above average": 1, "47.4 percent": 1, "63.3 percent": 1, "19 named storms": 2, "ten hurricanes": 1, "one major hurricane": 1, "category 3 or stronger": 1, "8 million homes": 1, "131 fatalities": 1, "60 percent": 2, "350 homes": 1, "300,000 acres": 1, "1,200": 1, "less than half of average": 1, "less than 1,000": 1}
+{"2-in-3 chance": 1, "magnitude 6.7 or larger": 1, "99% probability": 1}
+{"0.3 percent": 1, "0.2 percent": 1, "0.43 percent": 1}
+{"0.88 inches": 1, "16 percent": 1, "37 percent": 1, "11th driest": 1, "11.36 inches": 1, "98 percent": 1, "78 percent": 1, "120 percent": 1, "37.2 degrees": 1, "2.5 degrees": 1, "4.1 degrees": 1, "4 degrees": 1, "0.9 degrees": 1, "50 degrees": 1, "1.6 degrees": 1, "1.1 degrees": 1}
+{"17": 1, "three": 1, "increase": 2, "reductions": 1, "smallest increase": 1}
+{"3,356": 2, "17": 1, "68": 1, "$133m": 1, "$3 billion": 1, "785": 1, "fifteen times": 1}
+{"more than 6000 km": 1, "at least 26": 1}
+{}
+{"largest": 1, "1800 km": 1, "eight times": 1, "150 km": 1, "just over 100 km/h": 1}
+{"roughly 7,500 feet": 1, "roughly $25 million": 1}
+{"decades": 1}
+{"141": 1, "fourth through eighth graders": 1, "25%": 1, "31%": 1}
+{"about 800": 1, "record": 1}
+{"$100 billion": 1, "$20 billion": 1, "billions of dollars": 1}
+{"2,000 iu": 1}
+{"more than 100 inches": 1, "10 inches": 1, "higher than 100 mph": 1, "more than 150 mph": 1}
+{"greater than 260mm": 1, "10.2 inches": 1, "over 180mm": 1, "7 inches": 1, "above 120": 1, "over 70": 1, "greater than 50": 1, "1:31 p.m. edt": 1}
+{"10 million": 1, "8 to 10 million": 1, "8.5 million": 1, "8 percent": 1, "greater than 20 meters per second": 1}
+{"5 miles": 1, "10 km": 1, "39 degrees 24 minutes north latitude": 1, "74 degrees 30 minutes west longitude": 1, "80 mph": 1, "130 kph": 1, "23 mph": 1, "37 kph": 1, "175 miles": 1, "280 km": 1, "485 miles": 1, "780 km": 1, "946 millibars": 1, "27.93 inches": 1, "5,000 times": 1, "512 miles": 1, "824 kilometers": 1}
+{"18": 1, "$20 billion dollars": 1}
+{"three quarters": 1, "over the age of 60": 1, "very few": 1}
+{"1.8 million square miles": 1, "10 miles": 1, "15 km": 2, "75 mph": 1, "120 kph": 1, "18 mph": 1, "30 kph": 1, "952 millibars": 1, "90 miles": 2, "150 km": 1, "485 miles": 1, "780 km": 1, "960 millibars": 1, "65 mph": 1, "1,000 miles": 1, "eight million people": 1, "26 inches": 1, "3 to 6 inches": 1, "4 to 8 inches": 1, "1 to 3 inches": 1, "5 inches": 1, "2 to 3 feet": 1, "1 to 2 feet": 1, "12 and 18 inches": 1}
+{"approximately 290,000": 1, "approximately 210,000": 1, "11 hurricanes": 1, "greater than 20 meters per second": 1}
+{"$20 billion": 1, "$60 billion": 1, "two consecutive days": 1, "many times": 1, "8": 1, "54": 1, "6 percent": 1}
+{"top 15": 1, "top five": 1, "increase": 2, "decrease": 2, "enough": 1, "more": 1, "lower": 1, "better": 2, "final numbers": 1, "big": 1}
+{"335.5 miles": 1, "540 km": 1, "75 mph": 1, "961 millibars": 1, "11 mph": 1, "3 mm": 1, "0.11 inch": 1, "1,000 km": 1, "260 miles": 1, "415 km": 1, "205 miles": 1, "330 km": 1, "18 mph": 1, "90 mph": 1, "140 kph": 1, "175 miles": 1, "280 km": 1, "485 miles": 1, "780 km": 1, "943 millibars": 1, "946 millibars": 1, "500 miles": 1, "1,000 miles": 1, "3 to 6 inches": 1, "8 inches": 1, "4 to 8 inches": 1, "12 inches": 1, "1 to 3 inches": 1, "5 inches": 1, "2 to 3 feet": 1, "1 to 2 feet": 1, "12 to 18 inches": 1, "-63 fahrenheit": 1, "-52 celsius": 1}
+{"40 km": 1, "24.8 miles": 1, "10 km": 1, "6.2 miles": 1, "40 dbz": 2, "category 1": 2, "category 3": 1, "latitude 35.9 north": 1, "longitude 70.5 west": 1, "410 miles": 1, "15 mph": 1, "85 mph": 1, "500 miles": 1}
+{"951 millibars": 1, "6 and 11 feet": 1, "2,000 miles": 1, "20 to 40 mm per hour": 1, "1.57 inches per hour": 1, "more than 2 inches (50 mm) per hour": 1, "2 inches of rain per hour": 1, "3 to 6 inches": 1, "8 inches": 1, "4 to 8 inches": 1, "12 inches": 1, "1 to 3 inches": 1, "5 inches": 1, "75 mph (120 kph)": 1, "32.1 north latitude": 1, "73.1 west longitude": 1, "260 miles (420 km)": 1, "395 miles (635 km)": 1, "10 mph (17 kph)": 1, "100 miles to 175 miles": 1, "450 miles": 1, "520 miles": 1}
+{"three quarters": 1, "fifteen percent": 1, "81 percent": 1, "7 percent": 1, "43 percent": 1}
+{"record number": 1, "eight": 1, "more than 7,500": 1}
+{"2,000 miles": 2, "hundreds of miles": 1, "37 mph": 1, "73 mph": 1, "75 mph": 1, "120 kph": 1, "28.8 north": 1, "76.8 west": 1, "10 mph": 1, "17 kph": 1, "100 miles": 1, "35 miles": 1, "450 miles": 1, "275 miles": 1, "445 km": 1, "11km": 1, "6.8 mile": 1, "45.8dbz": 1}
+{"325 millimeters": 1, "250 millimeters": 1, "21 deaths": 1, "6 to 12 inches": 1, "20 inches": 1, "3 to 6 inches": 1, "12 inches": 1, "one to three inches": 1, "six inches": 1, "4 to 8 inches": 1, "80- mph": 1, "130 kph": 1, "category one": 1, "10 mph": 1, "17 kph": 1, "5 to 8 feet": 1, "one to three feet": 1, "2,000 miles": 2, "35 miles": 1, "55 km": 1, "275 miles": 1, "445 km": 1}
+{"105 mph": 1, "165 kph": 1, "23 degrees 30 minutes north latitude": 1, "75 degrees 24 minutes west longitude": 1, "25 miles": 1, "40 km": 1, "20 mph": 1, "32 kph": 1, "140 miles": 1, "220 km": 1, "280 miles": 1, "205 miles": 1, "335 km": 1, "410 miles": 1}
+{"three": 1, "1 in 1,000": 1, "80 degrees fahrenheit": 1, "27 degrees celsius": 1, "330 feet": 1, "75 degrees fahrenheit": 1, "24 degrees celsius": 1, "low 60s": 1, "65 and 70 degrees fahrenheit": 1, "18 and 21 degrees celsius": 1, "six degrees": 1, "less than half an inch": 1, "15.1 inches": 1, "31 centimeters": 1}
+{"0.7 degrees c": 1, "3 degrees": 1, "twice as likely": 1}
+{"fourteenth tropical system": 1, "21 days": 1, "28 days": 1, "31 days": 2, "16.3 north latitude": 1, "43.1 west longitude": 1, "1,210 miles": 1, "1,950 km": 1, "35 mph": 1, "10 mph": 1, "17 kmh": 1, "1006 millibars": 1, "11 hours": 2, "26-hour flight": 1, "one million square kilometers": 2, "386,100 square miles": 2, "60 knots": 2, "69 mph": 3, "111 kmh": 2, "45 knots": 1, "51.7 mph": 1, "83.3 kmh": 1, "60 mph": 1, "95 kmh": 1}
+{"record amounts": 1, "62 percent": 1, "11 inches": 1, "17 percent": 1, "330-fold": 1, "43 percent": 1, "40 percent": 1, "larger quantities": 1}
+{"greater than 60,000 feet": 1, "up to 28 hours": 1, "six": 1, "three": 2, "88": 1}
+{"third": 1, "14": 1, "5,600 km": 1, "43 percent": 1, "150 years": 1, "d": 1, "d-minus": 1}
+{"16.3": 1, "43.1": 1, "1,210 miles": 1, "1,950 km": 1, "35 mph": 1, "10 mph": 1, "17 kmh": 1, "1006 millibars": 1, "13km": 1, "8.1 miles": 1}
+{"hundreds of thousands": 1, "80 percent probability": 1, "15 percent probability": 1, "5 percent probability": 1, "eight or more hurricanes": 1, "five to seven hurricanes": 1, "four or fewer": 1, "80 percent accuracy rate": 1, "65 percent accuracy rate": 1}
+{"greater than 60,000 feet": 1, "three instruments": 1}
+{"colder than minus 63 degrees fahrenheit": 1, "minus 52 degrees celsius": 1}
+{"8 feet": 1, "13 feet": 1, "9 feet": 1}
+{"75 mph": 1, "120 kmh": 1, "10 miles": 1, "15 km": 1, "6 mph": 1, "9 km": 1, "nine miles": 1, "14.5 km": 2, "20 dbz": 1, "14.5 km (9.1 mile)": 1, "5 kilometers": 1, "3.1 miles": 1, "10 km (6.2 mile)": 1, "40 dbz": 1}
+{"maximum": 1, "category 3": 2, "category 5": 1, "higher": 1, "low": 1, "great": 1}
+{"55 miles (~85 km)": 2, "10 mph": 2, "40 miles (~65 km)": 1, "60 knots (~70 mph)": 1, "75 mph (120 kmh)": 1, "category one": 1, "60 mph (93 kmh)": 1, "76 mph (122 kmh)": 1, "80 feet": 1, "100 miles": 1}
+{}
+{"more than 40 million": 1}
+{"15-pound": 1, "100 mph": 1, "200 mph": 1, "ef5": 1, "9-pound": 1, "60 to 75 mph": 1, "62": 1, "551": 1, "245": 1, "$28 billion": 1, "1,370": 1, "30 percent": 1, "600,000": 1, "$500 million": 1, "80 percent": 1, "thousands of pounds": 1}
+{"quarter": 1, "one category": 1, "a few degrees": 1}
+{"greater than 60,000 feet": 1, "thousands of square miles": 1, "up to 50,000 feet": 1, "three instruments": 2}
+{"sixty percent": 1, "one hundred and thirty eight thousand": 1, "fifty percent": 3, "fifty meters": 1, "79 million": 1, "36 percent": 1, "7 percent": 1, "587 tropical storms": 1}
+{"9-15 named storms": 1, "4-8 hurricanes": 1, "1-3 major hurricanes": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1}
+{"approximately 30,000 feet": 1, "60,000 and 65,000 feet": 1}
+{"70,000": 1, "1,836": 1, "14,802": 1, "100 degrees fahrenheit": 1}
+{"41 percent": 1, "20 percent": 1, "three-fourths": 1, "4 to 10 percent": 1, "15 percent": 1, "$80 and $120 billion": 1, "$10 billion": 1, "65 percent": 1, "four named storms": 1, "two": 1}
+{"30 kilometers": 1, "60 percent": 1, "more than 30 minutes": 1, "eight hurricanes and tropical storms": 1, "$10 million": 1, "$50 billion": 1, "40 deaths": 1, "$19.3 billion": 1, "103 deaths": 1}
+{"512 miles": 1, "five instruments": 1, "higher spatial and vertical resolution": 1, "short and long-term forecasts": 1}
+{"230 miles": 1, "370 km": 1, "45 mph": 1, "75 kmh": 1, "75 miles": 1, "3 mph": 1, "6 kmh": 1, "995 millibars": 1, "10 to 20 inches": 1, "25 inches": 1, "5 and 15 inches": 1, "one and five feet": 1, "one to three inches": 1}
+{"70 percent": 1, "nine to 15": 1, "39 mph": 1, "four to eight": 1, "74 mph": 1, "one to three": 1, "111 mph": 1, "category 3, 4 or 5": 1, "12 named storms": 1, "six hurricanes": 1, "three major hurricanes": 1, "20 to 25 percent": 1, "15 percent": 1}
+{"57.1\u00b0f": 1, "5.2\u00b0f above": 1, "2.0\u00b0f": 1, "2.51 inches": 1, "0.36 inch below": 1}
+{"dozens": 1, "third-costliest": 1, "more than 20": 1, "5.3 feet": 1, "15-foot": 1, "five-foot": 1, "53": 1, "25": 1, "17": 1}
+{"greater than 18,300 meters": 1, "60,000 feet": 1}
+{"14": 1, "one billion dollars": 1, "centuries": 1, "half a millennium": 1, "one day": 1, "more than a thousand places": 1, "three": 1, "1980 and 2005": 1}
+{"two": 1, "1741 utc": 1, "0553 utc": 1, "colder than -63f/-52.7c": 1, "75 knots": 1, "86 mph": 1, "139 kph": 1, "30 nautical miles": 1, "34.5 miles": 1, "55.5 km": 1, "160 nautical miles": 1, "184 miles": 1, "296.3 km": 1, "260 miles": 1, "10 knots": 1, "11.5 mph": 1, "18.5 kph": 1, "90 knots": 1, "103.6 mph": 1, "166.7 kph": 1}
+{"3-foot rise": 1, "5.7 feet": 1, "9 feet": 1, "45,000 storm simulations": 1, "125-mile (200-kilometer) radius": 1, "50 miles per hour": 1, "74 miles per hour": 1, "1.5 to nearly 5 feet": 1, "15.5-foot storm surge": 1, "15 feet deep": 1, "135 miles per hour": 1, "3.2 meters [10.4 feet]": 1, "5 feet high": 1}
+{"$56 billion": 1, "double": 1, "$26 billion": 2, "$53 billion": 1, "0.01 percent": 1, "$25 billion": 1, "$15 billion": 1, "75 percent": 1, "93 percent": 1, "10 percent": 1, "9 billion": 1, "3 percent": 1, "4 percent": 1, "88 percent": 1, "less than $1 billion": 1, "37 percent": 1, "17,000 synthetic storms": 1, "global tropical cyclone damage rate per year": 1}
+{"30 miles": 1, "48.3 km": 1, "2 inches": 1, "50 mm": 1, "105 knots": 1, "120.8 mph": 1, "194.5 kph": 1, "440 miles": 1, "708 km": 1, "4 knots": 1, "4.6 mph": 1, "7.4 kph": 1, "385 nautical": 1, "443 miles": 1, "713 km": 1, "25.9 south": 1, "39.7 east": 1}
+{"55 knots": 1, "63 mph": 1, "102 kph": 1, "115 nautical miles": 1, "132 miles": 1, "213 km": 1, "230 nm": 1, "265 miles": 1, "426 km": 1, "270 nautical miles": 1, "311 miles": 1, "500 km": 1, "130 kph": 1, "81 mph": 1}
+{"25 nautical-mile-wide": 1, "29 miles": 1, "46 km": 1, "100 knots": 1, "115 mph": 1, "185 kph": 1, "277 nautical miles": 1, "319 miles": 1, "513 km": 1, "24.0 south latitude": 1, "39.2 east longitude": 1, "4 knots": 1, "4.6 mph": 1, "7.4 kph": 1, "400 nautical miles": 1, "460 miles": 1, "741 km": 1}
+{"430 nautical miles": 1, "495 miles": 1, "796 km": 1, "5 knots": 1, "6 mph": 1, "9 kph": 1, "45 knots": 1, "52 mph": 1, "83 kph": 1, "110 miles": 1, "177 km": 1, "28 to 29 degrees celsius": 1, "82 to 84 fahrenheit": 1, "-63 fahrenheit": 1, "-51.7 celsius": 1}
+{"532": 1, "33 percent": 1, "30 percent": 1, "two-thirds": 1}
+{"11 mile-wide": 1, "colder than -63 fahrenheit": 1, "-52.7 celsius": 1, "120 knots": 1, "138 mph": 1, "222 kph": 1, "40 miles": 1, "64 km": 1, "22.7 south": 1, "38.7 east": 1, "400 nautical miles": 1, "460 miles": 1, "741 kmh": 1, "4 knots": 1, "4.6 mph": 1, "7.4 kph": 1, "32 feet": 1, "9.7 meters": 1}
+{"up to 300 miles per hour": 1, "a few hours": 1, "a few minutes": 1, "30 years": 1, "two": 1}
+{"significantly": 1, "frequency": 2, "up to four years": 1, "nine": 1, "10 years": 1, "ensemble mean": 1, "pronounced minimum": 1, "extremely negative": 1}
+{"thousands": 1, "magnitude-6 and above": 1, "m-6.2": 2, "m-6.4": 1, "m-7.6": 1, "m-7": 1, "m-5 and above": 1}
+{"over 50 mm": 1, "2 inches": 1, "per hour": 1, "over 12 km": 1, "7.45 miles": 1, "45 knots": 1, "52 mph": 1, "83 kmh": 1, "560 nautical miles": 1, "2 knots": 1, "3 mph": 1, "4 kmh": 1}
+{"55 knots": 1, "63 mph": 1, "102 kmh": 1, "545 nautical miles": 1, "12.2 south": 1, "87.0 east": 1, "7 knots": 1, "8 mph": 1, "13 kmh": 1}
+{"six knots": 1, "three-day forecasts": 1, "20-30 knots": 1, "nine worldwide winners": 1}
+{"112": 1, "third-costliest": 1, "$30 billion": 1, "category 2": 1, "thousands": 1, "greater than 15 feet": 1, "dozens": 1}
+{"93 million miles": 1, "many yards": 1}
+{"105 mph": 1, "165 kmh": 1, "300 miles": 1, "480 km": 1, "305 miles": 1, "490 km": 1, "115 miles": 1, "185 km": 1, "15 miles": 1, "30 km": 1, "3 mph": 1, "6 kmh": 1, "8 and 16 inches": 1, "5 to 7 feet": 1, "80 degree fahrenheit": 1, "26.6 c": 1}
+{"1 to 3 inches": 1, "2 to 4 inches": 1, "45 mph": 1, "75 kmh": 1, "85 miles": 1, "140 km": 1, "170 miles": 1, "190 miles": 1, "305 km": 1, "370 miles": 1, "595 km": 1, "6 mph": 1, "9 kmh": 1, "1001 millibars": 1, "over the 80f/26.6c threshold": 1, "-63f": 1, "-52c": 1}
+{"massive": 1, "many": 1, "a lot": 1, "most": 1, "more": 1, "less": 1, "few": 1}
+{"three": 2, "-80c/-112f": 1, "40 mph": 1, "65 kmh": 1, "60 miles": 1, "120 miles": 1, "620 miles": 1, "1000 km": 1, "8 mph": 1, "12 kmh": 1}
+{"120 miles": 1, "190 km": 1, "180 miles": 1, "290 km": 1, "115 mph": 1, "185 kmh": 1, "5 mph": 1, "7 kmh": 1, "6 inches": 1, "12 inches": 1, "20 inches": 1, "-80 celsius": 1, "-112 fahrenheit": 1}
+{"more than 900": 1, "high levels": 1}
+{"eleventh": 1, "40 mph": 1, "855 miles": 1, "1,375 km": 1, "6 mph": 1, "9 kmh": 1, "1005 millibars": 1, "35 mph": 1, "55 kmh": 1, "8 mph": 1, "13 kmh": 1}
+{"80 mph": 1, "130 kmh": 1, "category one": 1, "425 miles": 1, "680 km": 1, "9 mph": 1, "15 kmh": 1, "13km": 1, "8 miles": 1}
+{"75.7 degrees f": 1, "3.0 degrees": 1, "74.5 degrees f": 1, "2.4 degrees": 1, "75.8 degrees f": 1, "74.6 degrees f": 1, "2.31 inches": 1, "0.29 inches": 1, "1.0 inch": 1}
+{"three": 1, "fewer": 1, "greater": 1, "higher": 1}
+{"biggest": 1, "most": 1, "25 percent": 1, "major": 2, "extreme": 1, "big": 1, "relatively inexpensive": 1}
+{}
+{"20 feet": 1}
+{"1662.55 miles": 1, "255 miles": 1, "510 miles": 1, "70 miles": 1, "140 miles": 1, "75 miles": 1, "105 km": 1, "25.9 north latitude": 1, "76.8 west longitude": 1, "120 mph": 1, "195 kmh": 1, "115 mph": 1, "954": 1, "951 millibars": 1, "435 miles": 1, "700 km": 1, "12.4 north": 1, "30.4 west": 1, "35 mph": 1, "55 kmh": 1, "13 mph": 2, "20 kmh": 2}
+{"more than 150 people": 1, "$3 billion": 1, "140-150 miles per hour": 1, "one-half mile": 1, "130 mph": 1, "4,700 homes": 1, "12 inches": 1}
+{"910 miles": 1, "295 miles": 1, "375 miles": 1, "71 fahrenheit": 1, "22 celsius": 2, "9 degrees": 1, "29 mph": 1, "46 kmh": 1, "805 miles": 1, "50 mph": 1, "85 kmh": 1, "68f": 1, "20c": 1, "425 miles": 1, "15 n": 1, "50 w": 1, "15 and 20 mph": 1, "23 celsius": 1, "9 mph": 1, "15 kmh": 1, "90 mph": 1, "150 kmh": 1, "255 miles": 1, "415 km": 1, "19.2 north": 1, "109.2 west": 1, "977 milibars": 1, "35 miles": 1}
+{}
+{"much lower than normal": 1, "higher (warmer) than normal": 1, "lower (cooler) than normal": 1, "near-normal": 1, "high degree of uncertainty": 1, "enough wild and punishing weather": 1}
+{"increased": 1, "too many": 1, "higher frequency": 1, "more frequent": 1, "more severe": 1, "increase": 1}
+{"over-sixties": 1, "over 70 years": 1, "over 65": 1, "threefold increase": 1, "90%": 1, "half": 1}
+{"more than 2 inches": 1, "50 millimeters": 1, "198 miles per hour": 1, "125 people": 1}
+{"two feet": 1, "a million": 1, "191 square miles": 1, "495 square kilometers": 1, "eight times more likely": 1, "more than 10,000 deaths": 1, "700 hectare": 1}
+{"1.5 to 6 feet": 1, "6-foot": 1, "1.5-foot": 1, "160 surveys": 1, "93 agencies": 1, "6 percent": 1, "18 percent": 1, "$1.7 billion": 1, "category 5": 1, "doubling": 1, "category 4 and 5": 1, "200": 1}
+{"category 2 or 3": 1, "category 1": 1, "category 4": 1}
+{"20 percent": 2, "40 percent": 1, "30 percent": 1, "half": 1}
+{"384 children": 1, "second to fourth grade": 1, "35 deaths": 1, "$16.3 billion": 1, "35 percent": 1, "29 percent": 1, "high percentage": 1}
+{"largest": 1, "most devastating": 1, "52,000 responders": 1, "48% of students": 1, "30% continued": 1}
+{"twofold increase": 1, "highest proportion": 1, "numerous": 1}
+{"600": 1, "95 percent": 1, "125 acres": 1, "59 percent": 1, "36 percent": 1, "13 hectares": 1, "42 hectares": 1, "296 percent": 1, "18 percent": 1, "41 percent": 1}
+{"$1 trillion": 1, "$627 billion": 1, "six times": 1, "$100 billion": 1, "1.5 million people": 1, "six percentage points": 1, "12.4 percent": 1, "9.42 inches": 1}
+{"great quantities": 1, "28 to 64 centimeters (11 to 25 inches)": 1, "75 percent": 1, "more than 24 hours": 1}
+{"category 5": 1, "1200 miles": 1}
+{"mid-three or four category": 1, "hundreds of years": 1, "nearly $700,000": 1, "five": 1, "17": 1, "at least several feet": 1, "12 british navy logbooks": 1, "upwards of 100 books": 1, "800 pages": 1, "nearly 50 useful items": 1, "four": 1, "five kilometers": 1}
+{"135 knots": 1, "155 mph": 1, "250 kmh": 1, "245 miles": 1, "13 knots": 1, "15 mph": 1, "24 kmh": 1, "42 feet": 1, "13 meters": 1, "60 mm": 1, "2.36 inches": 1, "938 millibars": 1, "75 knots": 1, "86 mph": 1, "138 kmh": 1, "983 millibars": 1, "16 mm": 1, "0.6 inch": 1, "34 knots": 1, "39 mph": 1, "63 kmh": 1, "33 kmh": 1, "20 mph": 1, "941 millibars": 1}
+{"295 kilometers per hour": 1, "183 mph": 1, "category five": 1, "3-d": 1}
+{"3-d": 1, "90 knots": 1, "166 kilometers per hour": 1, "103 mph": 1, "category two": 1, "1,400 kilometers": 1, "875 miles": 1, "19 knots per hour": 1, "35 kilometers per hour": 1, "22 mph": 1, "48 kilometers": 1, "30 miles": 1, "100-plus knot-per-hour": 1, "185 kilometers per hour": 1, "115 mph": 1}
+{"19 tropical storms": 1, "third most active": 1, "five to 50 percent": 1, "less than five percent": 1, "0.14 inches": 1, "6.55 inches": 1, "0.04 inch": 1, "3.89 inches": 1, "1.55 inches": 1, "8.34 inches": 1, "51 percent": 1, "12.95 inches": 1, "15.25 inches": 1, "27 inches": 1, "14.71 inches": 1, "15.35 inches": 1, "30 inches": 1, "2.97 inches": 1, "4.07 inches": 1, "12.4 feet": 1, "2.3 feet": 1, "42,000 fires": 1, "775,000 acres": 1, "244 of the state's 254 counties": 1, "400,000 acres": 1, "13 times": 1, "sixth strongest": 1, "five stronger": 1, "four resulted": 1}
+{"38 mph": 1, "73 mph": 1, "235-foot long": 1, "65-foot diameter": 1, "74 mph": 1, "20,000 feet": 1}
+{"four times": 1, "category 4": 1, "25-hour flight": 1, "20 passes": 2, "category 3": 1}
+{"above-average": 1, "significant": 1, "as much as $375 billion": 1, "90 percent": 1, "60 percent": 1}
+{"74 miles per hour": 1, "63 miles an hour": 1, "six feet deep": 1, "2 to 2.5 miles long": 1, "3 miles wide": 1, "75 miles north": 1, "14 computer model simulations": 1}
+{"one": 1, "two": 1, "five": 1, "10": 1, "lots": 1}
+{"more than 50 percent": 1, "more than 35 million americans": 1}
+{"huge amounts": 1, "a million miles an hour": 1, "twenty times more": 1}
+{}
+{"2,047 individuals": 1, "182 survivors": 1, "34 percent": 1, "87 percent": 1, "20 percent": 1, "421 people": 1, "4 percent": 1, "16 percent": 1, "658 adults": 1}
+{"60,000 feet": 1, "14 different instruments": 1, "380-pound": 1}
+{"20 percent": 1, "70 percent": 1}
+{"two tandem buoy sets": 1, "450 miles": 1}
+{"largest-ever": 1, "multiple": 2, "three": 2, "four": 1, "16 hours": 1, "24 hours": 1, "20 hours": 1, "eight hours": 1, "four hours": 1, "30 hours": 1}
+{"lower": 1, "warmer-than-average": 1, "70 percent probability": 1, "11 named storms": 1, "six hurricanes": 1, "two major hurricanes": 1, "upper bounds": 1, "considerable activity": 1, "high likelihood": 1}
+{}
+{"12 cities": 1, "112 mph": 2, "category 3": 1, "category 1": 1, "category 2": 1, "$450 billion": 1}
+{"hundreds of miles": 1, "one mile": 1, "less": 1, "large number": 1}
+{"millions of numbers": 1, "81,920 desktop cpus": 1, "nearly two million people": 1, "10 deadliest cyclones": 1}
+{"one of the largest": 1, "10 percent": 1, "roughly forty percent": 1, "single line": 1}
+{"400": 1, "45 percent": 1, "more than a quarter": 1, "more than 60": 1, "ages 12 to 19": 1, "more than 50": 1}
+{"almost 2 inches per hour": 1, "above 15 kilometers": 1, "9 miles": 1}
+{"one of the tropical-storm-in-ten": 1, "110 miles": 1, "at least 30 people": 1}
+{"fewer probabilities": 1, "number of hurricanes": 2, "dramatic increase": 1, "higher temperature": 1, "higher energy values": 1}
+{"three": 2, "15": 1}
+{}
+{"degree": 1, "relatively high stage": 1, "high volume": 1, "second line of defense": 1}
+{"one million": 1, "50-meter resolution": 1, "10 to 20 times more detailed": 1, "4,096 cores": 1, "between one and four simulations": 1}
+{"eighteen": 1, "110 by 119 kilometers": 1, "68 by 74 miles": 1}
+{"311 dialysis patients": 1, "six regional dialysis centers": 1, "58 percent": 1, "54 percent": 1, "48 percent": 1, "38 percent": 1, "31 percent": 1, "57 percent": 1, "6 percent": 1, "43 percent": 1, "42 percent": 1, "75 percent": 2, "three times a week": 1}
+{"five": 2, "first": 1, "tier 1": 1, "not more than $30 million": 1, "approximately $10 million": 1, "maximum $150 million": 1, "six": 1, "22": 1, "nine": 1, "three": 1, "35": 1, "four": 1, "several feet": 1, "30 hours": 1}
+{"17 named storms": 1, "10 of those storms": 1, "11 tropical storms": 1, "six of them": 1, "high number": 1, "eight named storms": 1, "four of them": 1, "nine named storms": 1, "three that became hurricanes": 1, "13.7 named storms": 1, "7.8 were hurricanes": 1, "13.8 named storms": 1, "7.9 hurricanes": 1, "$6.2 million": 1, "five-year grant": 1, "trillions of calculations": 1}
+{"70 percent probability": 1, "11 named storms": 1, "six hurricanes": 1, "two major hurricanes": 1, "high end": 1}
+{"70 percent": 1, "9 to 15": 1, "4 to 8": 1, "1 to 3": 1, "category 3, 4 or 5": 1, "15 to 16": 1, "nine": 1, "four to five": 1, "two to three": 1}
+{"20 meters": 1, "66 feet": 1, "50,000 kilometers": 1, "31,000 miles": 1, "90 meters": 2, "300 feet": 1, "25 meters": 1, "82 feet": 1, "category-4": 2}
+{"$30 billion": 1, "$100 billion": 1, "more than a dozen": 1, "one-quarter": 1, "$60 billion": 1, "14-15 feet": 1, "20- to 25-foot": 1}
+{"six miles": 1, "80 percent": 1, "six meters": 1, "1,800": 1, "700": 1, "one million": 1, "$84 billion": 1, "128 sampling sites": 1}
+{"seventy percent": 1, "200,000 to 250,000": 1, "$3 to $5 million per day": 1, "$2 billion": 1, "two to three times": 1, "two to three days": 1}
+{"8 million gallons": 1, "75 percent": 1, "ten": 1, "10,000 gallons": 1, "76 percent": 1, "18 percent": 1, "six percent": 1, "55 percent": 1}
+{"increase": 1, "two": 1, "three": 1, "billions": 1}
+{"more than 500": 1, "57 percent": 1, "62 percent": 1, "30 percent": 1, "80 percent": 1, "60 percent": 1, "20 percent": 1, "$130,000": 1}
+{"twice as many": 1, "four degrees celsius": 1, "increase": 2, "decrease": 1}
+{"eighty percent": 1, "four": 1}
+{"most destructive": 1, "larger than most": 1, "greatest area": 1, "nearly 93,000 square miles": 1, "nearly 80 percent": 1, "thirteen papers": 1}
+{"many": 1, "close to five years": 1, "initial": 1}
+{}
+{"more than 11,800 feet": 1, "large number": 1}
+{"more than 20 percent": 1, "thousands": 1}
+{"increasing": 1, "increased": 1, "further": 1, "nearly global": 1, "limited": 1, "10-year-old": 1, "two-year": 1}
+{"70 to 115 miles": 1, "50 percent": 1, "high levels": 1}
+{"substantial amounts": 1, "millions of dollars": 1, "13,500": 1, "more than 10,000": 1, "about 4,800": 1, "1,075": 1, "620": 1}
+{"more frequent": 1, "more powerful": 1, "a thousand kilometers": 1, "hundreds of thousands of hours": 1}
+{"90 percent": 1, "higher": 1, "more extensive": 1, "more frequent": 1}
+{"80 degrees fahrenheit": 1}
+{"two": 1, "increase": 3, "150 years": 1, "11": 1, "eight": 1, "20 years": 1, "one out of every five": 1, "half": 1, "4,100 miles": 1}
+{"several hundred miles": 1, "35 percent": 1, "doubling": 1, "33": 1, "56": 1, "58": 1}
+{"more than 30": 1, "higher levels": 1, "125": 1}
+{"highly populated": 1, "five satellites": 1, "several different satellites": 1, "three instruments": 1, "80f (300 kelvin)": 1, "220 kelvin or minus 63 degrees fahrenheit (f)": 1, "240 kelvin, or minus 27f": 1}
+{"1,400 miles": 1, "30 mph": 1, "9 mph": 1, "1,750 miles": 1, "13.9 north": 1, "134.1 west": 1, "30-50%": 1, "50 mph": 1, "16 mph": 1, "805 miles": 1, "16.9 north": 1, "120.5 west": 1, "999 millibars": 1}
+{"less": 1, "more": 2, "fewer": 1, "highest": 1, "increase": 1, "greater": 1}
+{"category four": 1, "1,480 miles": 1, "15.5 north": 1, "131.2 west": 1, "10 mph": 1, "937 millibars": 1, "50 mph": 1, "345 miles": 1, "20.7 north": 1, "125.9 west": 1, "17 mph": 1, "1,000 millibars": 1}
+{"nine": 1, "two thirds": 1, "three quarters": 1, "high numbers": 1, "far fewer": 2}
+{"65 knots": 1, "74 mph": 1, "category one": 1, "30 knots": 1, "1010 millibars": 1, "13 knots": 1, "15 mph": 1, "14 kilometers": 1, "8.7 miles": 1, "minus 60 degrees celsius": 1, "minus 76 degrees fahrenheit": 1, "45 knots": 1, "52 mph": 1, "1008 millibars": 1}
+{"upwards of 50 monitoring sites": 1, "one 8-ounce meal a month": 1, "$100-plus million industry annually": 1, "million transformers": 1}
+{"below-average season": 1, "mean of eight named storms": 1, "four hurricanes": 1, "11 tropical storms": 1, "six hurricanes": 1, "trillions of calculations": 1, "$6.2 million": 1}
+{"3-d": 3, "15 kilometers": 1, "9.3 miles": 1, "75 mph": 1, "1,465 miles": 1, "9 mph": 1, "987 millibars": 1, "720 miles": 1}
+{"next big flood": 1, "two case-studies": 1, "hundreds of thousands": 1}
+{"greater number": 1, "greater frequency": 1, "higher storm frequency": 1, "greater potential": 2, "plenty of time": 1, "number of hurricanes": 1, "number of months": 1}
+{}
+{"87 knots": 1, "100 miles per hour": 1, "1.5 million": 1, "$350 million": 1, "12 kilometers": 1, "8 miles": 1, "100 kilometers": 1, "62 miles": 1, "4,000 kilometers": 1, "2,500 miles": 1, "10 or 20 knots": 1, "12 to 23 miles per hour": 1, "63 knots": 1, "74 miles per hour": 1, "30 knots": 1, "35 miles per hour": 1, "eight": 1, "115": 1, "64": 1, "51": 1, "three-and-a-half times": 1, "30 percent": 1, "22 percent": 1, "58 percent": 1, "44 percent": 1, "$200 billion": 1, "$135 million": 1}
+{"state-of-the-art": 2, "new and improved": 1, "most comprehensive": 1, "very comprehensive": 1, "maximum": 1, "almost immediate": 1}
+{"rapidly": 2, "five": 1}
+{"30-degree": 1, "20 inches": 1}
+{"310 miles": 1, "80 degrees fahrenheit": 1}
+{"7 percent": 1, "15 percent": 1}
+{"5m": 2, "5000 years": 1}
+{"37": 1, "20": 1, "nine": 1, "75 percent": 1, "100 percent": 1}
+{"50 million tons": 2, "97 million trees": 1, "53-million ton": 1, "25 million tons": 1, "320 million trees": 1, "50\u2013140 percent": 1}
+{"7,500-page": 1, "350-mile": 1, "numerous": 1}
+{"a million-ton": 1, "3 metres": 1, "10 feet": 1, "three million tones": 1, "five metres": 1, "50 kilometres": 1}
+{"increase": 2, "roughly 50 percent": 1, "twice as likely": 1, "four times as likely": 1, "6 to 11 miles": 1, "40 miles per hour": 1}
+{"15 percent": 1, "80 percent": 1, "135,000 people": 1, "tens of thousands": 1, "$12 billion": 1, "category 1": 1, "category 4": 1, "millions of data points": 1}
+{"more than a thousand": 1, "70 mph": 1, "10.75 inches": 1, "9.71 inches": 1, "14.17 inches": 1, "21 people": 1, "300 people": 2, "4,000 people": 1, "793 people": 1, "another 300 people": 1, "74 deaths": 1, "two deaths": 1, "100 miles": 1, "260 miles": 1, "seven to ten inches": 1}
+{"a quarter-degree celsius": 1, "a half-degree fahrenheit": 1, "one degree fahrenheit": 1, "more than two-thirds": 1, "70 percent": 1, "about a quarter": 1, "about 30 percent": 1}
+{"76 miles": 1, "thousands of acres": 1}
+{"75 percent": 1, "24 percent": 1, "52 percent": 1, "category 4": 2, "category 2": 1, "category 3": 1}
+{"90 percent": 1, "18 inches": 1, "10": 1, "8.3 inches": 2, "10.2 inches": 1, "16 feet": 1, "5 feet": 1}
+{}
+{"category 1": 2, "category 4": 2, "26 degrees celsius": 1, "79 degrees fahrenheit": 1, "73 to 101 meters": 1, "240 to 331 feet": 1, "300 percent": 1, "115 knots": 1, "213 kilometers": 1, "132 miles": 1, "30 and 30.2 degrees celsius": 1, "86 degrees fahrenheit": 1, "6 to 20 centimeters": 1, "2.4 to 7.9 inches": 1}
+{"various levels": 1, "first place": 1, "great deal": 1}
+{}
+{"thousands": 1, "12.6 percent": 1, "3.4 percent": 1, "20,612": 1, "100 percent": 1, "21 percent": 1, "66 percent": 1, "23 percent": 1, "sixty-nine percent": 1, "28 percent": 2}
+{}
+{"more than $1 million": 1, "millions": 1}
+{"56 shipwrecks": 1, "342 people": 1, "a few hundred kilometres": 1, "200 by 200 kilometres": 1, "50 by 50 kilometres": 1}
+{"19.6%": 1, "18.8%": 1, "18.1%": 1, "less than 5%": 1}
+{"365 miles": 1, "10 miles": 1, "$7-billion-a-year": 1, "four elements": 1, "12 feet": 1}
+{"$100": 1, "102 percent": 1, "number of per capita convictions": 1, "14 per 100,000": 1, "less than two per 100,000": 1, "700 individuals": 1, "$33 billion": 1, "$300 million": 1}
+{"more than ten countries": 1}
+{"16": 2, "eight": 2, "five": 3, "category 3": 2, "14 to 18": 1, "seven to 10": 1, "three to six": 1, "11": 1, "six": 2, "two": 1, "tenth": 1, "fourth": 1, "fifth": 1, "three": 1}
+{}
+{"tens of thousands": 1, "33": 1, "6 000": 1, "10 000": 1, "10": 1}
+{"60-foot": 1, "12 feet": 1, "10 feet": 1, "five feet": 1, "eight to 40 inches": 1, "6.5 feet": 1}
+{"more than $100 billion": 1, "more than a factor of two": 1}
+{"first": 2, "second": 1, "500": 1, "1,000": 1, "60 percent": 2}
+{"100 seams": 1, "three areas": 1, "70%": 1, "27%": 1, "350 miles": 1}
+{"increase": 1, "several": 1, "two": 1, "three": 1, "20 miles": 1, "7.5 miles": 1, "2.5 miles": 1}
+{"vast": 1, "increase": 2, "increased": 1, "more": 1, "a good record": 1}
+{"substantial": 1, "persistent": 1, "long-term": 1, "much greater": 1, "6.7 billion": 1, "1 billion": 1, "12.3 billion": 1, "12 percent": 1, "31 percent": 1}
+{"several": 1, "30-plus feet": 1, "26": 1, "30-foot": 1, "billion-dollar": 1}
+{"two feet": 1, "25,500 cubic feet per second": 1, "26,800": 1, "29,000 cubic feet per second": 1, "another inch or two": 1}
+{"35-foot-high": 1, "500-meter-spacing": 1, "ten": 1}
+{"more than 2 tons": 1}
+{"40m/s": 1, "80 knots": 1, "400-km-wide": 1}
+{"80 degree fahrenheit": 1, "category 3": 1, "category 4": 1, "145 mph": 1, "five to ten inches": 1, "15 inches": 1, "4-8 inches": 1, "25.28 inches": 1, "17.43 inches": 1, "6.85 inches": 1, "6.11 inches": 1, "5.30 inches": 1, "5.90 inches": 1, "5-7 storms": 1, "10": 2, "13": 1, "11": 2, "14": 1}
+{"400 km": 1, "150 km per hour": 1, "195 km per hour": 1, "210 km per hour": 1, "177 km an hour": 1}
+{"strongest": 3, "more": 2, "maximum": 2, "average": 2, "90 times per year": 1, "140 mph": 1, "156 mph": 1, "28.2 degrees celsius": 1, "28.5 degrees celsius": 1}
+{"222 local residents": 1, "tripled": 1, "considerably higher": 1, "64 per cent": 1, "47 per cent": 2, "60 per cent": 1, "77 per cent": 1, "more than a quarter": 1, "almost a quarter": 1}
+{"93": 1, "60": 1, "majority": 2, "96": 1, "large number": 1}
+{"category 3": 1, "category 5": 2, "up to 175 mph": 1, "3,000 platforms": 1, "22,000 miles": 1, "$1 billion": 1, "billions of dollars": 1}
+{"50": 1, "half": 1, "many": 2, "more than 100": 1}
+{"category 5": 1, "200 mph": 1, "$7-million": 1, "1,900 square foot": 1, "two-storey": 1, "four-bedroom": 1, "60 pressure boxes": 1}
+{"six hurricanes": 1, "10 expected": 1, "15 hurricanes": 1, "30 to 40 percent": 1, "fewer hurricanes": 1}
+{"more": 3, "two": 1, "increased": 2, "less": 1}
+{"85 percent": 1, "65 percent": 1, "67 percent": 1, "14 to 18": 1, "seven to 10": 1, "three to six": 1, "category 3": 1, "five": 2, "12 to 16": 1, "six to nine": 1, "two to five": 1, "11": 1, "six": 1, "two": 1, "10 percent": 1, "five percent": 1}
+{"10 percent": 1, "30%": 1, "billions of dollars": 1, "millions of people": 1, "1.5- 1.75 m": 1, "4.92 \u00e2\u0080\u0093 5.74 feet": 1, "0.3 m": 1, "0.98 feet": 1, "0.5- .75 m": 1, "1.64 \u00e2\u0080\u0093 2.46 feet": 1}
+{"5,055": 2, "eight states": 2, "20 miles": 2, "39%": 1, "36%": 1, "27%": 1, "29%": 1, "12%": 1, "46%": 2, "23%": 1, "28%": 1, "18%": 1, "49%": 1, "25%": 1, "14%": 1, "43%": 1, "17%": 2, "9%": 1, "30%": 2, "22%": 1, "10%": 1, "50%": 1, "45%": 1, "41%": 2, "19%": 1, "500": 2, "1,007": 1, "502": 1, "1,002": 1, "506": 1, "538": 1, "2.8 percentage points": 1}
+{"one": 2, "more than a one-meter (three-foot)": 1, "category 5": 1, "seven": 1, "magnitude 9": 1, "0.5 meters (1.6 feet)": 1, "hundreds of miles per hour": 1, "2.5 centimeters (one inch)": 1, "161 kilometers (100 miles)": 1}
+{"single": 1, "multiple": 1, "secondary": 2, "maximum": 1}
+{"30-degree": 1, "20 inches": 1}
+{"3.6 degrees fahrenheit": 1, "at least a few percent": 1, "10 percent": 1, "200 mph": 1}
+{"greater amount": 1, "abundant": 1}
+{"65 percent probability": 1, "25 percent probability": 1, "90 percent chance": 1, "60 to 70 percent chance": 1, "12 to 16 named storms": 1, "6 to 9 hurricanes": 1, "2 to 5 major hurricanes": 1, "11 named storms": 1, "six hurricanes": 1, "two reach major status": 1, "39 mph": 1, "74 mph": 1, "111 mph": 1, "more than 70 countries": 1}
+{"more intense": 1, "fewer hurricanes": 1, "higher resolution": 1, "higher levels": 1, "increasing trend": 1, "increasing tropical atlantic sea surface temperatures": 1, "increasing greenhouse gases": 2, "reduced storm frequency": 1, "recent increase": 1, "number of hurricanes": 1, "hurricane intensities": 1}
+{"more intense": 1, "thousands of years old": 1, "more susceptible": 1, "520 non-branching corals": 1, "second largest barrier reef": 1, "past five years": 1}
+{"more than 50 people": 1, "approximately 80 evacuees": 1}
+{"144 individuals": 1, "more than half": 1, "nearly two-thirds": 1, "nearly 60 percent": 1, "about 60 percent": 1, "about 20 percent": 2, "almost one-third": 1, "just six percent": 1, "five times more likely": 1, "about 66 percent": 1}
+{"increase": 4, "doubling": 1, "factor of two": 1, "a lot less": 1}
+{"several microns": 1, "ten centimeters": 1}
+{"20": 1, "110": 1, "145 miles per hour": 1, "120 miles": 1}
+{"one": 2, "$100 million": 1, "$50,000": 1, "a dozen": 1, "800 meters": 1, "5 percent": 1, "$2.5 billion": 1, "three": 1}
+{"15 named storms": 1, "eight of the storms": 1, "four are expected": 1, "111 mph or greater": 1, "9.6 named storms": 1, "5.9 hurricanes": 1, "2.3 intense hurricanes": 1, "69 percent": 1, "52 percent": 1, "160 percent": 1, "275 percent": 1, "one hurricane landfall": 1, "four major hurricanes": 1, "four landfalling hurricanes": 1, "11 regions": 1, "55 sub-regions": 1, "205 individual counties": 1}
+{"five": 1, "60,000 miles": 1, "500 miles": 1}
+{"five young": 1, "13": 1, "three litters": 1, "20 nutria": 1, "20 million": 1, "2962--2968 cm": 1, "2918--2922 cm": 1}
+{"more": 2, "steadily increased": 1, "doubling": 1, "far greater": 1, "a great deal": 1, "$140 billion to $157 billion": 1, "$81 billion": 1, "$10 billion": 1}
+{"70 centimetres": 1, "40 centimetres": 1, "30 centimetres": 1, "$5,000": 1}
+{"one third": 1, "25-year": 1, "millions of tons": 1, "one degree celsius": 1, "two degrees fahrenheit": 1}
+{"four major episodes": 1, "120 km": 1, "215-m-high": 1, "15 km": 1}
+{"40 per cent": 2, "0.5\u00b0c": 1, "90 per cent": 1, "75-80 per cent": 1}
+{"increase": 2, "decrease": 1, "fewer": 1, "10\u00b0-20\u00b0 north latitude": 1}
+{"billions of dollars": 1}
+{"one football field": 1, "30 percent": 1, "more than 975 square miles": 1, "multi-billion-dollar": 1, "25 percent": 1, "five": 1}
+{"54.3\u00b0 f": 1, "1.5\u00b0f": 1, "0.8\u00b0c": 1, "52.8\u00b0f": 1, "three percent": 1, "eight percent": 1, "$1 billion": 1, "2,500": 1, "58.0 f": 1, "0.6\u00b0c": 1, "0.7\u00b0c": 1, "three times": 1, "23 percent": 1, "10 percent per decade": 1, "three-quarters": 1, "millions of dollars": 1, "nine million acres": 1, "15 named storms": 1, "four more": 1, "six storms": 1, "two category 5 storms": 1, "three tropical depressions": 1, "one tropical storm": 1, "one category 1 hurricane": 1, "3.6\u00b0f": 1, "2\u00b0c": 1}
+{"increase": 2, "decrease": 2, "more": 3, "average": 2, "record high": 1, "upper limit": 2}
+{"increase": 1, "how much": 2, "record": 1, "28.9": 2, "65 degrees": 1, "zero": 2, "over half": 1, "27 percent": 1}
+{"more than 1,000 people": 1, "500,000 others": 1, "more than $100 billion": 1, "1,043 residents": 1, "31.2 percent": 1, "49.1 percent": 1, "26.4 percent": 1, "16.3 percent": 1, "30.3 percent": 1, "12.5 percent": 1, "younger than age 60": 1, "91.9 percent": 1, "81.7 percent": 1, "10 categories": 1}
+{"more frequent": 2, "stronger": 2, "higher": 2, "a lot": 1, "more sensitive": 1, "more coherent": 1, "more consistent": 1, "significant": 2, "increasing": 1}
+{"larger": 1, "shorter": 1, "five-step": 1}
+{"a constant percentage": 1, "an average undercount bias at most of approximately one tropical storm per year": 1, "three or more storms": 1, "more than 60 years": 1, "15 total atlantic tropical storms": 1, "error margin of 4": 1, "14 storms": 1, "a little more than one week": 1, "1.2 storms per year": 2, "three storms per year": 1, "fifty percent": 1}
+{"10 -- 12 foot": 1}
+{"22 percent": 1, "136": 2, "58": 1, "42.6 percent": 1, "41": 1, "70.7 percent": 1, "27": 1, "65.9 percent": 1, "eight": 1, "19.5 percent": 1, "six": 1, "14.6 percent": 1, "two": 1, "4.9 percent": 1}
+{"five million acres": 1, "60-100 percent": 1}
+{"500,000 people": 1, "90,000 square miles": 1, "1,043 people": 1}
+{"three": 2, "first": 1}
+{}
+{"more than 50 percent": 1, "50 miles": 1, "more than 37 million people": 1, "19 million homes": 1}
+{"two": 1, "category five": 1, "thousands of miles": 1, "nearly 200": 1, "eight additional": 1}
+{"five": 2, "four": 1, "two": 1, "one": 2, "near-normal": 1, "slightly cooler": 1, "near-record low": 1, "average": 2, "category 5": 1, "most": 1}
+{"category three": 1, "125 mph": 1, "205 km/hr": 1, "18.9 degrees north": 1, "88.7 degrees west": 1, "40 miles": 1, "60 kilometers": 1, "135 miles": 1, "220 km": 1, "935 millibars": 1, "20 mph": 1, "32 km/hr": 1, "6 to 8 feet": 1, "5 to 10 inches": 1, "20 inches": 1}
+{"category 5": 1, "a few hundred": 1, "26\u00bac": 1, "100 metres": 1}
+{"over 80 degrees fahrenheit": 1, "80 degrees fahrenheit": 1, "80 degrees f or higher": 1, "somewhat cooler": 1}
+{"six": 1, "four": 2, "two": 1, "ten": 1, "five": 3, "fifteen": 1, "eight": 1, "seven": 1, "1.3 degrees fahrenheit": 1, "0.7 degrees fahrenheit": 1, "55 percent": 1, "110 miles per hour": 1, "50 percent": 1}
+{"eight states": 2, "20 miles": 2, "three-quarters (75%)": 1, "over half (56%)": 1, "one in three (36%)": 2, "one-third (33%)": 1, "one in four (27%)": 1, "5,046 adults": 2, "68%": 1, "66%": 1, "65%": 1, "62%": 1, "58%": 1, "one in ten (9%)": 1, "nearly half (44%)": 1, "two in three (66%)": 1, "one in two (49%)": 1, "13%": 1, "half (50%)": 1, "one out of three (34%)": 1, "thirty-nine percent": 2, "one in five (20%)": 2, "one in four (25%)": 1, "16%": 1, "46%": 1, "35%": 1, "20%": 1, "14%": 1, "12%": 1, "5%": 2, "3%": 1, "8%": 1, "32%": 1, "six in ten (61%)": 1, "54%": 2, "51%": 1, "23%": 2, "78%": 1, "19%": 1, "73%": 1, "71%": 1, "59%": 1, "17%": 1, "10%": 1, "18%": 1, "4%": 1, "33%": 1, "11%": 1, "25th": 1, "503 interviews": 1, "1,006": 1, "506": 1, "1,004": 1, "513": 1, "504": 1, "507": 1, "503": 1, "502": 1, "2.6 percentage points": 1, "4.7 percentage points": 1}
+{"10-fold increase": 2, "500 vine stems": 1, "27 acres": 1, "2.5 acres": 2, "20 percent": 1, "five 2.5-acre plots": 1, "10 vines": 1, "one vine": 1, "five-fold difference": 1, "100 vines": 1, "200 vines": 1}
+{"first": 2, "two grants": 1, "category 3 storms": 1}
+{"one to more than two feet": 1, "$3.9 billion": 1, "$6.9 billion": 1, "200 percent": 1, "$242 million to $2.7 billion": 1, "$26 million to $291 million": 1, "$37 million to $212 million": 1, "$2 million to $7 million": 1, "$34 million": 1, "$157 million": 1, "$1.4 billion": 1, "$50 million": 1, "$200 million": 1, "$800 million": 1, "$900 million": 1, "44 percent": 1, "$1.39 billion": 1, "2,000 square miles": 1, "one-meter": 1}
+{"four articles": 1, "94 dialysis facilities": 1, "more than one-third": 1, "over 5,800": 1, "2.5 percent": 1, "over 50": 1}
+{"billions of dollars": 1}
+{"increases": 2, "many": 1, "sufficient": 1, "more": 1}
+{"hundreds of miles": 1, "59 percent": 1, "20 people": 1, "more than 200 miles": 1, "13 u.s. storms": 1}
+{"84-page": 1, "thousands of pages": 1, "1,000-fold": 1, "a thousand people": 1, "5 to 10 feet": 1, "350-mile": 1, "50 locations": 1}
+{"increase": 1, "82 degrees fahrenheit": 1, "200 kilometers": 1, "1,000 kilometers": 1}
+{"eight 5-foot-tall industrial fans": 1, "four marine diesel engines": 1, "2,800 horsepower": 1, "5,000-gallon tank": 1, "130 mph": 2, "category 3": 1, "$500,000": 1, "1,800 revolutions per minute": 1, "100 mph": 1, "35 inches per hour": 1, "8 inches per hour": 1}
+{"category 3, 4, and 5": 1, "more frequent": 2, "less often": 1, "increased": 2}
+{"highest probability": 1, "22.4 percent": 1, "second at 21.2 percent": 1, "third and fourth, respectively, at 20.8 percent and 20.7 percent": 1, "tied for fifth at 20.1 percent": 1, "15 percent or greater": 2, "at least 15 percent": 1, "20 counties": 1, "10 in florida": 1, "eight in north carolina": 1, "one in louisiana": 1, "one in south carolina": 1, "74 mph or greater": 1, "61 counties": 1, "six counties": 1, "98 percent": 1}
+{"13 to 17": 1, "seven to 10": 1, "three to five": 1, "11": 1, "six": 1, "two": 1, "one to three": 1, "nine": 1, "60": 1}
+{"20": 1, "3-d": 1, "120 miles": 1, "110": 1, "145 miles per hour": 1}
+{"over 38%": 1, "3.6%": 1}
+{"thousands": 1, "ten miles": 1, "several hours": 1}
+{"higher-than-normal levels": 1, "elevated risk": 1}
+{"1-km resolution": 1}
+{"17 named storms": 1, "5 major hurricanes": 1, "74 percent probability": 1, "over 5.5 million acres": 1, "9 theoretical stands": 1}
+{"increase": 3, "substantial increases": 1, "systematic increase": 1}
+{"twice as frequently": 1, "every 15 minutes": 1, "nearly 70,000 deaths": 1, "more than half": 1, "another 20 percent": 1, "more than 100,000 people": 1, "$1 billion": 1, "nine countries": 1, "15 federal agencies": 1, "three white house offices": 1, "thousands of instruments": 1}
+{}
+{"more than 2,000 photographs": 1, "category 3 hurricane": 1}
+{"17 named storms": 1, "nine of the 17 storms": 1, "five": 1, "111 mph or greater": 1, "10 named storms": 1, "5 hurricanes": 2, "two major hurricanes": 1, "27 named storms": 1, "15 hurricanes": 1, "seven intense hurricanes": 1, "9.6 named storms": 1, "5.9 hurricanes": 1, "2.3 intense hurricanes": 1, "74 percent": 1, "52 percent": 1, "185 percent": 1, "275 percent": 1, "11 regions": 1, "55 sub-regions": 1, "205 individual counties": 1}
+{"six": 1, "60": 1, "90": 1, "100 miles": 1, "eight": 1, "20 meters per second": 1, "32 meters per second": 1, "48 meters per second": 1}
+{"several": 2, "four tropical storms": 1, "five hurricanes": 1, "record number of 12 tropical storms": 1, "15 hurricanes": 1, "sharp decrease": 1, "1 degree celsius (1.8 degrees fahrenheit)": 1, "most significant": 1, "large area": 1, "stronger": 1, "slightly above normal": 1}
+{"category 5": 2, "category 3": 1, "approximately 10 -- 12 times": 1, "0.3 percent": 1, "more than $690,000": 1, "12 other co-investigators": 1}
+{"several": 1, "13 aircraft missions": 1, "seven storm systems": 1, "hundreds of miles": 1}
+{"six": 1, "2,000 fatalities": 1, "$90 billion": 1, "15 hurricanes": 1, "category 1": 1, "category 5": 2, "category 4": 1}
+{"three times the size": 1, "30 to 40 metres per second": 1, "140 kilometres per hour": 1, "100 feet": 1}
+{"27 degrees celsius": 1, "81 degrees fahrenheit": 1}
+{"greater-than-normal": 1, "fewer-than-normal": 1, "up to three years": 1, "60 countries": 1}
+{"first time": 3, "hurricane-strength": 1, "small": 1}
+{"82 degrees fahrenheit": 2, "nine named storms": 1, "five hurricanes": 1, "two": 3, "category 3 strength or higher": 1, "11 named storms": 1, "six": 1, "25 storms": 2, "two degrees warmer": 1, "12 or so seedling storms": 1, "3 miles high": 1, "17 storms": 1, "four deaths": 1, "five deaths": 1}
+{"four major hurricanes": 1, "more than 25 institutions": 1}
+{"a range of": 1, "large numbers of": 1, "at least 99 percent": 1, "5.58 billion": 1, "40,000": 1, "10,000": 1, "over $400 million": 1}
+{"six": 1, "more than 1,000": 1, "2,500": 1, "hundreds": 1, "dozen or so": 1, "many thousands": 1, "$100 million": 1}
+{"more than 4,000": 1, "at most 600": 1, "four meters": 1, "20 percent": 1, "2,000": 1, "1,100": 1}
+{"rapid increase": 1, "large areas": 1}
+{"category 4": 2, "11 millibars": 1, "rapid intensification": 2, "high resolution": 1, "small changes": 1, "large amount": 1}
+{"0.58\u00b0c": 1, "14.6\u00b0c/58.28\u00b0f": 1, "0.26\u00b0c": 1, "13.4\u00b0c/56.12\u00b0f": 1, "0.7\u00b0c": 1, "0.18\u00b0c per decade": 1, "0.53\u00b0c": 1, "0.27\u00b0c": 1, "44.2\u00b0c/111.6\u00b0f": 1, "44.6\u00b0c/112.3\u00b0f": 1, "40\u00b0c/104\u00b0f": 1, "2.7\u00b0c": 1, "3\u00b0c": 1, "11 million": 1, "11 per cent": 1, "3.8 million hectares": 1, "millions of hectares": 1, "70 per cent": 1, "60 000 people": 1, "50 000 people": 1, "50 years": 1, "600 lives": 1, "hundreds of thousands": 1, "six times": 1, "tens of thousands": 1, "500 mm": 1, "1 000 casualties": 1, "hundreds of thousands of hectares": 1, "tens of thousands of people": 1, "200 000 people": 1, "351 mm": 1, "22 tropical cyclones": 1, "27": 1, "14": 1, "1 000 fatalities": 1, "us $ 10 billion": 1, "1.5 million people": 1, "500 lives": 1, "nine named tropical storms": 1, "ten": 1, "five": 1, "six": 1, "two": 1, "19 named storms": 1, "16": 1, "eleven": 1, "twelve tropical cyclones": 1, "80-90 per cent": 1, "29.5 million km\u00b2": 1, "29.4 million km\u00b2": 1, "40.8 megatonnes": 1, "20 per cent": 1, "5.9 million km\u00b2": 1, "340 000 km\u00b2": 1, "8.59% per decade": 1, "60 421 km\u00b2 per year": 1}
+{"approximately 30 miles": 1}
+{"category 5": 1, "three": 1, "299,578": 1}
+{"in excess of 30,000 people": 1, "thirteen of the 20 largest cities": 1, "1.8 million people": 1, "more than half of all deaths": 1}
+{"1.7 to 1.8 mm": 1, "0.07 in": 1, "3 mm": 1, "0.12 in": 1, "1.4\u00b0 to 5.8\u00b0 c": 1, "2.5\u00b0 -10.4\u00b0 f": 1, "0.09-0.88 meters": 1, "4 inches to 2.9 feet": 1, "11.8 to 37.5 inches": 1, "9.5 to 42.5 inches": 1, "15 to 19 inches": 1, "1.5 feet": 1, "25 feet": 1, "21 feet": 1, "24 feet": 1, "16 feet": 1, "13-foot": 1, "25-35 foot": 1, "category 3": 2, "category 4": 2, "category three": 1, "category four": 1, "1 to 5": 1, "5": 1, "nearly 700 people": 1}
+{"most extreme salinities": 1}
+{"two": 2, "60 to 70 degrees fahrenheit": 1, "15-21 degrees celsius": 1, "80 degrees fahrenheit": 1, "27 degrees celsius": 1, "7 degrees fahrenheit": 1, "4 degrees celsius": 1, "82 degrees fahrenheit": 1, "28 degrees celsius": 1}
+{"54 mph": 1, "category 4": 1}
+{"rising": 1, "a decade or two": 1, "25 years": 1, "many million tons": 1, "fewer": 1, "stronger": 1}
+{"40 feet": 1, "91 feet": 1, "9 feet": 1}
+{"many": 1, "three": 1, "significant": 1, "prolonged": 1, "high": 1, "small": 1}
+{"complete picture": 2, "how much rain": 1, "high quality": 1}
+{"700 millibars": 2, "10,000 feet": 2, "750-550 millibars": 1, "10,000 to 19,000 feet": 1, "5,000-20,000 feet": 1, "25-55 mph": 1, "6-7 kilometers": 1, "4 miles": 1, "24 dropsondes": 1, "500-400 millibars": 1, "20,000 feet": 1, "35,000 feet": 1, "7 kilometers": 1, "4.3 miles": 1, "40 to 50 nautical miles per hour": 1, "45-55 mph": 1, "60 knots": 1, "70 mph": 1, "40-45 knots": 1, "45-51 mph": 1}
+{"dozens": 1, "37 presentations": 1, "238 soil and sediment samples": 1, "118 square miles": 1}
+{"one-to-three-day": 1, "more than a third": 1, "more than 50%": 1, "more than 70%": 1, "approximately 4,000": 1, "77 countries": 1}
+{"22": 1, "84 percent": 1, "67 percent": 1}
+{"millions of trees": 1, "amounts of dead trees and branches": 1, "broad spectrum": 1, "most flammable fuels": 1, "more of them": 1}
+{"1,300": 1, "450,000": 1, "$125 billion": 1, "350,000": 1, "2,400": 1, "30-person": 1, "category 4 and 5": 2, "150 g-ton": 1}
+{"first": 1, "seven": 1, "65,000-70,000 feet": 1, "dozens": 1, "small number": 1, "minus-80 degrees fahrenheit": 1, "low pressure": 1, "very low power": 1}
+{"low rate": 2, "70 percent": 1, "1,043 individuals": 1, "41.9 percent": 1, "11.3 percent": 1, "6.1 percent": 1, "19.9 percent": 1, "9.7 percent": 1, "doubling": 1}
+{"1,833": 1, "over $80 billion": 1, "category 1": 1, "category 5": 1, "175 mph": 1, "902 millibars": 1, "fourth lowest pressure": 1, "at least 80 percent": 1, "20 feet": 1, "25-30 foot": 1, "two city blocks": 1, "25 percent": 1}
+{"average": 2, "several": 1, "large increases": 1, "highly detailed": 1}
+{"nearly 75 percent": 1, "over the ages of 60 or 65": 1, "90 to 99 percent probability": 1}
+{"5 meters": 1, "25 percent": 1, "10 meter heights": 1, "60 square miles": 1, "nine billion gallons": 1}
+{"350 miles": 1, "39 mph": 1, "73 mph": 1, "hundreds of miles": 1}
+{"120-mph": 1, "40 mph": 1, "several": 1, "majority": 1, "most": 1, "limited budgets": 1, "extensively": 1, "190,000": 1}
+{"billions of tons": 1, "millions of miles per hour": 1, "up to a billion": 1, "1-megaton": 1, "700 computer processors": 1}
+{"2.7 to 5 times": 1, "30 frames per second": 1, "six meters per second": 1, "12 nautical miles an hour": 1, "130 meters": 1, "400 feet": 1, "7,000 vertical profiles": 1, "5,517 kilometer": 1, "3,443 miles": 1, "200 kilometers an hour": 1, "125 miles per hour": 1}
+{"a lot": 2, "some of the most": 2, "three named storms": 1, "in excess of 8 kilovolts (8,000 volts) per meter (3.2 feet)": 1}
+{"record 28": 1, "1.7 degrees f": 1, "0.8 degrees f": 1, "0.4 degrees f": 1, "less than 0.2 degrees f": 1}
+{"30-page": 1, "twenty": 1, "approximately 25 years": 1, "at least 26\u00b0c (79\u00b0f)": 1}
+{"10-to-20 percent": 1, "5-to-10 percent": 1}
+{"3 feet": 2, "one inch": 1, "a meter or more": 1, "33 scenes": 1, "33 radar images": 1}
+{"increase": 2, "decrease": 1, "decline": 1, "one and a half to two cycles": 1, "significant": 2, "higher": 1}
+{"15 to 16 tropical storms": 1, "nine becoming hurricanes": 1, "four to five major hurricanes": 1, "below normal": 2, "lower activity": 1, "higher easterly wind shear": 1, "fewer tropical storms": 1, "below-average season": 1}
+{"13 to 16 named storms": 1, "eight to 10 becoming hurricanes": 1, "four to six could become 'major' hurricanes": 1, "category 3 strength or higher": 1, "11 named storms": 1, "six becoming hurricanes": 1, "two major hurricanes": 1, "28 storms": 1, "15 hurricanes": 1, "seven of these hurricanes": 1, "four hit the united states": 1, "nine of the last 11 hurricane seasons": 1, "two below-normal seasons": 1, "61 countries": 1}
+{"more than 50 times": 1, "more than five times": 1, "over a long period of time": 1, "hundreds of thousands": 1, "25 deaths": 1, "250,000 people": 1, "975 miami-dade county adolescents": 1, "$200 billion": 1, "$35 billion": 1, "five events": 1}
+{"large number": 1, "several": 1, "half": 1, "89\u00b0f": 1}
+{"cooler than normal": 2, "slightly cooler than normal": 1, "near average": 1, "2": 1, "60%": 1, "greater than average": 1, "increased frequency": 1, "10 to 25 years": 1}
+{"255 nautical miles": 1}
+{"two": 2, "13": 1, "20": 1}
+{"more than 2,000 people": 1, "several hundred inquiries": 1, "more than 70 geneticists": 1, "at least 30 medical institutions": 1, "eight children": 1, "five siblings": 1, "16 unique genetic markers": 1}
+{"increase": 1, "increased": 1, "more": 8, "100": 1, "significant": 1, "two": 1, "first": 1, "second": 1}
+{"increase": 4, "doubling": 1, "small but significant trend": 1}
+{"80 billion dollars": 1, "1,300 lives": 1, "250,000 pictures": 1}
+{"several": 1, "high": 2, "wide": 1, "far": 1, "lower": 1, "higher": 1, "86th": 1}
+{"two largest": 2, "large": 3, "more": 1}
+{"1.0 degrees f": 1, "0.6 degrees c": 1, "20 warmest years": 1, "three states": 1, "100 degrees": 1, "more than 200 daily records": 1, "six western states": 1, "seven consecutive days": 1, "125 degrees f": 1, "five years": 1, "18 percent": 1, "six percent": 1, "nine states": 1, "78.9 inches": 1, "more than two feet": 1, "seventh most extreme": 1, "26 named storms": 1, "39 miles per hour": 1, "14 hurricanes": 1, "seven major hurricanes": 1, "category 3": 1, "three category 5 storms": 1, "156 miles per hour": 1, "four major hurricanes": 1, "three tropical storms": 1, "eighth storm": 1, "1.06 degrees f": 1, "0.59 degrees c": 1, "1.1 degrees f/century": 1, "0.6 degrees c/century": 1, "three times larger": 1, "eight percent per decade": 1, "37.1 inches": 1}
+{"high concentrations": 2, "large amounts": 1, "seven semivolatile organic compounds": 1, "26 metals": 1, "more than 90 semi-volatile compounds": 1, "high levels": 2, "14 different sites": 1, "multiple metals and pesticides": 1, "47 mosquito specimens": 1, "more than 158,000 chemists and chemical engineers": 1}
+{"one major hurricane": 1, "category 4 or 5": 1, "highest percentage": 1, "thickest sandy layers": 1}
+{"large numbers": 1, "increased risk": 1, "insufficient numbers": 1}
+{"38 floodwater samples": 1, "high levels": 4, "elevated levels": 1, "more than 158,000 chemists and chemical engineers": 1}
+{"$5.9 million": 1, "$11.8 million": 1, "15 hours": 1}
+{"maximum": 1, "category five": 1, "category four": 1, "200 kilometres per hour": 1}
+{"four kilometers": 1, "2.5 miles": 1}
+{"15 major fishing ports": 1, "177 seafood-processing facilities": 1, "eight dolphins": 1, "two moms": 1}
+{"eight dolphins": 2, "four of the weakest dolphins": 1, "several times a day": 1}
+{"1,250th": 1, "more than 250": 1, "80 percent": 1}
+{"10 times": 1, "second largest": 1, "enormous": 1, "few": 1, "$5 a gallon": 1, "$3 a gallon": 1, "$4 a gallon": 1}
+{"10 category 4 and 5 hurricanes per year": 1, "18 per year": 1, "131 to 155 miles per hour": 1, "156 mph or more": 1, "20%": 1, "35%": 1, "eight to nine hurricanes per year": 1, "six to seven per year": 1, "16 in the period of 1975-89": 1, "25 in the period of 1990-2004": 1, "56%": 1, "one-half and one degree fahrenheit": 1, "85 named storms a year": 1, "100 miles per hour": 1}
+{"five": 1, "one": 1, "two": 1, "1,000": 1}
+{"1.8 million hits": 1}
+{"15 infections": 1, "3 of which were fatal": 1, "42,000 members": 1}
+{}
+{"100 to 1,000 feet": 1, "five cars": 1, "two hours": 1, "a few houses": 1, "a very few": 1}
+{}
+{"six": 1, "four": 1, "49.7 hours": 1, "153": 1, "21,015 nautical miles": 1, "140 mph": 1, "15 miles": 1, "10 miles": 1}
+{"7,500 feet": 1, "3-d images": 1}
+{"projected": 2, "every": 1, "specific": 1, "several": 1}
+{"hundreds": 1, "two": 1}
+{"50 per cent": 1, "near doubling": 1, "significant fraction": 1}
+{"first time": 1}
+{"two": 1, "a full category": 1}
+{"all": 1, "100": 1, "227": 1, "1450": 1, "dozen or so": 1, "more": 1}
+{"80 feet": 1, "75%": 1, "574 platforms": 1, "59%": 1, "69 rigs": 1, "5 rigs": 1, "7 rigs": 1, "3000 ft": 1, "30 feet": 1, "60 and 90 meters": 1, "100 miles": 1, "16.0 meters": 1, "53 ft": 1, "27.7 meters": 1, "91 feet": 1, "20 meters": 1, "66 feet": 1, "130 feet": 1, "2 meters/second": 1, "1 meter/second": 1}
+{"ninth above-normal": 1, "seven tropical storms": 1, "two to three additional hurricanes": 1, "10 named storms": 1, "six become hurricanes": 1, "two major hurricanes": 1, "at least 111 mph": 1, "21 storms": 1, "19 storms": 1, "12 in 1969": 1, "eight in 1950": 1}
+{"200 miles per hour": 1, "25 miles per hour": 1, "factor of 1,000": 1, "eight times greater": 1, "20 microns": 1, "8 ten-thousandths of an inch": 1}
+{"larger": 1, "heaviest": 1, "higher": 1, "stronger": 1, "weaker": 1}
+{"above-average": 1, "all but two": 1, "11-15": 1, "six to eight": 1, "two to four": 1, "two or three": 1}
+{"one": 1, "200": 1, "$90,000": 1, "30 percent": 1, "150 mph": 1, "10 percent": 2}
+{"$1.6 million": 1}
+{"301 miles per hour": 1, "more than 100 tornadoes": 1, "$1.6 million": 1}
+{"10.31 percent": 1, "10.16 percent": 1, "10.01 percent": 1, "35 cities": 1, "9.12 percent": 1, "6.87 percent": 1, "6.66 percent": 1, "5.08 percent": 1, "5 percent": 1, "one-in-20 chance": 1, "one-in-several-million chance": 1, "one-in-a-100 chance": 1, "74 mph": 1}
+{"high rain rates": 1, "heavy rain": 1}
+{"small number": 1, "high yield": 1}
+{"3,000 miles": 1, "30 feet": 1, "60 miles": 1, "60-foot": 2, "50-foot": 2, "95-foot": 1}
+{"over 40 percent": 1, "billions and billion": 1}
+{"increase": 1, "double": 1}
+{"one": 1, "five": 2, "1,717": 1, "1,424": 1, "1,368": 1, "35": 2, "1,200": 1, "55": 1, "1,500": 1, "400 million": 1, "173": 1, "126": 1, "120": 1, "115": 2, "112": 1, "108": 1, "247": 1, "139": 1, "104": 2, "101": 1, "84": 1, "47": 1, "117": 1, "16": 1, "445": 1}
+{"53.5 degrees f": 1, "11.9 degrees c": 1, "0.7 degrees f": 1, "0.4 degrees c": 1, "24th warmest year": 1, "30 states": 1, "16 contiguous states": 1, "1.8 degrees f": 1, "five warmest years": 1, "4.6 degrees f": 1, "2.6 degrees c": 1, "four hurricanes": 2, "category 4": 1, "$14 billion": 1, "$42 billion": 1, "nine systems": 1, "six hurricanes": 1, "three": 1, "six": 1, "millions of dollars": 1, "four-to-five-year drought": 1, "two large storms": 1, "42 of the 92 days": 1, "19 days": 1, "0.55 degrees f": 1, "0.31 degrees c": 1, "4th warmest year": 1, "ten tropical storm landfalls": 1, "6.6 million acres": 1}
+{"two": 1, "three": 1}
+{"top hundred meters": 1, "upper 200 meters": 1, "656 ft": 1, "50 km": 1, "27 nautical miles": 1, "100 km": 1, "54 nm": 1, "$5.3 m": 1, "$0.7 m": 1}
+{"40 staffers": 1}
+{"six": 1, "nearly 200": 1, "15 meters": 1, "3- to 4-inch": 1, "28,000": 1, "180": 1}
+{"140 mph": 1, "10 hydrophones": 1, "ten seconds": 1, "every 10 minutes": 1, "up to 50 days": 1, "zero to 100 hertz": 1, "500-600 hz": 1}
+{"120 million pounds": 1, "50 percent": 1, "80 percent": 1, "15-20 percent": 1, "many years": 1, "5,000": 1}
+{"several hundred dollars": 1, "percentages": 1}
+{"15 kilometers": 1, "16 kilometers": 1, "9.3 miles": 1, "9.9 miles": 1, "nine angles": 1, "nine separate cameras": 1}
+{"category 3": 1, "13-foot": 1, "6 feet": 1}
+{"initial estimates": 1, "between $2 and 4 billion": 1, "$7.4 billion": 1, "minimum building codes": 1, "average values": 1, "local values": 1}
+{"235-km-per-hour": 1, "three quarters of a million": 1, "29\u00bac": 1, "26\u00bac": 1, "30 cm": 1, "two centimetres": 1, "hundreds of kilometres": 1, "ten": 1, "more than 700": 1, "50": 1, "over 650": 1}
+{"less than 73 miles per hour": 1, "74 to 110 mph": 1, "above 110 mph": 1, "more than 50 percent": 1, "50 kilometers": 1, "31 miles": 1, "300 to 400 kilometers": 1, "186 to 250 miles": 1}
+{"significant": 1, "increasingly limited": 1, "full season": 1, "faster portions": 1}
+{"59,000 feet": 1, "350 km": 1, "402 km": 1, "two years": 1, "three hours": 1}
+{"three": 1, "more than 100": 1, "45 points": 1, "36 hits": 1, "tens of millions of dollars": 1}
+{"13": 1, "bigger": 1, "increased": 1}
+{"most": 1, "large amounts": 1, "enormous amount": 1, "diminished levels": 1, "minimal recovery": 1, "historically low abundances": 1, "massive fish kills": 2, "significantly less water volume": 1, "high water volume": 1, "generally comparable but more dilute contaminant loads": 1, "no major fish kills": 2, "no discernable long-term adverse impacts": 1, "striking reductions": 1, "rapid recovery": 1}
+{"nine miles": 2, "14.5 km": 1, "more than $1 billion": 1, "three deaths": 1, "twice as likely": 1}
+{"smallest on record": 1, "35% more accurately": 1, "far greater detail": 1, "2.5 miles": 1, "4 kilometers": 1}
+{}
+{"4,500 pounds": 1, "33 feet": 1, "15 feet": 1, "35 houses": 1}
+{"40-feet": 1, "six": 2, "three-dimensional": 1, "4 kilometers": 1, "2.5 miles": 1, "10-kilometer": 1, "five": 1}
+{"240 statute miles": 1}
+{"at least 82 f": 1}
+{"140 mph": 1, "category 4": 1, "$3,000": 1, "250 mph": 1, "$6,000": 1}
+{"30 percent": 1, "one millionth of a volt": 1, "15,000 volts": 1}
+{"far-reaching": 1, "broad region": 1, "high levels": 1, "fewer": 1}
+{"frequency": 2, "high-frequency": 1, "very low frequency": 1, "much higher": 1}
+{"two": 1, "three": 1, "longer": 1}
+{"increasing amounts": 1, "over 55 percent": 1, "$1 billion": 1, "ten percent": 1, "a large amount": 1}
+{"size": 3, "frequency": 2, "wind speed": 2}
+{"eight houses": 1, "35-foot crane": 1, "15 houses": 1, "100-mph speeds": 1, "nearly $84,000": 1, "29 uninhabitable homes": 1}
+{"three flights": 1, "12 miles": 1, "20 km": 1, "eight different locations": 1}
+{"35-ton": 1, "five": 1, "100 mph": 1, "nearly $84,000": 1, "29 homes": 1, "millions of dollars": 1}
+{"first time": 1, "several stages": 1, "increasingly": 1, "little skill": 1, "more powerful": 1}
+{"12 baseball-diamond sized islands": 1, "half": 1, "six other islands": 1, "two months": 1, "greater than 150 miles per hour": 1, "ten feet wall of water": 1, "three possible explanations": 1, "three hypotheses": 1}
+{"8 x 8-foot": 1, "342 feet long": 1, "12 feet wide": 1, "15 feet deep": 1, "10 and 20 pounds per square foot": 1, "\u00c2\u00bd-inch": 1, "2x4s": 1, "24 inches or more": 1, "three binders": 1}
+{"33 foot long": 1, "14 feet high": 1, "eight feet in diameter": 1, "50 to 100 miles away": 1, "190,000 houston homes": 1, "80 percent false alarm rate": 1, "40 percent prediction success": 1}
+{"nine": 2, "three": 1}
+{"0.6 degree celsius": 1, "1.1 degree fahrenheit": 1, "several days": 1, "$12 billion": 1}
+{"twelve": 1, "eight": 2, "ninety percent": 1}
+{}
+{"60 degrees": 1, "nine": 1, "400 kilometers": 1, "250 miles": 1, "850 kilometers": 1, "530 miles": 1, "1,100 kilometers": 1, "680 miles": 1, "25 kilometers": 1, "16 miles": 1}
+{"at least three": 1, "five to more than 15": 1, "180 miles an hour": 1}
+{"more than 10,000 people": 1, "$1 billion": 1, "32 significant floods": 1, "more than 6,000 persons": 1, "ninety percent": 1, "237 persons": 1, "144 persons": 1, "half of all flash flood deaths": 1, "one foot deep": 1, "more than 500 pounds": 1, "more than $20 billion": 1, "about half": 1, "55,000 homes": 1, "532 counties": 1, "more than 7,000 gaging stations": 1, "more than 2,000 organizations": 1}
+{"first": 2, "two-thirds": 1, "more than": 1}
+{"22,300 miles": 1}
+{"70 percent": 1, "million-dollar": 1, "20 federally funded weather buoys": 1, "5 feet": 1, "hundreds of square miles": 1, "thousands of people": 1, "four new platforms": 1, "several hundred miles": 1, "millions of dollars": 1, "three stations": 1}
+{"fewer": 2, "less intense": 1, "greater number": 1, "more severe": 1}
+{"four times more likely": 1, "about 4,500 feet": 1, "7 or 8 miles per hour": 1, "15 mph or more": 1, "one-third of the time": 1}
+{"once every 300-600 years": 1, "nine": 1, "$30 billion": 2, "category 4": 1, "category 5": 1, "16 sites": 1, "six sites": 1}
+{"more than triple": 1, "five experiments": 1, "two percent": 1, "more than two-thirds": 1}
+{"11 named storms": 1, "seven hurricanes": 1, "three intense hurricanes": 1, "14 named storms": 1, "nine hurricanes": 1, "four major hurricanes": 1, "12 named storms": 1, "eight hurricanes": 1, "five major hurricanes": 1, "9.3 named storms": 1, "5.8 hurricanes": 1, "2.2 intense hurricanes": 1, "45 percent": 1, "31 percent": 1, "37 percent": 1, "30 percent": 1, "66 percent": 1, "52 percent": 1, "65 named storms": 1, "41 hurricanes": 1, "20 major hurricanes": 1}
+{"5 inches": 1, "6 inches": 1, "3 inches": 1, "123 gaging stations": 1}
+{"record-breaking": 1, "dozens": 1, "hundreds of thousands": 1, "large regions": 1, "larger areas": 1}
+{"100 meters": 1, "millions of dollars": 1, "26 degrees centigrade": 1, "30 to 40 meters": 1, "180 to 220 kilometers": 1, "category four or five": 1, "one to four kilometers per day": 1}
+{"26 degrees c": 1, "79 degrees f": 1}
+{"110-mph": 2, "category 5": 1, "four": 1, "180 mph": 1, "70 mph": 1, "110 mph": 1, "3,126-square-foot": 1, "40 attendees": 1, "4.5 billion": 1}
+{"up to 120 kilometers per hour": 1, "75 miles per hour": 1}
+{"high": 2, "full-time": 2, "125-year-old": 1, "few": 1}
+{"four major storms": 1, "four": 2, "14 named storms": 1, "nine hurricanes": 1, "four intense hurricanes": 1, "seven named storms": 1, "five hurricanes": 1, "9.3 tropical storms": 1, "5.8 hurricanes": 1, "2.2 intense hurricanes": 1, "54 percent chance": 1, "110 mph": 1, "40 percent chance": 1, "72 percent": 1, "28 percent": 1, "category 3 or higher": 1, "110 miles per hour": 1, "53 named storms": 1, "33 hurricanes": 1, "15 major hurricanes": 1}
+{"4.5 million acres": 1, "23": 1, "100-plus mile-per-hour": 1, "ten-fold increase": 1}
+{"4,500 pounds": 1, "33 feet": 2, "15 feet": 1, "2.5-foot": 1, "20 minutes": 1, "approximately $100,000": 1}
+{"105 mph": 1, "125 mph": 2, "110 mph": 2, "11 solid rocket booster segments": 1, "120 individuals": 1, "80 people": 1, "13,000 contractors and nasa employees": 1, "$12 million": 1}
+{"three": 2, "seven": 1, "one": 1, "three to seven": 1, "14 out of 15": 1, "two or more": 1}
+{"more than 2,000 data sets": 1, "about $6.5 billion": 1, "dozens of people": 1, "more than 100,000 homes": 1, "about $25 billion": 1, "a quarter-mile": 1, "13 pressure gauges": 1, "20 strain gauges": 1}
+{"14 tropical storms": 1, "10 hurricanes": 1, "three intense hurricanes": 1, "9.3 tropical storms": 1, "5.8 hurricanes": 1, "2.2 intense hurricanes": 1, "50 to 75 percent": 1, "72 percent": 1, "44 percent": 1, "54 percent": 1, "74 percent": 1, "40 percent": 1, "33 percent": 1, "two climate signals": 1, "25 degrees north": 1}
+{"10 homes": 1, "10 more": 1, "$8,000 to $12,000": 1, "as many as 20 frisbee-sized discs": 1, "below 30 meters": 1, "$560,000": 1}
+{"nine-mile": 2, "70 m.p.h.": 1, "1300 degrees f": 1, "yard wide": 1}
+{"average annual cost": 1, "economic losses": 1}
+{"strong": 1, "greater than expected": 1, "significantly": 1, "9,000 foot": 1, "132 hours": 1}
+{"16,367": 1, "45.2 billion": 1, "2,000": 1, "14 million": 1, "25 billion": 1, "10,000": 1, "132": 1, "1 billion": 1, "30,000": 1, "485,000": 1, "24%": 1, "60": 1, "1000 kilometers": 1}
+{"35 degrees north": 1, "35 degrees south": 1, "more than two-thirds": 1, "factor of two": 1, "approximately 50 percent": 1, "25 percent": 1, "59,000 feet": 1}
+{"62,500 feet": 1, "26,455 to 35,274 pounds": 1, "65,000 and 70,000 feet": 2, "4,000 data missions": 1, "470 miles per hour": 1, "2,500 miles": 1, "3,400 miles": 1, "2,600 pounds": 1}
+{"3 steps": 1, "$500,000": 1, "$250,000": 1, "10,001 people": 1, "14,202": 1, "2.78 million": 1, "5-gallon": 1}
+{"100 mph": 2, "84 mph": 1, "175 mph": 2, "115 mph": 1, "56 mph": 1, "33 feet": 1, "10-minute period": 1}
+{"60 miles": 1, "30 miles": 1, "400 yards": 1, "1200 yards": 1, "6-foot": 1, "dozens": 1, "20,000 redhead ducks": 1, "more than 2,000 organizations": 1}
+{"second time": 1, "two": 2, "50 miles per hour": 1, "120-mph": 1, "70-mph": 1}
+{"15 employees": 1, "1,000-foot diameter": 1, "15 people": 1, "140 employees": 1, "38,800 reflective aluminum panels": 1, "26 football fields": 1, "16,000 square feet": 1, "90-ton": 1, "86-foot diameter": 1, "304-foot": 1, "$25 million": 1}
+{"123": 1, "more than 4,000": 1, "nearly 7,000": 1, "about 12": 1, "10 cubic feet per second": 1, "more than 130,000 cfs": 1, "2,000": 1}
+{"maximum wind speed": 1, "billions of dollars": 1}
+{"2.4 to 3.6 meters (8-12 ft)": 1, "11 km (37,000 ft)": 2, "19.8 km (65,000 ft)": 1, "4.6 km (15,000 ft)": 1, "24.5 n, 71.4 w": 1, "24.2n, 71.6w": 1, "167 km/h (90 knots)": 1, "7 cm (2.75 in)": 1, "40.6 cm (16 in)": 1, "400 grams (less than a pound)": 1}
+{"increase": 1, "decrease": 1, "high-resolution": 1, "state-of-the-art": 1}
+{"more": 2, "much weaker": 1, "three": 1, "seven-day cycle": 1, "average daily": 1, "10 miles-per-hour": 1, "50 years": 1}
+{"19 tiny islands": 1, "110-mph winds": 1, "one-third": 2, "80 percent": 1, "15 to 20 feet": 1, "five feet": 1, "one mile": 1, "several miles": 1, "several hours": 1}
+{"$1,000": 1, "$1": 2, "$70": 1, "$45": 1}
+{"49.3 percent": 1, "48.6 percent": 1, "40 to 80 percent": 1, "190 miles per hour": 1, "32.6 percent": 1, "50 percent": 1, "63.7 percent": 1}
+{}
+{"11 named storms": 1, "six hurricanes": 2, "two intense hurricanes": 1, "seven named storms": 2, "three hurricanes": 2, "one intense hurricane": 1, "9.3 tropical storms": 1, "5.8 hurricanes": 1, "2.2 intense hurricanes": 1, "39 named storms": 1, "23 hurricanes": 1, "13 of which were intense": 1, "116 hurricane days": 1, "twice as strong": 1, "2 or 3 degrees centigrade": 1, "4 or 5 degrees centigrade": 1, "nearly twice as much": 1, "54,000 feet": 1, "68,000-75,000 feet": 1, "10 named storms": 1, "three intense hurricanes": 1, "nine out of the past 30 years": 1, "seven": 1}
+{"583 cyclones": 1, "800 to 1,500 miles": 1, "more than 250 lives": 1, "a dozen ships": 1}
+{}

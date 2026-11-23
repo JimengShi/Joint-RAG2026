@@ -1,0 +1,844 @@
+{}
+{"mit-whoi joint program in oceanography/applied ocean science and engineering": 1, "whoi": 1}
+{"okinawa institute of science and technology graduate university": 1, "oist": 2}
+{"national oceanic and atmospheric administration": 1, "centre for research on the epidemiology of disasters emergency events database": 1, "world governance indicators": 1, "peace corps": 1}
+{"colorado state university": 2, "cooperative institute for research in the atmosphere": 1, "cran": 1, "comprehensive r archive network": 1}
+{"the geological society of america": 1, "florida gulf coast university": 2, "national hurricane database": 2}
+{"penn state": 1}
+{"university of hawai'i at manoa school of ocean and earth science and technology (soest)": 2}
+{"journal": 1, "research vessel mirai": 1, "united states air force reserve command": 1, "aircraft operations center": 1, "national oceanic and atmospheric administration": 1, "national institute of polar research": 1}
+{"penn state": 2, "journal": 1, "ipcc": 1, "national science foundation": 1, "penn state center for climate risk management": 1}
+{}
+{"dauphin island sea lab": 2, "jet propulsion laboratory": 1, "university of south alabama": 1, "department of marine sciences": 1, "noaa restore science program": 1, "noaa ngi nmfs regional collaboration network": 1}
+{"noaa northeast fisheries science center": 2, "coonamessett farm foundation": 1, "atlantic marine assessment program for protected species": 1, "new england/greater atlantic region's research set-aside program": 1, "hurricane study": 1}
+{"cmu's language technologies institute": 1, "lti": 2}
+{"university of bristol": 2, "school of computer science": 1, "paris agreement": 3, "intergovernmental panel on climate change": 1}
+{"zachry department of civil and environmental engineering": 1, "nature": 1, "urbanresilience.ai lab": 1}
+{"um rosenstiel school": 1, "cooperative institute for marine and atmospheric studies": 1, "noaa": 1}
+{"university of iowa": 1, "iihr-hydroscience & engineering": 1, "national hurricane center": 1, "iihr": 1}
+{"noaa": 5, "climate prediction center": 1, "national hurricane center": 1, "fema": 1}
+{"uh manoa school of ocean and earth science and technology (soest)": 1, "uh manoa": 2}
+{"hkbu": 2, "international best track archive for climate stewardship (ibtracs)": 1, "global climate models (gcms)": 1, "shenzhen university": 1, "china university of geosciences": 1, "the chinese university of hong kong (shenzhen)": 1, "university of alberta": 1, "princeton university": 1, "HKBU Pearl River Delta study": 1, "HKBU Pearl River Delta dataset": 1, "HKBU China-coast cyclones": 1}
+{"rice university": 3, "columbia university": 2, "lamont-doherty earth observatory (ldeo)": 2, "harvard university": 2, "houston engagement and recovery effort (here)": 1}
+{"ucf's department of civil, environmental and construction engineering": 1, "ucf's national center for integrated coastal research": 1, "ucf": 2, "california institute of technology": 1, "columbia university": 4, "university of bern": 2, "university of california": 1, "university of colorado-boulder": 1, "aon": 1, "university of washington": 1, "princeton university": 1, "goddard institute for space studies": 1, "u.s. army corps of engineers": 1, "university of siegen": 1, "connected-extremes perspective article": 1}
+{"northern illinois university": 1, "niu": 1, "university of california, santa cruz": 1, "harvey mudd college": 1, "conservation international": 3, "betty and gordon moore center for science": 1}
+{"australian institute of marine science (aims)": 1, "aims": 2, "university of western australia": 1, "indian ocean marine research centre": 1}
+{"noaa": 2, "cimss advanced dvorak technique": 1, "noaa oceanic and atmospheric research climate program office": 1}
+{"florida state university": 1, "department of earth, ocean and atmospheric science": 1, "national science foundation": 1}
+{"yale school of forestry & environmental studies": 1, "streetcred labs": 1, "scripps institution of oceanography": 1}
+{"geophysical fluid dynamics laboratory": 1, "meteorological research institute": 1, "science advances": 1, "columbia university's lamont-doherty earth observatory": 1}
+{"tohoku university": 2}
+{"columbia's earth institute": 1}
+{}
+{"uc san diego": 2, "amazon": 1, "pnas": 1}
+{"noaa geophysical fluid dynamics laboratory": 1, "gfdl cm4": 1}
+{"embrapa amaz\u00f4nia oriental": 2, "lancaster university": 3, "canterbury university": 1, "manchester metropolitan university": 1}
+{"virginia tech": 1, "university of georgia": 1, "florida fish and wildlife conservation commission": 1, "college of natural resources and environment": 1, "department of fish and wildlife conservation": 1}
+{"usc": 2, "center for ai for society": 1}
+{"stony brook foundation": 1, "national science foundation": 1, "national center for atmospheric research": 1, "department of energy's office of science": 1}
+{"nc state": 1}
+{"nyu tandon school of engineering": 1, "journal": 2}
+{"university of miami (um) rosenstiel school of marine and atmospheric science": 1, "george mason university": 1, "subx": 5, "noaa cooperative institute for marine and atmospheric studies (cimas)": 1, "um center for computational science's (ccs)": 1, "american meteorological society's journal": 1}
+{"bren school of environmental science & management": 1, "national oceanic and atmospheric administration": 1}
+{"uw college of business' department of economics": 1, "denison university": 1, "proceedings of the national academy of sciences": 1}
+{}
+{"u-m school for environment and sustainability": 1, "u-m-led study": 1}
+{"princeton": 3, "princeton environmental institute": 1}
+{"u-m school of nursing": 1, "u-m institute for healthcare policy and innovation": 1}
+{"journal": 1, "woods hole oceanographic institution": 1, "scripps institution of oceanography": 1, "u.s. geological survey": 1}
+{"tulane university school of medicine": 1, "louisiana healthy homes and childhood lead poisoning prevention program": 1, "colorado state university": 1, "city university of new york": 1, "mielke's lead lab": 1}
+{"notre dame's global adaptation initiative (nd-gain)": 1, "notre dame": 1, "2017 New Hanover County Coastal Homeowner Survey": 1, "New Hanover County Coastal Homeowner Survey": 1}
+{"center for climate risk management": 2, "embeDS department of excellence": 1, "sant'anna school of advanced studies": 2, "proceedings of the national academy of sciences": 1, "rff-cmcc european institute of economics and the environment": 1, "ofce science po": 1, "horizon 2020 research and innovation program": 1}
+{"american geophysical union": 1, "national typhoon center": 1, "nova southeastern university": 2, "university of miami": 1, "university of hawaii": 1, "university of rhode island": 1, "nature scientific reports": 1, "journal of geophysical research": 1, "halmos college of natural sciences and oceanography": 1}
+{"stanford's natural capital project": 2, "the nature conservancy": 1, "inter-american development bank": 1, "natural capital project": 3}
+{"marine biological laboratory (mbl)": 2, "bermuda institute of ocean sciences (bios)": 1, "oceanic flux program (ofp)": 3, "ecosystems center": 1}
+{"university of maryland": 1, "national socio-environmental synthesis center": 1, "university of connecticut": 1}
+{"national poll on healthy aging": 2, "u-m institute for healthcare policy and innovation": 1, "aarp": 2, "michigan medicine": 1, "u-m's academic medical center": 1, "u-m school of nursing": 1, "ihpi": 2}
+{"mcmaster's department of psychology, neuroscience & behaviour": 1}
+{"penn state": 4, "center for advanced data assimilation and predictability techniques": 1, "national oceanographic and atmospheric administration": 1, "goes-16 satellite": 3, "national center for atmospheric research": 1, "department of meteorology and atmospheric science": 1, "european center for medium range weather forecasts": 1, "nasa": 1, "national science foundation": 1, "noaa": 2}
+{"university of illinois": 1, "caregivers journey of hope": 3, "save the children": 1}
+{"unc-chapel hill institute of marine sciences": 1, "nature research": 1}
+{"national science foundation": 2, "nsf": 2, "national institutes of health": 1, "u.s. department of agriculture": 1, "ecology and evolution of infectious diseases program": 1, "horizon 2020": 1}
+{}
+{"duke university": 3, "nicholas school of the environment": 2, "tennessee valley authority": 1, "environmental protection agency": 1}
+{"duke's nicholas school of the environment": 1, "national science foundation": 1, "division of ocean sciences": 1}
+{"rutgers environmental and occupational health sciences institute": 1, "rutgers school of public health": 1, "journal": 1}
+{"rensselaer polytechnic institute": 1, "beijing normal university": 2, "boston university": 2, "office of naval research": 1, "knowledge and innovation program": 1}
+{"musc": 3, "puerto rico department of education": 2, "new england journal of medicine": 1, "harvard t.h chan school of public health": 1, "substance abuse and mental health services administration": 1, "national child traumatic stress network": 1, "Puerto Rico student survey": 1}
+{"oregon state": 2, "national institutes of health": 1, "osu": 1}
+{"agu's journal": 1, "lawrence berkeley national laboratory": 1}
+{"asu": 1, "school of earth and space exploration": 1, "jet propulsion laboratory": 1, "california institute of technology": 1, "european space agency": 1, "sentinel-1 a/b satellites": 1, "japan aerospace exploration agency": 1, "advanced land observing satellite": 1, "federal emergency management agency": 1}
+{"lsu health new orleans school of public health": 1, "brown university": 1, "national institute of environmental health sciences": 1, "niehs": 1, "brigham and women's hospital": 1, "women and their children's health study": 1, "watch study": 1}
+{"columbia university's earth institute": 1, "university of cambridge": 1, "centre for ecology & hydrology": 1, "university of puerto rico": 1, "u.s. national science foundation": 1}
+{"national institute on drug abuse": 1, "r01da035280": 1}
+{"nc state": 1}
+{"university of vermont": 2, "gund institute for environment": 1, "college of agriculture and life sciences": 1, "uvm's complex systems center": 1, "computational story lab": 1, "twitter": 2}
+{"u.s. geological survey": 1, "university of puerto rico": 1}
+{"tufts university": 1, "nih-funded post-baccalaureate research program (prep)": 1, "centers for medicare and medicaid services": 1, "u.s. census": 1, "american community survey": 1, "sackler school of graduate biomedical sciences at tufts": 1}
+{"pacific rim conservation": 1, "u.s. fish and wildlife service": 1}
+{"clemson university": 3}
+{"unh": 1, "american geophysical union": 1, "national science foundation": 1, "nsf long-term ecological research": 1, "national critical zone observatory": 1}
+{"nasa": 3, "american geophysical union": 1, "goddard space flight center": 2, "nasa/noaa suomi national polar-orbiting partnership": 1, "usgs/nasa landsat": 1, "openstreetmap": 1, "columbia university": 1, "national science foundation": 1, "luquillo long-term ecological research site": 1}
+{"berkeley lab": 3, "national center for atmospheric research": 1, "nersc": 1, "national energy research scientific computing center": 1, "anthropogenic-influence simulations": 1}
+{"princeton environmental institute (pei)": 2, "iowa's iihr -- hydroscience and engineering research center": 1, "princeton": 2, "iihr": 1}
+{"texas parks and wildlife department": 1, "marine science institute": 1, "estuarine research center": 1}
+{"university of illinois": 1, "tulane university": 1, "kidcope": 3}
+{"department of energy's pacific northwest national laboratory": 1}
+{"airs": 2, "misr": 2, "national hurricane center": 1, "advanced microwave sounding unit (amsu)": 1, "nasa": 3, "jet propulsion laboratory": 1, "caltech": 1, "nasa's science mission directorate": 1, "nasa's goddard space flight center": 1, "nasa langley research center atmospheric science data center": 1}
+{"university of exeter": 2, "university of michigan": 1, "university of texas": 1, "huffington post": 1, "daily show": 1, "noaa's national weather service (nws)": 1, "storm events database": 1}
+{"penn state's center for advanced data assimilation and predictability techniques": 1, "adapt": 2, "national climate data center": 1, "department of meteorology and atmospheric science at penn state": 1, "noaa": 1, "national weather service": 1, "nature": 1, "nasa": 2, "national oceanic and atmospheric administration": 1}
+{"journal": 1}
+{"national hurricane center": 2, "nhc": 2, "nasa": 2, "noaa": 1, "moderate resolution imaging spectroradiometer": 1, "modis": 1, "air force reserve": 1}
+{"government of puerto rico": 1, "gw milken institute sph": 4, "university of puerto rico graduate school of public health": 1}
+{"university of east anglia": 2, "birdlife international": 1, "bahamas national trust": 3, "university of the bahamas-north": 1, "american bird conservancy": 2, "uea's school of biological sciences": 1}
+{"csiro": 1, "bsc": 1, "risk prediction initiative": 2, "stockholm university's bolin centre for climate research": 1, "bermuda institute of ocean sciences": 1}
+{"omg": 8, "nasa's jet propulsion laboratory": 1, "jpl": 2, "airtec": 1, "university of washington": 1}
+{}
+{"mailman school's department of environmental health sciences": 1, "international research institute for climate and society": 1, "columbia's earth institute": 1, "columbia department of pediatrics": 1, "school of international and public affairs": 1}
+{"university of illinois at urbana-champaign": 1, "purdue university": 1, "journal": 1}
+{"penn state": 1, "university of texas at san antonio": 1}
+{"rapid response research grant": 1, "national science foundation": 1, "utsa": 2, "wastewater treatment plants": 1}
+{"noaa's space weather prediction center": 2, "hurricane watch net": 2, "national centers for environmental information": 1, "rutherford appleton laboratory": 1, "national hurricane center": 2, "caribbean emergency and weather net": 1, "national weather service": 1, "red cross": 1}
+{"cygnss": 6, "global positioning satellite (gps) system": 1, "university corporation for atmospheric research": 1, "university of michigan": 1, "u.s. geological survey-nasa landsat": 1, "european space agency's sentinel 1 and 2": 1}
+{"journal hint": 1, "harvard university": 2, "national science foundation (nsf)": 1}
+{"texas a&m university": 1, "department of atmospheric sciences": 1, "nasa": 1}
+{"ecological society of america": 1, "louisiana state university": 1, "national science foundation": 2, "coastal science, engineering and education for sustainability": 2, "long term ecological research": 2, "critical zone observatories": 2, "biological oceanography": 1}
+{"chapman university": 2}
+{"united states geological survey": 1, "usgs": 1, "esa annual meeting": 1}
+{"nasa": 4, "nasa's goddard spaceflight center": 1, "g-liht": 3, "the u.s. forest service": 2, "the u.s. fish and wildlife service": 1, "the federal emergency management agency": 1, "columbia university": 1, "university of puerto rico-humacao campus": 1}
+{"university of central florida": 1, "national oceanic and atmospheric administration": 1}
+{"university of arizona": 1, "ua": 5, "national oceanic and atmospheric administration": 1, "tropical storm risk": 1, "climate dynamics and hydrometeorology center": 1, "department of hydrology and atmospheric sciences": 1, "University of Arizona seasonal article": 1, "University of Arizona seasonal outlook article": 1, "NOAA": 1}
+{"national oceanic and atmospheric administration": 1, "noaa": 2, "center for weather and climate": 1, "university of wisconsin-madison": 1, "national center for atmospheric research": 1}
+{"harvard t.h. chan school of public health": 1, "university of colorado school of medicine": 1, "department of emergency medicine": 1, "section of wilderness and environmental medicine": 1}
+{"national center for atmospheric research": 2, "ncar": 3, "national science foundation": 2, "nsf": 1, "dnv gl": 1, "munich re": 1, "ncar-wyoming supercomputing center": 1, "weather research and forecasting model": 2, "wrf": 2}
+{"noaa": 2, "uc santa cruz": 3, "adele mark ii": 2, "adele mark i": 1}
+{"university at buffalo": 1, "ub's school of engineering and applied sciences": 1, "national science foundation": 1}
+{"ncar": 1, "argo": 1, "nasa-based international satellite mission": 1, "global precipitation measurement": 1}
+{"u.s. department of energy's pacific northwest national laboratory": 1, "national oceanic and atmospheric administration": 2, "pnnl": 1, "noaa": 2, "noaa's national hurricane center": 1, "u.s. navy's joint typhoon warning center": 1, "department of energy's office of science": 1}
+{"international pacific research center": 2, "iprc": 2, "climate change": 1}
+{"delft university": 2, "rice university": 1, "severe storm prediction, education and evacuation from disasters (sspeed) center": 1}
+{"institute for health policy": 3, "uthealth school of public health": 2, "health of houston survey": 2, "uthealth": 1}
+{"uh manoa": 2, "uh institute of hawaiian language research and translation (ihlrt)": 2, "university of hawai'i sea grant college program's center for integrated science, knowledge, and culture": 1, "hawai'i sea grant": 1, "uh manoa school of ocean and earth science and technology (soest)": 1, "jimar": 1, "nsf": 1, "uh manoa college of education (coe)": 1}
+{"arc centre of excellence for coral reef studies": 1, "coral coe": 2, "the university of western australia": 1, "uwa": 1, "un world heritage": 1}
+{"puerto rico institute of statistics": 1}
+{"national science foundation": 1, "rapid response research (rapid) program": 1, "rice's department of biosciences": 1, "huxley research instructor of biosciences": 1, "nsf's rapid grants": 1}
+{"sintef ocean": 1, "sintef": 5, "oceatherm as": 1, "innovation norway": 1, "research council of norway": 1}
+{"rutgers school of management and labor relations": 1, "rutgers school of public health": 1, "new jersey department of health": 1, "occupational safety and health administration": 1}
+{"princeton university": 1, "rutgers university": 1, "tufts university": 1, "climate central": 1, "icf international": 1, "paris agreement": 1, "princeton's program in science, technology and environmental policy": 1, "woodrow wilson school of public and international affairs": 1}
+{"florida department of transportation": 1, "united states army corps of engineers": 1}
+{"princeton university": 1, "national and oceanic and atmospheric administration's geophysical fluid dynamics laboratory": 1, "university of chicago": 1, "florida state university": 1}
+{"purdue university": 1, "noaa national centers for coastal ocean science": 1, "ocean sciences meeting": 1, "association for the sciences of limnology and oceanography": 1, "the oceanography society": 1, "american geophysical union": 1}
+{"rutgers": 2, "department of environmental sciences": 1, "school of environmental and biological sciences": 1, "graduate program in atmospheric science": 1}
+{"institute of marine sciences at uc santa cruz": 1, "at the water's edge (awe)": 1, "the nature conservancy": 2, "german federal foreign office": 1, "grenada fund for conservation": 1, "grenada red cross society": 1, "uc santa cruz": 1}
+{"texas a&m": 2, "texas environment justice advocacy services": 1, "tejas": 2}
+{"lehigh university": 1, "moody's analytics": 1, "civil engineering magazine": 1, "american society of civil engineers (asce)": 2, "asce industry leaders council": 1}
+{"federal emergency management agency": 1, "cu boulder": 1, "international wildland-urban interface code": 1}
+{"world health organization": 1, "faculty of applied health sciences": 1, "university of waterloo": 1, "interrai": 2, "canadian institute for health information": 1}
+{}
+{"rutgers-camden": 1}
+{"bangor university": 1, "international journal": 1}
+{"lawrence berkeley national laboratory": 1, "agu fall meeting": 1, "world weather attribution": 1, "royal netherlands meteorological institute": 1, "paris agreement": 1}
+{"princeton's program in atmospheric and oceanic sciences": 1, "princeton environmental institute": 1, "noaa's geophysical fluid dynamics laboratory (gfdl)": 1, "hiflor": 2}
+{"national flood insurance program": 1, "national weather service": 1}
+{"asce": 2, "iassar": 1, "iabse": 1, "sae": 1}
+{"university of exeter": 3, "scientific journal": 1, "mathematics department": 1}
+{"mit": 2, "lorenz center": 1}
+{"purdue university": 1, "saffir-simpson hurricane wind scale": 1, "cyclone damage potential index": 1, "integrated kinetic energy index": 1}
+{"environmental hydraulics institute": 1, "university of cantabria": 2}
+{"toucan ridge ecology and education society (trees)": 1, "open-access journal": 1}
+{"texas automated buoy system": 1, "geochemical and environmental research group": 1, "texas a&m university": 2, "rice university": 2, "university of houston-clear lake": 1, "boston university": 2, "national oceanic and atmospheric administration's office of national marine sanctuaries": 1, "national science foundation": 1, "rapid research response grant": 1}
+{"ipcc": 2, "national oceanic and atmospheric administration": 1, "federal emergency management agency": 1, "hazus": 1, "university of vermont": 1}
+{"busph": 1, "new york state office of mental health": 1, "american community survey": 1}
+{"department of psychology": 1}
+{}
+{"university of central florida": 3, "ucf marine turtle research group": 2, "u.s. endangered species act": 1, "u.s. fish and wildlife service": 1}
+{}
+{"texas a&m university": 2, "liquid robotics": 3, "texas a&m geochemical and environmental research group": 2, "college of geosciences at texas a&m": 1, "the texas a&m chancellor's research initiative": 1, "mission services at liquid robotics": 1}
+{"bywater institute": 1, "tulane university": 1, "stockholm resilience centre": 1, "stockholm university": 1}
+{"sspeed center": 3, "center for texas beaches and shores": 2, "fema": 3}
+{"school of public and environmental affairs": 1, "intergovernmental panel on climate change": 1, "cooperative congressional election study": 1, "national weather service's storm events database": 1}
+{"university of science and technology of china": 2, "the optical society": 1, "quantum lidar laboratory": 1}
+{"national center for electron beam research": 1, "texas a&m agrilife research": 1}
+{"national oceanic and atmospheric administration": 1, "u.s. government": 1}
+{"uconn": 2, "virginia tech": 1, "connecticut sea grant": 1, "connecticut department of energy and environmental protection": 1, "center of biological risk": 1}
+{"nature journal": 1, "unsw's water research laboratory": 2}
+{"sustainable coastal systems cluster": 1, "university of central florida": 1, "ucf": 1, "university of southampton": 1}
+{"department of meteorology": 2, "stockholm university": 2, "misu": 1}
+{"national center for atmospheric research": 1, "u.s. department of energy's national renewable energy laboratory": 1, "international electrotechnical commission": 1, "cu boulder's department of atmospheric and oceanic sciences": 1, "national science foundation graduate research fellowship program": 1, "cu boulder's renewable and sustainable energy institute": 1}
+{"school of geosciences": 1, "university of south florida": 1, "national oceanic and atmospheric administration": 1}
+{"wmo": 4, "wmo archive of weather and climate extremes": 1}
+{"rosenstiel school of marine and atmospheric science": 1, "hurricane research division": 2, "national oceanic and atmospheric administration": 1, "noaa": 3, "department of atmospheric sciences": 1, "um center for computational science": 1, "extreme air-sea interaction": 1}
+{"the route the birds take": 1, "nicholas school of the environment": 1}
+{"franklin college of arts and sciences department of geography": 1}
+{"upper ocean dynamics laboratory": 1, "university of miami": 1, "um rosenstiel school of marine and atmospheric science": 2, "national oceanographic atmospheric administration": 1}
+{"berkeley lab's computational research division (crd)": 1, "national energy research scientific computing center (nersc)": 1, "doe office of science": 1, "community atmosphere model version 5 (cam5)": 1}
+{"national oceanic and atmospheric administration": 1, "national centers for environmental information": 1, "uw-madison's noaa cooperative institute": 1, "u.s. national hurricane center": 1, "national centers for environmental prediction": 1, "national center for atmospheric research": 1}
+{"jacobs school of engineering": 1, "physical review fluids": 1, "national center for atmospheric research": 1, "national oceanic and atmospheric administration": 1, "air force weather agency": 1, "issf": 1, "ieee": 1, "thin red line aerospace": 1, "spacex": 1}
+{"american geophysical union": 1, "the ohio state university": 1, "congressional research service": 1, "nasa": 1, "soil moisture active passive (smap) satellite mission": 1, "university of michigan": 1, "texas a&m": 1, "president's council of economic advisers": 1, "u.s. department of energy (doe) office of electricity delivery and energy reliability": 1}
+{"um rosenstiel school": 1, "national weather service": 1}
+{"george washington university": 1, "society for risk analysis": 1, "u.s. army corps of engineers": 1, "national oceanic and atmospheric administration": 1}
+{"durham university": 2, "journal": 1, "skidmore college": 1, "department of geography": 1, "geosciences department": 1, "department of earth sciences": 1}
+{"usgs": 2, "nasa": 4, "jet propulsion laboratory": 1, "armstrong flight research center": 1, "jpl": 1, "nasa-isro synthetic aperture radar (nisar)": 1}
+{"tulane university school of medicine": 1, "southeast louisiana veterans health care system": 1, "tulane medical center": 2, "american heart association": 2}
+{"wmo": 3, "paris agreement": 2, "world meteorological organization": 1, "united nations climate change conference": 1, "cop22": 2, "bulletin of the american meteorological society": 1, "world food programme": 1, "international organisation for migration": 1, "united nations high commissioner for refugees": 1, "food and agriculture organization": 1}
+{"department of atmospheric sciences": 1, "pnas": 1}
+{"iowa state university": 1, "college of engineering": 1, "department of electrical and computer engineering": 1, "iowa energy center": 1, "electric power research center": 1}
+{"national oceanic and atmospheric administration": 1, "noaa": 1, "university of iowa": 1, "journal of hydrology": 1, "iowa flood center": 2, "geophysical fluid dynamics lab": 1}
+{"rutgers": 3, "rutgers' meteorology undergraduate program": 1, "rutgers' department of environmental sciences": 1}
+{"moderate resolution imaging spectroradiometer (modis)": 1, "nasa's terra satellite": 1, "nasa": 2, "nasa/noaa goes project": 1, "noaa's goes-east satellite": 1, "nhc": 1}
+{"iucn world conservation congress": 2, "university of sheffield's department of geography": 2, "iucn": 1}
+{"strathclyde's department of mathematics & statistics": 2, "marine scotland science": 1}
+{"princeton": 1, "auburn university-montgomery": 1, "louisiana state university": 2, "texas a&m": 1, "national oceanic and atmospheric administration": 2, "noaa": 2, "woodrow wilson school of public and international affairs": 1, "social and environmental decision-making lab": 1, "federal emergency management agency": 1}
+{}
+{"ornl": 2, "titan supercomputer": 1}
+{"columbia university's lamont-doherty earth observatory": 1, "school of engineering": 2, "nasa's goddard institute for space studies": 1, "national science foundation": 1, "office of naval research": 1}
+{"disaster research center": 2, "cornell university": 1, "national science foundation": 1, "federal emergency management agency": 1, "north carolina state emergency management": 1, "american red cross": 1, "university of georgia": 1, "science direct": 1}
+{"noaa": 4, "national ocean service": 1, "university of michigan": 1, "louisiana state university": 1, "louisiana universities marine consortium": 2, "virginia institute of marine sciences/college of william and mary": 1, "texas a&m university": 1, "north carolina state university": 1, "united states geological survey": 2, "usgs": 3, "department of the interior": 1, "northern gulf institute": 1, "interagency mississippi river/gulf of mexico watershed nutrient task force": 1}
+{"university of delaware": 1, "ud's college of earth, ocean, and environment": 1, "mississippi state university": 1, "office of naval research": 1, "u.s. environmental protection agency": 1}
+{"goddard": 2, "goddard's global modeling and assimilation office (gmao)": 2, "howard university": 1}
+{"noaa": 1, "u.s. air force": 1, "national hurricane center": 1, "penn state": 3, "national oceanic and atmospheric administration": 1, "national science foundation": 1, "office of naval research": 1, "nasa": 1}
+{"duke": 2, "duke university": 1, "national science foundation coupled human and natural systems program": 1, "national oceanic and atmospheric administration": 1}
+{"inner space center": 2, "graduate school of oceanography": 1, "national transportation safety board": 2, "woods hole oceanographic institution": 2, "national science foundation": 1, "u.s. coast guard": 1, "u.s. navy": 1, "university of rhode island": 2, "ntsb": 2, "uri": 3, "johnson space center": 1, "nasa": 1, "r/v endeavor": 1, "exploration vessel nautilus": 1, "okeanos explorer": 1, "national oceanic and atmospheric administration": 1}
+{"u.s. global change research program": 1, "center for the study of traumatic stress": 1, "uniformed services university of the health sciences": 1, "usu department of psychiatry": 2, "u.s. public health service": 1}
+{"penn state's center for advanced data assimilation and predictability techniques": 1, "national oceanic and atmospheric administration": 1, "nasa": 1, "penn state real-time hurricane analysis and prediction system": 1}
+{"penn state's department of meteorology": 1, "penn state's center for solutions to weather and climate risk": 1, "world climate research programme": 1}
+{"rutgers' department of marine and coastal sciences": 1, "ioos": 1, "national oceanic and atmospheric administration": 1, "u.s. environmental protection agency": 2, "n.j. department of environmental protection": 2, "east china normal university": 1, "chinese academy of sciences": 1, "mid-atlantic regional association coastal ocean observing system": 1, "noaa cooperative institute for the north atlantic region": 1, "disaster recovery act": 1, "n.j. board of public utilities": 1}
+{"ua laboratory of tree-ring research": 1, "u.s. national hurricane center": 1, "university of southern mississippi": 2, "national science foundation": 1, "u.s. fish and wildlife service": 1, "agnese n. haury visiting scholar fellowship": 1, "second american dendrochronology conference": 1}
+{"stevens institute of technology": 1, "woods hole oceanographic institute": 1}
+{"university of maryland's earth system science interdisciplinary center (essic)": 1, "essic": 2, "nasa's goddard space flight center": 1, "nasa goddard": 1, "geophysical research letters": 1}
+{"nasa": 3, "rapidscat": 3, "international space station": 1, "nasa/noaa goes project": 1, "nasa's goddard space flight center": 1, "moderate resolution imaging spectroradiometer": 1, "modis": 1, "nasa's aqua satellite": 1, "national hurricane center": 2, "azores meteorological service": 1, "noaa's nhc website": 1}
+{"nasa": 1, "noaa's central pacific hurricane center": 1, "cphc": 1}
+{"western pacific tropical research center": 1, "philippine native plants conservation society": 1}
+{"boston university": 1, "united states geological survey": 2, "bu's department of earth & environment": 1, "usgs": 2, "journal": 1, "u.s. army corps of engineers": 1, "coawst": 1}
+{"milken institute sph": 1, "u.s. centers for disease control and prevention": 1}
+{"rice": 2, "baker institute": 1, "center for energy studies": 1, "sspeed": 4, "national oceanic and atmospheric administration": 1, "houston endowment": 1, "texas coastal exchange": 1}
+{"noaa's national centers for environmental information": 2}
+{"um rosenstiel school": 2, "tarpon and bonefish research center": 1}
+{"um rosenstiel school": 1, "department of energy": 1, "national oceanographic and atmospheric administration": 1}
+{"rutgers": 1, "national oceanic and atmospheric administration": 1, "national science foundation": 1, "pnas": 1, "penn state university": 1}
+{"school of public health": 3}
+{"missouri s&t": 1, "water policy law journal": 1, "u.s. army corps of engineers": 3, "orleans levee board": 2}
+{"university of wyoming": 1, "uw college of business": 1, "louisiana's coastal protection restoration authority": 1, "united nations": 2, "united nation's green climate fund": 1, "world bank": 2}
+{"uci": 1, "nasa": 4, "goddard space flight center": 1, "national oceanic & atmospheric administration": 1, "noaa": 3, "gordon & betty moore foundation": 1, "u.s. department of energy's office of science": 1}
+{"um rosenstiel school of marine and atmospheric science": 2, "noaa's atlantic oceanographic and meteorological laboratory": 1, "noaa": 1}
+{"sandy child and family health study": 1, "rutgers university": 2, "new york university": 1, "columbia university": 3, "colorado state university": 1, "national center for disaster preparedness": 2, "new jersey department of health": 2, "social services block grant": 1, "children's health fund": 1, "mailman school of public health": 1}
+{"university of south florida": 2, "university of maine": 1}
+{"mit": 2, "woods hole oceanographic institution": 2, "mit-whoi joint program in marine geology and geophysics": 1, "national oceanic and atmospheric administration": 1}
+{"noaa": 3, "university of michigan": 1, "louisiana state university": 1, "louisiana universities marine consortium": 2, "virginia institute of marine sciences/college of william and mary": 1, "texas a&m university": 1, "north carolina state university": 1, "united states geological survey": 2, "usgs": 3}
+{}
+{"gulf of mexico coastal ocean observing system (gcoos)": 2, "national oceanic and atmospheric administration's national geodetic survey": 1, "gulf coast spatial reference consortium": 1, "conrad blucher institute for surveying and science at texas a&m university-corpus christi": 1, "louisiana state university's center for geoinformatics": 1, "university of southern mississippi's mississippi spatial reference center": 1, "alabama department of transportation": 1, "noaa": 3, "gcoos regional association": 1, "noaa's center for operational oceanographic products and services (co-ops)": 1}
+{"noaa": 3, "national hurricane center": 1, "fema": 1, "hurricane weather research and forecasting model": 1, "hwrf": 2}
+{"journal": 1, "noaa": 1, "weather channel": 1, "national oceanic and atmospheric administration": 1, "u.s. geological survey": 1}
+{"national oceanic and atmospheric administration": 1, "geophysical fluid dynamics institute": 1}
+{"trmm": 3, "joint typhoon warning center": 1, "nasa": 1, "jaxa": 1}
+{"ua": 5, "journal": 1, "agnese n. haury chair in environment": 1}
+{"cornell college": 2, "university of new mexico": 2, "university of iowa": 1, "woods hole oceanographic institution": 1, "university of nevada las vegas": 1, "iowa state university": 1, "western australian museum": 1, "australian department of parks and wildlife": 1, "australian speleological federation": 1}
+{"nasa's tropical rainfall measuring mission (trmm) satellite": 1, "international best track archive for climate stewardship22 program": 1}
+{"noaa": 2, "southeast fisheries science center": 1, "u.s. magnuson-stevens fishery conservation and management act": 1}
+{"national hurricane center": 1}
+{"cea": 1, "university of colorado museum of natural history": 1}
+{"nova southeastern university's oceanographic center": 2, "nsu's oceanographic center": 1, "journal": 1}
+{"esurge project": 3, "noc": 4, "european space agency": 1, "cgi (uk)": 1, "danish meteorological institute (dk)": 1, "coastal and marine research centre (irl)": 1, "royal dutch meteorological institute (nl)": 1, "mpoc": 1}
+{"penn state's earth and environmental systems institute": 1, "eesi": 1, "penn state dubois": 1}
+{"cyclone global navigation satellite system": 1, "american geophysical union": 1, "nasa": 1, "u-m": 2, "southwest research institute": 1, "u-m space physics research lab": 1, "global positioning system": 1}
+{"johns hopkins": 2, "department of geography and environmental engineering": 1, "climatic change": 1, "national science foundation": 1}
+{"myocardial infarction data acquisition system (midas)": 2, "cardiovascular institute of new jersey": 1, "rutgers robert wood johnson medical school": 1}
+{"uf geological sciences department": 1, "nasa": 3, "u.s. geological survey": 1, "uf": 1}
+{"uh m\u0101noa school of ocean and earth science and technology (soest)": 1, "national taiwan university": 1}
+{"national oceanic and atmospheric administration": 1, "gallup poll": 1, "lyman briggs college": 1, "department of sociology": 1}
+{}
+{}
+{"university of iowa": 1, "usgs": 2, "u.s. geological survey": 1, "iihr-hydroscience & engineering": 1}
+{"department of civil and environmental engineering": 1, "sustainable and resilient infrastructure systems program": 1, "new york city taxi and limousine commission": 1, "transportation research board": 1}
+{"school of civil, environmental and mining engineering": 1}
+{"u.s. geological survey": 1, "eckerd college": 1}
+{"dynamic supplier alignment, inc. (dsa)": 1, "national science foundation": 1, "department of energy": 1, "nextek power systems": 1, "sbu advanced energy research & technology center (aertc)": 1, "stony brook university venture think tank": 1, "sbu garcia summer research scholars program": 1, "interlake high school": 1, "long island power authority": 1, "clean energy business incubator program (cebip)": 1, "start-up ny (suny tax-free areas to revitalize and transform upstate ny)": 1, "star solutions, inc.": 1}
+{}
+{"nasa": 6, "nasa's goddard space flight center": 1, "nasa's earth science fleet": 1, "a-train": 1, "international space station": 1, "ice, cloud and land elevation satellite-2 (icesat-2)": 1, "nasa headquarters": 1, "nasa's earth system science pathfinder program": 1, "earth venture program": 1, "national centers for environmental prediction": 1, "naval postgraduate school": 1, "naval research laboratory": 1, "noaa's hurricane research division": 1, "earth system research laboratory": 1, "northrop grumman space technology": 1, "national center for atmospheric research": 1, "state university of new york at albany": 1, "university of maryland -- baltimore county": 1, "university of wisconsin": 1, "university of utah": 1, "earth science project office": 1, "nasa's ames research center": 1, "nasa's armstrong flight research center": 1}
+{"nasa": 5, "nasa's goddard space flight center": 1, "global hawk": 3, "hurricane and severe storm sentinel": 2, "hs3": 3, "a-train": 1, "cloud-aerosol transport system": 1, "cats": 1, "advanced topographic laser altimeter system": 1, "atlas": 1, "icesat-2": 1, "nasa headquarters": 1, "nasa's earth system science pathfinder program": 1, "nasa's langley research center": 1, "earth venture program": 1, "national centers for environmental prediction": 1, "naval postgraduate school": 1, "naval research laboratory": 1, "noaa's hurricane research division": 1, "earth system research laboratory": 1, "northrop grumman space technology": 1, "national center for atmospheric research": 1, "state university of new york at albany": 1, "university of maryland -- baltimore county": 1, "university of wisconsin": 1, "university of utah": 1}
+{"florida climate institute": 1, "monthly weather review": 1, "american meteorological society": 1, "national hurricane center": 1, "noaa": 1, "u.s. department of agriculture": 1}
+{}
+{"uhm": 2, "uhm atmospheric science": 1}
+{"nova southeastern university": 1, "university of miami": 1, "cimas": 1, "nopp project": 1, "gulf of mexico research initiative": 1, "carthe": 1, "bp": 1, "gulf of mexico alliance": 1}
+{"nasa": 5, "grip airborne campaign": 1, "nasa's earth system science pathfinder program": 1, "earth venture program": 1, "national centers for environmental prediction": 1, "naval postgraduate school": 1, "naval research laboratory": 1, "noaa's hurricane research division": 1, "earth system research laboratory": 1, "northrop grumman space technology": 1, "national center for atmospheric research": 1, "state university of new york at albany": 1, "university of maryland -- baltimore county": 1, "university of wisconsin": 1, "university of utah": 1}
+{}
+{"um rosenstiel school": 3, "gulf of mexico research initiative": 1, "carthe consortium": 1, "alfred c. glassell, jr., sustain research facility": 1, "surge-structure-atmosphere interaction laboratory": 1, "marine technology and life sciences seawater complex": 1}
+{"gpm": 4, "nasa": 3, "japan aerospace exploration agency": 1, "goddard space flight center": 1, "naval research laboratory": 1, "joint typhoon warning center": 1, "u.s. national hurricane center": 1, "tropical rainfall measuring mission": 1, "nasa goddard's precipitation processing center": 1}
+{"nasa": 5, "iss-rapidscat": 1, "scripps institution of oceanography": 1, "jet propulsion laboratory": 1, "national weather service": 1, "national hurricane center": 1, "u.s. navy": 1, "quikscat": 2}
+{}
+{"department of communication and journalism": 1}
+{"mbl ecosystem center": 1}
+{"u. of i.'s college of business": 1, "proceedings of the national academy of sciences": 1}
+{"nasa": 6, "hurricane and severe storm sentinel": 1, "hs3 mission": 2, "nasa centers": 1, "jet propulsion laboratory": 1, "nasa-japanese space agency global precipitation measurement": 1, "gpm mission": 1, "iss-rapidscat": 1, "international space station": 1, "nasa earth science missions": 1}
+{"noaa": 6, "climate prediction center": 1, "national hurricane center": 2, "hurricane weather research and forecasting model": 2, "hwrf": 2}
+{"noaa's climate prediction center": 1, "u.s. national weather service": 1, "noaa": 1}
+{"noaa": 2, "central pacific hurricane center": 1}
+{"journal": 1, "university of wisconsin": 1, "national oceanic and atmospheric administration": 1, "noaa": 2, "national climactic data center": 1}
+{"government agencies": 1}
+{"stanford": 2, "stanford woods institute for the environment": 1}
+{"rutgers university": 2, "risk analysis": 1, "society for risk analysis": 1}
+{"william & mary's virginia institute of marine science": 1, "vims": 1, "noaa": 2, "north american mesoscale": 1, "rams": 2, "weatherflow inc.": 1, "sciClone computing complex": 1, "usgs": 2, "hurricane sandy mapper": 1}
+{"tulane university school of medicine": 1, "tulane heart and vascular institute": 1, "southeast louisiana veterans health care system": 1}
+{"scripps institution of oceanography": 1, "cecil h. and ida m. green institute of physics and planetary physics": 1, "national science foundation": 2, "university corporation for atmospheric research": 1, "purdue university": 1, "cosmic": 1, "gismos": 2, "grl": 1}
+{"university of utah": 1, "u's department of atmospheric sciences": 1}
+{"texas a&m": 2, "nasa": 2, "nasa's jet propulsion laboratory": 1, "caltech": 1, "ministry of science and technology of china": 1}
+{"university of delaware": 1}
+{"penn state": 1, "the pennsylvania state university": 1, "national oceanic and atmospheric administration": 1, "european centre for medium-range weather forecasts": 1, "texas advanced computing center": 1, "journal of advances in modeling earth systems": 1}
+{"uf": 2, "state department of environmental protection": 1, "institute of food and agricultural sciences": 1, "u.s. department of defense": 1, "national oceanic and atmospheric administration": 1}
+{"university of wisconsin-madison": 1}
+{"northwestern university": 2, "american association for the advancement of science": 1, "aaas": 1, "weinberg college of arts and sciences": 1, "wiley": 1, "columbia university press": 1}
+{"college of natural and applied sciences": 1, "natural resources conservation service": 1, "ashs": 1}
+{"college of natural resources and environment at virginia tech": 1, "u.s. army corps of engineers": 1}
+{"epa": 2, "affordable composites from renewable resources (acres)": 2, "american society for testing and materials": 1, "ud": 2, "dixie chemical": 1, "nike": 2, "puma": 1}
+{"the ohio state university": 1, "byrd polar research center": 1, "american geophysical union": 1, "russian academy of sciences": 1, "moscow state university": 1, "arctic system reanalysis (asr)": 2, "ohio supercomputer center": 1, "european centre for medium-range weather forecasts": 1}
+{"the university of texas at austin's institute for geophysics": 2, "adelphi university": 2, "stony brook university": 2, "jackson school of geosciences": 2}
+{"umass amherst": 1}
+{}
+{"school of environmental and biological sciences": 1}
+{"university of miami's rosenstiel school of marine and atmospheric science": 1, "nasa": 1, "joint typhoon warning center": 2, "u.s. national hurricane center": 1}
+{"flickr": 3, "warwick business school": 1, "google": 1, "wikipedia": 1}
+{"geological society of america (gsa)": 1, "cuny interdisciplinary high performance computer center": 1, "college of staten island": 2}
+{"tufts' department of earth and ocean sciences": 1, "intergovernmental panel on climate change (ipcc)": 1}
+{"drexel university": 2, "academy of natural sciences of drexel university": 1, "national science foundation": 1}
+{"ohio state": 3, "human factors and ergonomics society": 1, "resilience engineering association": 1, "john glenn school of public affairs": 1, "initiative on complexity in natural, social and engineered systems": 1}
+{"rutgers university": 1}
+{"epa": 1, "journal of american meteorological society": 1}
+{"delft university of technology": 3, "royal haskoningdhv": 2, "iv infra": 2, "texas a&m university": 1, "texan universities": 1}
+{"nasa's goddard space flight center": 1, "nasa's wallops flight facility": 1, "hs3": 1, "nasa's hurricane and severe storm sentinel mission": 1, "cloud physics lidar": 1, "nasa centers": 1, "earth science projects office": 1, "nasa's ames research center": 1, "nasa's dryden flight research center": 1, "nasa's marshall space flight center": 1, "nasa's jet propulsion laboratory": 1, "nasa headquarters": 1, "nasa's earth system science pathfinder program": 1, "earth venture program": 1, "national centers for environmental prediction": 1, "naval postgraduate school": 1, "naval research laboratory": 1, "national oceanic and atmospheric administration's hurricane research division": 1, "earth system research laboratory": 1, "northrop grumman space technology": 1, "national center for atmospheric research": 1, "state university of new york": 1, "university of maryland": 1}
+{"noaa": 4, "u.s. geological survey": 2, "u.s. army corps of engineers": 2, "congress": 2, "disaster relief appropriations act": 1, "noaa's office of coast survey": 1, "ocean and coastal mapping integration act": 1, "noaa's national geophysical data center": 1, "noaa's digital coast": 1, "3d elevation program": 1, "joint airborne lidar bathymetry technical center of expertise": 1, "usace": 1, "u.s. navy": 1}
+{"noaa": 5, "national weather service": 2, "space systems/loral": 1, "noaa-nasa partnership": 1, "goes-r satellite series": 1, "polar operational environmental satellite (poes) program": 1, "defense meteorological satellites program": 1, "suomi npp spacecraft": 1}
+{"u.s. army corps of engineers": 1, "federal emergency management agency (fema)": 1, "journal of waterway, port, coastal and ocean engineering": 1}
+{"department of homeland security": 2, "national infrastructure simulation and analysis center": 3, "sandia": 4, "los alamos national laboratories": 2, "federal emergency management agency": 2, "national oceanic and atmospheric administration": 1, "department of energy": 1, "doe's office of electricity delivery and energy reliability": 1}
+{"nasa": 2, "national oceanic and atmospheric administration": 1, "national climatic data center": 1, "nasa's modern era retrospective-analysis for research and applications": 1, "national hurricane center": 1}
+{"college of engineering": 1, "national science foundation": 2, "division of earth sciences": 1, "college of science": 1, "department of geosciences": 1, "department of civil and environmental engineering": 1}
+{"nasa langley research center": 1, "national oceanic and atmospheric administration": 1, "noaa": 2, "radio science": 1, "american geophysical union": 1, "gps": 3, "cyclone global navigation satellite system": 1, "cygnss": 1, "directv": 1, "sirius xm radio": 1}
+{"international pacific research center": 2, "university of hawaii at manoa": 2, "scripps institution of oceanography": 1, "university of california at san diego": 1}
+{"hs3": 3, "nasa": 3, "global hawk": 3, "national hurricane center": 2, "nhc": 1, "aqua satellite": 1, "amsu": 1}
+{"stony brook university's school of marine and atmospheric sciences": 1, "shinnecock bay restoration program": 1}
+{"uf's new institute for networked autonomous systems": 1}
+{"coaps": 4, "national oceanic and atmospheric administration (noaa)": 1, "noaa": 1}
+{"nasa": 8, "hs3 mission": 6, "goddard space flight center": 1, "wallops flight facility": 2, "earth science projects office": 1, "ames research center": 1, "dryden flight research center": 1, "marshall space flight center": 1, "jet propulsion laboratory": 1, "nasa headquarters": 1, "earth system science pathfinder program": 1, "earth venture program": 1, "national centers for environmental prediction": 1, "naval postgraduate school": 1, "naval research laboratory": 1, "noaa's hurricane research division": 1, "earth system research laboratory": 1, "northrop grumman space technology": 1, "national center for atmospheric research": 1}
+{"noaa": 5, "climate prediction center": 1, "national hurricane center": 2, "hurricane weather research and forecasting (hwrf) model": 1, "national weather service": 1}
+{"international pacific research center": 1, "university of hawaii at manoa": 2, "meteorology department": 1, "meteorological research institute": 1, "university of tsukuba": 1}
+{"saffir-simpson scale": 1, "american society of civil engineers": 1, "fsu's center for ocean-atmospheric prediction studies (coaps)": 1, "national oceanic and atmospheric administration": 1, "american meteorological society": 1, "southeast ecological science center of the u.s. geological survey": 1, "u.s. department of agriculture": 1}
+{"university of utah seismograph stations": 1, "university of utah": 2, "seismological society of america": 1, "earthscope": 3, "national science foundation": 1}
+{"centre for ice and climate": 1, "niels bohr institute": 1, "university of copenhagen": 1}
+{"tulane university school of medicine": 1, "southeast louisiana veterans health care system": 1, "heart and vascular institute": 1}
+{"tulane university school of medicine": 1, "southeast louisiana veterans health care system": 1, "tulane medical center": 1}
+{"cornell": 3, "rutgers": 2, "cornell's ocean resources and ecosystems program": 1, "rutgers university's institute of marine and coastal sciences": 1}
+{"nasa": 3, "nasa environmental management branch of center operations": 1, "space shuttle program": 1, "space launch system": 1, "orion capsule": 1, "congress": 1, "dune vulnerability team": 1, "dvt": 1, "u.s. geological survey": 1, "u.s. army corps of engineers": 1}
+{"drexel's college of engineering": 1, "national science foundation": 1, "research team": 1, "college of engineering": 2}
+{"nasa": 2, "tropical rainfall measuring mission (trmm)": 2, "nasa's precipitation processing system": 1, "computers & geosciences": 2}
+{"u.s. department of energy": 2, "lawrence berkeley national laboratory": 1, "berkeley lab": 1, "tulane university": 1, "brazil's national institute for amazon research": 1, "instituto nacional de pesquisas da amaz\u00f4nia": 1, "landsat": 1, "office of science": 1, "national aeronautics and space administration": 1}
+{"u.s. climate extremes index": 1, "noaa's national climatic data center": 1, "noaa": 1, "u.s. drought monitor": 1}
+{"u.s. geological survey (usgs)": 1, "usgs": 6, "national weather service": 1, "noaa": 2, "nasa": 1, "u.s. air force": 1}
+{"information sciences institute": 2, "usc viterbi school of engineering": 1, "computer networks division": 1}
+{"u.s. drought monitor": 1}
+{"university of iowa": 1, "iihr-hydroscience & engineering": 1, "national oceanic and atmospheric administration": 1}
+{"bu's department of earth and environment": 1, "u.s. pipeline and hazardous materials safety administration": 1, "duke": 1, "gas safety, inc.": 1, "picarro, inc.": 2, "boston university": 2, "duke university": 1, "barr foundation": 1, "conservation law foundation": 1, "national science foundation": 1}
+{"durham university": 2, "university of copenhagen": 1, "danish council for independent research": 1}
+{"college of earth, ocean, and environment": 1, "mid-atlantic regional association coastal ocean observing system": 1, "maracoos": 2, "new jersey department of environmental protection": 1, "njdep": 1, "center for remote sensing": 1, "ud": 2}
+{"soil moisture and ocean salinity (smos)": 1, "esa's earth observation support to science element programme": 1, "french research institute for exploration of the sea": 1, "collect localisation satellites, cls": 1, "noaa's hurricane research division": 1}
+{"remote sensing division": 1, "national oceanic and atmospheric administration": 1, "noaa": 1}
+{"child abuse research, education and service (cares) institute": 1, "university of medicine and dentistry of new jersey-school of osteopathic medicine": 1, "trauma-focused cognitive behavioral therapy (tf-cbt)": 1}
+{"university of new orleans": 1}
+{"ud's college of earth, ocean, and environment (ceoe)": 1, "goes": 1, "ud": 2, "ceoe": 1, "willard hall education building": 1, "smith global visualization room": 1, "rutgers": 1}
+{"northwestern university": 2, "brown university": 1, "geological society of america": 1, "the new york times": 1}
+{"greenwich hospital's integrative medicine program": 1}
+{"university of california, merced": 1, "sierra nevada research institute": 1, "national weather service": 1, "snri": 1, "uc merced": 2, "uc berkeley": 1}
+{"nasa's goddard space flight center": 1, "trmm-based, near-real time multi-satellite precipitation analysis (mpa)": 1, "noaa's hydrometeorological prediction center": 1, "noaa's goes-13 satellite": 1}
+{"federal government": 1, "department of energy": 1, "doe": 2, "johns hopkins whiting school of engineering": 1}
+{"cooperative institute for meteorological satellite studies": 1, "university of wisconsin-madison": 1, "nasa": 1, "national oceanic and atmospheric administration": 1, "u.s. department of defense": 1, "national hurricane center": 1}
+{"national oceanic and atmospheric administration": 1, "noaa": 2, "nasa's goes project": 1, "nasa's goddard space flight center": 1, "noaa's national hydrometeorological prediction center": 1, "noaa/hpc": 1}
+{"gsa's disasters and older adults interest group": 1, "university of south florida": 1, "gsa's upcoming annual scientific meeting": 1, "st. joseph's health care london": 1, "the american red cross": 1}
+{"nasa": 2, "noaa": 4, "weather channel": 1, "noaa's hydrometeorological prediction center": 2, "noaa/hpc": 3}
+{"department of geography and environmental engineering": 1, "johns hopkins whiting school of engineering": 1}
+{"mississippi state university": 1, "mississippi state's department of finance and economics": 1, "mississippi state's international business program": 1}
+{"mississippi state university": 1, "msu extension": 2}
+{"nasa": 3, "cloudsat": 3, "nasa's jet propulsion laboratory": 1, "cooperative institute for research in the atmosphere": 1, "colorado state university": 1, "national hurricane center": 4, "noaa's goes-13 satellite": 1, "nasa goes project": 1, "nasa's goddard space flight center": 1, "national weather service": 1, "atmospheric infrared sounder (airs) instrument": 1, "nasa's aqua satellite": 1}
+{"trmm": 3, "tropical rainfall measuring mission": 1, "nasa": 1, "jaxa": 1, "japan space exploration agency": 1, "national hurricane center": 2, "global precipitation measuring (gpm) satellite": 1}
+{"national hurricane center": 6, "modis (moderate resolution imaging spectroradiometer)": 1, "nasa": 3, "noaa": 1, "trmm (tropical rainfall measuring mission)": 1}
+{"u.s. geological survey": 1, "usgs": 3, "usgs st. petersburg coastal and marine science center": 1, "noaa": 1}
+{"noaa": 1, "fema": 1, "u.s. army corps of engineers": 1, "usgs": 5, "national hurricane center": 1, "national weather service": 1, "georgia water science center": 1}
+{"nasa": 3, "trmm": 3, "noaa": 3, "the weather channel": 2, "university of wisconsin's space science and engineering center": 1, "ssec": 1, "mcidas": 1, "nasa's goddard space flight center": 1, "national hurricane center": 5}
+{"nasa": 5, "national hurricane center": 4, "trmm": 4, "tropical rainfall measuring mission": 1, "trmm team": 1, "nasa's goddard space flight center": 1, "goes-13": 2, "multi-satellite precipitation analysis": 1, "tmpa": 1, "university of georgia": 1, "nasa precipitation science team": 1, "earth science subcommittee": 1, "nasa advisory council": 1, "noaa": 1, "nasa goes project": 1}
+{"nasa": 1, "moderate resolution imaging spectroradiometer (modis)": 1, "terra satellite": 1, "national hurricane center": 1}
+{"nasa's jet propulsion laboratory": 1, "jpl": 1}
+{"centre for ice and climate": 1, "niels bohr institute": 1, "university of copenhagen": 1}
+{"nasa": 10, "noaa": 1, "national hurricane center": 1, "trmm satellite": 1, "hs3 mission": 5, "goddard space flight center": 1, "ames research center": 1, "marshall space flight center": 1, "jet propulsion laboratory": 1, "earth venture mission": 2, "science mission directorate": 1, "earth system science pathfinder program": 1, "langley research center": 1, "earth science project office": 1}
+{"yale school of forestry & environmental studies": 1, "yale": 1}
+{"nasa": 10, "hurricane and severe storm sentinel (hs3)": 2, "genesis and rapid intensification processes (grip)": 2, "global hawk": 4, "university of wisconsin": 1, "national center for atmospheric research": 1, "national oceanic and atmospheric administration": 1, "jet propulsion laboratory": 1, "marshall space flight center": 1, "dryden flight research center": 1, "ames research center": 2, "earth venture": 1, "science mission directorate": 1, "earth system science pathfinder program": 1, "earth science project office": 1}
+{"dutch research institute deltares": 1, "rensselaer": 4, "u.s. department of homeland security's science and technology directorate": 1, "rensselaer center for earthquake engineering simulation (cees)": 1, "george e. brown, jr. network for earthquake engineering simulation (nees) program": 1, "national science foundation": 1, "measurand": 1, "u.s. national institute of standards and technology's technology innovation program": 1, "geocomp corp.": 1, "american society of civil engineers": 1}
+{"nasa": 5, "global hawk program": 1, "dryden flight research center": 1, "national hurricane center": 1, "tropical rainfall measuring mission": 1, "trmm": 2, "ames research center": 2, "marshall space flight center": 1, "jet propulsion laboratory": 1, "wallops": 1, "goddard": 1, "earth venture mission": 2, "science mission directorate": 1, "earth system science pathfinder program": 1, "langley research center": 1, "earth science project office": 1}
+{"nc state": 1, "journal": 1}
+{"nasa": 5, "hs3 mission": 5, "cloud physics lidar (cpl)": 1, "scanning high-resolution interferometer sounder (s-his)": 1, "advanced vertical atmospheric profiling system (avaps)": 1, "high-altitude imaging wind and rain airborne profiler (hiwrap)": 1, "high-altitude mmic sounding radiometer (hamsr)": 1, "hurricane imaging radiometer (hirad)": 1, "earth venture mission": 2, "nasa's science mission directorate": 1, "earth system science pathfinder program": 1, "earth science project office": 1, "nasa's airborne science program": 1}
+{"atmospheric infrared sounder": 1, "nasa": 2, "national oceanic and atmospheric administration": 1, "national hurricane center": 1}
+{"usgs": 4, "noaa": 1, "wateralert": 1}
+{"tropical rainfall measuring mission (trmm)": 1, "nasa": 2, "jaxa": 1, "japanese space agency": 1, "nasa's goddard space flight center": 1}
+{"nasa": 2, "french space agency": 1, "jason 1": 1, "ocean surface topography mission/jason 2": 1}
+{"national hurricane center": 3, "trmm": 1, "noaa": 1, "nasa's goes project": 1, "nasa goddard space flight center": 1, "moderate resolution imaging spectroradiometer (modis)": 1, "nasa's terra satellite": 1}
+{"university of miami": 1, "after the storm workbook": 1}
+{"american college of allergy, asthma and immunology": 1, "acaai": 2}
+{"nssa": 3, "uab department of materials science & engineering": 1, "federal emergency management association": 1, "international council code": 1, "sioux manufacturing": 1, "innovative composite solutions": 1, "uab school of engineering": 1, "ics": 1, "nssa/texas tech debris impact test facility": 1}
+{"university of leeds": 1, "hadgem1": 1}
+{"nasa": 6, "hurricane and severe storm sentinel (hs3)": 1, "university of wisconsin": 1, "national center for atmospheric research": 1, "national oceanic and atmospheric administration": 1, "nasa's jet propulsion laboratory": 1, "nasa's marshall space flight center": 1}
+{"department of energy": 1, "pnnl": 1, "department of energy office of science": 1, "u.s. national science foundation": 1, "national science foundation of china": 1, "chinese national basic research program": 1, "chinese ministry of education": 1}
+{"noaa": 2, "climate prediction center": 1, "national weather service": 1, "fema": 1}
+{"nasa": 2, "global hawk mobile operations facility": 1, "federal aviation administration": 1, "hurricane and severe storm sentinel mission": 1, "u.s. science community": 1}
+{"university of wisconsin-madison": 1, "uw-madison graduate school": 1, "national science foundation": 1, "city of paris": 1}
+{"appalachian state university": 1, "indiana university": 1, "unc greensboro": 1, "university of west florida": 1, "drought monitor website": 1}
+{"center for health and wellbeing": 1, "woodrow wilson school of public and international affairs": 1, "department of economics": 1, "national bureau of economic research": 1, "eunice kennedy shriver national institute of child health and human development": 1}
+{"noaa": 5, "nasa": 3, "suomi npp": 4, "advanced technology microwave sounder (atms)": 2, "cross-track infrared sounder (cris)": 2, "visible infrared imaging radiometer suite (viirs)": 1, "ozone mapping and profiler suite (omps)": 1, "clouds and earth's radiant energy system (ceres)": 1, "joint center for satellite data assimilation (jcsda)": 1, "polar-orbiting operational environmental satellite (poes)": 1, "earth observing system": 1, "joint polar satellite system (jpss)": 2, "jpss-1": 1, "nasa-noaa-nsf-department of defense": 1}
+{"nasa": 2, "moderate resolution imaging spectroradiometer (modis)": 1, "noaa": 1, "goes-13": 1, "nasa's goddard space flight center": 1, "national hurricane center (nhc)": 2}
+{"noaa's climate prediction center": 2, "noaa": 4, "hurricane forecast improvement project": 1, "hurricane weather research and forecasting": 1, "geophysical fluid dynamics laboratory": 1, "noaa's national hurricane center": 1}
+{"noaa's national climatic data center": 1, "noaa": 1}
+{"rice": 1, "texas a&m university press": 1, "sspeed center": 2, "american society of civil engineers": 1, "texas department of transportation": 1, "hntb": 1, "national science foundation": 1, "houston endowment": 1}
+{"nasa": 5, "jet propulsion laboratory": 1, "hs3 mission": 4, "global hawk": 3, "genesis and rapid intensification processes (grip) hurricane mission": 1, "global hawk pacific (glopac) environmental science mission": 1, "wallops flight facility": 1, "dryden flight research center": 1, "goddard space flight center": 1, "high-altitude monolithic microwave integrated circuit sounding radiometer (hamsr)": 1}
+{"pik": 1}
+{"atmospheric infrared sounder (airs)": 2, "nasa's aqua satellite": 1, "abc online melbourne": 1, "australian bureau of meteorology": 1}
+{"nature climate change": 1, "journal of geophysical research": 1, "intergovernmental panel on climate change (ipcc)": 1, "national hurricane center (nhc)": 2}
+{}
+{"nasa": 1, "aqua satellite": 1, "moderate resolution imaging spectroradiometer (modis)": 1, "tropical rainfall measuring mission (trmm)": 1}
+{"australian bureau of meteorology": 3, "abm": 4, "moderate resolution imaging spectroradiometer": 1, "modis": 1, "nasa": 1, "joint typhoon warning center": 1}
+{"nasa": 1, "aqua satellite": 1, "moderate resolution imaging spectroradiometer": 1, "modis instrument": 1}
+{"atmospheric infrared sounder": 1, "australian bureau of meteorology": 1, "joint typhoon warning center": 1}
+{"woodrow wilson school of public and international affairs": 1, "population studies center": 1, "survey research center": 1, "national institutes of health": 1, "national science foundation": 1, "macarthur foundation": 1, "griswold center for economic policy studies": 1}
+{"nasa": 3, "jaxa": 1, "tropical rainfall measuring mission": 1, "trmm": 2, "moderate resolution imaging spectroradiometer": 1, "modis": 1, "atmospheric infrared sounder": 1, "airs": 1}
+{"international research institute for climate and society": 1, "national oceanic and atmospheric administration": 1, "noaa": 2, "climate forecast system": 2, "cfs": 2, "school of engineering and applied science": 1}
+{"the atlantic meridional overturning circulation (amoc)": 1, "mpi-m": 1, "rapid-moc project": 1, "bmbf nordatlantik ii": 1, "cluster of excellence clisap": 1, "university of hamburg": 1}
+{"florida international university": 1}
+{"tropical rainfall measuring mission": 2, "trmm": 4, "nasa": 3, "japanese space agency": 1, "trmm team": 1, "nasa goddard": 2, "goddard space flight center": 1, "joint typhoon warning center": 1}
+{"nasa": 1, "moderate resolution imaging spectroradiometer (modis)": 1, "aqua satellite": 1}
+{"coamps-tc": 1, "national hurricane center": 1, "numerical weather prediction": 1, "navy's fleet numerical meteorology and oceanography center": 1, "office of naval research": 1, "the observing system research and predictability experiment": 1, "tropical cyclone structure-08": 1, "impact of typhoons on the ocean in the pacific": 1, "national oceanic and atmospheric administration": 1, "hurricane forecast improvement project": 1, "high performance computing excellence award": 1, "isc-11 international supercomputing conference": 1, "department of defense hpc modernization program office": 1, "navy defense supercomputing resource center": 1, "joint typhoon warning center": 1, "nrl costal ocean model": 1, "wave watch iii": 1}
+{"sspeed center": 2, "houston endowment": 1}
+{"nasa": 2, "noaa": 1}
+{"nasa": 4, "moderate resolution imaging spectroradiometer (modis)": 1, "nasa's terra satellite": 1, "nasa's aqua satellite": 1, "atmospheric infrared sounder (airs)": 2, "nasa jet propulsion laboratory": 1, "national hurricane center (nhc)": 2}
+{"national hurricane center": 2, "trmm": 3, "nasa's goddard space flight center": 1, "nasa's aqua satellite": 1, "atmospheric infrared sounder": 1, "airs": 3, "nasa's jet propulsion laboratory": 1}
+{"journal": 1}
+{"nasa": 1, "atmospheric infrared sounder (airs)": 1, "aqua satellite": 1, "national hurricane center": 1}
+{"nasa": 4, "noaa": 2, "national hurricane center": 1, "nasa's goddard space flight center": 1, "modis rapid response teams": 1, "nasa goes project": 1}
+{"lsu": 1, "bp deepwater horizon disaster": 1}
+{"nasa": 2, "national hurricane center": 3}
+{"tropical rainfall measuring mission": 2, "trmm": 4, "nasa": 2, "japanese space agency": 1, "jaxa": 1, "national hurricane center": 1, "nhc": 1, "noaa": 1, "goes": 1}
+{"noaa": 1}
+{"american meteorological society": 2, "american geophysical union": 1, "university of central florida": 1, "university of miami": 1, "um's marine science graduate student organization": 1}
+{"christina river basin critical zone observatory": 2, "national science foundation": 2, "stroud water research center": 2, "university of delaware": 1, "nsf's earth sciences division": 1, "nsf critical zone observatories": 1}
+{"atmospheric infrared sounder (airs)": 1, "nasa": 2, "nasa's aqua spacecraft": 1, "jet propulsion laboratory": 1, "california institute of technology": 1}
+{"stevens center for maritime systems": 1, "cms": 3, "urban ocean observatory": 1, "national hurricane center": 1}
+{"noaa": 1, "nasa": 2, "nasa's goes project": 1, "national hurricane center": 2, "nhc": 2, "moderate resolution imaging spectroradiometer (modis) instrument": 1, "terra satellite": 1}
+{"nsf": 1, "national science foundation": 1, "international associations for wind engineering": 1, "osu": 1, "university of florida": 1, "university of alabama": 1, "applied technology council": 1, "south dakota state university": 1}
+{"goes-13": 3, "nasa's goes project": 2, "noaa": 2, "nasa's goddard space flight center": 1, "national hurricane center": 1}
+{"nc state": 1, "university of north carolina charlotte": 1}
+{"u.s.-french ocean surface topography mission (ostm)/jason-2": 2, "nasa's science mission directorate": 1, "jpl": 1}
+{"national weather service": 1, "climate prediction center": 1}
+{"massey university": 1, "world health organisation": 1}
+{"trmm": 4, "nasa": 2, "japanese space agency": 1, "national weather service": 2, "nws": 1}
+{"lighthawk": 1, "united airlines": 1, "panama canal authority": 2, "usgs": 1, "smithsonian": 1, "hsbc climate partnership": 1}
+{"stanford": 4, "emmett interdisciplinary program in environment and resources": 1, "international association of ports and harbors": 1, "american association of port authorities": 1, "national weather service": 1, "center for integrated facility engineering": 1, "army corps of engineers": 1, "national graduate institute for policy studies": 1, "walt disney imagineering": 1, "sustainable built environment initiative": 1, "woods institute for the environment": 1, "stanford school of earth sciences": 1}
+{"journal": 1, "nasa hurricane science research program": 1}
+{"national science foundation": 1, "u.s. department of energy": 1, "complex systems research center": 1, "institute for the study of earth, oceans, and space": 1, "university of new hampshire": 1, "oregon state university": 1, "ameriflux network": 1, "prism climate database": 1, "osu": 1}
+{"um": 1, "fiu": 1, "florida international university": 1, "child anxiety and phobia program": 1}
+{"deepwater horizon": 1, "university of pittsburgh graduate school of public health": 1, "tulane university": 1}
+{"the gerontological society of america": 1}
+{"ohio state university": 1, "mcgill university": 2, "fonds pour la formation de chercheurs et l'aide \u00c3\u00a0 la recherche (qu\u00e9bec)": 1, "international development research centre young researchers award (canada)": 1, "mccoll family fellowship from the american geographical society": 1, "social sciences and humanities research council of canada postdoctoral fellowship": 1, "ohio state": 1}
+{"usc": 3, "usc school of policy, planning, and development": 1, "center for risk and economic analysis of terrorism events (create)": 1, "u.s. geological survey (usgs)": 2, "the usc energy institute": 1}
+{"nasa": 4, "national oceanic and atmospheric administration": 2, "national center for atmospheric research": 1, "jet propulsion laboratory": 1, "dryden flight research center": 2, "global hawk operations center": 1, "wispar": 4}
+{"northwestern university": 1}
+{"national science foundation (nsf)": 1, "national oceanic and atmospheric administration (noaa)": 1, "orleans gazette": 1, "new orleans notarial archives": 1, "british royal navy": 1, "uss enterprise": 2, "usc's south caroliniana library": 1}
+{"nasa": 1, "australian bureau of meteorology": 1, "bureau of meteorology": 1}
+{"atmospheric infrared sounder (airs)": 1, "nasa's aqua satellite": 1, "nasa's jet propulsion laboratory": 1}
+{"atmospheric infrared sounder (airs)": 1, "nasa's aqua satellite": 1, "nasa's jet propulsion laboratory": 1, "joint typhoon warning center": 1}
+{"noaa's national weather service southern region": 3, "national weather service": 1, "florida's forestry division": 1}
+{"nasa langley research center": 1, "nasa": 2, "jet propulsion laboratory": 1, "jpl": 1, "e-green technologies inc.": 1, "old dominion university": 1}
+{"genesis and rapid intensification processes": 2, "grip": 8, "nasa": 2, "air force": 1, "noaa": 1, "national science foundation": 1}
+{"noaa coral reef watch": 2, "crw": 2, "noaa's office of national marine sanctuaries": 1, "noaa": 4}
+{"ncar": 1, "hebrew university": 1, "cu": 1}
+{"wavcis": 4, "national data buoy center": 1}
+{"goes fleet": 1, "noaa": 3, "nasa": 3, "boeing space & intelligence systems": 2, "lockheed martin": 1, "itt": 1, "united launch alliance": 1, "nasa's goddard space flight center": 1, "office of systems development": 1, "noaa's satellite and information service": 1}
+{"national academy of sciences": 1, "centre for visual computing": 1, "nasa": 2, "european space agency": 1, "esa": 1, "solar and heliospheric observatory": 1, "soho": 1, "bradford automated solar activity prediction system": 1, "asap": 1, "epsrc": 1, "solar dynamic observatory": 1}
+{}
+{"katrina aid today project": 1, "federal emergency management agency": 1, "national center for disaster mental health research": 1}
+{"nasa": 5, "marshall space flight center": 1, "advanced microwave precipitation radiometer": 2, "ampr": 10, "genesis and rapid intensification processes": 1, "grip": 2, "tropical rainfall measuring mission": 1, "trmm": 2, "aqua": 1, "global precipitation measurement": 1, "u.s. department of energy": 1}
+{"national oceanic and atmospheric administration": 1, "geophysical fluid dynamics laboratory": 1, "noaa": 1, "national aeronautics and space administration": 1}
+{"scripps": 1, "um's center for southeastern tropical advanced remote sensing": 1, "rosenstiel school": 1, "environment canada": 1, "woods hole oceanographic institution": 1, "university of leeds": 1}
+{"nasa": 6, "noaa": 1, "nsf": 1, "northrop grumman": 1, "genesis and rapid intensification processes (grip)": 3, "hurricane science research team": 1}
+{"noaa": 3, "climate prediction center": 1}
+{}
+{"american meteorological society": 1, "national hurricane center": 1, "national science foundation": 1, "risk prediction initiative": 1, "bermuda institute for ocean studies": 1, "florida catastrophic storm risk management center": 1}
+{"nsf": 4, "pre-depression investigation of cloud systems in the tropics (predict)": 1, "nsf/ncar": 2, "national center for atmospheric research (ncar)": 1, "national aeronautics and space administration (nasa)": 1, "genesis and rapid intensification processes (grip)": 1, "national oceanic and atmospheric administration (noaa)": 1, "intensity forecasting experiment (ifex)": 1, "naval postgraduate school": 1, "university at albany-suny": 1, "university of illinois at urbana-champaign": 1, "university of miami": 1, "northwest research associates": 1, "new mexico tech": 1, "purdue university": 1, "university of wisconsin-madison": 1}
+{"nasa": 4, "university of maryland-college park": 1, "nasa's ames research center": 1, "national oceanic and atmospheric administration's (noaa) atlantic oceanographic and meteorological laboratory": 1, "nasa's goddard space flight center": 1, "american geophysical union's western pacific geophysics meeting": 1}
+{}
+{"journal": 1}
+{"trmm": 5, "nasa": 2, "jaxa": 1, "nasa's goddard space flight center": 1}
+{"geostationary operational environmental satellite": 1, "goes-13": 3, "nasa's goes project": 2, "nasa's goddard space flight center": 2, "national oceanic and atmospheric administration": 1}
+{"mathematics research centre": 2, "department of physics of universitat aut\u00c3\u00b2noma de barcelona": 1, "institute of catalan studies": 1, "cerca center": 1}
+{"nasa": 6, "grip": 4, "godard space flight center": 1, "japan aerospace exploration agency": 1, "jpl": 3, "university of utah": 1, "national science foundation": 1, "national oceanic and atmospheric administration": 1, "ames research center": 1, "langley research center": 1, "marshall space flight center": 1}
+{"architecture for humanity": 1, "unesco": 2}
+{"national center for earth-surface dynamics": 1, "nced": 2, "national science foundation": 2, "nsf": 2, "louisiana state university": 1, "lsu": 1, "division of earth sciences": 1}
+{"national science foundation teragrid project": 1, "computational hydraulics group": 1, "institute for computational engineering and sciences": 1, "institute of marine sciences": 1, "center for space research": 2, "national centers for environmental protection": 1, "tacc": 1, "advanced circulation model for oceanic, coastal and estuarine waters": 1}
+{"misr": 3}
+{"university of north carolina at chapel hill school of medicine": 1, "society for academic emergency medicine": 1, "orange county ems": 1, "department of homeland security": 1, "unc health care": 1, "davidson university": 1, "unc kidney center": 1, "national institute of diabetes and digestive and kidney diseases": 1}
+{"nasa's jet propulsion laboratory": 2, "earth venture": 2, "nasa's earth system science pathfinder program": 1, "national research council": 2, "american recovery and reinvestment act": 1, "nasa centers": 1, "university of michigan": 1, "nasa's ames research center": 1, "nasa's langley research center": 1, "nasa's goddard space flight center": 1, "nasa's wallops flight facility": 1, "nasa's earth science division": 1, "science mission directorate": 2, "earth system pathfinder program": 1}
+{"fsu's center for ocean-atmospheric prediction studies": 1, "coaps": 3, "noaa": 1}
+{"noaa": 3, "climate prediction center": 1, "fema": 2}
+{"noaa's climate prediction center": 1}
+{"u.s. naval research laboratory": 1, "office of naval research": 1}
+{"sspeed": 4, "rice university": 2, "university of texas at austin": 2, "texas a&m university": 1, "university of houston": 1, "texas southern university": 1, "houston endowment": 1, "coast guard": 1}
+{"united states environmental protection agency": 1, "texas tech university": 1, "u.s. army corps of engineers": 1}
+{"uri's college of business administration": 1}
+{"syracuse university": 1, "turkish scientific and technological research council": 1, "national response center (nrc)": 1, "incident reporting information system (iris)": 1, "u.s. coast guard": 1}
+{"noaa": 4, "nasa": 3, "nasa's goes project": 2, "national oceanic and atmospheric administration": 1, "goddard space flight center": 1, "global earth observing system of systems": 1}
+{"lsu's department of geography and anthropology": 1, "lsu's public policy research lab": 1, "mississippi-alabama sea grant consortium": 2, "national sea grant college programs": 1, "national oceanic and atmospheric administration": 1, "noaa": 1, "lsu department of communication studies": 1, "manship school of mass communication": 1, "governor's office of homeland security and emergency preparedness": 1}
+{"yale": 2, "massachusetts institute of technology": 1, "national science foundation": 1, "department of energy office of science": 1, "david and lucile packard foundation": 1}
+{"cu-boulder's natural hazards center": 2, "institute of behavioral science": 1, "national science foundation": 1, "fema": 1}
+{"interagency performance evaluation task (ipet)": 1}
+{"outside committee of experts": 1}
+{"k-state": 1, "the psychology of prosocial behavior: group processes, intergroup relations and helping": 1}
+{"mms": 2, "coastal marine institute": 1, "observation of the deepwater manifestation of the loop current and loop current rings in the eastern gulf of mexico": 2}
+{"college of science": 1}
+{"quikscat project team": 1, "nasa": 1, "eumetsat": 1, "india": 1, "oceansat-2": 1, "national research council": 1, "national oceanic and atmospheric administration": 1, "extended ocean vector winds mission (xovwm)": 1}
+{"noaa": 2, "flower garden banks national marine sanctuary": 1, "center for coastal management & assessment": 1, "ccma biogeography branch": 1}
+{"journal": 1}
+{"northwestern university": 1, "geological society of america": 1}
+{"university of miami": 1}
+{"esl": 3, "university of colorado": 1, "national hurricane center": 1, "lsu": 1}
+{"rosentstiel school of marine and atmospheric science": 1, "korea ocean research & development institute": 1, "intergovernmental panel on climate change": 1}
+{"school of earth and atmospheric sciences": 2, "nexrad doppler radar network": 1}
+{"journal": 1, "national science foundation": 1, "nasa": 2, "purdue": 1, "national center for atmospheric research": 1, "nasa-gsfc/essic": 1, "university of georgia": 1, "indian space research organization": 1, "indian institute of technology delhi": 1}
+{"nasa's jet propulsion laboratory": 2, "nasa": 8, "noaa": 3, "a-train": 6, "aqua": 5, "cloudsat": 4, "calipso": 3, "parasol": 3, "aura": 3, "trmm": 3, "jason-1": 2, "ostm/jason-2": 2, "landsat-5": 1, "landsat-7": 2, "quikscat": 2, "terra": 2, "geostationary operational environmental satellites (goes)": 2, "national oceanic and atmospheric administration": 2, "jaxa": 1, "french space agency (cnes)": 2, "nasa langley research center": 1, "nasa's goddard space flight center": 2, "u.s. geological survey": 1, "european organization for the exploitation of meteorological satellites (eumetsat)": 1}
+{"goes project": 2, "nasa goddard space flight center": 1, "national hurricane center": 1}
+{"penn state": 2, "university of massachusetts": 1, "woods hole oceanographic institution": 1, "national science foundation": 1, "bermuda institute for ocean sciences": 1}
+{"nasa": 2, "terra satellite": 1, "moderate imaging spectroradiometer (modis)": 1, "aqua satellite": 1, "atmospheric infrared sounder (airs)": 1, "national hurricane center": 1}
+{"arc centre of excellence for coral reef studies": 1, "australian national university": 1, "university of bedfordshire": 1, "marine environmental research": 1}
+{"nasa": 1, "cloudsat": 2}
+{"uh engineering team": 1, "cullen college of engineering": 1, "epa galveston bay national estuary program": 1, "environmental protection agency": 1, "total maximum daily load program": 1, "texas department of state health services": 1, "texas commission on environmental quality": 1}
+{"coaps": 5, "national oceanic and atmospheric administration": 1, "noaa": 2}
+{"nasa": 2, "tropical rainfall measuring mission (trmm)": 2, "mesoscale atmospheric processes branch": 1, "goddard space flight center": 1}
+{"tel aviv university": 2, "porter school for environmental education": 1, "nasa": 1, "cellcom": 1, "pelephone": 1}
+{"georgia tech's school of earth and atmospheric sciences": 1, "earth and atmospheric sciences chair": 1}
+{"stanford university": 1}
+{"quikscat": 10, "nasa": 3, "noaa": 5, "nasa's jet propulsion laboratory": 1, "nasa's goddard space flight center": 1, "ocean prediction center": 5, "national weather service": 1, "u.s. coast guard": 1, "national environmental satellite, data and information service/center for satellite applications and research": 1}
+{"wavcis": 6, "united states navy": 1, "national oceanic and atmospheric administration": 2, "national weather service": 1, "national hurricane center": 1, "louisiana department of national resources": 1, "coastal studies institute": 3, "lsu": 2, "noaa": 2, "national data buoy center": 1, "earth scan lab": 1, "southern regional climate center": 1}
+{"cooperative institute for meteorological satellite studies": 1, "cimss": 2, "national oceanic and atmospheric administration": 1, "noaa": 2, "storm prediction center": 2, "hazardous weather testbed": 2, "weather service": 1, "hurricane center": 1}
+{"college of architecture and design": 1, "journal of architectural engineering": 1}
+{"national oceanic and atmospheric administration": 1, "noaa": 2, "national hurricane center": 1, "nasa": 6, "tropical rainfall measuring mission": 1, "aqua": 1, "quikscat": 1, "cloudsat": 1, "geostationary operational environmental satellite": 1, "goes": 2, "jason-1": 1, "ostm/jason-2": 1, "landsat": 1, "terra": 1, "nasa goddard space flight center": 1, "nasa's jet propulsion laboratory": 1, "goes project office": 1, "climate prediction center": 1}
+{}
+{"school of archaeology and ancient history": 1, "university of leicester": 1, "leverhulme early career fellowship": 1}
+{"ut health science center": 2, "journal of pediatrics": 1}
+{"tulane": 3, "university of new hampshire": 1, "hurricane research division": 1, "national oceanic and atmospheric administration": 1, "institute for the study of earth, oceans, and space": 1, "tulane's office of public relations": 1}
+{"interagency performance evaluation task force": 2, "ipet": 7, "u.s. army corps of engineers": 1, "nae": 1, "research council": 1}
+{"university of portsmouth": 1, "royal geographical society": 1, "american geophysical union": 1}
+{"harvard's department of earth and planetary science": 1, "harvard's faculty of arts and sciences": 1, "geophysical research letters": 1, "eppley foundation": 1, "nasa": 1}
+{"nasa": 4, "geophysical research letters": 1, "goddard earth sciences and technology center": 1, "university of maryland-baltimore county": 1, "india meteorological department": 1, "u.s. navy's joint typhoon warning center": 1, "nasa goddard space flight center": 1, "laboratory for atmospheres": 1}
+{"nasa": 3, "jet propulsion laboratory": 1, "u.s. geological survey": 1, "national hurricane center": 3, "tropical rainfall measuring mission": 2, "u.s. department of defense": 1, "national oceanic and atmospheric administration": 1}
+{"university of wisconsin-madison's cooperative institute for meteorological satellite studies": 1, "uw-madison": 2, "national oceanic and atmospheric administration": 2}
+{"u.s. army corps of engineers": 2}
+{"rice": 1, "rice university": 1}
+{"center for ocean-atmospheric prediction studies (coaps)": 1, "university of illinois at urbana-champaign": 1, "geophysical fluid dynamics laboratory": 1, "princeton university": 1, "intergovernmental panel on climate change (ipcc)": 1}
+{"journal": 1, "robert f. wagner graduate school of public service": 1, "ccpr": 2, "center for catastrophe preparedness and response": 1}
+{"nasa": 3, "argo float program": 1, "jason-1 satellite": 2, "european space agency's environmental satellite": 1, "u.s. navy's geosat follow-on satellite": 1, "noaa's global temperature and salinity profile program": 1, "geophysical research letters": 1, "ocean surface topography mission/jason-2": 1}
+{"department of chemical engineering": 2, "american institute of chemical engineers": 1, "environmental protection agency": 1, "college of engineering": 2, "publishing journal": 1}
+{"environmental engineering science": 1, "mary ann liebert, inc.": 1, "college of engineering and mathematical sciences": 1, "university of vermont": 1}
+{"bloomberg school": 2, "health data essentials, inc.": 1, "johns hopkins school of medicine": 1, "peoples health": 2}
+{"national science foundation": 2, "texas agrilife research": 1, "coastal barrier island network": 1, "wake forest university": 1, "new jersey institute of technology": 1}
+{"uab": 2, "brac university": 2, "national science foundation": 1, "fulbright scholarship": 1}
+{"gkss research centre": 1, "meteorological institute": 1}
+{"university of south carolina": 1}
+{"texas agrilife research": 2, "general land office": 2, "sea turtle and fisheries ecology research laboratory": 1, "texas a&m university": 1}
+{"fema": 4, "george mason": 1, "west virginia u.": 1}
+{"tropical cyclone structure-2008": 4, "nrl": 2, "air force reserve": 1, "scientific development squadron one (vxs-1)": 1, "53rd weather reconnaissance squadron": 1, "office of naval research (onr)": 1, "national science foundation": 1, "naval postgraduate school": 1, "dotstar": 1, "dlr": 1}
+{"noaa's national hurricane center": 2, "noaa's climate prediction center": 1}
+{}
+{"un institute for training and research": 1, "unitar": 1, "operational satellite applications programme": 1, "unosat": 1, "international charter on 'space and major disasters'": 1, "the charter": 2, "esa": 3, "french space agency": 1, "cnes": 2, "canadian space agency": 1, "csa": 2, "earth observation": 1, "spot image": 1, "indian space research organisation": 1, "isro": 1, "us national oceanic and atmospheric administration": 1, "noaa": 1, "argentine space agency": 1, "conae": 1, "japan aerospace exploration agency": 1, "jaxa": 1, "british national space centre/disaster monitoring constellation": 1, "bnsc/dmc": 1, "u.s. geological survey": 1, "usgs": 1, "china national space administration": 1, "cnsa": 1}
+{"jackson school of geosciences": 2, "r/v acadiana": 1, "jackson school": 2, "jackson school\u00e2\u0080\u0099s rapid response program": 1}
+{}
+{"centers for disease control and prevention": 2, "cdc": 4, "gtri": 2, "american red cross": 1}
+{"esa annual meeting": 1}
+{"national center for atmospheric research": 2, "ncar": 4, "national science foundation": 2, "nsf": 1, "u.s. climate change science program": 1, "ccsp": 2, "intergovernmental panel on climate change": 1, "ipcc": 1, "willis research network": 1, "willis": 1}
+{"stevens": 5, "center for maritime systems": 1, "stevens institute of technology international (siti)": 1, "technogenesis program": 1, "united nations development fund (undp)": 1, "usaid": 1, "davidson laboratory": 1}
+{"florida atlantic university": 3, "fau": 3, "center for economic forecasting and analysis": 1, "fsu": 2, "center for urban and environmental solutions": 1, "national commission on energy policy": 1, "bipartisan policy center": 1, "florida state university": 1, "beaches and shores resource center": 1, "intergovernmental panel on climate change": 2, "gov. crist's climate and energy action team": 2}
+{"program for the study of developed shorelines": 1, "wcu": 1, "geological society of america": 1, "gsa": 1, "soil science society of america": 1, "sssa": 1, "american society of agronomy": 1, "asa": 1, "crop science society of america": 1, "cssa": 1, "gulf coast association of geological societies": 1}
+{"rice": 2, "the university": 1, "tmc": 2, "national weather service": 1, "vieux & associates inc.": 1, "severe storm prediction, education and evacuation from disaster center": 1, "sspeed": 2}
+{"cwsr": 1, "national science foundation": 1, "nsf": 2, "division of atmospheric sciences": 1, "dow": 4}
+{"nasa": 1, "mission control center": 1}
+{"ifremer": 1, "cls radar application division": 1, "advanced synthetic aperture radar (asar)": 1, "soprano ocean products demonstration website": 1, "esa": 1, "sentinel-1": 1}
+{"nasa": 2, "jet propulsion laboratory": 1, "national hurricane center": 2, "tropical rainfall measuring mission": 1, "american geophysical union": 1, "geophysical research letters": 1, "goddard space flight center": 1}
+{"u.s. national hurricane center": 1, "esa\u00e2\u0080\u0099s envisat": 1}
+{"fsu": 2, "university of wisconsin-madison": 1, "massachusetts institute of technology": 1, "national science foundation": 1, "risk prediction initiative": 1, "bermuda institute for ocean studies": 1}
+{"behavioral risk factor surveillance system": 1, "heart to heart international": 1}
+{"university of washington": 1, "syracuse": 1, "michigan state": 1, "national geographic": 1, "national science foundation": 1, "social justice research": 1}
+{}
+{"mit engineering systems division's center for engineering systems fundamentals": 1, "operations research center": 1, "u.s. department of homeland security": 1, "national science foundation": 1}
+{"insurance research lab for better homes": 1, "boundary layer wind tunnel laboratory": 1, "western": 1, "fanshawe college": 1, "institute for catastrophic loss reduction": 1, "cambridge consultants, ltd.": 1, "insurance bureau of canada": 1}
+{"noaa": 1, "nasa's goddard spaceflight center": 1, "american geophysical union": 1, "geophysical research letters": 1, "nasa": 1, "george mason university": 1}
+{"massachusetts institute of technology": 1, "rosenstiel school": 1}
+{"noaa": 3, "climate prediction center": 1}
+{"new york sea grant": 1, "school of marine and atmospheric science (somas)": 1, "stony brook university": 1, "stony brook storm surge (sbss) system": 1, "u.s. army corps of engineers": 1}
+{"harvard school of public health": 4, "icr/international communications research": 2, "centers for disease control and prevention": 1, "association of state and territorial health officials": 1, "eight-state coastal high-risk survey": 1}
+{"ocean surface topography mission (ostm)/jason 2": 3, "national oceanic and atmospheric administration (noaa)": 2, "nasa": 2, "jet propulsion laboratory (jpl)": 3, "pacific tsunami warning center": 1, "topex/poseidon": 2, "jason 1": 2}
+{}
+{"journal of architectural engineering": 1}
+{"nasa's mars phoenix lander mission": 1, "department of atmospheric, oceanic and space sciences": 2}
+{"joint center for earth systems technology (jcet)": 1, "nasa": 2, "american meteorological society's monthly weather review": 1, "tropical rainfall measuring mission (trmm)": 1, "japanese space agency": 1, "computer sciences corporation": 1, "university of central florida": 1, "university of louisiana at lafayette": 1}
+{"noaa": 4, "climate prediction center": 2, "national hurricane center": 3, "fema": 1, "national oceanic and atmospheric administration": 1, "u.s. commerce department": 1, "global earth observation system of systems": 1, "geoss": 1, "european commission": 1}
+{"intergovernmental panel on climate change": 2, "noaa's geophysical fluid dynamics laboratory": 1, "nature geoscience": 1, "bulletin of the american meteorological society": 1}
+{"earthwatch": 3, "university of bedfordshire": 1, "marine environmental research": 1, "international coral reef initiative": 1}
+{"mu": 1, "national women's studies association journal": 1}
+{"university of michigan": 1, "tulane university": 1, "rand corporation": 2, "u-m institute for social research (isr)": 1}
+{"nature": 1, "mit's department of earth, atmospheric and planetary sciences": 1, "bulletin of the american meteorological society": 1, "national science foundation": 1}
+{"laboratoire de g\u00e9nie industriel": 1, "cpmohr umr 5798 du cnrs": 1, "physical review letters": 1}
+{"national science foundation": 2, "national center for atmospheric research": 2, "naval research laboratory": 2, "national hurricane center": 3, "nsf's division of atmospheric sciences": 1, "national oceanic and atmospheric administration": 2, "vortrac": 10}
+{"mit's laboratory for undersea remote sensing": 1, "geophysical research letters": 1, "mexican navy's directorate of oceanography, hydrography and meteorology": 1, "u.s. navy's office of naval research": 1, "onr global-americas": 1, "mit sea grant": 1, "department of homeland security science and technology directorate": 1}
+{"colorado state university": 1, "colorado state hurricane forecast team": 2, "landfall probability web site": 1}
+{"svedrup/jacobs civil inc.": 1, "transportation research board": 2, "division on earth and life studies of the national research council": 1, "national cooperative highway research program": 1, "u.s. department of transportation": 1, "transit cooperative research program": 1, "u.s. environmental protection agency": 1, "u.s. army corps of engineers": 1}
+{"wildlife group": 1, "chemstation (agilent)": 1, "gc--ms solution (shimadzu)": 1, "federal agencies": 1}
+{"noaa's national hurricane center": 1, "natural hazards review": 2, "university of colorado": 1, "icat managers, inc.": 1, "tillinghast-towers perrin": 1, "university college london": 1, "aon re australia": 1}
+{"dalhousie": 2, "tantramar district planning commission": 1, "natural resources canada": 2, "halifax regional municipality": 1, "canadian institute of planners": 1, "association of canadian university planning program": 1}
+{"cooperative institute for meteorological satellite studies": 1, "cimss": 1, "geochemistry, geophysics, geosystems": 1, "national oceanic and atmospheric administration": 1, "noaa": 1, "geophysical research letters": 1}
+{"university of new mexico": 1, "geosphere": 1, "geological society of america": 1}
+{"benfield ucl hazard research centre": 1, "ucl tropical storm risk forecasting venture": 1, "tsr (tropical storm risk) venture": 1, "benfield": 1, "royal & sun alliance": 1, "crawford & company": 1, "journal nature": 1}
+{"geophysical research letters": 1, "noaa": 2, "atlantic oceanographic and meteorological laboratory": 1, "cooperative institute for marine and atmospheric studies-university of miami": 1, "national oceanic and atmospheric administration": 1, "u.s. commerce department": 1, "global earth observation system of systems": 1, "european commission": 1}
+{"clark school": 2, "department of water resources": 1, "science": 1, "interagency performance evaluation task force": 1, "army corps of engineers": 1}
+{"lsu": 2, "america's wetland foundation": 1, "coastal systems and society agenda": 1, "shell coastal environmental modeling laboratory": 1, "ceml": 1, "osu": 2}
+{"residential energy demand temperature index": 1, "national snow and ice data center": 1, "national interagency fire center": 1, "noaa's climate prediction center": 1}
+{"noaa geophysical fluid dynamics laboratory": 1, "university of miami rosenstiel school of marine & atmospheric science": 1}
+{"nasa": 3, "university of georgia": 1, "american geophysical union": 1, "geophysical research letters": 1, "tropical rainfall measuring mission (trmm)": 2, "national hurricane center": 1, "global precipitation measurement": 1}
+{"arch gen psychiatry": 1, "hurricane katrina community advisory group": 1, "national institute of mental health": 1, "federal emergency management agency": 1, "assistant secretary for planning and evaluation, department of health and human services": 1}
+{"university of wisconsin-madison": 1, "bulletin of the american meteorological society": 1, "uw-madison's cooperative institute of meteorological satellite studies": 1, "department of atmospheric and oceanic sciences": 1}
+{"indiana university": 1, "human ecology": 1}
+{"earth system science center": 1, "geophysical review letters": 1, "schreyer honors college": 1, "proclim": 1, "swiss academy of sciences": 1}
+{"lsu": 3, "coastal systems and society agenda": 1, "shell coastal environmental modeling laboratory": 1, "ceml": 2, "bangladesh ministry of food and disaster management": 1, "office of disaster management and relief bhaban": 1, "fema": 1, "lsu's center for computation & technology": 1, "bay of bengal cyclone surge modeling program": 1}
+{"centers for disease control and prevention": 1, "arch dermatol": 1}
+{"tulane university": 1, "university of new hampshire": 1, "nasa": 2, "landsat 5": 1, "landsat series": 1, "moderate resolution imaging spectroradiometer": 1, "terra satellite": 1, "terrestrial ecology program": 1, "journal science": 1}
+{"hurricane community advisory group": 1, "harvard medical school": 2, "hurricane katrina community advisory group": 1, "national institute of mental health": 1, "fema": 1, "office of the assistant secretary of the department of health and human services for planning and evaluation": 1, "molecular psychiatry": 1}
+{"community and regional resilience initiative": 1, "carri": 6, "ornl": 1, "southeast region research initiative": 1, "serri": 2, "department of homeland security": 1}
+{"the roofing industry committee on weather issues": 1, "oak ridge national laboratory's buildings technology center": 1, "ornl": 1, "doe's office of building technologies": 1}
+{"journal of coastal research": 1, "adcirc": 1, "swan": 1}
+{"nasa": 2, "american meteorological society": 1, "u.s. office of naval research": 1, "national oceanic and atmospheric administration": 1, "pacific lightning detection network": 1, "north american lightning detection network": 1, "vaisala": 1}
+{"colorado state": 2, "colorado state team": 1}
+{"nasa": 1, "cloudsat satellite": 1, "cloudsat's cloud profiling radar": 1, "national hurricane center": 1}
+{"esa": 3, "envisat": 3, "ers-2": 3, "royal netherlands meteorological institute": 1, "knmi": 1, "eumetsat": 1, "us national oceanic and atmospheric administration": 1, "noaa": 1, "international charter 'space and major disasters'": 1}
+{"advanced microwave scanning radiometer - eos (amsr-e)": 1, "aqua satellite": 1, "jet propulsion laboratory": 1, "nasa": 1}
+{"national center for atmospheric research": 2, "georgia institute of technology": 1, "philosophical transactions of the royal society of london": 2, "university corporation for atmospheric research": 1, "national science foundation": 2}
+{"harvard school of public health": 4, "icr/international communications research": 2, "usda": 1, "cdc": 1}
+{"forest ecology and management": 1, "savannah river ecology laboratory": 2, "national park service": 1, "u.s. department of energy": 1, "ohio agricultural research and development center": 1, "ohio state": 1}
+{"noaa centers for environmental prediction": 1, "national oceanic and atmospheric administration": 1, "u.s. navy": 1, "korean oceanographic research institute": 1}
+{"appalachian state university": 2, "east carolina university": 2, "university of north carolina wilmington": 1, "potsdam institute for climate impact research": 2, "intergovernmental panel on climate change": 1, "duke university\u2019s nicholas school of the environment and earth sciences": 1, "north carolina division of marine fisheries": 1}
+{"clinical journal of the american society of nephrology": 1, "asn": 1, "national institute of diabetes and digestive and kidney diseases": 2, "national institutes of health": 2, "kidney community emergency response coalition": 1, "renal associates of baton rouge, llc": 1, "kobe university": 1, "u.s. department of health and human services": 1}
+{"center for building science and technology": 2, "journal of architectural engineering": 1}
+{"climate and meteorology research communities": 1}
+{"university of florida": 1, "professional geographer": 1, "national oceanic and atmospheric administration": 1, "hurricane research division": 1}
+{"u.s. army corps of engineers": 2, "asce panel": 2}
+{"massachusetts institute of technology": 1, "purdue climate change research center": 1, "nature": 1, "woods hole oceanographic institution": 1, "national center for atmospheric research": 1, "national oceanic and atmospheric administration": 1, "national aeronautics and space administration": 1, "national science foundation": 1, "purdue research foundation": 1, "purdue cyber center": 1, "office of information technology at purdue": 1}
+{"saffir-simpson hurricane scale": 1, "linde hydraulics corporation": 1, "cunningham fluid power inc.": 1, "florida building commission": 1}
+{"whoi department of geology and geophysics": 1, "mit/whoi joint graduate program": 1, "national science foundation": 1, "risk prediction initiative": 1, "national geographic society": 1, "whoi coastal ocean institute": 1, "andrew w. mellon foundation": 1, "journal nature": 1}
+{"ucf": 1, "kinetic analysis corp.": 1, "organization of american states": 1, "intergovernmental panel on climate change": 1, "florida commission on hurricane loss projection methodology": 1}
+{"noaa": 11, "noaa climate prediction center": 4, "noaa national hurricane center": 3, "noaa hurricane research division": 1, "noaa hydrometeorological prediction center": 2, "noaa national weather service": 1, "u.s. commerce department": 1, "global earth observation system of systems": 1}
+{"ncar": 1, "vortex objective radar tracking and circulation": 1, "national oceanic and atmospheric administration": 1, "national hurricane center": 1, "geophysical research letters": 1, "national science foundation": 1, "noaa": 2}
+{"society for academic emergency medicine (saem)": 2, "louisiana state university": 1, "academic emergency medicine": 1}
+{"nasa's goddard space flight center": 1, "american meteorological society": 1, "u.s. naval postgraduate school": 1, "university of utah": 1, "nasa convection and moisture experiment": 2, "camex": 2, "nasa's tropical rainfall measuring mission": 1, "trmm": 2, "journal of the atmospheric sciences": 2}
+{"marine biological laboratory": 1, "mbl": 2, "woods hole center for oceans and human health": 1, "centers for oceans and human health network": 1, "national science foundation": 2, "national institute of environmental health sciences ocean and human health program": 1, "nsf small grant for exploratory research program": 1, "nsf research experiences for undergraduates program": 1, "georgia sea grant college program": 1, "the proceedings of the national academy of sciences": 1}
+{"bulletin of the american meteorological society": 1, "cblast \u00e2\u0080\u0093 hurricane field program": 2, "noaa": 2, "noaa science advisory board hurricane intensity research working group": 1, "office of naval research": 1, "national oceanic and atmospheric administration": 1}
+{"colorado state university": 1, "srs disturbance ecology unit": 1}
+{"rosenstiel school of marine and atmospheric science": 1, "university of miami": 1, "noaa's geophysical fluid dynamics laboratory (gfdl)": 2, "geophysical research letters": 1}
+{"noaa": 3, "geoss": 3, "global earth observation system of systems": 1, "national space research institute": 1, "instituto nacional de pesquisas espaciais": 1}
+{"fao": 2}
+{"princeton university": 1, "university of hawaii at manoa": 1, "oregon state university": 2, "journal of waterway, port, coastal and ocean engineering": 1, "nsf nees-sg": 1, "massachusetts institute of technology": 1, "california institute of technology": 1, "university of southern california": 1, "university of california at berkeley": 1}
+{"colorado state forecast team": 2, "colorado state hurricane forecast team": 2, "landfall probability web site": 1}
+{"nrl": 4, "slope to shelf energetics and exchange dynamics (seed)": 1}
+{"nasa's goddard space flight center": 3, "laboratory for atmospheres": 1, "tropical rainfall measuring mission": 1, "ozone monitoring instrument": 1, "american geophysical union's eos": 1, "nasa": 2}
+{"department of oceanography and coastal sciences": 1, "american scientist": 1, "sigma xi": 1, "scientific research society": 1, "inter-american institute for global change research": 2, "woods hole oceanographic institution": 1, "brown university": 1, "boston college": 1, "university of tennessee": 1, "university of toronto": 1, "memorial university of newfoundland": 1, "university of costa rica": 1, "instituto mexicano de tecnologia del agua": 1, "u.s. national science foundation": 1}
+{"nasa": 5, "nasa african monsoon multidisciplinary analyses (namma)": 2, "tropical rainfall measuring mission": 1, "quikscat": 1, "meteosat": 1, "marshall space flight center": 1}
+{"university of washington": 1, "journal science": 1, "university of miami rosenstiel school of marine and atmospheric science": 1, "hurricane rainband and intensity change experiment": 1, "national center for atmospheric research": 1, "national oceanic and atmospheric administration": 1, "u.s. navy": 1, "national science foundation": 1}
+{"greenland flow distortion experiment": 1, "gfDex": 3, "international polar year": 1, "faam": 1, "facility for airborne atmospheric measurements": 1}
+{"university of wisconsin-madison": 1, "national climatic data center": 2, "national oceanic and atmospheric administration": 1, "geophysical research letters": 1, "uw-madison's cooperative institute for meteorological satellite studies": 1, "national science foundation": 1, "bermuda institute of ocean sciences": 1}
+{"noaa": 5, "tao/triton": 1, "argo": 1, "u.s. commerce department": 1, "survey of the coast": 1, "weather bureau": 1, "commission of fish and fisheries": 1, "global earth observation system of systems (geoss)": 1, "noaa climate prediction center": 2}
+{"university of east anglia": 1, "uea's school of environmental sciences": 1, "met office": 2, "intergovernmental panel on climate change": 1, "facility for airborne atmospheric measurements": 1, "greenland flow distortion experiment": 1, "natural environment research council": 1}
+{"nasa": 5, "goddard space flight center": 1, "national oceanic and atmospheric administration": 2, "tropical rainfall measuring mission": 1, "jet propulsion laboratory": 1, "university of baltimore county": 1, "nasa african monsoon multidisciplinary analyses": 1, "moderate imaging spectroradiometer": 1, "terra": 1, "aqua": 1}
+{"estuaries and coasts": 2, "tampa bay estuary program": 1, "u.s. geological survey": 2, "university of florida": 1, "university of north carolina": 1, "dauphin island sea lab": 1, "erf": 1}
+{"national science foundation": 2, "dowling college": 1, "cornell university": 1, "polytechnic university": 1, "environmental pollution": 1}
+{"cosmic": 10, "university corporation for atmospheric research": 1, "ucar": 2, "european centre for medium-range weather forecasts": 1, "american institute in taiwan": 1, "taipei economic and cultural representative office": 1, "national science foundation": 1, "nasa": 1, "national oceanic and atmospheric administration": 1, "office of naval research": 1, "jet propulsion laboratory": 1}
+{"tu delft": 3, "wl delft hydraulics": 1, "delft integraal / delft outlook": 1}
+{"nasa": 2, "national oceanic and atmospheric administration (noaa)": 2, "tropical cloud systems and processes (tcsp) mission": 1, "department of meteorology": 1, "quikscat satellite": 1, "tropical rainfall measuring mission (trmm) satellite": 1, "geostationary operational environmental satellite (goes)": 1, "african monsoon multidisciplinary activities (namma)": 1}
+{"nasa": 4, "national oceanic and atmospheric administration (noaa)": 2, "tropical cloud systems and processes (tcsp) mission": 2, "naval research laboratory": 2, "universities": 1}
+{"wmo": 3, "hadley centre": 2, "uk met office": 1, "climatic research unit": 2, "university of east anglia": 2, "us department of commerce's national oceanic and atmospheric administration": 1, "noaa": 2, "national climatic data centre": 1, "national environmental satellite and data information service": 1, "national weather service": 1, "african centre of meteorological applications for development": 1}
+{"howard university": 3, "national science foundation (nsf)": 2, "african monsoon multidisciplinary analysis (amma)": 2, "university of virginia": 1, "texas a & m university": 1, "american meteorological society": 1, "division of atmospheric sciences": 1}
+{"rensselaer": 3, "fema": 2, "coast guard": 2, "university of washington": 1, "national science foundation": 1, "nsf": 1, "department of science and technology studies": 1}
+{"johns hopkins bloomberg school of public health": 1, "geological society of america": 1}
+{"nasa's goddard institute for space studies (giss)": 1, "columbia university": 2, "new york city department (dep) of environmental protection": 2, "intergovernmental panel on climate change": 2, "u.s. global change research program": 1, "geological society of america": 1, "u.s. army corps of engineers": 1, "noaa's slosh": 1, "national hurricane center": 1, "u.s. national assessment of climate variability and change": 1, "nyc dep": 1}
+{"dauphin island sea lab": 2}
+{"nasa's scientific visualization studio": 1, "nasa's goddard space flight center": 1, "nasa's jet propulsion laboratory": 1, "advanced microwave scanning radiometer (amsr-e)": 1, "nasa's aqua satellite": 1}
+{"florida state university": 1, "national oceanic and atmospheric administration": 2, "noaa's national hurricane center": 3, "fsu's center for ocean atmospheric prediction studies": 1, "noaa's tropical prediction center": 1, "geophysical research letters": 1, "noaa applied research center": 1, "nasa": 1, "national science foundation": 1}
+{"university of wisconsin-madison": 2, "geophysical research letters": 1, "cooperative institute for meteorological satellite studies": 2, "center for sustainability and the global environment": 1}
+{"nasa": 3, "national oceanic and atmospheric administration (noaa)": 2, "nasa wallops flight facility": 2, "naval research laboratory-stennis space center": 1}
+{"columbia's mailman school of public health": 1, "niehs center for environmental health": 1, "enterprise community partners": 1, "mailman school of public health": 1, "national center for healthy housing": 1, "tulane school of public health": 1, "university of cincinnati": 1, "harvard school of public health": 1, "the university of iowa": 1, "case western reserve university": 1, "environmental health perspectives": 1}
+{"trmm": 7, "nasa": 3, "jaxa": 1, "japanese space agency": 1, "aqua satellite": 1, "department of defense": 1, "national oceanic and atmospheric administration": 1, "trmm multi-satellite precipitation analysis": 1}
+{"nasa": 2, "aqua": 1, "tropical rainfall measuring mission (trmm)": 1, "cloudsat/calipso": 1, "namma hurricane field mission": 1, "x-chat": 1, "pr-2": 1, "namma mission": 1}
+{"american chemical society": 1, "federal emergency management agency (fema)": 1, "james lee witt associates, llc": 1, "hathaway consulting": 1, "u.s. geological survey's national wetlands research center": 1}
+{"weather research and forecasting model": 2, "noaa's national weather service": 1, "u.s. air force weather agency": 2, "noaa's national centers for environmental prediction": 1, "ncar": 2, "naval research laboratory": 1, "university of rhode island": 1, "florida state university": 1, "noaa": 3}
+{"lawrence livermore national laboratory": 2, "national center for atmospheric research": 1, "university of california, merced": 1, "lawrence berkeley national laboratory": 1, "scripps institution of oceanography": 1, "university of hamburg": 1, "climatic research unit": 1, "manchester university": 1, "nasa/goddard institute for space studies": 1, "national oceanic and atmospheric administration": 1, "national climatic data center": 1, "proceedings of the national academy of sciences": 1, "department of energy's office of biological and environmental research": 1}
+{"usda forest service pacific northwest research station": 1, "forest service": 1, "joint fire science program": 1}
+{"fema": 1, "national science foundation": 3, "sger": 3, "university of california, berkeley": 1, "georgia institute of technology": 1, "national center for atmospheric research": 2, "rainband and intensity change experiment": 1, "university of south florida": 1}
+{"national science foundation": 1, "national center for atmospheric research": 2, "french space agency": 1, "cnes": 1, "national oceanic and atmospheric administration": 1}
+{"harvard medical school": 2, "bulletin of the world health organization": 1, "national institute of mental health": 1, "office of the assistant secretary of health and human services for planning and evaluation": 1, "national comorbidity survey replication": 2, "hms research team": 1, "us bureau of the census": 1, "american red cross": 1}
+{"nasa": 5, "national hurricane center": 1, "advanced microwave scanning radiometer (amsr-e)": 1, "multi-angle imaging spectroradiometer (misr)": 1, "moderate-resolution imaging spectroradiometer (modis)": 1, "experimental advanced airborne research lidar (eaarl)": 1}
+{"geophysical research letters": 1, "american geophysical union": 1, "intergovernmental panel on climate change": 1, "ipcc": 1, "national oceanographic and atmospheric administration": 1, "noaa": 1, "national science foundation": 1, "risk prediction initiative": 1}
+{"pp&ar": 1, "intergovernmental panel on climate change": 1, "johns hopkins bloomberg school of health": 1}
+{"louisiana state university": 3, "southeastern louisiana university": 3, "lake pontchartrain basin foundation": 1, "u.s. geological survey": 1, "university of southern mississippi": 1, "university of mississippi": 1}
+{"nasa african monsoon multidisciplinary analyses 2006": 1, "african monsoon multidisciplinary analyses": 1, "university of utah": 1, "nasa": 2, "tropical rainfall measurement mission": 1, "quikscat": 1, "aqua": 1, "cloudsat": 1, "calipso": 1}
+{"university of florida": 1, "florida department of community affairs": 1, "uf": 1, "fiu": 1, "florida a&m university": 1, "university of western ontario": 1, "institute of business and home safety": 1}
+{"nasa": 1, "national science foundation (nsf)": 1, "american astronomical society (aas)": 1, "science applications international corporation (saic)": 2, "national weather service": 1}
+{"journal science": 1, "woods hole oceanographic institution": 3, "whoi": 4, "whoi biology department": 1, "whoi applied ocean physics and engineering department": 1, "video plankton recorder": 2, "whoi's research vessel knorr": 1, "richard b. sellars endowed research fund": 1, "andrew w. mellon foundation endowed fund for innovative research": 1, "whoi ocean life institute": 1, "national science foundation": 1, "nasa": 1}
+{"nasa marshall space flight center (msfc)": 1, "nasa": 2, "national oceanic and atmospheric administration (noaa)": 2, "10 universities": 1, "tropical cloud systems and processes (tcsp) field experiment": 2, "national space science and technology center": 1, "alabama research universities": 1}
+{"national science foundation": 1, "ncar": 1}
+{"agu": 4, "u.s. geological survey": 1, "eos": 1, "federal emergency management agency": 1}
+{"national institutes of health": 1, "epidemiologic reviews": 1, "u-m school of public health": 1, "u-m institute for social research": 1}
+{"rosenstiel school": 3, "university of miami": 2, "canada's radarsat": 1, "u.s. army corps of engineers": 1, "tele-rilevamento europa": 1, "dipartimento di elettronica e informazione, politecnico di milano": 1, "national geodetic survey": 1, "florida international university department of earth sciences": 1}
+{"american geophysical society": 1, "penn state": 2, "mit": 1, "earth system science center": 1}
+{"noaa": 4, "climate prediction center": 3, "national hurricane center": 2, "hurricane research division": 1, "national oceanic and atmospheric administration": 1, "u.s. department of commerce": 1, "global earth observation system of systems": 1, "geoss": 1, "european commission": 1}
+{"noaa national hurricane center": 2, "u.s. department of commerce": 1, "noaa": 5, "noaa climate prediction center": 2, "hurricane research division": 1, "global earth observation system of systems (geoss)": 1, "european commission": 1}
+{"southern sociological society": 1}
+{"virginia climatology office": 1}
+{"national oceanic and atmospheric administration": 1, "noaa": 2, "climate prediction center": 1, "nasa's goddard space flight center": 1, "nasa": 2, "jason": 1, "quikscat": 1, "nasa's jet propulsion laboratory": 1}
+{"nasa": 1, "national centers for environmental prediction": 1, "american meteorological society": 1, "tropical cloud systems and processes experiment": 1, "noaa": 1, "tropical rainfall measuring mission": 1}
+{"nasa": 3, "national oceanic and atmospheric administration": 1, "noaa": 2, "american meteorological society": 1, "monthly weather review": 1, "tropical cloud systems and processes": 1, "centro nacional de alta tecnologia": 1, "noaa hurricane research division": 1}
+{"hopkins": 4, "national human genome research institute": 1, "national institutes of health": 2, "johns hopkins university school of medicine": 1, "center for inherited disease research": 2, "kennedy krieger institute": 1, "louisiana family assistance center": 2, "state police crime lab": 2}
+{"usgs": 2}
+{"nature": 2, "science": 2, "massachusetts institute of technology": 1, "national center for atmospheric research": 1, "school of earth and atmospheric sciences": 1, "science express": 1, "climate dynamics division": 1, "national science foundation": 1}
+{"google earth": 2, "national oceanic and atmospheric administration": 1, "nasa": 2, "eaarl (experimental advanced airborne research lidar)": 1, "fema": 1, "u.s. geological survey\u00e2\u0080\u0099s coastal and marine geology program": 1}
+{"nasa": 2, "tropical rainfall measuring mission": 2, "trmm": 3, "naval research laboratory": 1, "american meteorological society": 1}
+{"institute of marine sciences": 1, "unc college of arts and sciences": 1, "maryland center for biotechnology": 1, "university of maryland center for environmental science": 1, "journal limnology and oceanography": 1, "ferrymon": 1, "n.c. department of transportation's division of ferries": 1, "department of environment and natural resources (denr)": 1}
+{"noaa": 3, "national interagency fire center": 1, "palmer drought index": 1, "northeast snowfall impact scale (nesis)": 1, "national snow and ice data center": 1, "u.s. department of commerce": 1, "global earth observation system of systems (geoss)": 1}
+{"texas tech": 1, "epa region vi": 1, "the institute of environmental and human health at texas tech university": 1, "the patent & trademark institute of america": 1, "the american chemical society": 1}
+{"national science foundation": 1, "university of delaware": 1, "topics in geobiology": 1}
+{"the new england journal of medicine": 1, "the johns hopkins university school of medicine": 1, "american red cross": 1}
+{"louisiana state university": 1, "american chemical society": 1, "environmental science & technology": 1, "louisiana water resources research institute": 2, "environmental protection agency": 1, "lsu center for the study of public health impacts of hurricanes": 1}
+{"university of north carolina at chapel hill": 2, "marine sciences program": 1, "renaissance computing institute": 2, "national center for supercomputing applications": 2, "national oceanic and atmospheric administration": 2, "coast survey development laboratory": 2, "college of arts and sciences": 1, "adcirc": 1, "national science foundation": 1, "national weather service": 1, "north american mesoscale model": 1, "duke": 1, "nc state": 1}
+{"center for southeastern tropical advanced remote sensing": 1, "cstars": 1, "knmi": 1, "ecmwf": 1, "us national oceanic and atmospheric administration": 1, "noaa": 1, "envisat": 1}
+{"ncar": 3, "department of energy": 1, "department of homeland security": 1, "naval research laboratory": 1, "hurricane rainband and intensity change experiment": 1, "rainex": 1, "weather research and forecasting model": 1, "wrf": 1}
+{"noaa": 6, "noaa fisheries service": 2, "u.s. department of commerce": 1, "magnuson-stevens fishery conservation and management act": 1, "inter-jurisdictional act": 1, "nancy foster": 1, "patricia jean": 1}
+{"noaa": 3, "noaa fisheries service": 3, "u.s. navy": 2, "air national guard": 1, "u.s. coast guard": 1, "u.s. department of agriculture": 1, "gulf world marine park": 1, "florida fish and wildlife conservation commission": 1, "harbor branch oceanographic institute": 1, "marine life aquarium": 1}
+{"theglobal drifter program (gdp)": 2, "scripps institution of oceanography": 2, "university of california, san diego": 1, "national oceanic and atmospheric administration (noaa)": 2, "global ocean observing system": 1, "global climate observing system": 1, "physical oceanography research division": 1, "atlantic oceanographic and meteorological laboratory": 1, "united states air force": 1, "hurricane hunter squadron": 1}
+{"university of north carolina": 1, "college of arts and sciences": 1, "princeton university press": 1, "fema": 1, "homeland security": 1, "american museum of natural history": 1}
+{"georgia tech's school of earth and atmospheric sciences": 2, "ncar": 4, "national science foundation": 2, "nature": 1, "nsf's climate and large scale dynamics program": 1}
+{"extreme computing research group": 1, "louisiana board of regents": 1}
+{"tropical cyclones group": 2, "man computer interactive data access system (mcidas)": 1, "data center of the uw-madison space science and engineering center": 1, "cimss": 1, "national hurricane center": 2, "national weather service": 1}
+{"american society for microbiology": 2, "emory university": 1, "cdc": 2, "national center for infectious diseases": 1, "center for public health preparedness and research": 1, "rollins school of public health": 1, "asm": 1}
+{"niehs": 5, "global information system (gis)": 2, "superfund basic research program": 1, "duke university": 1, "university of california at san diego": 1, "university of kentucky": 1, "johns hopkins": 1, "university of arizona": 1, "boston university": 1, "columbia university": 1, "research triangle institute": 1, "harvard university": 1, "national institutes of health": 1}
+{"crasar": 3, "national science foundation": 1, "florida task force 3": 1, "louisiana state university fire emergency training institute": 1, "usf": 1}
+{"nasa": 7, "department of homeland security": 1, "federal emergency management agency": 2, "u.s. geological survey": 2, "national oceanic and atmospheric administration": 2, "national geospatial intelligence agency": 1, "environmental protection agency": 1, "u.s. department of agriculture": 1, "army corps of engineers": 1, "terra": 2, "aqua": 2, "tropical rainfall measuring mission": 1, "jpl": 2, "california institute of technology": 1}
+{"noaa": 12, "noaa aircraft operations center": 1, "noaa office of coast survey": 1, "u.s. coast guard": 1, "u.s. army corp of engineers": 1, "noaa national geodetic survey": 1, "noaa office of response and restoration and damage assessment center": 1, "department of homeland security": 1, "fema": 1, "noaa national centers for environmental prediction": 1, "noaa national hurricane center": 3, "u.s. department of commerce": 1}
+{"noaa": 5, "emerge/applanix digital sensor system": 1, "u.s. department of commerce": 1, "noaa remote sensing division": 1, "noaa national geodetic survey": 1}
+{}
+{"nasa": 5, "lockheed martin": 1, "federal emergency management agency": 1, "marshall space flight center": 1}
+{"journal nature": 1, "national science foundation (nsf)": 1}
+{"american meteorological society": 1, "journal of atmospheric sciences": 1, "nasa": 3, "national oceanic and atmospheric administration": 1, "u.s. department of energy": 1, "atmospheric radiation measurement program": 2, "moderate imaging spectroradiometer": 1, "terra and aqua satellites": 1, "national science foundation": 1, "earth science enterprise": 2}
+{"national science foundation": 1, "rainex": 6, "noaa": 1}
+{"earth system processes 2": 1, "geological society of america": 1, "geological association of canada": 1}
+{"minerals management service (mms)": 1, "science": 1, "nrl's slope to shelf energetics and exchange dynamics (seed)": 1, "sea-bird electronics sbe 26": 1, "national data buoy center (ndbc)": 2, "nrl seed": 1}
+{"noaa national weather service": 1, "noaa's atlantic hurricane seasonal outlook": 1, "noaa's climate prediction center": 1, "hurricane research division": 1, "national hurricane center": 2, "noaa": 6, "u.s. air force reserve": 1, "nasa": 1, "u.s. department of defense": 1, "u.s. department of commerce": 1}
+{"lawrence berkeley national laboratory": 2, "shirshov institute of oceanology": 1, "early online edition of the proceedings of the national academy of sciences": 1, "department of energy": 1}
+{"nasa": 2, "japan aerospace exploration agency": 1, "trmm": 5, "tropical rainfall measuring mission": 1, "trmm website": 1}
+{"noaa": 8, "national weather service": 1, "national hurricane center": 2, "climate prediction center": 1, "hurricane research division": 1, "u.s. air force reserve": 1, "nasa": 1, "u.s. department of defense": 1, "u.s. department of commerce": 1}
+{"uf": 3, "florida building commission": 2, "florida department of community affairs": 1, "institute for business & home safety": 1, "florida international university": 1, "florida a&m university": 1}
+{"ncar": 2, "center for severe weather research": 1, "cswr": 1, "nsf": 2, "national science foundation": 2, "national geographic society": 1}
+{"center for severe weather research": 1, "national center for atmospheric research (ncar)": 2, "national science foundation (nsf)": 2, "university of oklahoma": 1, "national geographic society": 1}
+{"kinetic analysis corp.": 1, "organization of american states": 1, "north carolina department of insurance": 1, "florida commission on hurricane loss projection methodology": 1, "university of central florida": 1, "ucf statistics department": 1, "national hurricane center": 1}
+{"tropical rainfall measuring mission": 2, "trmm": 3, "national hurricane center": 1, "nasa": 1, "japanese space agency jaxa": 1}
+{"american association for the advancement of science": 1, "coastal upwelling ecosystems analysis": 1, "world health organization": 1}
+{"noaa": 2, "noaa sea grant": 1, "texas coastal management program": 1, "prince william sound oil spill recovery institute": 2, "national marine fisheries service": 1}
+{"louisiana state university agricultural extension and research center-sea grant program": 1, "university of new orleans": 1, "louisiana universities marine consortium (lumcon)": 1, "jason expedition": 2, "nasa's international space station (iss) earth kam": 1, "jason foundation for education": 2}
+{"journal of the atmospheric sciences": 1, "institute of earth sciences": 1, "geophysical fluid dynamics laboratory": 2, "national science foundation": 1, "lady davis foundation": 1, "u.s.-israel binational science foundation": 1}
+{"noaa storm prediction center": 2, "noaa": 2, "u.s. department of commerce": 1}
+{"noaa": 3, "saffir-simpson scale": 1, "noaa climate prediction center": 1, "national climatic data center": 1, "noaa satellites and information service": 2, "u.s. department of commerce": 1}
+{"journal of the atmospheric sciences": 1, "university of reading": 1, "noaa national center for environmental prediction environmental modeling center": 1, "noaa wavewatch iii": 1, "uri graduate school of oceanography": 1, "gso": 2, "coastal institute": 1, "coastal resources center": 1, "rhode island sea grant": 1, "institute for archaeological oceanography": 1, "pell marine science library": 1, "national sea grant library": 1}
+{"onr": 3, "cblast-hurricane": 2, "university of washington applied physics laboratory": 1, "scripps institution of oceanography": 1, "u.s. air force reserve 53rd weather reconnaissance squadron": 1, "national oceanic and atmospheric administration": 1, "noaa": 2, "hurricane research division": 1, "aircraft operations center": 1, "office of oceanic and atmospheric research": 1, "u.s. weather research program": 1}
+{"los alamos energy & infrastructure analysis team": 1, "fema": 2, "florida light and power": 1, "transims": 1, "episims": 1, "urban atmospheric transport": 1, "interdependent energy infrastructure simulation system (ieiss)": 1}
+{"college of science": 1, "geological society of america": 1, "virginia tech": 3, "virginia department of conservation and recreation, division of natural heritage, karst project": 1, "radford university": 1}
+{"long-term acoustic recording system": 1, "lars": 2, "cms": 1, "mote marine laboratory": 1}
+{"university of georgia": 1, "american phytopathological society": 1}
+{"national hurricane center": 1, "bulletin of the american meteorological society": 2, "florida commission on hurricane loss projection methodology": 1, "organization of american states": 1, "u.s. agency for international development": 1}
+{"multi-angle imaging spectroradiometer": 2, "terra": 1, "nasa's jet propulsion laboratory": 1, "california institute of technology": 1}
+{"usgs": 3, "nasa": 1, "noaa": 1}
+{"reuters news service": 1, "virginia tech": 4, "hurricane loss reduction consortium": 2, "wind and structural engineering initiative": 1, "clemson university": 1, "university of florida": 1, "johns hopkins university": 1, "national institute of standards and technology": 1, "nist": 2, "american society of civil engineers": 1, "asce": 1, "center of extreme load effects on structures": 1, "institute for critical technology and applied science": 1}
+{"esa": 3, "centre for southeastern tropical advanced remote sensing": 1, "cstars": 2, "canadian space agency": 1, "us national hurricane center": 2, "brockmann consult": 1, "us national oceanic and atmospheric administration": 1, "noaa/aoml": 2, "us naval research laboratory": 1, "collecte localisation satellites": 1, "esa-european commission global monitoring for environment and security": 1}
+{"university of miami's rosenstiel school of marine and atmospheric science": 1, "national oceanic and atmospheric administration atlantic oceanographic and meteorological laboratory's hurricane research division": 2, "nasa's tropical rainfall measuring mission": 2, "journal monthly weather review": 1, "national weather service": 1}
+{"trmm": 10, "noaa": 5, "nasa": 6, "jaxa": 4, "national weather service": 2, "national academy of sciences": 3, "global precipitation measurement mission": 2, "gpm": 2}
+{"trmm": 9, "nasa": 3, "global precipitation measurement mission": 2, "japanese space program": 1, "jaxa": 1, "group on earth observations": 1}
+{"louisiana state university": 1, "lsu": 3, "coastal studies institute": 1}
+{"johns hopkins university": 1, "applied physics lab": 1, "seawifs": 1, "seastar": 1, "journal of geophysical research-oceans": 1, "university of maryland": 1, "ocean physics laboratory": 1, "university of california": 1, "center for coastal physical oceanography": 1, "old dominion university": 1, "nasa's earth science enterprise": 1}
+{"north carolina state university": 2, "center for applied aquatic ecology": 1, "proceedings of the national academy of sciences (u.s.a.)": 2, "environmental protection agency": 1, "n.c. general assembly": 1, "national science foundation": 1, "n.c. sea grant": 1, "university of north carolina-wilmington": 1, "east carolina university": 1, "n.c. department of environment and natural resources division of water quality": 1}
+{"nasa's goddard space flight center": 1, "george mason university": 1, "american meteorological society": 1, "national oceanic and atmospheric administration national hurricane center": 1, "trmm satellite": 2, "nasa": 2, "japan aerospace exploration agency": 1, "nasa's earth science enterprise": 1}
+{"noaa": 5, "national hurricane center": 2, "nhc": 3, "uswrp": 4, "environmental modeling center": 2, "national centers for environmental prediction": 1, "ncep": 5, "ncar": 4, "national science foundation": 1, "german aerospace center": 1, "weather research and forecasting": 2, "wrf": 3, "penn state": 1, "mm5": 2, "u.s. department of defense": 1, "nasa": 1}
+{}
+{"clemson": 3, "national institute of standards and technology": 1, "clemson's wind load test facility": 1}
+{"ncar": 5, "center for severe weather research": 1, "national science foundation": 2, "cswr": 1, "division of atmospheric sciences": 1, "wrf": 3, "ibm": 1, "blue sky": 1}
+{"nasa": 8, "international space station": 1, "national oceanic and atmospheric administration": 1, "modis": 1, "terra": 1}
+{"nasa": 6, "tropical rainfall measuring mission": 2, "tiros-n": 1, "japan": 2, "national oceanic and atmospheric administration": 1, "national hurricane center": 1, "department of defense joint typhoon warning center": 1, "earth science enterprise": 1}
+{"florida a&m university-florida state university college of engineering": 1, "florida department of community affairs' division of emergency management": 1, "federal emergency management agency": 1, "fema": 1}
+{"national oceanographic and atmospheric administration": 1, "uh": 3, "nasa": 1, "noaa": 2, "noaa's aircraft operations center": 1}
+{"american meteorological society": 1, "journal of atmospheric sciences": 1, "nasa": 3, "facility for atmospheric remote sensing": 1, "clouds and radiation testbed": 1, "geostationary operational environmental satellite 9": 1, "national oceanic and atmospheric administration": 1, "u.s. department of energy": 1, "atmospheric radiation measurement program": 2, "moderate imaging spectroradiometer": 1, "terra and aqua satellites": 1, "national science foundation": 1, "earth science enterprise": 2}
+{"gsa": 1, "cornell college": 1, "uc": 2, "sigma xi": 1, "paleobiological fund": 1, "uc's graduate division": 1}
+{"nature": 2, "scripps institution": 1, "shoaling waves experiment": 1, "showex": 1, "national oceanic and atmospheric administration": 1, "noaa": 2, "office of naval research": 2, "cblast": 1, "national science foundation": 1}
+{"usda forest service southern global change program": 1, "journal environmental pollution": 1}
+{"american geophysical union": 1, "united states geological survey": 1, "federal emergency management association": 1}
+{"clemson": 2, "south carolina department of insurance": 1, "institute for business & home safety": 2, "horry-georgetown homebuilders association": 1, "s.c. sea grant consortium": 1, "n.c. sea grant": 1, "fema": 1}
+{"camex-4": 2, "nasa": 5, "national oceanic and atmospheric administration (noaa)": 2, "goddard space flight center": 2, "university of maryland-baltimore county's joint center for earth systems technology": 1, "national center for atmospheric research (ncar)": 1, "earth science enterprise at nasa headquarters": 1}
+{"clemson": 2, "south carolina department of insurance": 1, "institute for business & home safety": 2, "ibhs": 2, "horry-georgetown homebuilders association": 1, "fema": 2}
+{"ncar": 2, "penn state (university)": 1, "national weather service (nws)": 1, "nsf's division of atmospheric sciences": 1, "national oceanic and atmospheric administration": 1, "university of oklahoma": 1, "u.s. air force": 1}
+{"nature": 1, "national science foundation": 1, "science": 1}
+{"north carolina state university": 1, "federal emergency management agency": 2, "fema": 3, "national flood insurance program": 1, "nc state": 2, "north carolina sea grant": 1, "oregon state": 1, "national science foundation": 1, "fema publications service center": 1}
+{"smart-r": 1, "texas a&m": 2, "texas tech university": 1, "university of oklahoma": 1, "national severe storms laboratory": 1, "nssl": 1, "national weather service": 1, "department of atmospheric sciences": 1, "department of oceanography": 1}
+{"misr": 5, "jpl": 2, "nasa": 1, "atmospheric sciences data center": 1, "langley research center": 1, "jet propulsion laboratory": 1, "california institute of technology": 1, "terra": 1}
+{"u.s. department of energy": 1, "national science foundation": 2, "ncar": 1}
+{"national oceanic and atmospheric administration (noaa)": 1, "nasa": 2, "atlantic oceanographic and meteorological laboratory": 1, "national hurricane center": 2, "jet propulsion laboratory (jpl)": 1, "office of earth sciences": 1, "hurricane research division": 2, "tropical rain measuring mission (trmm)": 1, "eos, transactions of the american geophysical union": 1, "california institute of technology": 1, "national environmental satellite and information service": 1}
+{"nasa": 3, "seawinds on quikscat": 1, "tropical rain measuring mission": 1, "trmm": 2, "nasa's earth science enterprise": 1, "nasa's jet propulsion laboratory": 1, "nasa's goddard space flight center": 1}
+{"misr": 2, "national weather service": 1, "jet propulsion laboratory": 1, "california institute of technology": 1, "terra": 1}
+{"national hurricane center": 1, "microwave remote sensing laboratory": 1, "department of electrical and computer systems engineering": 1, "hurricane research division": 1, "national oceanographic and atmospheric administration": 1, "noaa aircraft operations center": 1}
+{"usgs": 7, "world wide web": 1, "information services": 1, "federal center": 1}
+{"tropical rainfall measuring mission": 2, "journal science": 1, "remote sensing systems": 2, "trmm science team": 1, "national weather service": 1, "national hurricane center": 1, "nasa": 2, "seaSat": 1, "nimbus-7": 1, "special sensor microwave imager": 1, "nasa earth observing satellite": 1, "aqua": 1, "nasa\u00e2\u0080\u0099s earth science enterprise": 1}
+{"noaa": 6, "nasa": 3, "national weather service": 2, "goddard space flight center": 1, "noaa's national environmental satellite, data, and information service": 1, "kennedy space center": 1, "space systems/loral": 1, "loral space and communications ltd.": 1, "itt industries aerospace/communications division": 1}
+{"federal emergency management agency": 1, "lsu's department of oceanography and coastal sciences": 1, "wavcis": 2, "lsu's coastal studies institute": 2, "u.s. army corps of engineers": 1, "various research arms of the u.s. navy": 1, "state's oil spill research and development program": 1, "louisiana board of regents": 1, "louisiana department of natural resources": 1, "national science foundation": 1, "u.s. office of naval research": 1}
+{"mu": 1, "colorado state university's tropical meteorology project archive": 1, "national weather digest": 1}
+{"science": 1, "national science foundation": 1}
+{"american association for the advancement of science": 1, "lsu": 1, "risk prediction initiative": 1, "bermuda biological station for research": 2, "national science foundation": 1, "national hurricane center": 1, "massachusetts institute of technology": 1, "national oceanic and atmospheric administration": 1, "florida state university": 1, "university of rhode island": 1}
+{"nasa\u00e2\u0080\u0099s tropical rainfall measuring mission (trmm)": 3, "florida state university": 2, "nasa": 3, "trmm": 5, "trmm project": 1, "nasa's earth science enterprise": 1}
+{"colorado state": 1}
+{"puerto rico emergency management agency": 1, "prema": 2, "usgs": 3}
+{"nasa's goddard space flight center": 1, "nasa": 3, "national oceanic and atmospheric administration (noaa)": 1, "center for coastal fisheries and habitat research": 1, "seaviewing wide field-of-view sensor (seawifs)": 2, "noaa centers": 1, "noaa twin-otter": 1, "goddard's wallops flight facility": 1, "noaa's coastal services center": 1}
+{"rosenstiel school of marine and atmospheric science": 1, "noaa's hurricane research division": 1}
+{"colorado center for astrodynamics research": 1, "college of engineering and applied science": 1, "topex/poseidon": 1, "ers-2": 1, "national oceanic and atmospheric administration": 1, "atlantic oceanographic and meteorological laboratory": 1}
+{"university of florida": 1, "uf": 2, "shimberg center for affordable housing": 1, "m.e. rinker sr. school of building construction": 1, "state department of insurance": 1, "national hurricane center": 1}
+{"nasa": 4, "jet propulsion laboratory": 2, "national hurricane center": 1, "earth science enterprise": 1, "goddard space flight center": 1, "ball aerospace & technologies corp.": 1, "noaa": 1, "california institute of technology": 1}
+{"clemson": 5, "s.c. sea grant consortium": 2, "clemson university cooperative extension service": 2, "clemson extension offices": 1, "clemson's cooperative extension service": 1, "113 calhoun street foundation": 1, "sea grant extension": 1}
+{}
+{"andrew w. mellon foundation": 1, "clemson's belle w. baruch institute of coastal ecology and forest science": 1, "baruch institute": 1, "south carolina agriculture and forestry research system": 1, "national audubon society": 1, "u.s. forest service": 1, "national park service": 1, "university of georgia": 1}
+{"clemson university": 3, "florida coastal monitoring project": 1, "florida department of community affairs": 2, "university of florida": 1, "florida international university": 1, "idaho national engineering laboratory": 1, "federal emergency management agency": 1, "clemson's wind load test facility": 1}
+{"nasa": 3, "air force": 1, "congress": 1}
+{"geophysical research letters": 1, "american geophysical union": 1}
+{"johns hopkins": 2, "blue sky foundation": 1, "10th international conference on wind engineering": 1}
+{}
+{"university of florida": 1, "florida coastal monitoring program": 1, "clemson university": 1, "florida international university": 1, "florida department of community affairs": 2, "residential coastal mitigation program": 1}
+{"british geological survey": 2, "montserrat volcano observatory": 2, "journal science": 1, "u.s. geologic survey": 1, "bgs": 1, "seismic research unit": 1, "u.s.g.s.": 1}
+{"ncar": 2, "national oceanic and atmospheric administration": 1, "storm prediction center": 1, "u.s. army corps of engineers": 1, "white house": 1, "u.s. weather research program": 1, "university corporation for atmospheric research": 1}
+{"camex-3": 1, "nasa": 4, "national oceanic and atmospheric administration": 1, "texas a&m university": 1, "marshall space flight center": 1, "goddard space flight center": 1}
+{"climate variability and predictability study": 1, "world climate research programme": 1, "national center for atmospheric research": 2, "national science foundation": 2, "national aeronautics and space administration": 1, "national oceanic and atmospheric administration": 2, "office of global programs": 1, "national centers for environmental prediction": 1, "united nations educational, scientific, and cultural organization": 1, "university corporation for atmospheric research": 1, "consequences--the nature & implications of environmental change": 1, "life magazine": 1, "u.s. department of agriculture": 1}
+{"trmm": 10, "national space development agency": 1, "nasa's goddard space flight center": 1, "trmm science team": 1, "trmm research team": 1, "trmm microwave imager (tmi)": 1, "nasa's earth science enterprise": 1}
+{"nasa": 5, "national aeronautics association (naa)": 1, "federal aeronautique internationale (fai)": 1, "lockheed martin skunk works": 1}
+{"paho": 6, "paho's emergency preparedness and disaster relief program": 1, "world health organization": 1}
+{"clemson": 2, "national hurricane center": 5, "hurricane research division": 1, "national oceanic and aeronautic administration": 1, "national weather service": 2, "faa": 1, "military": 1, "national academy of sciences": 1, "world meteorological organization": 1}
+{"u.s. geological survey's national wetlands research center": 2, "national wetlands research center": 1, "usgs": 2, "coastal and marine geology program": 1}
+{"university of oklahoma": 1, "national science foundation": 2, "nsf": 1}
+{"national astronomy ionospheric center": 1, "cornell university": 1, "national science foundation (nsf)": 1, "clemson university": 1, "naic": 1, "cornell news service": 1, "u.s. air force": 1}
+{"usgs": 6, "puerto rico aqueduct and sewer authority": 2, "university of puerto rico at mayaguez": 1}
+{"clemson": 3, "s.c. sea grant consortium": 1, "clemson's wind load test facility": 1}
+{"nasa": 4, "noaa": 3, "camex-3": 2, "global hydrology and climate center": 1, "texas a&m university": 1, "national center for atmospheric research": 1, "german space agency (dlr)": 1, "national hurricane center": 1}
+{"convection and moisture experiment (camex)": 1, "tropical rainfall measuring mission": 1, "atmospheric dynamics and remote sensing program": 1, "nasa": 5, "global hydrology and climate center": 1, "nasa's marshall space flight center": 1, "nasa dryden flight research center": 1, "national oceanic and atmospheric administration (noaa)": 2, "u.s. air force's 53rd weather reconnaissance squadron": 1, "hurricane hunters": 2, "marshall": 1, "nasa's goddard space flight center": 1, "jet propulsion laboratory": 1, "langley research center": 1, "ames research center": 1, "earth science enterprise": 1}
+{"asu": 2, "canadian monitoring station": 1, "project storm fury": 1, "nature": 1}
+{"washington university in st. louis": 1, "university of california, davis": 1, "science magazine": 1}
+{"clemson's wind-load testing facility": 1, "clemson": 1, "american society of civil engineers": 1}
+{"ohio state": 1, "journal of climate": 1, "national hurricane center": 2, "national centers for environmental prediction": 1, "association of american geographers": 1, "air force institute of technology": 1, "wright-patterson air force base": 1}
+{"clemson": 1}
+{"colorado state": 3, "noaa's hurricane research laboratory": 1}
+{"survey": 1, "u. of i.": 1, "monthly weather review": 1, "climate": 1}
+{}

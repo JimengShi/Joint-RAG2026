@@ -1,844 +1,844 @@
-{"Six months": 1, "the past decade": 1, "less than a day": 1}
-{"3,000 years": 1, "1350 to 1700 CE": 1, "the Little Ice Age": 2, "thousands of years": 1, "2015": 1, "1958": 1}
-{"the past half a century": 1, "the first day": 1, "50 years ago": 1, "the years": 1}
-{"1979 to 2016": 1, "Nov. 3": 1, "a decade": 1, "1998": 1}
-{"Oct. 28": 1, "several days": 1, "a decade": 1, "a week after": 1}
-{"Wednesday": 1, "annual": 1, "thousands of years": 2, "the 1850s": 1, "the past 170 years": 1}
-{"2013": 1, "today": 1, "Oct. 26": 1, "recent decades": 1}
-{"1982": 2, "every year": 1}
-{"recent decades": 1, "2017": 2, "the late summer of 2017": 1}
-{"yearly": 2, "2100": 1, "the last few decades": 1, "days": 1, "daily": 1, "decadal": 1, "up to 20 years": 1, "years": 1}
-{"post-1980s": 1, "1910": 1, "1915": 1, "at least November 2019": 1, "the 1980s": 1, "at least 2019": 1, "1980": 1}
-{"October 10, 2018": 1, "late summer": 1, "early fall": 1, "13-year": 1}
-{"approximately 13 months": 1, "more than a month earlier": 1, "10 years": 1, "the summer": 1, "May": 1, "October": 1, "the Atlantic hurricane season": 1, "June": 1, "November": 1, "between May and September": 1, "2 weeks": 1}
+{"six months": 1, "over the past decade": 1}
+{"3,000 years": 1, "once a century": 1, "four per century": 1, "1350 to 1700 ce": 1, "little ice age": 2, "2015": 1, "1958": 1, "thousands of years": 1}
+{"future": 1, "past half a century": 1, "first day": 1, "50 years ago": 1, "years": 1}
+{"1979 to 2016": 1, "nov. 3": 1, "a decade": 1, "1998": 1}
+{"oct. 28": 1, "several days before (or after)": 1, "a decade": 1, "a week after": 1}
+{"wednesday": 1, "thousands of years": 2, "1850s": 1, "170 years": 1, "seven cores": 1}
+{"2013": 1, "2017": 1, "oct. 26": 1, "recent decades": 1}
+{"since 1982": 2, "every year": 1, "recent": 1}
+{"recent decades": 1, "2017": 2, "late summer of 2017": 1, "forecast period": 1}
+{"by 2100": 1, "last few decades": 1, "yearly": 2, "decadal": 2, "20 years": 1}
+{"post-1980s": 1, "1910": 1, "1915": 1, "november 2019": 1, "1980s": 1, "2019": 1, "over 100 years": 1}
+{"october 10, 2018": 1, "hours before": 1, "late summer": 1, "early fall": 1, "13-year record": 1, "future": 1}
+{"13 months": 1, "an hour or more": 1, "less than 30 minutes": 1, "more than a month earlier": 1, "10 years": 1, "since 2009": 1, "may to october": 1, "june through november": 1, "may to september": 1, "2 weeks": 1}
 {}
-{"many years": 1, "present day": 1, "annual": 1, "2017": 1, "100-year": 2, "the present day": 1, "at least six years": 1}
-{"2017": 1}
-{"a few days to a year": 1}
-{"nearly 40 years": 1, "August to November": 1, "between July to October": 1, "1980 and 2018": 1, "last week": 1, "an entire season": 1}
-{"The 2020": 1, "early August": 1, "October 4": 1, "seasonal": 1, "22-year": 1, "hurricane season": 2, "six-month": 1, "Nov. 30": 1, "the season": 1, "season": 2, "an extremely active season": 1, "the next several months": 1, "1995": 1, "this year": 1, "the months ahead": 1, "about a week": 1, "out to five days": 1}
-{"several days": 1}
-{"1990": 3, "more than two days": 1, "between 1961 and 2017": 3, "2018": 1, "1961": 1, "2017": 1, "57-year": 1, "recent years": 1, "1999": 1, "2009": 1}
-{"July 3": 1, "five days": 1, "2005": 1, "Sept. 13, 2008": 1, "less than one day": 1, "late 21st century": 1, "the last quarter of the 21st century": 1, "the final quarter of the 20th century": 1, "the past 30 years": 1, "the end of the 21st century": 1, "the previous year": 1, "several months": 1, "The day": 1, "the summer": 1, "between July and September": 1}
-{"2017": 2, "spring 2011": 1, "the current hurricane season": 1, "the next weeks": 1, "months": 1, "the past decade": 1}
-{"May 29": 1, "annually": 1, "decades": 1, "centuries": 1}
-{"three and a half days": 1, "between 1985 and 2015": 1, "30-year": 1, "roughly every five years": 1, "a decade or more": 1}
-{"today": 1, "May 18, 2020": 1, "2013": 1, "28-year": 1, "1979-2017": 1, "Every year": 1, "last year": 1, "the decades": 1, "2014": 1, "2018": 1}
+{"future": 1, "2017": 1, "present day": 2, "once in a 100-year": 2, "once every 43 years": 1, "once every 57 years": 1, "once every 30 years": 1, "six years": 1}
+{"2017": 1, "recently": 1, "next four hours": 1, "next eight hours": 1, "future hours": 1, "long-term": 1}
+{"long-term": 1, "once-a-decade": 1, "a few days": 1, "a year": 1}
+{"nearly 40 years": 1, "prime formation season": 1, "august to november": 1, "same time period": 1, "july to october": 1, "1980 and 2018": 1, "last week": 1}
+{"2020": 1, "early august": 1, "october 4": 1, "nov. 30": 1, "22-year history": 1, "next several months": 1, "1995": 1, "months ahead": 1, "five days in advance": 1}
+{"several days": 1, "hours": 1, "750 miles": 1}
+{"after 1990": 3, "1961": 3, "2017": 3, "2018": 1, "57-year period": 1, "1999": 1, "2009": 1, "recent years": 1, "two days": 1, "long run": 1}
+{"july 3": 1, "five days": 1, "2 a.m. sept. 13, 2008": 1, "less than one day": 1, "sept. 14": 1, "late 21st century": 1, "last quarter of the 21st century": 1, "final quarter of the 20th century": 1, "past 30 years": 1, "end of the 21st century": 1, "previous year": 1, "summer": 1, "between july and september": 1}
+{"2017": 1, "spring 2011": 1, "next weeks or months": 1, "past decade": 1}
+{"may 29": 1, "2100": 1}
+{"2012": 1, "1985": 1, "2015": 1, "30-year period": 1, "three and a half days": 1, "every six hours": 1, "millions of years": 1, "a decade or more": 1, "every five years": 1, "every 10": 1}
+{"today": 1, "may 18, 2020": 1, "2013": 1, "28-year": 1, "1979-2017": 1, "2014": 1, "2018": 1, "every year": 1, "over the decades": 1, "extended periods of time": 1}
 {"decades": 1, "a few days": 1}
-{"the coming decades": 1, "several years": 1, "2011": 1}
-{"April 22": 1, "before the turn of the century": 1, "Sept. 1 to 3, 2019": 1, "1900": 1, "1950": 1, "two weeks": 1, "the past century": 1}
-{"March 11, 2011": 1, "20-69": 1, "the five years": 3, "2011": 1, "the years": 1, "2016": 1, "the year": 1, "five years": 1, "2005": 1}
-{"Sept. 6, 2017": 1, "Dorian": 1, "two years later": 1, "two weeks later": 1, "Sept, 20": 1, "a year": 1, "last year": 2, "2100": 1, "2017": 1, "the last 60 years": 1, "the 1990s": 1, "last week": 1}
-{"years": 1, "9 decades": 1}
-{"20-year": 1, "between 1996 and 2016": 2, "2017": 1}
-{"Between 2000 and 2017": 1, "daily": 1, "the 1800s": 1}
-{"today": 1, "the end of 2015": 1, "year": 1, "2015-2016": 1, "2015-16": 1}
-{"2015": 1, "her third year": 1}
-{"2100": 1, "just a few decades": 1, "the end of the century": 1}
-{"days": 1, "2018": 1}
-{"2015": 1, "15 years": 1, "10 months": 1}
-{"2006": 1, "the 1930s": 1, "the year 2100": 1}
-{"weeks": 1, "3-4 week": 1, "4th of July": 1, "late January": 1, "17 years": 1, "1999-2015": 1, "more than 18 months": 1, "Oct. 2019": 1}
-{"2017": 1, "the late 20th and early 21st centuries": 1, "1900": 1, "the 2017": 1, "decades": 1}
+{"2011": 1, "coming decades": 1, "several years": 1}
+{"april 22": 1, "before the turn of the century": 1, "since 1900": 1, "since 1950": 1, "september 1 to 3, 2019": 1, "two weeks": 1, "past century": 1}
+{"march 11, 2011": 1, "five years after the 2011 disaster": 1, "2016": 1, "five years following 2005": 1, "five years preceding it": 1, "year following the earthquake": 1}
+{"up to now": 1, "two years later": 1, "september 6, 2017": 1, "september 20": 1, "48 hours": 1, "a year before": 1, "last year": 2, "2100": 1, "the last 60 years": 1, "2017": 2, "the 1990s": 1}
+{"years": 1, "9 decades": 1, "longer period of time": 1}
+{"20-year period": 1, "1996": 2, "2016": 2, "2017": 1}
+{"between 2000 and 2017": 1, "future": 1, "1800s": 1}
+{"today": 1, "2015": 2, "2015-2016": 1, "2015-16": 1}
+{"since 2015": 1, "every four hours": 1, "third year": 1, "wet season": 1}
+{"by 2100": 1, "within just a few decades": 1, "by the end of the century": 1, "2100": 1}
+{"2018": 1, "days in advance": 1, "forecast period": 2, "post-storm": 2}
+{"2017": 1, "2015": 1, "15 years": 1, "10 months after irma": 1}
+{"2006": 1, "1930s": 1, "recently": 1, "year 2100": 1}
+{"3-4 week": 1, "4th of july": 1, "late january": 1, "17 years": 1, "1999-2015": 1, "18 months": 1, "oct. 2019": 1}
+{"2017": 2, "late 20th and early 21st centuries": 1, "1900": 1, "2017 hurricane season": 1, "decades": 1}
 {"last year": 1, "earlier this year": 1}
-{"the 1950s": 1, "today": 2}
-{"September 2017": 1, "less than a year": 1, "2013": 2, "Oct. 30": 1, "1928": 1, "recent decades": 1, "between February and July 2018": 1, "August 2018.The": 1, "2018": 1, "the years 2010 through 2012": 1}
-{"October 18": 1, "the end of the century": 1}
-{"2017": 2, "one week": 1, "10-year": 1, "six months": 1, "longer than one week": 1}
-{"nearly a decade": 1, "February 2019": 1, "2006 to 2019": 1, "days": 1, "a stormy day": 1, "Aug. 15, 2009": 1, "Aug. 22, 2009.When": 1, "2008": 1, "2011": 1}
-{"each year": 1, "2001": 2, "16 years later": 1, "2005": 1, "2000-2005": 2, "2011-2016": 2}
-{"2017": 1, "Just one year": 1, "September": 1}
-{"Two years": 1, "weeks": 1, "2005": 1, "today": 2, "annual": 1, "decadal": 1, "between 1970 and 2010.\"The": 1, "every year": 1, "Oct. 7": 1}
-{"September 2019": 1, "the last three decades": 1, "24 hour": 1}
-{"five years": 1}
-{"1978": 2, "more than two weeks": 1, "October": 1, "1980": 1, "every two months": 1, "biweekly": 1}
+{"1950s": 1, "today": 1}
+{"september 2017": 1, "less than a year after maria": 1, "2013": 2, "oct. 30": 1, "recent decades": 1, "1928": 1, "february and july 2018": 1, "august 2018": 1, "2018": 2, "2010 through 2012": 1}
+{"october 18": 1, "end of the century": 1}
+{"2017": 2, "one week": 2, "10-year": 1, "six months": 1, "hours": 1}
+{"nearly a decade": 1, "september 2006 to february 2019": 1, "2006 to 2019": 1, "aug. 15, 2009": 1, "aug. 22, 2009": 1, "2008": 1, "2011": 1}
+{"2001": 2, "16 years later": 1, "2000-2005": 2, "2011-2016": 2, "2005": 1}
+{"2017": 1, "one year after": 1, "september": 1}
+{"two years": 1, "weeks": 1, "2005": 1, "1970": 1, "2010": 1, "every year": 1, "oct. 7": 1}
+{"september 2019": 1, "24 hours": 2, "three decades": 1, "24 hour period": 1}
+{"five years": 1, "future": 2, "current": 1}
+{"1978": 2, "1980": 1, "two weeks": 1, "october": 1, "25 years": 1}
 {"one year": 1, "20 years": 1}
-{"50 to 80": 2, "a day": 1, "week": 3, "a week": 1}
-{"today": 1, "May": 1, "November": 1, "48 hours": 1, "2018": 1, "early winter": 1}
-{"Now": 1, "2017": 1, "July": 1, "June": 1, "several years": 1, "days": 1}
-{"October 2012": 1, "years": 1, "half-day": 1, "the past couple of decades": 1, "one to four years'": 1}
-{"1898": 1, "the last 20 years": 2, "July 23": 1, "the past 20 years": 2, "the late 1990s": 1, "the past 120 years": 1, "1999": 1, "2016": 1, "2018": 2, "1990": 1, "weeks to months": 1}
-{"July 1": 1, "June 1.\"Mosquitos": 1, "less than two weeks": 1}
-{}
-{"2018": 2, "2008": 1, "2014": 1, "the 1970s": 1, "2013": 1, "September 2018": 1, "May 24": 1, "October 2018": 1, "2015": 1, "that same year": 1, "2017": 1, "four years": 1}
-{"2010": 1, "five years earlier": 1, "May 23": 1, "three-year": 1}
-{"2019": 1, "June 1.\"When": 1}
+{"a day": 1, "a week": 3, "now": 1}
+{"today": 1, "may to november": 1, "2018": 1, "48 hours": 1, "early winter": 1}
+{"2017": 1, "july": 1, "june": 1, "24-hour period": 1, "days in advance": 1, "several years": 1}
+{"october 2012": 1, "2005": 1, "half-day": 1, "past couple of decades": 1, "one to four years": 1}
+{"since 1898": 1, "last 20 years": 3, "july 23": 1, "past 20 years": 2, "late 1990s": 1, "past 120 years": 1, "1999": 1, "2016": 1, "2018": 1, "weeks to months": 1, "1990": 1}
+{"july 1": 1, "june 1": 1, "less than two weeks": 1}
+{"now": 1}
+{"2018": 3, "2008": 1, "2014": 1, "1970s": 1, "2013": 1, "september 2018": 1, "may 24": 1, "october 2018": 1, "2015": 2, "2017": 1, "four years": 1}
+{"2010": 1, "five years earlier": 1, "may 23": 1, "three-year": 1, "recent": 1}
+{"2019": 1, "june 1": 1, "before sandy's arrival": 1, "post-storm": 1, "before the next hurricane": 1}
 {"today": 1}
-{"third through 12th": 1, "six to 12-month": 2, "five to nine months": 1, "October of 2017": 1}
+{"six to 12-month mark": 2, "five to nine months": 1, "october of 2017": 1}
 {"several years ago": 1}
-{"2017": 4, "the past 60 years": 1, "now": 1, "the 1950s": 2, "1950": 1, "less than a month": 1, "1956": 2, "the earliest year": 1, "daily": 1, "the last 60 years": 1, "today": 1, "1950s": 1}
-{"days to years": 1, "500-year": 1, "an era": 1, "Spring 2019": 1}
-{"past-year": 1}
-{"October 2017": 1, "1928": 1, "the past 15 years": 1, "1990": 1, "1989": 1, "1998": 1, "recent times": 1, "two to three years": 1, "2100": 1, "annually": 1}
-{"2017": 1, "6-month": 1, "the past 6 months": 1}
+{"2017": 4, "60 years": 2, "1950s": 3, "1950": 1, "2005": 1, "1956": 2, "last 60 years": 1, "beginning of the record": 1, "once every 300 years": 1, "once every 100 years": 1}
+{"recently": 1, "spans of days to years": 1, "500-year": 1, "per year": 1, "spring 2019": 1}
+{"past-year": 1, "one-time": 1}
+{"october 2017": 1, "1928": 1, "15 years": 1, "1990": 1, "1989": 1, "1998": 1, "two to three years": 1, "2100": 1}
+{"2017": 1, "now": 1, "6-month": 2, "before": 1, "after": 1, "past 6 months": 1}
 {"2018": 1, "2014": 1, "2008": 1}
-{"decade": 1, "the two weeks": 1, "between 2011 and 2016": 1, "October 2012": 1, "August 2011": 1, "April 2011": 1, "August 2016": 1, "May 2011).Study": 1}
-{"1960": 1}
-{"about two months": 1, "daily": 3, "65": 1, "710 days": 1, "the period from January 7, 2005": 1, "December 17, 2006": 1, "the 710 days": 1, "more than a month": 1, "The 2017-18": 1}
+{"the decade": 1, "2011": 2, "2012": 1, "2016": 1, "october 2012": 1, "august 2011": 1, "april 2011": 1, "august 2016": 1, "may 2011": 1, "two weeks": 1}
+{"since 1960": 2}
+{"two months": 1, "710 days": 2, "january 7, 2005": 1, "december 17, 2006": 1, "2017-18 hurricane seasons": 1, "more than a month": 1}
 {"1778": 1, "2016": 1, "2017": 1, "two years": 1}
-{"last year": 1, "eight and twelve months": 1, "years": 1, "monthly": 1, "yearly": 1}
-{"the last three decades": 1, "weekly": 2, "August 2017": 1, "September 2017": 1, "the last 35 years": 1, "a few months": 1, "around four months": 1, "nine months": 1, "every 50-60 years": 1}
-{"Monday": 1, "the days": 1, "weeks": 1, "months": 1, "daily": 2, "six months": 2, "over 120 days": 1, "April 2018": 1, "60 years'": 1}
-{"November 15": 1, "the last decade": 1, "last year": 2, "2013": 1, "several days": 1, "the beginning of the 20th century": 1}
-{"four days": 1, "the 2017 hurricane season": 1, "this year": 1, "year": 1, "the 1950s": 1}
-{"this week": 1, "late August 2017": 1, "annually": 1, "2017": 1, "the five days": 1, "September": 1, "spring 2019": 1}
-{"2005": 1, "Six months": 1, "1992": 1}
-{"years": 2, "summer": 1, "late summer": 1, "September": 2, "The Indian monsoon season": 1, "the monsoon season": 1, "later in the year": 1, "seasonal": 2}
-{"Oct. 10": 1, "Tuesday, Oct. 9.Images": 1, "Wednesday, Oct. 10": 1, "2002": 1}
-{"2014": 1, "2015": 1, "five-year": 1, "the past five years": 1, "the past few decades": 1, "100-year": 1}
-{"2016": 1, "the past 40 years": 1}
+{"last year": 1, "one month": 1, "eight months": 1, "twelve months": 1, "multiple seasons": 1, "monthly": 1, "yearly": 1, "currently": 1, "over time": 1}
+{"three decades": 1, "august 2017": 1, "september 2017": 1, "last 35 years": 1, "2018 fall meeting": 1, "nine months": 1, "50-60 years": 1, "once every 10 years": 1}
+{"monday": 1, "days": 1, "weeks": 1, "months": 1, "six months": 2, "120 days": 1, "april 2018": 1, "2017": 1, "one day": 1, "60 years": 1}
+{"november 15": 1, "last decade": 1, "last year": 1, "2013": 1, "several days": 1, "beginning of the 20th century": 1, "future": 1}
+{"four days": 1, "2017 hurricane season": 1, "year": 1, "1950s": 1}
+{"this week": 1, "late august 2017": 1, "2017": 2, "2.5 hours": 1, "five days": 1, "september": 1, "spring 2019": 1}
+{"2005": 1, "six months after katrina": 1, "1992": 1}
+{"years": 2, "late summer months": 1, "september": 2, "half a world away": 1, "seasonal timescales": 1, "season": 3, "future": 1, "year": 1}
+{"oct. 10": 2, "early morning hours": 1, "tuesday, oct. 9": 1, "approximately seven minutes": 1, "just before noon": 1, "2002": 1}
+{"2014": 1, "2015": 1, "five-year period": 1, "past five years": 1, "over the past few decades": 1}
+{"2016": 1, "recently": 1, "in the past 40 years": 1, "on average": 1, "3 to 14 minutes": 1, "14 minutes": 2, "30 minutes": 1, "every 5 minutes or less": 1, "since 1961": 1}
 {"2015-2016": 1}
-{"Sept. 13": 2, "today": 2, "Friday": 4, "later today": 1, "Saturday": 1}
-{"September 2017": 2, "six months": 1, "February 2018": 1}
-{"2016": 1, "three-month": 1, "2004": 1, "2007": 1, "the 1950s": 1, "May": 1, "about six weeks": 1, "three months": 1}
-{"2005": 8, "the year 2005": 1, "future hurricane seasons": 1, "The year 2005": 1, "the 1940s": 1, "at least 150 years": 1, "a year": 1, "years": 1, "year": 1, "thousands of years": 1, "a season": 1}
-{"first two years": 1, "2016": 2, "two years": 2, "this week": 2, "the third year in a row": 1, "Aug 22": 1, "two to three weeks": 1, "days": 2, "three-week": 1, "five weeks": 1, "2017": 1, "a month": 1, "year": 1, "seasonally": 1, "six-day": 1}
+{"early on sept. 13": 1, "today": 2, "at 2:20 a.m. edt (0230 utc) on sept. 13": 1, "at 8 a.m. edt (1200 utc)": 1, "tonight": 2, "friday": 2, "friday night": 2, "saturday": 1, "saturday night": 1}
+{"september 2017": 2, "six months": 1, "february 2018": 1, "today": 1}
+{"2016": 1, "2004": 1, "2007": 1, "1950s": 1, "may": 1, "six weeks": 1, "three months": 2}
+{"2005": 6, "the 1940s": 1, "at least 150 years": 1, "late in the hurricane season": 1, "thousands of years": 2, "year-to-year": 1, "2005 Atlantic hurricane season": 1}
+{"first two years": 1, "2016": 2, "two years": 1, "this week": 2, "aug 22": 1, "two to three weeks": 1, "hurricane season": 1, "2017": 1, "days": 1, "a month": 1, "this year's": 1, "the whole time": 1, "seasonally": 1, "six-day": 1, "every hour": 1}
 {"2005": 1}
-{"2015": 1, "September 2017": 1, "a few weeks earlier": 1}
-{"the past decade": 1, "nearly three decades": 1, "the month July": 1, "summer": 1, "seasons": 1, "the month of July": 1}
-{"the following months": 1, "today (Aug. 2)": 1, "from January 2010 through December 2017": 1, "September 2017": 1, "each month": 1, "September through December 2017": 1, "the month of Hurricane Maria": 1, "the following three months": 1, "September": 1, "October": 1, "November": 1, "December": 1, "the months following": 1}
-{"two to three months": 1}
-{"September 6": 3, "later that day": 1, "September 14": 1, "September 6.Another": 1, "September 10": 1, "September 8": 1, "September 9.\"Space": 1, "this day": 1, "this last year": 1, "September 4 -- 13": 1, "the last 10 years": 1, "2017": 1, "2005": 1, "early September": 1, "10": 1, "one to three days": 1, "September 7-9.The": 1, "September": 1}
-{"about 2015": 1, "seasonally": 1, "its early days": 1, "two days": 1}
-{"July 25": 1, "2017": 1, "the hurricane season": 1, "mid-August 2017": 1, "just a few weeks later": 1, "September": 1, "weeks": 1, "Last September": 1, "days later": 1, "Sept. 8, 2017": 1, "the winter of 2019.\"We": 1, "two days": 1}
-{"the past few days": 1, "the last few days": 1}
-{"2018": 1, "Aug. 5 to 10": 1, "more than a decade ago": 1, "the 2017": 1}
+{"september 2017": 1, "2015": 1, "a few weeks earlier": 1}
+{"past decade": 1, "three decades": 1, "month july": 2}
+{"today": 1, "aug. 2": 1, "following months": 1, "january 2010": 1, "december 2017": 1, "september 2017": 1, "september": 2, "october": 1, "november": 1, "december": 1, "following three months": 1}
+{"spring break 2018": 1, "two to three months after harvey": 1}
+{"september 6": 4, "early morning": 1, "later that day": 1, "morning": 1, "8 a.m. local time": 1, "september 14": 1, "september 10": 2, "three hours": 1, "september 8": 1, "september 9": 1, "last year": 1, "september 4 -- 13": 1, "10 years": 1, "2017": 1, "one to three days": 1, "september 7-9": 1}
+{"about 2015": 1}
+{"july 25": 1, "2017": 2, "mid-august 2017": 1, "september": 1, "sept. 8, 2017": 1, "last september": 1, "four days later": 1, "winter of 2019": 1, "two days": 1}
+{"current issue": 1, "recent": 2, "past few days": 2, "last few days": 1}
+{"2018": 1, "aug. 5 to 10": 1, "more than a decade ago": 1, "2017 hurricane season": 1}
 {"2012": 1, "weeks": 1}
-{"nearly 20 years": 1, "2005": 1, "2017": 1, "2018": 1, "August": 1, "the last two decades": 1}
-{"April": 1, "the spring of 2017": 1, "months": 1, "the late 1930s": 1, "seven months": 1, "the years ahead": 1, "15 years": 1, "several days": 1, "the next decade or more": 1, "July": 1}
-{"late summer": 1, "early fall": 1, "seasonally": 1, "some years": 1, "the hurricane season": 1, "today": 1, "months": 1, "years": 1, "several months": 1, "sunny-day": 1, "20 years ago": 1, "30 years ago": 1, "Some years": 1}
-{"early-season": 1, "the 2018": 1, "November 30": 1, "Last year": 2, "2017": 1, "2005": 1, "1851": 1, "the last four years": 1, "annual": 1, "2014": 2, "year": 1, "April to May": 1, "May": 1, "an average year": 1, "most years": 1, "a slightly below average year": 1, "2018": 1, "the last few years": 1, "last year": 1, "seasons": 1}
-{"68 years": 1, "1949-2016": 1, "2017": 2, "several days": 1, "2014": 1, "April": 1, "2000-2013": 1}
-{"between September 20": 1, "December 31, 2017": 1, "2016": 2, "May 29, 2018": 1, "September 20, 2017": 1, "weeks": 1, "December 2017": 1, "between September 20 and December 31, 2017": 1, "three-month": 1, "approximately 41 days": 1, "68 days": 1}
-{"2008": 1, "last year": 1, "each year": 1, "Last year's": 1, "decades": 1, "centuries": 1, "13-year": 1, "about a year": 1, "between 2000 and 2013": 1, "the end of the century": 1}
-{"1994": 1, "May 17": 1, "the Atlantic hurricane season": 1}
-{"today": 1, "May 11": 1}
-{"a busy 2017 hurricane season": 1}
-{"Last year's": 1, "Jose": 2, "30 years'": 1, "1986 through 2015": 1, "nowadays": 1, "30 years ago": 2, "each of": 1, "the three decades": 1, "the last 30 years": 2, "a decade or more": 1, "the late 1990s": 1, "Maria": 1, "last year": 1}
-{"the turn of the century": 1, "1998-2012": 1, "the Global Warming Hiatus": 1, "the last few decades": 1, "the last couple decades": 1}
-{"100-year": 2, "100- and 500-year": 1, "500-year": 2, "any given year": 1, "the week": 1, "just three days": 1, "days": 1}
-{"four months": 1, "2010": 1, "ages 18 to 54": 1, "late December 2017": 1, "early January 2018.\"Mobile": 1, "later this year": 1, "eight months": 1}
-{"1820": 1, "1831": 1, "1834 to 1948": 1, "years": 1, "day": 1, "1871": 2, "today": 2, "1870-1900": 1}
+{"nearly 20 years": 1, "2005": 1, "2017": 1, "2018": 1, "august": 1, "last two decades": 1}
+{"april": 1, "spring of 2017": 1, "seven months after the storm": 1, "the late 1930s": 1, "the next decade or more": 1, "july": 1}
+{"late summer": 1, "early fall": 1, "hurricane season": 1, "months": 2, "years": 2, "20 years ago": 1, "30 years ago": 1}
+{"early-season": 1, "2018": 2, "november 30": 1, "last year": 2, "2017": 1, "2005": 1, "1851": 1, "four years": 1, "2014": 2, "april to may": 1, "may": 1, "this year": 1, "last few years": 1, "2017 Atlantic hurricane season": 1}
+{"68 years": 1, "1949-2016": 1, "2017": 1, "several days": 1, "2014": 1, "april": 1, "2000-2013": 1}
+{"september 20": 3, "december 31, 2017": 2, "2017": 3, "2016": 2, "may 29, 2018": 1, "december 2017": 1, "three-month period": 1, "41 days": 1, "68 days": 1, "84 days": 1, "weeks": 1}
+{"2008": 1, "last year": 2, "2000 and 2013": 1, "13-year periods": 1, "end of the century": 1}
+{"may 17": 1, "1994": 1, "atlantic hurricane season": 1}
+{"may 11": 1}
+{"2017": 1, "first time": 1, "before and after the storm": 1, "before the storm's passage": 1, "after passage": 1}
+{"last year": 1, "2017": 1, "30 years": 3, "1986 through 2015": 1, "three decades": 1, "24-hour period": 3, "the last 30 years": 1, "a decade or more": 1, "since the late 1990s": 1}
+{"around the turn of the century": 1, "1998-2012": 1, "the last few decades": 1, "the last couple decades": 1}
+{"week": 1, "three days": 1, "100-year": 3, "500-year": 2, "days": 1}
+{"four months after harvey": 1, "2010": 1, "late december 2017": 1, "early january 2018": 1, "eight months after harvey": 1}
+{"1820": 1, "midcentury": 1, "1831": 1, "1834 to 1948": 1, "1871": 2, "1870-1900": 1}
 {"2015": 1}
-{"today": 1, "April 2": 1, "more than six months": 1, "two or three months": 1, "September": 1, "October": 1, "2017": 2, "previous years": 1, "2016": 1}
-{"monthly": 2, "three years": 1, "just a few weeks": 1, "one year": 1, "a cold winter": 1}
-{"recent years": 1, "2005": 2, "2016": 1, "Maria": 1, "the period August to September 2017": 1, "many years": 1, "winters": 1, "Last spring": 1}
-{"Annually": 1, "2012": 1}
-{"2150": 1, "today": 1, "the 22nd century": 1, "the end of the 21st century": 1, "every five years": 1, "the end of the century": 2, "centuries": 1}
-{"October 2016": 1, "the coming years": 1}
-{"13 years": 1, "Feb. 15": 2, "about 20 years ago": 1, "several days": 1, "the early days": 1, "the late 1960s": 1, "early 1970s": 1, "the 1880s": 1, "more than a century": 1, "century": 1}
-{"March 2017": 1, "Maria": 1, "September": 1, "the days": 1, "daily": 1, "several days": 2, "the three weeks": 1, "Friday": 1, "2018": 1, "the year": 1, "the first few days": 1}
-{"the early 20th century through 2010": 1, "2012": 1, "1950": 1, "November 2009": 1, "February 2010": 1}
-{"February 1": 1, "early January": 1}
-{"2016": 1, "late August 2017": 1}
-{"the summer of 2017": 1, "Nearly twenty years ago": 1, "20 years": 1, "2025": 1}
-{"the next 75 years": 1, "2017": 1, "2005": 2, "one year": 1, "the past quarter-century": 1, "just one year": 1, "past year": 1}
-{"60 years of age": 1, "every six months to one year": 1, "2036": 1, "65 years and older": 1}
-{"Memorial Day weekend in 2015": 1, "spring": 1, "2015": 2, "earlier in the month": 1, "2016": 1, "2017": 1, "last year": 1, "500-year": 2, "100-year": 1, "the past five years": 1, "300-year": 1}
-{"August of 2012": 1, "Two months later": 1, "the spring of 2013.\"When": 1, "Maria": 2, "the 2017": 1}
-{"40 years": 1, "the past 24 years": 1}
-{"Irma": 1, "Maria": 1, "earlier this year": 1, "August  25": 1, "between August 26 and 28.A": 1, "the present day": 1, "1950s": 1, "today": 2, "1880": 1, "the 1900s": 1}
-{"October 2014": 1, "the monsoon season": 1, "2015": 4, "one week": 1, "Oct. 28 to Nov. 4": 1, "several years'": 1, "only a few days later": 1, "the year": 1, "late season": 1, "the next few years": 1, "year": 1, "Nov. 29": 1, "Dec. 6": 1, "some years": 1, "the years": 1, "1860": 1, "1940": 1, "1990": 2, "1998": 1}
-{"2005": 1, "August": 1, "100 years ago": 1, "100 years": 1}
-{"1970": 1, "annual": 1}
+{"today": 1, "april 2": 1, "six months": 1, "two or three months": 1, "september to october": 1, "2017": 2, "2016": 1}
+{"monthly": 2, "three years": 1, "a few weeks after harvey": 1, "one year": 1, "cold winter": 1}
+{"recent years": 1, "2005": 2, "2016": 1, "august to september 2017": 1, "many years": 1, "norwegian winters": 1, "last spring": 1}
+{"annually": 1, "2012": 1, "long hours": 1}
+{"by 2150": 1, "22nd century": 1, "by the end of the 21st century": 1, "by the end of the century": 2, "for centuries": 1}
+{"october 2016": 1, "coming years": 1}
+{"13 years": 1, "feb. 15": 2, "20 years ago": 1, "several days": 1, "three and seven seconds": 1, "late 1960s": 1, "early 1970s": 1, "1880s": 1, "more than a century": 1}
+{"march 2017": 1, "september": 1, "three weeks": 1, "friday": 1, "2018": 1, "full moon": 1, "first few days": 1, "several days": 2}
+{"early 20th century": 1, "2010": 2, "2012": 1, "november 1950": 1, "november 2009": 1, "february 2010": 1, "18 hours": 1}
+{"february 1": 1, "early january 2015": 1, "every year": 1}
+{"since 2016": 1, "one week after hurricane harvey": 1, "late august 2017": 1}
+{"summer of 2017": 1, "twenty years ago": 1, "over 20 years": 1, "by 2025": 1}
+{"next 75 years": 1, "2017": 1, "2005": 2, "past 23 years": 1, "one year": 2, "past quarter-century": 1, "this past year": 1}
+{"2018": 1, "2036": 1, "six months": 1, "one year": 1}
+{"memorial day weekend": 1, "2015": 3, "earlier in the month": 1, "2016": 1, "2017": 1, "last year": 1, "past five years": 1}
+{"2012": 2, "august of 2012": 1, "two months later": 1, "spring of 2013": 1, "2017": 1}
+{"40 years": 1, "24 years": 1, "past 24 years": 1, "next hurricane": 1}
+{"earlier this year": 1, "august 25": 1, "august 26": 1, "august 28": 1, "present day": 1, "1950s": 1, "today": 1, "since 1880": 1, "1900s": 1}
+{"october 2014": 1, "2015": 1, "oct. 28 to nov. 4": 1, "nov. 29 and dec. 6": 1, "1990": 1, "1860": 1, "1940": 1, "1998": 1}
+{"2005": 1, "2014": 1, "august": 1, "100 years ago": 1, "100 years": 1}
+{"recently": 1, "long-term interval": 1, "during the investigated time interval": 1, "before 1970": 1}
+{"recent": 1, "future": 1}
+{"this week": 1, "any given year": 1, "between 1981 and 2000": 1, "by the end of this century": 2, "this century": 2, "this year": 2, "next few years": 1, "any time in the next 100 years": 1, "historical period": 1, "between 1980 and 2016": 2, "once in 2,000 years": 2, "once since the old testament was written": 1, "from the years 2081 to 2100": 1, "at the end of the last century": 2, "at the end of the 20th century": 1, "late 20th century": 1}
+{"since 1979": 1, "years": 1}
+{"november 2": 1}
+{"june -- september 2016": 1, "three days": 1, "may": 1}
+{"sept. 28": 2, "oct. 4": 1, "this week": 1, "five-day": 1, "late september": 1, "oct. 1": 1, "one-year": 1, "april 2016": 1, "late july 2016": 1, "early november": 1}
+{"2005": 2, "2100": 1, "50 years": 1, "last 150 years": 1, "100,000 years": 1, "2013": 1, "2014": 1, "2007": 1, "current hurricane season": 1}
+{"mid-november": 1, "late march 2014": 1, "1 to 1.5 years after the storm": 1, "september 11, 2001": 1, "four weeks following the landfall of hurricane sandy": 1, "two years later": 1, "three to six months after the hurricane": 1}
 {}
-{"this week": 1, "any given year": 1, "between 1981 and 2000": 1, "the end of this century": 4, "annual": 4, "this century": 1, "this year": 2, "every year": 1, "the next few years": 1, "the next 100 years": 1, "today": 1, "between 1980 and 2016.He": 1, "between 1980 and 2016": 1, "2,000 years": 1, "the years 2081 to 2100": 1, "yearly": 1, "the end of the last century": 2, "the end of the 20th century": 1, "each year": 1, "the late 20th century": 1}
-{"years": 1, "1979": 1}
-{"November 2": 1}
-{"June -- September 2016": 1, "three days": 1, "May": 1}
-{"Sept. 28": 2, "This week": 1, "five-day": 1, "Oct. 4": 1, "late September": 1, "Oct. 1": 1, "one-year": 1, "April 2016": 1, "late July 2016": 1, "early November": 1}
-{"2005": 2, "2100": 1, "50 years": 1, "the last 150 years": 1, "100,000 years": 1, "daily": 1, "2013": 1, "2014": 1, "today": 1, "the current hurricane season": 1}
-{"Nate": 1, "between mid-November and late March 2014": 1, "approximately 1 to 1.5 years": 1, "September 11, 2001.The": 1, "four weeks": 1, "two years later": 1, "three to six months": 1}
+{"last ice age": 1, "younger dryas": 3, "early holocene": 2, "modern times": 1}
+{"year": 5, "last year": 2, "2017": 3, "september": 2, "35 years": 1, "1991": 1, "40 years": 1}
+{"future": 2, "right now": 1, "historical": 2, "long-term": 1, "aftermath": 2}
+{"sept. 14": 1, "60 days": 1, "this time of year": 1}
+{"over a decade": 1, "2005": 1}
+{"1999-2009": 1, "2008": 1, "2007": 1, "2001": 1, "2006": 1, "2009": 1, "100-year": 4, "50-year": 1, "10-year": 1, "24-hour": 1, "two or three hours": 1}
+{"a month": 1, "short term": 1}
+{"in the future": 1, "10 meters": 1, "10 days": 1, "next year": 1}
 {}
-{"the last ice age": 1, "days": 2, "the Younger Dryas": 2, "the warmer early Holocene": 1, "Younger Dryas": 1, "early Holocene": 1}
-{"a record year": 1, "the end of September": 1, "season": 1, "a low green turtle year": 1, "This year": 1, "year": 1, "this year": 1, "2017": 3, "the season": 1, "September": 1, "30 years": 1, "35 years": 1, "1991": 1, "Last year": 1, "40 years": 1, "Sept. 30Estimated": 2}
-{"the past": 1}
-{"Sept. 14": 1, "this time of year": 1, "the next 60 days": 1}
-{"a decade": 1, "2005": 1, "several years": 1}
-{"100-year": 6, "between 1999-2009": 1, "2008": 1, "2007": 1, "2001": 1, "2006": 1, "every 100 years": 1, "any given year": 1, "50-year": 1, "each year": 1, "10-year": 1}
-{"a month": 1}
-{"10 days": 1, "next year": 1}
+{"this month": 1, "aug. 29, 2005": 1, "since 1980": 1, "three months following katrina": 1}
+{"2015": 1, "2011": 1, "2012": 1, "aug. 7": 1, "2100": 1}
+{"latest issue": 1, "june 2016": 2, "decades": 2, "a week before": 1, "many weeks afterwards": 1, "three days": 1, "2012": 1, "last year": 1, "next century": 1, "40 years": 2, "may 1997": 1, "past 40 years": 1, "decades ahead": 1}
+{"each year": 1, "today": 1, "in the future": 2, "now": 1, "not-too-distant future": 1, "past century": 1, "every hundred years": 1, "every decade": 1, "every year": 1, "by 2050": 1, "present-day": 1}
+{"mid-holocene": 1, "6,000 years ago": 1, "earlier": 2, "now": 1, "past": 2, "future": 1}
+{"december 2016": 1, "recent years": 1, "20-to-30-year lifetime": 1, "in the future": 1}
+{"2016": 3, "january": 1, "318 days": 1, "late november": 1, "october": 2, "almost a decade": 1, "since 1950": 1}
+{"today": 1, "2005": 1, "1970": 1, "future": 3}
+{"2003": 1, "2004": 1, "2010": 1}
+{"this week": 1, "june to november": 1, "august and september": 1, "june": 1, "summer and early fall": 1, "november": 1, "since the 1950s": 1, "september 1973": 1, "each year": 1}
+{"over the coming century": 1}
+{"two years prior": 2, "last year": 1}
+{"feb. 16": 1, "three-hour increments": 1, "end of the 21st century": 1}
+{"wednesday [jan. 4, 2017]": 1, "three 23-year periods": 1, "1947 to 2015": 1, "every six hours": 1, "70 years": 1}
+{"early october of 2016": 1, "october 2016": 1, "two to five day": 1, "up to a week": 2}
+{"this week": 1, "2012": 2, "five days ahead of time": 1, "about a decade": 1, "annually": 1}
+{"recent": 1, "10 years": 2, "72 hours": 2, "three days": 1, "this year": 1}
+{"2010": 1, "2005": 1, "2015": 1, "longer period": 1}
+{"past few hundred years": 1, "late 19th century": 2, "2012": 1, "19th century": 2, "current century": 1}
+{"a year": 2, "2.5 years": 1, "2012": 2, "2009 to 2010": 1, "2010 to 2011": 1, "2011 to 2012": 1, "august 2012": 1, "two months": 1, "two-year post-spill period": 1, "four months": 1, "annual": 1, "future": 1, "every 12 days": 1}
+{"10 years": 2, "two years": 2, "august 2005": 1, "post-katrina": 3, "pre-katrina": 3, "each year": 1}
+{"january to september 2016": 2, "1961-1990": 2, "early months of the year": 2, "2015-16": 1, "october": 1, "2016": 1, "this century": 1, "1998": 1, "november 2014 and february 2016": 1, "early 2016": 1, "2015": 1, "early 2017": 1, "2011-2015": 1, "2011 and 2014": 1, "february": 2, "march": 1, "may to september": 1, "september": 2, "july": 1, "november": 1, "january": 1, "april": 1, "may": 1, "july 21": 1}
+{"pliocene era": 2, "three million years ago": 1, "current": 1, "recent decades": 1, "next 100 years": 1, "future years": 1}
+{"decades-old": 1, "future": 1}
+{"most recently": 1, "1970 to 2004": 1, "1981 to 2011": 1, "september": 1, "2007 to 2012": 1, "48-hour": 1, "decades": 1, "future": 1}
+{"25 years": 1, "early 1800s": 1, "1821": 1, "1938": 1, "1944": 1, "last month": 1, "end of this century": 1}
+{"october 4, 2016": 1, "more than 50 years": 1, "hours after landfall": 1, "oct. 3 to oct. 5": 1, "oct. 5": 2, "11 a.m. edt (1500 utc)": 1, "next 24 to 48 hours": 1, "thursday": 1, "thursday evening, oct. 6": 1, "next couple of days": 1, "night of oct. 4": 1}
+{"recently": 1, "5 september 2016": 2, "since 1995": 1, "in 2005": 1, "in 2013": 1, "in the 1970s": 1, "in 2004": 1, "this week": 1, "in the near future": 1}
+{"recent years": 1, "december 2011": 2, "so far": 1, "13th of the month": 1, "28th of the month": 1, "8th-9th of the month": 1}
+{"most recent": 1, "over time": 1, "a few decades ago": 1, "since 1980": 1, "since 2004": 1, "2005": 1, "2015": 1, "1990s": 1, "1992": 2, "1999": 1, "2012": 1, "20-year period": 1, "from 1992 to 2011": 2, "hurricane season": 1, "each year": 1}
+{"end of the century": 1, "2100": 1}
+{"2050": 1, "unknown period of time": 1}
+{"past century": 1, "this week": 1, "2015": 1, "2013": 1, "last year": 1, "recent years": 1, "1970s": 1, "decades": 1}
+{"years": 1, "day 1": 1, "2011": 1}
+{"may 2016": 1, "1980-2015": 1, "2016": 1, "early august": 1, "july 24 to august 1": 1, "this year": 1, "second year": 1}
+{"2012": 2, "2008": 1, "2014": 1, "january": 1, "months": 1, "year": 2, "two and a half to three year recurrence interval": 1}
+{"25 years": 1, "2005": 2, "past 10 years": 1}
+{"1940s": 1, "1970s": 1, "august": 1, "2008": 1, "2012": 1, "2013": 1, "past few decades": 1}
+{"april 20, 2016": 1, "2004-2007": 1, "earlier years": 1, "latter years": 1, "year": 2, "future": 1, "normal year-to-year variability": 1}
+{"oct. 31": 1, "a month later": 1, "april 16 and 17": 1, "2004": 1, "2010": 1, "the last few days or so": 1, "in decades": 1}
+{"2015": 1, "once a month": 1, "18 months": 1}
+{"decades": 1, "2010": 1, "nearly a decade": 1, "many years": 1}
+{"in the past": 1, "a decade ago": 1, "2014": 1, "future": 1, "days to seasons": 1}
+{"two decades": 1, "summer": 3, "2012": 1, "late august 2011": 1, "1985 to 2015": 1, "2011": 2, "30-year historical record": 1}
+{"1645-1715": 2, "1970 to 2002": 1, "2015": 1, "1500": 1, "1850": 2, "1495-1825": 1, "1707-1825": 1, "1850-2009": 1, "maunder minimum": 2, "2013": 1}
+{"early online issue": 1, "1600": 2, "1800": 2, "2012": 1, "1992": 1, "3,000 years": 1}
+{"january 19, 2016": 1, "next 50 to 100 years": 1}
+{"jan. 13": 2, "eight hours later": 1, "1200 utc": 1, "7 a.m. est": 1, "later in the day": 1, "2100 utc": 1, "4 p.m. est": 1, "1500 utc": 2, "10 a.m. est": 2, "january 14": 2, "jan. 10 to 14": 1, "jan. 14, 2016": 1, "december 30, 1954": 1, "dec. 30, 1954": 1, "friday morning, jan. 15": 1, "friday": 2, "jan. 15": 1, "jan. 16": 1, "1938": 1, "1955": 1}
+{"jan. 11": 2, "22:30 utc": 1, "5:30 p.m. est": 1, "jan 12": 1, "0300 utc": 1, "10 p.m. est": 1, "5 p.m. hst": 1, "10 a.m. est": 1, "5 a.m. hst": 1, "1500 utc": 1, "thursday morning, jan. 14": 1, "next couple of days": 1}
+{"8 november 2013": 1, "years": 2, "hours": 1}
+{"every few months": 1, "a few times a decade": 1, "thousands of years": 1, "2012": 1, "2005": 1}
+{"next": 1}
+{"this summer": 1, "2008": 1, "recently": 1}
+{"past four years": 1, "2014": 1, "this year": 2}
+{"four decades": 1, "two decades": 1, "daily": 1, "summer months": 2, "109-day": 1, "20-day period": 1}
+{"decades": 2, "mid-1990s": 1, "last 1000 years": 1, "60-80 years": 1, "decade-scale": 1}
+{"prehistoric era": 3, "modern era": 5, "500-year": 1, "25 years": 1, "seven generations": 1, "a generation": 1, "a.d 850": 1, "late 19th century": 1, "more than 1,000 years": 1, "2012": 1, "coming decades": 1, "hundreds of years": 1, "thousands of years": 1}
+{"more than two years postdisaster": 1}
+{"this spring": 1, "2005": 1, "years before the disaster": 1, "a few years prior to katrina": 1, "1990s": 1, "early 2000s": 1}
+{"2012": 1, "50 years": 1}
+{"2005": 1, "once-in-a-century": 1, "over the course of several months": 1, "seasonal": 1}
+{"before": 1, "during": 1, "after": 1, "just prior to landfall": 1}
+{"two and a half years": 2, "nearly three years ago": 1, "five-year study": 1, "july 29, 2015": 1, "next several months": 1}
+{"1950s": 1, "beginning 20th century": 1, "2012": 1, "past century": 1}
+{"over time": 1, "over the coming centuries": 1, "hundreds of thousands of years": 1}
+{"this year": 1, "recent years": 1, "may 2015": 1, "1980-2014": 1, "early august": 1, "july 28 to august 4": 1}
+{"17 million years ago": 1, "70 million years ago": 1, "18 million years ago": 1, "12 million years ago": 1}
+{"this year": 1, "2016": 1, "2012": 1, "four days": 1}
+{"june 1 -- november 30": 1, "1992": 1, "this year": 1, "today": 1, "2015": 1}
+{"58-year period": 1, "end of april": 1, "2015 atlantic storm season": 1, "june 1": 1, "30-year average": 1}
+{"today": 1, "each year": 1, "over the past 30 years": 1, "last century": 1, "yearly": 1, "in a warmer year": 1, "in a colder year": 1, "2015": 1, "june 1": 1, "30-year average": 1}
+{"period": 1, "next couple of days": 1, "season": 1}
+{"seasonal": 2, "since 2001": 1, "june 1 to nov. 30": 1, "1950 to 2013": 1, "1900 to 1949": 1, "1949 to 1900": 1, "1970 to 2002": 1, "2015": 1, "early 1980s": 1, "20th century": 1, "late 1990s": 2, "21st century": 1, "2005": 1, "2013": 1, "three-to-seven-year cycle": 1, "40-70 years": 1, "late 1920s to the early 1960s": 1, "past 15 years": 1}
+{"this week": 1, "2009": 1, "2014": 1, "past several decades": 1, "past 2,200 years": 1, "hundreds and thousands of years": 1, "about a hundred years": 1}
 {}
-{"this month": 1, "Aug. 29, 2005": 1, "1980": 1, "90-day": 1, "the three months": 1}
-{"2015": 1, "2012": 1, "Aug. 7": 1, "2100": 1}
-{"June 2016": 3, "decades": 2, "A week": 1, "many weeks": 1, "just the three days": 1, "2012": 1, "1-in-5 year": 1, "last year": 1, "the next century": 1, "40 years": 1, "May 1997": 1, "the past 40 years": 1, "days": 2, "the decades ahead": 1}
-{"each year": 1, "today": 1, "the past century": 1, "every decade": 1, "2050": 1}
-{"the mid-Holocene": 1, "6,000 years ago": 1, "summer": 1}
-{"recent years": 1, "December 2016": 1, "20-to-30-year": 1}
-{"2016": 2, "seasons": 1, "the 2016 season": 1, "January": 1, "318 days later": 1, "late November": 1, "October": 1, "almost a decade": 1, "1950": 1, "the month": 1, "season": 1, "the first October": 1}
-{"today": 1, "1970": 1}
-{"2003": 1, "2004": 1}
-{"this week": 1, "Hurricane season": 1, "June to November": 1, "August": 1, "September": 1, "each June": 1, "summer": 1, "early fall": 1, "winter": 1, "November": 1, "the 1950s": 1, "the same period": 1, "September 1973": 1, "each year": 1}
-{"the coming century": 1}
-{"two years prior": 2, "Last year": 1}
-{"decades": 1, "Feb. 16": 1, "today": 1, "the end of the 21st century": 1}
-{"Wednesday [Jan. 4, 2017]": 1, "23-year": 1, "1947 to 2015": 1, "the past 70 years or so": 1}
-{"two to five day": 1, "early October of 2016": 1, "up to a week": 2, "October 2016": 1, "a crucial": 1, "days": 1}
-{"this week": 1, "2012": 1, "five days": 1, "about a decade": 1, "winter": 1, "annually": 1}
-{"the last 10 years": 2, "Three days": 1, "This year": 1}
-{"2010": 1, "2005": 1, "2015": 1}
-{"the past few hundred years": 1, "the centuries": 1, "late 19th Century": 1, "the late 19th Century": 1, "2012": 1, "the 19th Century": 1, "the current century": 1}
-{"the year": 1, "a year": 2, "2.5 years": 1, "2009 to 2010": 1, "the first year": 1, "2010 to 2011": 1, "the second year": 1, "2011 to 2012": 1, "August 2012": 1, "two months": 1, "two-year": 1, "the four months": 1, "annual": 1}
-{"days": 1, "the 10 years": 2, "the two years": 2, "August 2005": 1, "Each year": 1}
-{"January to September 2016": 2, "1961-1990": 2, "the early months of the year": 2, "2015-16": 2, "October": 5, "2016": 8, "year": 2, "this century": 1, "1998": 1, "early 2016": 2, "2010": 1, "the year": 2, "2015": 3, "weeks to decades": 1, "the years": 1, "early 2017": 1, "2011-2015": 1, "multi-year": 1, "between 2011 and 2014": 1, "monthly": 1, "February": 2, "March": 2, "May": 2, "September": 2, "1961-90": 1, "November 2014": 1, "February 2016": 1, "post-1993": 1, "Annual": 1, "2007": 1, "2012": 1, "winter": 1, "autumn": 1, "the end of October": 2, "the time of year": 1, "several years": 1, "the start of 2016": 1, "nearly a month earlier": 1, "Summer": 1, "1990-2013": 1, "July": 1, "the record melting year of 2012.Numerous": 1, "the start of November": 1, "summer": 2, "1999": 1, "mid-May": 1, "about 50 years": 1, "The year": 1, "7 January": 1, "28 April": 1, "19 May": 1, "July 21": 1, "The following day": 1, "between May and October": 1, "the \"lean season": 1, "early 2017.Annual": 1, "2015/2016 had significant negative impacts on agriculture and food": 1}
-{"the Pliocene era": 2, "roughly three million years ago": 1, "recent decades": 1, "the next 100 years": 1, "future years": 1, "today": 1, "the Pliocene": 1}
-{"decades-old": 1}
-{"from 1970 to 2004": 1, "from 1981 to 2011": 1, "2011": 1, "September": 1, "up to two days": 1, "five days": 1, "2007": 1, "a season": 1, "decades": 1}
-{"25 years": 1, "the early 1800s": 1, "1821": 1, "1938": 1, "1944": 1, "Last month": 1, "the end of this century": 1}
-{"October 4, 2016": 1, "more than 50 years": 1, "Oct. 3 to Oct. 5": 1, "Oct. 5": 2, "Thursday": 2, "Oct. 6.Maximum": 1, "the next couple of days": 1}
-{"5 September 2016": 2, "2005": 1, "the 1970s": 1, "2004": 1, "this week": 1}
-{"recent years": 1, "December 2011.The": 1, "December 2011": 1, "the 13th and 28th of the month": 1, "the 8th-9th of the month": 1}
-{"a few decades ago": 1, "1980": 1, "2004": 1, "2005": 1, "the 1990s": 1, "1992": 2, "1999": 1, "2015": 1, "each year": 1, "a single hurricane season": 1, "2012": 1, "2011": 1, "20-year": 1, "1992 to 2011.In": 1}
-{"the end of the century": 1, "2100": 1}
-{"2050": 1}
-{"the past century": 1, "this week": 1, "2015": 1, "each year": 1, "recent years": 1, "2013": 1, "Last year": 1, "many decades": 1, "year": 1, "decade": 1, "the 1970s": 1}
-{"years": 1, "Day 1": 1, "2011": 1}
-{"This year": 1, "the second year": 1, "May 2016": 1, "1980-2015": 1, "2016": 1, "early August": 1, "July 24 to August 1": 1}
-{"2012": 2, "every year": 1, "2008": 1, "2014": 1, "a year": 1, "Months after Superstorm Sandy": 1, "winter": 1, "January": 1}
-{"2005": 2, "the year": 1, "the record year": 1, "Today": 1}
-{"the 1940s": 1, "the 1970s": 1, "the past few decades": 1, "August": 1, "between 2008 and 2012": 1, "2013": 2, "2008 through 2012": 1, "recent years": 1}
-{"a given year": 1, "April 20, 2016": 1, "2004-2007": 1, "The earlier years": 1, "the latter years": 1, "years": 1, "a year": 1, "year": 1}
-{"Oct. 31": 1, "decades": 1, "a month later": 1, "April 16": 1, "day": 1, "the last few days": 1, "2004": 1}
-{"2015": 1, "18 months": 1}
-{"decades": 1, "2010": 1, "decade": 1, "Today": 1, "many years": 1}
-{"a decade ago": 1, "today": 2, "2014": 1, "days to seasons": 1}
-{"the last two decades": 1, "summer": 3, "the highly stratified summer season": 1, "2012": 1, "late August 2011": 1, "30-year": 1, "1985 to 2015.\"We": 1, "2011": 1}
-{"1645-1715": 2, "the past 500 years": 1, "1850": 1, "the past centuries": 1, "century": 1, "annual": 1, "the year 1500": 1, "from 1970 to 2002": 1, "2015": 1, "1707": 1, "years": 1, "the hurricane seasons of 1495-1825": 1, "1707-1825.In": 1, "1850-2009": 1}
-{"between 1600 and 1800": 1, "thousands of years": 1, "Between 1600 and 1800": 1, "2012": 1, "1992": 2, "about 3,000 years": 1, "between 1600 and 1800.\"They": 1}
-{"January 19, 2016": 1, "the next 50 to 100 years": 1}
-{"Jan. 13": 2, "January 14": 1, "Jan. 10 to 14": 1, "Jan. 14, 2016.The": 1, "Jan. 14": 1, "the month of January": 1, "1938": 1, "January": 1, "1955": 1, "Dec. 30, 1954": 1, "December 30, 1954": 1, "Friday": 2, "Jan. 15.Maximum": 1, "Friday, Jan. 15": 1, "Jan. 16": 1}
-{"Jan. 11": 2, "Jan. 12": 1, "Thursday": 1, "Jan. 14": 1, "the next couple of days": 1}
-{"8 November 2013.\"We": 1, "the years": 1, "many years": 1}
-{"every few months": 1, "thousands of years": 1, "2012": 1}
+{"three years": 1, "around 1995": 1, "20-40 years": 1, "between 1965 until 1995": 1, "since": 1, "late 1970s": 1}
+{"one to two weeks later": 2, "2005-2010": 1, "every 15 minutes": 1, "between the months of june and november": 1, "hurricane season": 1, "every year": 2, "a week later": 1, "one or two weeks in advance": 1}
+{"a.d. 450": 1, "a.d. 900": 1, "a.d. 1200": 1, "this week": 1, "the past century": 1, "since 1492": 1, "1,500 years ago": 1, "1988": 1}
 {}
-{"this summer": 1, "Katrina": 1, "2008": 1}
-{"each of the past four years": 1, "year": 1, "2014": 1, "today": 1, "this year": 1}
-{"more than four decades": 1, "the past two decades": 1, "daily": 1, "the summer months": 2, "109-day": 1, "20-day": 1}
-{"decades": 1, "coming decades": 1, "the mid-1990s": 1, "the last 1000 years": 1, "60-80 years": 1, "decade": 1}
-{"500-year": 1, "the prehistoric era": 3, "the modern era": 5, "A.D 850": 1, "the late 19th century": 1, "more than 1,000 years": 1, "2012": 1, "hundreds of years": 1, "thousands of years": 1, "the coming decades": 1}
-{"more than two years": 1}
-{"this spring": 1, "years": 1, "a few years prior": 1, "the 1990s": 1, "early 2000s": 1, "annual": 1}
-{"2012": 2, "the next 50 years": 1}
-{"2005": 1, "years": 1, "several months": 1}
-{}
-{"two and a half years": 2, "nearly three years ago": 1, "years": 1, "another year": 1, "five-year": 1, "July 29, 2015": 1, "the next several months": 1}
-{"the 1950s": 1, "the beginning 20th century": 1, "2012": 1, "the past century": 1}
-{"the coming centuries": 1, "hundreds of thousands of years": 1}
-{"This year": 1, "recent years": 1, "May 2015": 1, "1980-2014": 1, "2015": 1, "early August": 1, "July 28": 1, "August 4": 1}
-{"17 million years ago": 1, "today": 1, "70 million years ago": 1, "between 18 and 12 million years ago": 1}
-{"this year": 1, "2016": 1, "daily": 1, "annually": 1, "2012": 1, "four days": 1}
-{"the hurricane season": 2, "June 1 -- November 30": 1, "season": 2, "seasons": 1, "the 1992 season": 1, "this year": 1, "the season": 3, "the peak months": 1, "today": 1, "the new hurricane season": 1, "this season": 1, "2015": 1, "last year": 1}
-{"58-year": 1, "days": 1, "summer": 1, "a season": 1, "the end of April": 1, "the 2015 Atlantic storm season": 1, "June 1": 1, "30-year": 1}
-{"today": 1, "each year": 1, "the past 30 years": 1, "last century": 1, "yearly": 1, "a warmer year": 1, "a colder year": 1, "the 2015": 1, "June 1": 1, "30-year": 1}
-{"the season": 1, "the next couple of days": 1}
-{"June 1 to Nov. 30.The": 1, "season": 1, "the upcoming season": 1, "the 1950 to 2013": 1, "from 1900 to 1949.\"It": 1, "the period from 1949 to 1900": 1, "1970 to 2002": 1, "2015": 1, "seasonal": 1, "the early 1980s": 1, "the 20th century": 1, "about the late 1990s": 1, "each year": 1, "the 21st century": 1, "2005": 1, "three-to-seven-year": 1, "a particular year": 1, "the late 1920s": 1, "the early 1960s": 1, "the late 1990s": 1, "years": 1, "the past 15 years": 1}
-{"2014": 1, "this week": 1, "2009": 1, "14": 1, "more than 2,000 years": 1, "the past several decades": 1, "the past 2,200 years": 1, "year": 1, "the past hundreds and thousands of years": 1, "about a hundred years": 1}
-{}
-{"three years": 1, "20-40 years": 1, "between 1965 until 1995": 1, "the late 1970s": 1}
-{"only one to two weeks later": 1, "2005-2010": 1, "between the months of June and November": 1, "the same period": 1, "monthly": 1, "every year": 2, "a week later": 1, "one or two weeks": 1}
-{"A.D. 450": 1, "between A.D. 900 and 1200": 1, "this week": 1, "the past century": 1, "1492": 1, "1,500 years ago": 1, "1988": 1}
-{}
-{"2011": 1, "more than 20 years": 1, "more than 10 years": 1, "2005": 1, "winter": 1, "December 2013.The": 1, "three year": 1, "January 2015": 1}
-{"the last 100 years": 1, "the last few decades": 1, "year": 1}
-{"fall 2016": 1, "this week": 1, "today": 2}
-{"December": 1, "100-year": 3, "1215872": 1, "1331399": 1}
-{"from 2007 to 2012": 1, "two weeks": 2, "October 29": 1, "the two weeks": 2, "the previous five years": 1, "30-day": 2, "the prior five years": 1}
-{"the next decade": 1, "2009": 1, "decades": 1, "2008": 1, "2011": 1, "the early 1960s": 1, "now": 1, "2010": 1, "years": 1}
-{"the Northern Hemisphere hurricane season": 1, "winter": 2, "today": 1, "two or three seasons": 1, "last year": 1, "season": 1, "two to three seasons": 1}
-{"the winter of 2012": 1, "today": 1, "Winter 2012": 1, "winter": 4, "at least 1895": 1, "March 2012": 1, "2010": 1, "2012": 1, "2013": 1, "winters": 1}
-{"12 days": 1, "2012": 1, "the 12 days": 1}
-{"From 2000-2013": 1, "April 2014": 1, "2014": 1, "January 2014": 1, "A few months later": 1, "April": 1, "May": 1, "nearly a decade": 1, "14-year-long": 1}
-{"Nov. 30": 1, "the 2014": 1, "weeks": 1, "1981": 1, "2011": 2, "2012": 1}
-{"four years": 1, "every single day": 1, "the days": 1, "January 2015": 1}
-{"2011": 1, "spring": 1}
-{}
-{"2013": 1, "2012": 1}
-{"every 400 years": 1, "every 40 years": 1, "the past few thousand years": 1, "the  past 160 years": 1, "every 100 years": 1, "every  500 years": 1}
-{"summer": 1, "1999": 1, "2000": 1, "the years": 2, "2007": 1, "2009": 1, "this December": 1}
-{"summer": 1, "1999": 1, "2000": 1, "the years": 2, "2007": 1, "2009": 1, "this December": 1}
-{"fourth-year": 1, "2008": 1, "1990": 1}
-{"up to two months": 1, "those three months": 1, "almost five years": 1}
-{"July 2013": 1, "2010": 1}
-{"the past 25 years": 1, "today": 1, "June 16, 2014": 1, "1982-2009": 1, "10-year": 1}
-{"2010": 1, "2013": 2, "Sept. 15, 2013": 1, "2014": 1, "between Aug. 26 and Sept. 29": 1, "the Atlantic hurricane season": 1, "June 1 to Nov. 30.The": 1}
+{"2011": 1, "more than 20 years": 1, "2005": 1, "december 2013": 1, "january 2015": 1, "three year": 1, "10 years": 1}
+{"last 100 years": 1, "few decades": 1, "future": 1, "warm year": 1, "recent issue": 1}
+{"fall 2016": 1, "this week": 1, "four and six hours": 1, "12 minutes": 1, "once or twice a day": 1, "33 knots": 1, "38 miles per hour": 1, "9 knots": 1, "10 mph": 1, "20 mph": 1}
+{"december": 1, "100-year storm": 2, "once every hundred years": 1}
+{"2007 to 2012": 1, "two weeks prior to and two weeks after october 29": 1, "october 29": 1, "two weeks following hurricane sandy": 2, "the previous five years": 2, "30-day": 2, "the prior five years": 1}
+{"next decade": 1, "since 2009": 1, "after hurricane sandy": 1, "in 2008": 1, "in 2011": 1, "in 2012": 1, "in the early 1960s": 1, "2010": 1, "by 2016": 1, "after sandy": 1, "in 2004": 1, "in the short term": 1, "further into the future": 1}
+{"winter": 2, "today": 1, "two or three seasons": 1, "last year": 1, "two to three seasons": 1}
+{"winter of 2012": 2, "today": 1, "1895": 1, "march 2012": 1, "2010": 1, "2012": 2, "2013": 1}
+{"12 days": 2, "2012": 1, "24-hour periods": 2}
+{"2000-2013": 1, "april 2014": 1, "january 2014": 1, "april": 1, "may": 1, "nearly a decade": 1, "14-year-long": 1}
+{"nov. 30": 1, "2014": 1, "weeks": 1, "1981 to 2011": 1, "2011": 1, "2012": 1, "future": 1}
+{"four years": 1, "days": 1, "immediately after the storm": 1, "24 hours": 1, "january 2015": 1}
+{"2011": 1, "30 years": 1, "future": 3, "past": 2, "spring": 1, "long-term": 1}
+{"recently": 1, "over time": 1, "prolonged": 1, "to date": 1}
+{"2013": 1, "2012": 1, "prolonged": 1, "long periods of time": 1}
+{"every 400 years": 1, "every 40 years": 1, "the past few thousand years": 1, "the past 160 years": 1, "every 100 years": 1, "every 500 years": 1}
+{"this summer": 1, "2000": 1, "2007": 1, "2009": 1, "december": 1, "2017": 1}
+{"this summer": 1, "2000": 1, "2007": 1, "2009": 1, "december": 1, "2017": 1}
+{"2008": 1, "1990": 1}
+{"recent": 1, "aftermath": 1, "two months": 1, "three months": 1, "five years": 1}
+{"july 2013": 1, "since 2010": 1, "one hour later": 1}
+{"past 25 years": 1, "june 16, 2014": 1, "1982-2009": 1, "10-year": 1}
+{"2010": 1, "2013": 2, "2014": 1, "sept. 15, 2013": 1, "aug. 26": 1, "sept. 29": 1, "june 1 to nov. 30": 1, "first deployment": 1, "next good case": 1, "peak of the atlantic hurricane season": 1}
 {"2008": 1}
-{}
-{"Feb. 27": 1, "May 29": 1, "the hurricane season": 1, "July 3": 2, "2014": 1, "June 30": 1, "July 1": 1, "July 4": 1, "July 5.\"With": 1, "the17th year": 1, "Sept. 2, 2014": 1}
-{"a few months": 1, "daily": 2, "every day": 1, "a day": 1, "six months": 2, "2003": 1, "day": 1, "summer": 1, "winter": 1, "two-year": 1, "2009": 1, "more than a decade": 2, "decade": 1, "2012": 1, "2014": 2, "the two years": 1, "every two days": 1, "about two months": 1, "year": 1, "this year": 1, "the same year": 1}
-{"October": 1, "a week": 2, "Election Day": 3, "June": 1, "Two days after": 1, "Oct. 29": 1, "day": 1, "Oct. 31": 1, "Nov. 1": 1, "the day": 1, "Nov. 2": 1, "3": 1, "Nov. 6": 1, "Six months later": 1, "2012": 1}
-{"2004": 1, "2008": 1, "a new Ice Age": 1}
-{}
-{"more than six decades": 1, "1950-2012": 1, "2005": 1, "1957": 1, "the late 1970s": 1, "year": 1, "each year": 1}
-{"the fourth year in a row": 1, "between Aug. 26 and Sept. 29": 1, "the Atlantic hurricane season": 1, "June 1 to Nov. 30.The": 1, "Feb. 27": 1, "August": 1, "this year": 1, "the same year": 1, "more than a decade": 1, "year": 1, "2014": 1}
-{"year": 2, "this summer": 1, "season": 3, "the six-month": 1, "June 1": 1, "1981": 1, "2010": 1, "this season": 2, "seasons": 1, "1995": 2, "2014": 1, "recent years": 1, "this year": 1, "last year": 1, "seasonal": 1, "the season": 1}
-{"Seasonal": 1, "The Eastern Pacific hurricane season": 1, "May 15 through Nov. 30": 1, "July": 1, "September": 1, "this summer": 1, "1995": 1, "2014": 1, "this year": 1, "the summer": 1, "season": 1}
-{"2014": 2, "season": 3, "this season": 1, "An average season": 1, "the 2014": 2, "1995": 1, "the hurricane season": 1, "June 1": 1, "November 30.\"I": 1}
-{"today": 1, "1982 to 2012": 1, "recent years": 1, "the past three decades": 1}
-{"August 29 2005": 1, "a month later": 1, "September 24": 1, "the 20 months": 1, "the 28 months after": 1, "between 1999 and 2009": 1, "2007": 1, "2004": 1, "the three months": 1}
-{"the summer season": 1, "the past half century": 1, "April 28": 1, "the period from 1980 to 2005": 1, "today": 2, "the 20th century": 1, "the late-21st century": 1}
-{"1999": 1, "2011": 1, "5 years": 4}
-{"today": 1, "10 days": 1, "another 5 days": 1, "5-day": 1}
-{"the six years": 2, "weekends": 1, "first three years": 1, "years four through six": 1, "two years": 1}
-{"2010": 2, "daily": 1, "2007": 1}
-{"the 2012": 1, "the 21st century": 1, "November 2012": 1}
-{"2005": 1, "each year": 1}
-{"the past 24 years": 1, "2012": 1}
-{"Oct. 21": 1, "Oct. 26 through 28.The": 1, "four to five days": 1, "Oct. 26": 1, "two days": 1}
-{"the next 90 years": 1, "1922": 1, "this fiscal year": 1, "June 30": 1, "the past five years": 1, "20 to 40 years ago": 1, "today": 1, "Dennis": 1, "the past 154 years": 1, "this month\u00e2\u0080\u0099s issue": 1}
-{"the middle 19th century": 1, "recent decades": 1}
-{"annual": 1, "Feb. 17.Stein": 1, "2014": 1}
-{"2002": 1, "less than one decade": 1, "many years": 1}
-{"spring": 1, "three decades": 1, "2012": 1, "12-year": 1, "this spring": 1}
-{"Dec. 11.Now": 1, "its 18th year": 1, "annually": 1, "the early 1990s": 1, "2012": 1, "today": 1}
-{"Dec. 12": 1, "December": 1, "winter": 1, "2000": 1, "between 2000 and 2010": 1, "August 2012": 1, "that year": 1}
-{"last January": 1, "2008": 1, "this summer": 1}
-{"present-day": 1, "100-year": 1, "every 3 to 20 years": 1, "the last few millennia": 1, "the end of this century": 1, "2100": 1}
+{"one-of-a-kind": 1}
+{"feb. 27": 1, "may 29": 1, "hurricane season": 1, "july 3": 2, "june 30": 1, "july 1": 1, "july 4": 1, "11:15 p.m. edt": 1, "july 5": 1, "2014": 1, "17th year": 1, "sept. 2, 2014": 1, "five- to seven-day forecast": 1, "every six hours": 1}
+{"a few months": 1, "daily": 1, "2003": 1, "six months": 2, "two-year": 1, "2009": 1, "more than a decade": 1, "2012": 1, "2014": 1, "two years": 1, "every two days": 1, "about two months": 1, "year": 2}
+{"october": 2, "a week before election day": 1, "june/july": 1, "oct. 29": 1, "over the course of a week": 1, "oct. 31": 1, "nov. 1": 1, "nov. 2": 1, "nov. 3": 1, "election day": 2, "nov. 6": 1, "six months later": 1, "2012": 1}
+{"2004": 1, "2008": 1, "2006": 1}
+{"over time": 1, "when a forest gets old": 2, "with age": 1}
+{"more than six decades": 1, "1950-2012": 1, "2005": 1, "1957": 1, "late 1970s": 1, "each year": 1}
+{"fourth year": 1, "aug. 26": 1, "sept. 29": 1, "peak of the atlantic hurricane season": 1, "june 1": 1, "nov. 30": 1, "26 hours": 1, "feb. 27": 1, "every three hours": 1, "august": 1, "this year": 1, "more than a decade": 1, "2014": 1}
+{"this year": 2, "this summer": 1, "six-month hurricane season": 1, "june 1": 1, "1981 to 2010": 1, "12 of the last 20 years": 1, "since 1995": 2, "2014": 1, "48 hours": 1, "this season": 2, "this year's model": 1, "last year": 1}
+{"may 15": 1, "nov. 30": 1, "july through september": 1, "this summer": 1, "since 1995": 1, "in 2014": 1, "this year": 1, "summer": 1, "fall": 1}
+{"2014": 4, "this season": 2, "since 1995": 1, "june 1": 1, "november 30": 1, "now": 1}
+{"today": 1, "1982 to 2012": 1, "past three decades": 1}
+{"august 29 2005": 1, "september 24": 1, "20 months before": 1, "28 months after": 1, "between 1999 and 2009": 1, "2007": 1, "2004": 1, "three months following katrina": 1}
+{"summer season": 1, "april 28": 1, "1980 to 2005": 1, "20th century": 1, "late-21st century": 1, "past half century": 1}
+{"1999": 1, "2011": 1, "5 years": 4, "recently": 1}
+{"today": 1, "10 days": 1, "5 days": 2, "6-minute": 2, "3 seconds": 1, "40 minutes": 1, "6 to 8 inches": 1, "30 meters": 1, "90 feet": 1}
+{"six years": 3, "nights": 1, "weekends": 1, "first three years": 1, "years four through six": 1, "two years": 1}
+{"2010": 2, "2007": 1, "first": 2, "early stages": 1, "longer lead time": 1, "daily": 1}
+{"2012": 2, "21st century": 1, "november 2012": 1, "12 hours": 1, "8 a.m.": 1, "8 p.m.": 1}
+{"2005": 1, "current": 1, "each year": 1, "future": 2}
+{"past 24 years": 1, "2012": 1, "2005": 1}
+{"oct. 29, 2012": 1, "oct. 21": 1, "oct. 26 through 28": 1, "four to five days ahead of landfall": 1, "two days before landfall": 1}
+{"next 90 years": 1, "1922": 1, "this fiscal year": 1, "june 30": 1, "past five years": 1, "20 to 40 years ago": 1, "past 154 years": 1, "this month": 1}
+{"middle 19th century": 1, "study period": 1, "recent decades": 1, "future": 1}
+{"feb. 17": 1, "2014": 1, "2010": 1}
+{"as recently as 2002": 1, "a span of less than one decade": 1, "many years": 1}
+{"spring": 2, "1986": 1, "2012": 1, "three decades": 1, "12-year": 1}
+{"dec. 11": 1, "18th year": 1, "early 1990s": 1, "2012": 1, "ten years ago": 1}
+{"dec. 12": 1, "2000": 2, "2010": 1, "august 2012": 1, "multidecade": 1, "current": 1, "december": 1}
+{"last january": 1, "2008": 1, "this summer": 1, "long-term": 3, "sixth": 1}
+{"current": 1, "past few millennia": 1, "2100": 1, "last few millennia": 1, "pre-historic times": 1, "end of this century": 1}
 {"1500-year": 1}
-{"today": 1, "2005": 1}
-{"Nov. 7": 3, "Nov. 7, 2013": 1, "Nov. 7.At": 1, "weeks to possibly months": 1, "weeks": 1, "months": 1, "Nov. 8": 1}
-{"late October last year": 1, "2012": 1, "between October 20 and November 20 2012": 1}
-{"2013": 1, "1946": 1, "1960": 1}
-{"1788": 1, "Last October": 1, "1778": 1, "the year": 1}
-{"several years": 1, "February": 1, "year-long": 1, "a year following": 1, "this fall": 1, "2011": 1, "an entire year": 1, "2010": 1}
-{"almost exactly a year ago": 1, "2012": 1, "Oct. 3": 1, "today": 1}
-{"2010": 1, "Sandy": 1, "2012": 2}
-{"hurricane season": 1, "this year": 2}
-{"the past months": 1}
-{"this year": 1, "Aug. 24-25.HS3": 1, "between Aug. 20 and Sept. 23": 1, "June 1 to Nov. 30": 1, "early to mid-September": 1}
-{"2013": 1, "Earlier this year": 1, "1900": 1, "1972": 1}
-{"July 23, 2001": 1, "two years": 1, "five years": 1, "many years": 1, "April 1, 2003": 1, "May 10, 2010": 1, "today": 1}
-{}
-{"Hurricane season": 1, "June 1": 1, "Nov. 30": 1, "August": 1, "September": 1, "late last October": 1, "season": 1, "annual": 1, "a few days": 1, "last August": 1, "every few years": 1, "this year": 1, "last year": 1, "late August": 1, "early September 2008.\"They": 1, "September 2008": 1, "August 2011": 1, "48 to 72 hours": 1}
-{"March 2013": 1, "1979 to 2008": 1, "October 2012": 1, "2007": 1, "30-year": 1}
-{"Oct. 29, 2012": 1, "1882": 1, "nearly 150 years ago": 1, "two years": 1}
-{"years": 1, "2016": 1}
-{"decades": 1, "centuries": 1, "the past seven centuries": 3, "June 30, 2013": 1, "the late 20th century": 2, "the year": 1, "one year later": 1}
-{"Sept. 11": 1, "2012": 1, "Sept. 14 to 15": 1, "Sept. 11 and 12": 1, "Sept. 14": 1, "15": 1, "Sept. 20": 1, "September 22-23": 1, "one day": 1, "September 26-27": 2, "Sept. 28, 2012": 1, "five-year": 1}
-{"the month of May": 1, "June 1st": 1, "year": 3, "the cooler spring": 1, "recent years": 1, "2011": 1, "2012": 1}
-{"today": 2, "two or three years": 1, "10 years ago": 1}
-{"annual": 1, "today": 1, "June 1": 1, "Nov. 30.This": 1, "year": 1, "the season": 1, "1995 to 2010": 1, "this season": 1, "seasonal": 1, "only four years": 1, "2012": 1, "\"Last year": 1, "Last year": 1, "this year": 1, "2011": 1, "2010": 1, "2009": 1, "that year": 1, "1982": 1}
-{"this year": 2, "2012": 2, "last year": 1, "between Aug. 20 and Sept. 23": 1, "June 1 to November 30": 1, "early to mid-September": 1, "the 2010 season": 1, "the 2013": 1}
-{"the six-month": 1, "June 1": 1, "another active season": 1, "2013": 1, "year": 1, "the season": 1, "this hurricane season": 1, "July": 1, "this year": 1}
-{"the last quarter of this century": 1, "May 5, 2013,": 1, "2075-2099": 1, "today": 1, "From 1979 to 2003": 1, "only every four years": 1, "the end of this century": 1, "June through November": 1, "yearly": 1}
-{"2012": 1, "1969": 1, "2007": 1, "the hurricane season": 1, "the season": 1, "six years ago": 1, "each hurricane season": 1, "1990": 1, "2011": 1, "an entire season": 1, "an upcoming season": 1, "the 2012 season": 1, "between 1990 and 2006.\"That": 1}
-{"Thursday, April 18": 1, "annual": 1, "2005": 1, "Friday": 1, "2004": 1, "Oct. 18 to Nov. 3, 2012": 1, "years": 1}
-{"100 years": 1, "1923": 1, "every 20 years": 1, "the 20th century": 1, "every other year": 1}
-{"six years before": 1, "five years": 2, "August 2005": 1, "the three years": 3, "weekdays": 2, "the weekends": 2, "second year": 1, "Mondays": 3, "Monday": 1, "weekday": 3, "the last two years": 1, "weekend": 2, "day": 1, "the four and five years": 1, "years four": 2, "five": 2, "the weekend": 1, "the one to three years": 1}
-{"the two years": 1, "the six years": 1, "five months": 1, "two-year": 1, "four and six years": 1, "the last six years": 1}
-{"March": 1, "summer 2012": 1, "late October": 1, "October": 1, "this past September": 1}
-{"the 1960s": 1, "the late 1970s": 1, "2009": 1, "2004": 1, "2010": 1, "years": 2}
-{"weeks": 1}
-{"15-year": 1, "1997": 1, "a day": 1, "the final months of 2012": 1}
-{"20-year": 1, "each year": 1, "this week": 1, "2005": 1, "2010": 1, "the years": 1}
-{"2012": 19, "July": 4, "year": 4, "1998": 1, "annual": 4, "winter": 3, "December 2011-February 2012": 1, "Winter": 1, "Spring": 1, "March": 2, "April": 2, "May": 2, "season": 2, "spring": 4, "the 2012": 1, "2011": 1, "summer": 4, "the hottest month": 1, "June": 2, "August": 1, "10 or more days": 1, "Autumn": 2, "December": 1, "the three previous seasons": 1, "the last four months of 2012": 1, "the first 8 months of the year": 1, "September through December": 1, "the record warmest year": 1, "1988": 1, "years": 1, "Each season": 1, "20th century": 1, "The year": 2, "January": 1, "1971-2000": 1, "Each subsequent season": 1, "the beginning of 2012": 1, "the end of the year": 1, "the 1950s": 2, "the 1930s": 1, "1950s": 1, "1930s": 1, "13-year": 1, "the year": 1, "1991-2010": 1, "months of the year": 1}
-{"any day of any year": 1, "the next 30 years": 1, "weeks": 1, "months": 1, "November to March": 1, "spring": 1, "summer": 1, "hurricane season": 1, "the summer months": 1, "June 1 through November": 1, "September": 1, "days": 1, "up to 2 days in advance": 1, "December 21, 2012": 1, "every day": 1}
-{"any given day": 1, "about four days": 1, "December 17": 1}
-{"November": 6, "1917": 1, "Novembers": 1, "autumn": 1, "Nov. 27": 1, "mind-month": 1, "1997": 1, "October 2009": 1, "Autumn": 1, "the season": 1}
-{"the 21st century": 1, "the current century": 1, "May 13": 1, "2012": 1}
+{"today": 1, "2005": 1, "shortly after": 1}
+{"nov. 7": 4, "nov. 7, 2013": 1, "nov. 6": 1, "04:25 utc": 1, "11:25 p.m. edt": 1, "early morning hours": 1, "1500 utc": 1, "10 a.m. edt": 2, "nov. 8": 1, "weeks": 2, "months": 2}
+{"late october last year": 1, "2012": 2, "october 20": 1, "november 20 2012": 1, "the same hour": 2}
+{"2013": 1, "1946": 1, "1960": 1, "since sandy": 1}
+{"last october": 1, "since 1788": 2, "since 1778": 1, "recently": 1}
+{"several years": 1, "february": 1, "year-long": 1, "now": 1, "fall": 1, "2011": 1, "entire year": 1, "since 2010": 1}
+{"almost exactly a year ago": 1, "2012": 1, "oct. 3": 1}
+{"2010": 1, "2012": 2, "short-term": 1}
+{"this year": 2, "hurricane season": 1, "long-term": 1, "recent": 1}
+{"immediately after hurricane ike": 1, "over the past months": 1, "in the coming period": 1}
+{"this year": 1, "28 hours": 1, "aug. 24-25": 1, "aug. 20 and sept. 23": 1, "june 1 to nov. 30": 1, "early to mid-september": 1}
+{"2013": 1, "earlier this year": 1, "since 1900": 1, "since hurricane agnes in 1972": 1}
+{"july 23, 2001": 1, "two years": 1, "five years": 1, "april 1, 2003": 1, "may 10, 2010": 1, "22,300 miles": 1}
+{"historically": 2}
+{"june 1": 1, "nov. 30": 1, "august": 2, "september": 2, "last october": 1, "a few days before": 1, "last august": 1, "this year": 1, "last year": 1, "late august and early september 2008": 1, "september 2008": 1, "august 2011": 1, "48 hours": 2, "24 hours": 1, "12 hours": 1, "10 to 11 hours": 1, "48 to 72 hours": 2}
+{"march 2013": 1, "1979 to 2008": 1, "october 2012": 1, "2007": 1, "30-year study period": 1}
+{"oct. 29, 2012": 1, "1882": 1, "two years before": 1, "immediately after": 1, "nearly 150 years ago": 1}
+{"2016": 1, "years": 1}
+{"decades": 1, "centuries": 3, "seven centuries": 2, "june 30, 2013": 1, "late 20th century": 2, "one year": 1, "year": 1}
+{"september 11": 1, "september 12": 1, "2012": 2, "september 14": 1, "september 15": 1, "september 20": 1, "september 22": 1, "september 23": 1, "september 26": 1, "september 27": 1, "september 28": 1, "five-year mission": 1, "11 a.m. edt": 1}
+{"month of may": 1, "june 1st": 1, "this year": 2, "spring": 1, "2011": 1, "2012": 1, "recent years": 1}
+{"real time": 2, "two or three years": 1, "10 years ago": 1}
+{"today": 1, "june 1": 1, "nov. 30": 1, "this year": 2, "1995 to 2010": 1, "four years": 1, "2012": 1, "last year": 2, "2011": 1, "2010": 1, "2009": 1, "since 1982": 1}
+{"this year": 3, "2012": 2, "last year": 1, "aug. 20": 1, "sept. 23": 1, "june 1": 1, "november 30": 1, "early to mid-september": 1, "28 hours": 1, "2009": 1, "2010 season": 1, "2013 season": 1}
+{"six-month": 1, "june 1": 1, "2013": 1, "july": 1, "this year": 2}
+{"last quarter of this century": 1, "may 5, 2013": 1, "2075-2099": 1, "1979 to 2003": 1, "end of this century": 1, "june through november": 1, "every four years": 1}
+{"2012": 2, "1969": 1, "2007": 1, "six years ago": 1, "1990 through 2011": 1, "2012 season": 1, "1990 and 2006": 1}
+{"thursday, april 18": 1, "oct. 18 to nov. 3, 2012": 1, "2005": 1, "2012": 1, "2004": 1}
+{"100 years": 1, "1923": 1, "20 years": 1, "20th century": 1, "per decade": 1, "every other year": 1}
+{"six years before": 1, "five years after": 2, "august 2005": 1, "three years post-katrina": 1, "five years after the hurricane": 1, "mornings": 2, "weekdays": 2, "night": 2, "weekends": 2, "monday morning": 1, "mondays": 2, "three years after the storm": 2, "last two years": 1, "four and five years after the storm": 2, "years four and five after the storm": 1, "one to three years after the storm": 1}
+{"two years before katrina": 1, "six years after": 1, "five months after katrina": 1, "two, four and six years after the storm": 1, "two-year pre-katrina": 1, "last six years": 1}
+{"march": 1, "summer 2012": 1, "late october": 1, "october": 1, "this past september": 1}
+{"1960s": 1, "late 1970s": 1, "2009": 1, "2010": 1, "2004": 1, "years": 1}
+{"weeks": 1, "in the future": 1}
+{"15-year": 1, "1997": 1, "a day before": 1, "final months of 2012": 1}
+{"20-year period": 1, "this week": 1, "2005": 1, "2010": 1}
+{"2012": 15, "july": 3, "1998": 1, "december 2011-february 2012": 1, "march": 2, "april": 2, "may": 2, "june": 2, "september": 1, "december": 1, "1988": 1, "january": 1, "1971-2000": 1, "1950s": 2, "1930s": 1, "13-year record": 1, "1991-2010": 1, "march and april": 1, "may and june": 1, "2002": 1}
+{"any day of any year": 1, "foreseeable future": 1, "next 30 years": 1, "same time frame": 1, "hours": 1, "weeks": 1, "months": 1, "november to march": 1, "spring": 1, "summer": 1, "hurricane season": 1, "june 1 through november": 1, "september": 1, "4 times a decade": 1, "december 21, 2012": 1, "every day": 1}
+{"four days": 1, "december 17": 1}
+{"november": 6, "1917": 1, "autumn": 2, "nov. 27": 1, "mid-month": 1, "1997": 1, "october 2009": 1, "season": 1}
+{"21st century": 1, "may 13, 2012": 1, "current century": 1}
 {"this week": 1, "annually": 1, "each year": 1}
-{"the Ordovician Period 450 million years ago": 1, "modern day": 1, "the Ordovician": 1, "450 million years ago": 2, "today": 4, "Late Ordovician equatorial zone": 1, "Ordovician": 1}
-{"Friday, Nov. 2": 1, "Nov. 5": 1, "Nov. 6.Affected": 1}
-{"winter": 1, "around 25 October": 1, "four days later": 1, "2010": 1}
-{"October 31, 2012": 1, "March 18, 2007": 1, "2005": 1, "1938": 1, "October 29, 2012": 1}
-{"a lifetime": 1, "2005": 1, "2011": 1}
-{"August of 2005": 1, "24 and 30 months": 1, "one month": 1, "August 31, 2008.To": 1}
-{"the period from Oct. 22 to Oct. 31.Link": 1, "about a day": 1, "two years ago": 1}
-{"October": 1, "the past few years": 1, "this week?\"Both": 1}
-{"the weekend": 1, "days": 1, "each day": 1}
-{"the year": 1, "winter": 2, "the winter": 2, "years": 1, "the 1800s": 1, "the last weekend of November 2011": 1, "year-round": 1, "each year": 1, "This year": 1, "this year": 1}
-{"October 24-31, 2012": 1, "Oct. 31": 1, "Nov. 1, 2012": 1}
-{"Saturday, Oct. 27": 1, "Monday, Oct. 30": 1, "Wednesday, Oct. 31,": 1}
-{"Monday, Oct. 29": 1, "Oct. 28, 2011": 1, "One year later": 1}
-{"Oct. 23 through 31": 1, "Oct. 23, 2012": 1, "Oct. 31": 1, "Winter": 1, "winter": 1, "Halloween": 1}
-{"the age of 60": 1, "spring 2006": 1, "November 14 to 18": 1}
-{"Oct. 29": 6, "Oct. 29, 2012": 1, "Oct. 21-30, 2012": 1, "today": 2, "Oct. 30": 3, "Wed., Oct. 31": 1}
-{"Monday, Oct. 29": 1, "late last week": 1, "the early days": 1}
-{"Monday": 2, "Tuesday": 1, "2011": 1, "two consecutive days": 1, "Wednesday": 1, "several, several months": 1, "the next few days": 1}
-{"fall": 1, "the season": 1, "weeks": 1}
-{"Saturday, Oct. 27, 2012": 1, "Oct. 29": 3, "the next couple of days": 1, "Monday, Oct. 29": 2, "today": 2, "We": 1, "d.": 1, "Oct. 31": 1}
-{"Sunday, Oct. 28": 1, "several days": 1, "Oct. 29": 2, "Oct. 28": 1, "2014": 1}
-{"a couple of days": 1, "Sunday, Oct. 28": 2, "Oct. 26": 1, "Oct. 28": 2, "Oct. 27": 1, "Oct. 28, 2012": 1, "Sunday, Oct. 28,": 1, "a period of days": 1, "today": 2, "Monday, Oct. 28": 1, "Oct. 28.Storm": 1, "Sat. Oct. 27": 1, "the next couple of days": 1}
-{"Friday": 1, "2009": 1, "2011": 1, "2005": 1}
-{"days": 1, "last year": 1, "hourly": 1, "2005": 1}
-{"a couple of days": 2, "late Sunday": 1, "Oct. 27": 1, "Sunday night, Oct. 27": 1, "Tuesday, Oct. 30": 1, "the week": 1, "Friday, Oct. 26": 1, "Friday": 1, "Sat. Oct. 27": 2, "Oct. 28": 1, "the weekend": 1, "Saturday, Oct. 27": 1, "Oct. 26": 1, "Just a day before": 1, "the next couple of days": 1}
-{"Oct. 25": 1, "the seven-day period from Oct. 18-25, 2012.The": 1, "Oct. 26": 1, "1997": 1, "June 29, 2012": 1, "Friday, Oct. 26": 2, "the next day": 1, "Oct. 27": 1, "Oct. 26.NOAA": 1, "the next couple of days": 1, "Sunday, Oct. 28": 1}
-{"Oct. 25": 2, "Oct. 29's": 1, "Tuesday, Oct. 30": 1}
-{"every decade": 1, "1900": 1, "1939": 2, "1976": 1, "1997": 2, "1858": 1, "El Nino years": 1, "September": 4, "the Northern Hemisphere": 1, "summer": 1, "low 60s": 1, "1997-98": 1, "the low to mid 70s": 1, "wintertime": 1, "This hurricane season": 1, "the winter of 1938-39": 1, "1938-39": 1, "annual": 1, "winter": 1, "October": 1}
-{"Today": 1, "only the last approx. 40 years": 1, "daily": 1, "1923": 3, "the 1940s": 1, "warm years": 2, "years": 1, "warmer years": 1, "2005": 1, "every 10-30 years": 1, "cold years": 1}
-{"Sept. 6-7, 2012.Nadine": 1, "Sept. 11": 2, "the hurricane season": 1, "Oct. 2": 1, "21 days": 1, "28 days": 1, "1971": 1, "31 days": 2, "August and September 1994": 1, "that day": 2, "Sept. 12": 1, "Sept. 14": 1, "Wednesday, Sept. 19": 1, "Sept. 20": 2, "Sunday, Sept. 23": 1, "Sept. 26": 1, "the next day": 2}
-{"last summer": 1, "200 years": 1, "two-day": 1, "late August 2011": 1, "a few days": 1}
-{"month-long": 1, "early September": 1, "2010": 1, "2013": 2, "2014": 3, "10 years ago": 1, "the past": 1, "five-year": 1}
-{"this summer": 1, "November 2012": 1, "2005": 1, "73": 1, "three-year": 1, "seasons": 1, "150 years": 1, "2009": 1}
-{"Sept. 7": 1, "Sept. 10": 1}
-{"the hurricane season": 1, "approximately 60 years": 1, "seasonal": 1, "the forthcoming season": 1, "Sept. 4": 1}
-{"Thursday": 1, "today": 1, "month-long": 1, "early October of this year": 1, "the 2013 and 2014": 1, "seasons": 1, "Sept. 7": 1, "two weeks": 1}
-{"Aug. 29, 2012": 1, "Thursday": 1, "Friday": 1}
-{"2005": 1}
-{"Aug. 29, 2012": 1}
-{"2005": 1}
-{"the following day": 1, "August 28": 1, "Aug. 26-28, 2012": 1, "exactly 7 years": 1, "Aug. 28": 2}
-{"1992": 1, "2004": 1, "2008": 1}
-{"previous years": 1, "this fall allergy season": 1, "An Indian Summer": 1, "Calm days": 1}
-{"the 2013 tornado season": 1, "this fall": 1, "this past April": 1, "2011": 1, "the past three years": 1, "Aug. 1": 1, "2009": 1}
-{"the last three decades": 1, "the Atlantic hurricane months of August": 1, "September": 1, "October": 1}
-{"September": 1, "the peak month": 1, "the Atlantic Hurricane Season": 1}
-{"2008": 1, "October 2008": 1, "between 1998 and 2007": 1}
-{"the season": 1, "June 1 to November 30": 1, "May": 1, "30-year": 1, "season": 2, "1995": 1, "early-season": 1, "a more active season": 1, "today": 1, "August": 1, "September": 1, "the end of the season": 1, "a year ago": 1}
-{}
-{"2003": 2, "that summer": 1, "three excruciating weeks": 1, "August of that year": 1, "summer": 1, "more than 500 years": 1, "2005": 1, "seven days": 1, "annual": 1, "the winter": 1, "the dog days of summer": 1}
-{"1968": 1, "March 2012": 1, "58-year": 1, "1988": 1, "Last year's": 2, "year": 1, "May": 1, "the hurricane season": 1, "June 1": 1, "this season": 1}
-{"between 1996 and 2008": 2, "2001": 1, "May": 1}
-{"May 22, 2012": 1, "2011": 1, "2001": 1, "2017": 1}
-{"Sunday, June 24": 1, "June 25": 1, "Monday, June 25, 2012": 1, "June 25, 2012": 1, "the next couple of days": 1, "Monday, June 25": 1, "today": 3, "yesterday": 1, "the day": 1, "the next few days": 1, "the next day": 1}
-{"the entire six-month season": 1, "June 1": 1, "the period 1981-2010": 1, "season": 1, "recent years": 1, "this year": 1, "August 24, 1992": 1, "a late-starting season": 1, "2012": 2, "1995": 1, "late summer to early fall": 1, "the peak months (August-October": 1, "the decades": 1, "days": 1, "this season": 1, "seasonal": 1, "the season": 1}
-{"March-May": 1, "1901-2000": 1, "1910": 1, "May": 1, "late in the month": 1, "monthly": 1}
-{"2005": 1, "2008": 1, "that same year": 1, "last year": 1}
-{"late August through early October": 1, "the next several years": 1, "the Atlantic hurricane season": 1, "2010": 1}
-{"2011": 1, "the months of January to October": 1, "previous years": 1, "2010": 1, "summer": 1, "centuries": 2, "2003": 1, "at least half a millennium": 1, "2002": 1, "The past week": 1, "between March 13th and 19th": 1, "the past decade": 1, "2004": 1, "between 1980 and 2005": 1}
-{"March 15": 1, "March 16": 1, "March 16, 2012": 1, "March 17": 1, "March 19": 1}
-{"every three to 20 years": 1, "today": 1, "500-year": 2, "every 25 to 240 years": 1, "daily": 1, "2010": 2, "every 20 years": 1, "1981 to 2000": 1, "the years 2081 to 2100": 1, "the days": 1, "the end of the 21st century": 1, "1821": 2, "pre-Columbian times": 1, "Feb. 14": 1}
-{"2100": 2, "annual": 1, "today": 1}
-{"January 27": 2, "January 26, 2012": 1, "the weekend of January 28 and 29, 2012": 1}
-{"January 27": 3, "January 28": 1, "January 30": 1, "31": 1}
-{"January 26": 2, "the next couple of days": 1}
-{"January 26, 2012": 1, "January 27": 1, "28": 1}
-{"nearly five years": 2, "August 2005": 1, "a year": 1, "January": 1, "2003": 1, "26": 1, "about 11 months": 1, "the last 30 days": 1, "the last seven days": 1, "four years": 1, "11 months": 1, "the week": 1}
-{"Jan. 25": 1, "the day before": 1, "January 24": 1, "January 24, 2012": 1, "January 25, 2012": 1, "the next three days": 1}
-{"days": 1, "seasonal": 1, "30 years": 1, "monthly": 4, "individual months from 1979 to 2010": 1, "month": 1, "all months": 1, "September": 1, "October": 1, "up to a month": 1, "June": 1, "the end of March": 1, "the end of April": 1, "the fall": 1, "this week": 1}
-{"years to decades": 1, "year": 1, "inter-annual to decadal": 1, "January of each year between 2004 and 2007": 1, "up to four years": 1, "the period April 2004 to March 2009": 1, "10 years": 1, "2008": 1, "2011": 1, "all start years": 1, "2014": 1, "January 2010": 1, "March 2010": 1, "the winter 2009/2010.According": 1}
-{"four years": 2, "the last 50 years": 1, "Herb": 1, "2009": 2, "2010": 2, "1996": 1, "1998": 1, "1999": 1, "1969": 1, "one-and-a-half years": 1, "25 days": 1}
-{"December 4, 2011": 1, "this season": 1, "between November 15 and April 30": 1, "Dec. 4": 1, "December 4": 1, "Dec. 6": 1, "two days from now": 1}
-{"Dec. 5, 2011": 1, "Dec. 5": 2, "the next two days": 1}
-{"the last few decades": 1, "the past two years": 1, "this past August": 1, "three-day": 1, "2013": 1, "2008": 1, "2010": 1, "June 2011": 1}
-{"this month": 1, "more than two years": 1, "September 2008": 1, "2009": 1, "today": 1}
-{"millennia": 1, "the age of 11": 1, "late 2013": 1, "early 2014": 1, "the last few decades": 1}
-{"October 24": 1, "October 25": 2, "earlier today": 1, "the next two days": 1, "Wednesday": 1, "early Thursday": 2, "tomorrow (Oct. 26) afternoon": 1, "late Wednesday": 1, "the next day": 1}
-{"October 23, 2011": 2, "Monday, October 24": 1, "Today, Oct. 24": 1, "Oct. 24": 1, "a couple of days": 1, "tomorrow": 1}
-{"at least 10 years": 1, "decade": 1}
-{"Oct. 11": 2, "early today": 1, "today": 1, "Oct. 12.The": 1, "the next couple of days": 1}
-{"Oct. 10": 1, "Oct. 11": 1, "Today": 1, "today": 2, "today, Oct. 11": 1}
-{"Two decades": 1, "generations": 1, "2010": 1, "between June 16 and July 1, 2010": 1}
-{"Oct. 6": 1, "today, Oct. 6": 1, "tomorrow": 1, "the next several days": 1, "two or three days": 1, "mid-day on Saturday, Oct. 8": 1}
-{"two days": 1, "Thursday, October 6 2011": 1, "October 6, 2011": 1, "Oct. 5": 1, "Oct. 6": 1, "the next two days": 1, "Wednesday, October 5, 2011": 1, "today": 1}
-{"August": 3, "1901-2000": 1, "1983": 1, "summer": 2, "1936": 1, "monthly": 1, "1895": 1}
-{"between 1950-2010": 1, "a typical El Ni\u00c3\u00b1o season": 1, "seasonal": 1, "yearly": 1}
-{"the year": 1, "annual": 1, "those days": 1, "100-year": 1, "an entire decade": 1, "decades": 1, "centuries": 1, "millennia": 1, "five or ten years ago": 1}
-{"Aug. 27": 1}
-{"Sunday": 1, "last year's": 1, "Wednesday, August 24": 1}
-{"August 25, 2011": 1, "Thursday": 1, "August 24": 1, "August 24, 2011": 1, "August 25": 1, "today": 2, "tonight": 1, "the day before": 1, "Friday, August 26": 1, "the next day": 1}
-{"hurricane season": 1, "May": 1, "2011": 1, "years": 1, "April 27": 1}
-{"July 22": 5, "today": 1, "the weekend": 5, "Monday, July 25": 1}
-{"late summer 2005": 1, "the days": 1, "September 2006": 1}
-{"the past three months": 1, "last year's": 1, "year": 1, "spring": 1, "the average of 10 days": 1, "June 18, 2011": 1, "the next couple of seasons": 1, "this summer": 1, "late August": 1, "September": 1, "the 2011 hurricane season": 1, "this year": 1, "a mild hurricane season": 1}
-{"this year": 2, "April": 2, "one year": 1, "a month or so": 1, "the wintertime": 1, "the summertime": 1, "May": 1, "autumn": 1}
-{"2005": 1, "2004": 1, "the over-sixties": 1, "2003": 1, "70 years": 1, "1995": 1, "over 65 years": 1, "65": 1, "the next half century": 1}
-{"May 22": 1, "May 25": 1, "over 60 years": 1, "Wednesday": 1}
-{"between Dec. 7 and 10, 2010": 1, "1935": 1, "nearly a month": 1, "December": 1, "1985": 1, "Six decades": 1, "1998": 1, "May": 1, "the eight-month": 1, "2011": 2, "2010": 1}
-{"2100": 2, "2009": 1, "the next 10 years": 1, "2005": 1, "years": 1, "This month": 1, "May 23.And": 1, "weekly": 1, "today": 2, "100 years ago": 1, "the end of the century": 1}
-{"2004": 1, "1987 to 2008": 1}
-{"2002": 3, "2006": 2, "a given year": 2, "the past decade": 1, "a normal year": 1, "2001 to 2006": 1, "The period from 2001-06": 1, "the year": 1, "annual": 1, "each year": 1, "interannual": 1}
-{"the few months": 1, "two years or more": 2, "nine months": 1, "21 months": 1, "almost a year": 1, "several months": 1, "second to fourth grade": 1, "2004": 1, "the first year": 1, "the end of the first year": 1, "another year later": 1, "almost two years": 1}
-{"One year": 1, "2005-06": 1, "2009-10": 1}
-{"May 12, 2008,": 1, "one-year": 1, "March 2011": 1, "spring 2006": 1, "week": 1}
-{"October 1998.The": 1, "1994": 1, "four years": 1, "the years": 1, "2002": 2, "from 1998 to 2002": 1, "between 1998 and 2001.The": 1, "2008": 1}
-{"five years": 1, "2001": 1, "1861-62.The": 1, "45 days": 1, "the first year": 1, "December": 2, "more than a century": 1}
-{"Dec. 10 to 22, 2010": 1, "annual": 1, "Dec. 22": 1, "the first full day": 1, "winter": 2, "Feb. 11.Called": 1, "the end of February": 1, "Friday": 1, "Feb. 11": 1, "this weekend": 1}
-{"August 1992": 1, "decades": 1}
-{"only years before": 1, "Aug. 19, 1812": 1, "1812": 5, "today": 3, "the late 19th century": 1, "centuries": 1, "August 1812": 3, "1915": 1, "the last decade": 1, "hundreds of years": 1, "2006": 1, "18 months": 1, "a few hours before": 1, "two days": 1, "every year": 1, "the next day": 1, "Aug. 19": 1}
-{"Feb. 2": 2, "today": 1, "February 2": 1, "Feb. 1": 1, "Feb. 3": 1}
-{"Feb. 2": 1, "Feb. 1, 2011": 1}
-{"Jan. 31, 2011": 1, "Wednesday, Feb. 2": 1}
-{"just last year": 1, "the summer": 1, "late fall": 1, "early winter": 1, "October through December": 2, "the end of 2010": 1, "July 1 -- December 31": 1, "the year": 1, "last year": 1, "spring": 1, "1950": 1, "summer": 1, "next year": 2, "multi-year": 1, "next winter": 1}
-{"early this year": 1, "the 1980s": 1, "2009": 1, "this year": 1}
-{"the 2010": 1, "Sept. 16 and 17": 1, "months": 1, "years": 3, "the day": 1}
-{"mid-October": 1, "This season": 1, "this year": 1, "this Atlantic hurricane season": 1, "2005": 2, "the year": 1, "25-year": 1}
-{"more than 3,000 years ago": 1, "current-day": 1, "3,000 years ago": 1}
-{"hurricane season": 1, "September": 1, "the year": 1, "season": 1, "10 years": 1}
-{}
-{"2012-13": 1, "11-year": 1, "2008": 1, "several days": 1, "1859": 1, "around 50 years ago": 1, "May": 1}
-{"five-year": 1, "the period of June 2009 through June 2010": 1, "January 2006": 1, "four years": 1, "March 2010": 1}
-{"Nearly two years": 1, "two years": 1, "six months": 1, "two to six months": 1}
-{"This summer": 1, "August": 1, "September": 1, "the early 1990s": 1, "Every day": 1, "the last several years": 1, "summer": 1, "April 2011": 1, "his junior year": 1}
-{}
-{"the past": 1, "3 months": 1, "the last several years": 1}
-{"each summer": 1, "this summer": 1, "2001": 1, "consecutive days": 2, "Aug. 15": 1, "Sept. 25": 1}
-{"last spring": 1, "season": 1, "1995": 1, "seasons": 1, "the whole season": 1, "June 1 to November 30": 1, "an active season": 1, "late May": 1, "early season": 1, "the next several months": 1, "past years": 1, "the peak months of the season": 1, "the season": 1, "the hurricane season": 1}
-{"July": 1, "the last few days": 1, "2005": 1}
-{"November": 1, "annual": 1, "2005": 1, "the early 20th century": 1}
-{"several days": 1, "August 15 to September 30, 2010": 1}
-{"2008": 2, "five days": 2, "last week": 1, "2004": 1, "the past 10 years": 1, "the last 200 years": 1, "the last few years": 1, "the past several decades": 1, "last month": 1}
-{"June 18, 2010": 1, "July 11": 1}
-{"July/August 2010": 1, "ages 9 to 18": 1, "between 2005 and 2008": 1, "two and three years": 1, "2-1/2 months": 1, "three years later": 1, "12 to 19": 1, "two months": 1}
-{"July 12": 2, "July 13": 1}
-{"two weeks": 1, "June 2010": 1, "Friday, June 25": 1, "Saturday, June 26": 1, "June 29": 1, "the 2010 Atlantic Ocean Hurricane Season": 1, "July 1": 1, "the days following": 1, "the season": 1}
-{"between 1945 and 2007": 1, "mid-1990s": 1, "the 1970s": 1, "the 1950s": 1, "today": 1}
-{"six-week": 1}
-{"January": 1, "the upcoming hurricane season": 1, "2007": 1}
-{}
-{"each day": 1, "the coming months": 1}
-{"May 6": 1, "Eighteen days later": 1, "2005": 1}
-{"nearly five years later": 1, "June 3": 1, "annual": 2, "several days": 1, "weeks": 1, "three days": 3}
-{"last year": 1, "2007": 1, "year": 2, "the next five years": 1, "the day": 1, "the 2012 to 2014": 1}
-{"this season": 1, "June 1": 1, "Nov. 30": 1, "seasonal": 2, "a very busy season": 1, "this year": 2, "just last year": 1, "2009": 2, "season": 1, "the previous 14 hurricane seasons": 1, "the season": 1, "From 1995 to 2009": 1, "the hurricane season": 1, "about five years": 1, "last year": 1, "annual": 1, "five-year": 1, "2006": 1}
-{"the six-month season": 1, "June 1": 1, "this season": 1, "the season": 1, "this summer": 1, "hurricane season": 1, "May 23-29, 2010": 1, "National Hurricane Preparedness Week": 1, "early August": 1}
-{"The Eastern Pacific hurricane season": 1, "May 15 through Nov. 30": 1, "July": 1, "September": 1, "year": 1, "1995": 1, "a below-normal season": 1, "seasonal": 1, "the summer months": 1, "any given season": 1}
-{"10 June": 1, "hurricane season": 1, "June 1": 1, "last month": 1, "2004": 1, "week": 1}
-{"May 27": 1, "2010": 1, "one-day": 1, "two-year": 1, "2009": 1, "one-month": 1, "100-year": 1}
-{"August 2005": 1, "years": 1}
-{"the next few weeks": 1, "earlier this year": 1, "the last four days": 1, "summer": 1, "Monday": 1, "another two to three days": 1, "every three to six months": 1}
-{"2005": 1, "1989": 1, "April": 1}
-{"the 2010 hurricane season": 1, "May 24, 2006": 1, "June 2009": 1, "March 4, 2010": 1, "August 2010.Since": 1, "1974": 1}
-{"October and November of 2009": 1, "April": 1, "1972": 1}
-{"the Pliocene epoch": 1, "three to five million years ago": 1, "today": 3, "two to three days longer": 1, "Today": 1, "the Pliocene": 2, "this epoch": 1}
-{"2008": 1, "year": 1, "daily": 1, "another hurricane season": 1, "June": 1, "today": 1, "tomorrow": 1}
-{"Between September 2005": 1, "September 2006": 1}
-{"close to five years": 1, "Three weeks": 1}
-{"a year": 1, "September 2009": 1}
-{"two years": 1, "three year": 1, "the 2005": 1, "2009-050": 1}
-{"18 to 27 months": 1, "Four years": 1}
-{"recent months": 1, "about 5 years": 1, "the weekend": 1, "early today,": 1, "Nov. 23": 1, "the coming days": 1, "10-year-old": 1, "two-year": 1, "2007": 1, "decadal": 1}
-{"2006": 2, "2007": 2}
-{"several extra days": 1, "1995": 1, "1997": 1, "1998": 1, "2004": 1, "2005": 1, "up to 11 days": 1}
-{"annual": 1, "the 1960s": 1, "about a week or so": 1, "the early 90s": 1, "the 20th century": 1}
-{"the summer and fall of 2005": 1}
-{"2004": 1, "more than 20 years ago": 1}
-{"the past 150 years": 1, "the past 20 years": 1, "a fairly wet winter": 1, "next spring": 1}
-{"up to two days": 1, "1995": 2, "1948": 1, "the 2008 hurricane season": 1, "1920": 2, "that time": 1, "1948-1964": 1, "the 2004 and 2005": 1, "2008": 2, "2005": 1}
-{"More than 30 years": 1, "August": 1, "33 years": 1}
-{"each year": 1, "every one to two days": 1}
-{"the next two days": 1, "Aug. 13": 1, "a month": 1}
-{"this current season": 1, "the mid-1990s": 1, "a little more than a century": 1, "recent decades": 1, "the past 1,500 years": 1, "Aug. 13": 1, "year": 1, "the Medieval Climate Anomaly": 1, "around AD 900 to 1100.\"We are at levels now": 1, "the past 1,000 years": 1}
-{"August 6": 2, "the next couple of days": 1, "the next day": 1, "August 5": 1}
-{"1980": 1, "every three or four years": 1, "2009": 1}
-{"this past weekend": 1, "Monday, August 3, 2009": 1, "the day before": 1, "Sunday, August 2": 2, "August 4": 1, "August 5": 1}
-{"this year's": 1, "2001": 1, "the early '90s": 1, "this year": 1, "pre-Ike 2008": 1, "the first few years": 1, "today": 2, "1979": 1, "the 1990s": 1, "July 2008": 1, "annually": 1, "last year": 1}
-{"about five years": 1, "this year": 1, "June 1": 2, "the six-month": 1, "the early fall months": 1, "year": 2, "20 years": 1, "every year": 1, "from 1986 to 2005": 1, "those years": 1, "seasonal": 1, "2006": 1, "five-year": 1}
-{"last week": 1, "July 13": 1, "Tuesday, July 14, 2009": 1, "Saturday, July 18, 2009": 1}
-{"April 2009": 1, "every month": 1}
-{"December": 1, "May": 1, "the summer": 1, "only one month": 1, "June": 1, "a number of months": 1, "the past": 1}
-{}
-{"every fall": 1, "winter": 1, "spring": 1, "Hanukkah Eve": 1, "Dec. 14-15, 2006": 1, "September": 1, "May": 1, "October": 1, "December": 1, "January": 1, "March": 1, "about five days": 1, "1997": 1, "daily": 1, "December 2000.\"From": 1, "10 years": 1, "winter months": 1, "the years": 1, "the fall of 2006": 1, "2008": 1, "2002": 1, "2003": 1, "2006": 1, "two days": 1, "several days": 1, "day": 1, "The 10 years": 1}
-{"the 2009": 1}
-{"annual": 1, "May 4-June 5": 1}
+{"ordovician period": 2, "450 million years ago": 3, "late ordovician": 2}
+{"friday, nov. 2": 1, "nov. 5": 1, "nov. 6": 1}
+{"25 october": 1, "four days later": 1, "2010": 1, "seven times": 1}
+{"october 31, 2012": 1, "march 18, 2007": 1, "2005": 1, "1938": 1, "october 29, 2012": 1}
+{"2005": 1, "2011": 1}
+{"august of 2005": 1, "24 months after katrina": 1, "30 months after katrina": 1, "august 31, 2008": 1, "one month after hurricane gustav": 1}
+{"oct. 22 to oct. 31": 1, "a day": 1, "two years ago": 1}
+{"october": 1, "past few years": 1, "this week": 1}
+{"the weekend after hurricane sandy": 1, "one less hour of sunlight each day": 1}
+{"year": 5, "winter": 4, "november 2011": 1, "last weekend of november 2011": 1, "1800s": 1, "this year": 1}
+{"recent": 2, "october 24-31, 2012": 1, "oct. 31": 1, "nov. 1, 2012": 1, "long time": 1}
+{"saturday, oct. 27": 1, "monday, oct. 30": 1, "wednesday, oct. 31": 1, "3 p.m. edt": 1, "11 hurricanes": 1}
+{"monday, oct. 29": 1, "8 p.m. edt": 1, "oct. 28, 2011": 1, "one year later": 1, "twice every 24-hour day": 1, "once in daylight and once at night": 1, "14 times a day": 1}
+{"oct. 23": 2, "oct. 31": 2, "oct. 23, 2012": 1, "oct. 29": 1, "5 a.m. edt": 1, "halloween": 1, "evening": 1, "some time": 1}
+{"spring 2006": 1, "november 14 to 18": 1}
+{"oct. 29": 5, "18:20 utc": 1, "2:20 p.m. edt": 1, "oct. 29, 2012": 2, "11 p.m. edt": 1, "oct. 21-30, 2012": 1, "2 a.m. edt": 1, "5 a.m. edt": 1, "morning of oct. 30": 1, "morning hours on oct. 29": 1, "today": 1, "wed., oct. 31": 1, "next 48 hours": 1}
+{"10:30 a.m.": 1, "monday, oct. 29": 1, "late last week": 1, "early days of the storm": 1}
+{"monday": 3, "tuesday": 1, "2011": 1, "9/11": 1, "1888": 1, "wednesday": 1, "day by day": 1, "several months": 1, "next few days": 1}
+{"fall": 2, "weeks": 1, "short periods of time": 1, "short term": 3}
+{"1832 utc": 1, "10:32 a.m. edt": 1, "saturday, oct. 27, 2012": 1, "oct. 29 at 1 a.m. edt": 1, "8 a.m. edt": 1, "monday, oct. 29 at 9:10 a.m. edt": 1, "oct. 29 at 0711 utc": 1, "3:11 a.m. edt": 1, "11 a.m. edt on oct. 29": 1, "wed., oct. 31": 1, "today": 1, "next couple of days": 1}
+{"2:20 p.m. edt": 1, "sunday, oct. 28": 1, "oct. 28": 2, "oct. 29": 2, "5 a.m. edt": 1, "8 a.m. edt": 1, "tonight": 1, "several days": 1, "2014": 1}
+{"oct. 28": 8, "oct. 26": 1, "oct. 27": 2, "oct. 28, 2012": 1, "sunday, oct. 28": 1, "monday, oct. 28": 1, "sat. oct. 27": 1, "8 a.m. edt (1200 utc)": 1, "16:10 utc (12:10 p.m. edt)": 1, "1302 utc (9:02 a.m. edt)": 1, "1907 utc (3:07 p.m. edt)": 1, "morning": 2, "morning hours": 1, "late monday night, oct. 28": 1, "a couple of days": 1, "the rest of the day today": 1, "next couple of days": 1}
+{"friday": 1, "2009": 1, "2011": 1, "2005": 1, "2007": 1}
+{"hours": 1, "days": 1, "last year": 1, "2005": 1}
+{"oct. 27": 3, "oct. 30": 1, "oct. 26": 2, "friday": 2, "saturday": 2, "sunday": 2, "tuesday": 1, "8 a.m. edt": 1, "1509 utc": 1, "11:09 a.m. edt": 1, "a couple of days": 2, "the weekend": 1, "late sunday": 1, "this morning": 1, "the rest of the week": 1}
+{"oct. 25": 1, "1425 utc": 1, "10:25 a.m. edt": 1, "seven-day period from oct. 18-25, 2012": 1, "oct. 26": 3, "friday, oct. 26": 1, "8 a.m. edt": 1, "oct. 27": 1, "friday, oct. 26 at 1415 utc": 1, "10:15 a.m. edt": 1, "sunday, oct. 28": 1, "early tuesday morning": 1, "june 29, 2012": 1, "1991": 1, "1997": 1}
+{"oct. 25": 2, "1530 utc": 1, "11:30 a.m. edt": 1, "2 p.m. edt": 2, "11 a.m. edt": 1, "three hours later": 1, "oct. 29": 1, "tuesday, oct. 30": 1}
+{"every decade since 1900": 1, "1939": 2, "1976": 1, "1997": 2, "1858": 1, "september": 2, "northern hemisphere summer and fall": 1, "1997-98": 1, "every five to 20 years": 1, "early stages of a cool phase": 1, "winter of 1938-39": 1, "september and october": 1}
+{"today": 1, "approx. 40 years": 1, "1923": 3, "1940s": 1, "1980": 1, "2005": 1, "10-30 years": 1, "warm years": 2, "cold years": 2, "future": 1}
+{"sept. 6-7, 2012": 1, "sept. 11": 2, "oct. 2": 1, "1971": 1, "august and september 1994": 1, "sept. 12": 2, "early morning hours of sept. 12": 1, "sept. 14 and 15": 1, "22.5 hour flight": 1, "wednesday, sept. 19": 1, "sept. 20": 2, "11 a.m. edt": 2, "sunday, sept. 23": 1, "sept. 26": 1, "the next day": 2}
+{"last summer": 1, "200 years": 1, "two-day period": 1, "late august 2011": 1, "a few days": 1}
+{"month-long": 1, "early september": 1, "2010": 1, "2013": 2, "2014": 2, "10 years ago": 1, "five-year": 1}
+{"this summer": 1, "november 2012": 1, "2005": 1, "three-year": 1, "2009": 1}
+{"sept. 7": 1, "7:06 a.m. edt": 1, "1500 utc": 1, "11 a.m. edt": 1, "48 hours": 1, "sept. 10": 1}
+{"60 years": 1, "forthcoming season": 1, "hurricane season": 2, "sept. 4": 1}
+{"thursday": 1, "today": 1, "11:37 a.m. edt": 1, "10 hours": 1, "month-long": 1, "28 hours": 1, "early october": 1, "this year": 1, "2013": 1, "2014": 1, "sept. 7": 1, "two weeks": 1}
+{"2:41 p.m. cdt": 1, "aug. 29, 2012": 1, "tonight": 1, "thursday night": 1, "friday": 1}
+{"2005": 1, "15 minutes": 1}
+{"aug. 29, 2012": 1, "1 p.m. edt": 1, "overnight": 1, "night": 1, "hours": 1, "five hours later": 1}
+{"2005": 2, "nine hours": 1, "2004": 1}
+{"1:00 p.m. cdt": 1, "early morning hours of the 25th of august": 1, "the following day": 1, "afternoon of the 26th": 1, "afternoon of august 26th": 1, "august 28 at 4:01 utc": 1, "12:01 a.m. edt": 1, "aug. 26-28, 2012": 1, "aug. 28 at 12:30 p.m. edt": 1, "aug. 28 at 2 p.m. edt": 1, "2 p.m. edt": 1, "7 years after hurricane katrina": 1}
+{"1992": 1, "2004": 1, "2008": 1, "recent": 1}
+{"previous years": 1, "fall": 1}
+{"2013 tornado season": 1, "2011": 1, "aug. 1": 1, "this fall": 1, "this past april": 1, "the past three years": 1}
+{"three decades": 1, "atlantic hurricane months of august, september and october": 1}
+{"28 hours": 1, "september": 1, "peak month": 1}
+{"2008": 2, "october 2008": 1, "1998 and 2007": 1, "future": 1}
+{"june 1 to november 30": 1, "may": 1, "30-year average": 1, "1995": 1, "august": 1, "september": 1, "a year ago": 1, "the middle of hurricane season": 1}
+{"longer period of time": 1, "hours": 1}
+{"2003": 2, "that summer": 1, "three excruciating weeks": 1, "august of that year": 1, "more than 500 years": 1, "2005": 1, "seven days": 1, "annual holiday": 1, "dog days of summer": 1}
+{"1968": 1, "1950-2008": 1, "march 2012": 1, "58-year period": 1, "1988": 1, "last year": 2, "this year": 1, "june 1": 1, "tropical cyclone season": 1}
+{"between 1996 and 2008": 2, "third trimester": 1, "first trimester": 1, "second trimester": 1, "2001": 1, "may": 1}
+{"may 22, 2012": 1, "2011": 1, "2001": 1, "2017": 1, "every 102 minutes": 1}
+{"sunday, june 24": 1, "3:00 p.m. edt": 1, "monday, june 25, 2012": 2, "11 a.m. edt": 1, "june 25, 2012": 1, "11:45 a.m. edt": 1, "next couple of days": 1, "yesterday": 1, "today": 2, "next day": 1, "next few days": 1}
+{"six-month": 1, "june 1": 1, "1981-2010": 1, "20th anniversary": 1, "august 24, 1992": 1, "1995": 1, "2012": 2, "late summer to early fall": 1, "peak months": 1, "august-october": 1, "five days": 1}
+{"spring season": 1, "march-may": 1, "may": 1, "1910": 1, "late in the month": 1, "monthly": 1, "1901-2000": 1}
+{"2008": 2, "2005": 1, "last year": 1}
+{"late august": 1, "early october": 1, "next several years": 1, "2010": 1, "28 hours": 1}
+{"2011": 1, "january to october": 1, "2010": 1, "2003": 1, "2002": 1, "past week": 1, "march 13th and 19th": 1, "past decade": 1, "1980 and 2005": 1}
+{"march 15": 1, "march 16": 2, "march 16, 2012": 1, "0900 utc": 1, "5 a.m. est": 1, "march 17": 1, "midday": 1, "march 19": 1, "every three hours": 1}
+{"2010": 2, "1981 to 2000": 1, "2081 to 2100": 1, "21st century": 1, "feb. 14": 1, "1821": 2, "three to 20 years": 1, "every 25 to 240 years": 1, "60- to 120-year": 1, "days or hours": 1, "once a century": 1, "every 20 years": 1}
+{"2100": 3, "per year": 2, "today": 1, "future": 1, "annual": 1}
+{"january 27": 2, "0730 utc": 1, "2:30 a.m. est": 1, "january 26, 2012": 1, "1341 utc": 1, "8:41 a.m. est": 1, "0900 utc": 1, "4 a.m. est": 1, "weekend of january 28 and 29, 2012": 1}
+{"january 27": 3, "0655 utc": 1, "2:30 a.m. est": 1, "1500 utc": 1, "10 a.m. est": 1, "january 28": 1, "january 30": 1, "january 31": 1}
+{"january 26": 2, "1110 utc": 1, "6:10 a.m. est": 1, "0900 utc": 1, "4 a.m. est": 1, "next couple of days": 1}
+{"january 26, 2012": 1, "0611 utc": 1, "1:11 a.m. est": 1, "1500 utc": 1, "10 a.m. est": 1, "january 27": 1, "january 28": 1}
+{"august 2005": 1, "january": 1, "2003": 1, "11 months": 2, "five years": 2, "four years": 1, "last 30 days": 1, "last seven days": 1, "week": 1}
+{"jan. 25": 1, "7:40 utc": 1, "2:40 a.m. est": 1, "january 24": 2, "11:17 utc": 1, "6:17 a.m. est": 1, "january 24, 2012": 1, "2204 utc": 1, "5:04 p.m. est": 1, "january 25, 2012": 1, "0900 utc": 1, "4 a.m. est": 1, "the day before": 1, "next three days": 1}
+{"long-term": 2, "30 years": 1, "1979 to 2010": 1, "monthly": 3, "a month": 2, "june": 1, "september": 1, "october": 1, "end of march": 1, "end of april": 1, "fall": 1, "this week": 1}
+{"recently": 1, "years": 2, "decades": 1, "multi-year": 1, "inter-annual": 1, "decadal": 1, "january": 3, "2004": 2, "2007": 1, "four years": 1, "april 2004": 1, "march 2009": 1, "2008": 1, "2011": 1, "2014": 1, "march 2010": 1, "winter 2009/2010": 1}
+{"four years": 2, "last 50 years": 1, "2009": 2, "2010": 1, "1996": 1, "1998": 1, "1999": 1, "1969": 1, "1972": 1, "one-and-a-half years": 1, "25 days": 1}
+{"december 4, 2011": 2, "1210 utc": 2, "7:10 a.m. est": 2, "november 15": 1, "april 30": 1, "dec. 4": 1, "dec. 6": 2, "4 a.m. est": 1, "0900 utc": 1, "two days from now": 1}
+{"dec. 5, 2011": 2, "0900 utc": 1, "4 a.m. est": 1, "08:18 utc": 1, "3:18 a.m. est": 1, "first 12 hours": 1, "next two days": 1}
+{"last few decades": 1, "past two years": 1, "this past august": 1, "2013": 1, "2008": 1, "2010": 1, "june 2011": 1}
+{"this month": 1, "more than two years": 1, "september 2008": 1, "2009": 1, "today's economy": 1, "now": 1}
+{"millennia": 1, "age of 11": 1, "late 2013": 1, "early 2014": 1, "2012": 1, "last few decades": 1}
+{"october 24": 1, "12:15 p.m. edt": 1, "16:15 utc": 1, "october 25": 2, "11 a.m. edt": 1, "wednesday night": 1, "early thursday": 1, "tomorrow (oct. 26)": 1, "late wednesday": 1, "next two days": 1, "next day or two": 1}
+{"october 23, 2011": 2, "1728 utc": 1, "1:28 p.m. edt": 1, "monday, october 24": 1, "oct. 24": 2, "11 a.m. edt": 1, "2:47 a.m. edt": 1, "a couple of days": 1, "tomorrow": 1}
+{"10 years": 1, "once per decade": 1}
+{"oct. 11": 2, "4:53 a.m. edt": 1, "early today": 1, "11 a.m. edt": 1, "oct. 12": 1, "next couple of days": 1}
+{"oct. 10": 1, "1:40 p.m. edt": 1, "oct. 11": 2, "12:45 p.m. edt": 1, "11 a.m. edt": 1, "today": 3, "this evening": 1, "tonight": 1}
+{"two decades": 1, "2010": 2, "june 16": 1, "july 1, 2010": 1}
+{"this morning": 1, "early this morning": 1, "oct. 6": 2, "11 a.m. today": 1, "5 hours before": 1, "tomorrow": 1, "next 48 hours": 1, "several days": 1, "two or three days": 1, "mid-day on saturday, oct. 8": 1}
+{"two days": 2, "1500 utc": 1, "11 a.m. edt": 1, "thursday": 1, "october 6 2011": 2, "0024 utc": 1, "oct. 5 at 8:24 p.m. edt": 1, "oct. 6": 1, "next two days": 1, "wednesday": 1, "october 5, 2011": 1, "1752 utc": 1, "1:52 p.m. edt": 1, "six hours": 1, "today": 1}
+{"august": 3, "summertime": 1, "summer": 1, "1983": 1, "1936": 1, "1895": 1, "1901-2000": 1}
+{"1950-2010": 1, "el ni\u00f1o seasons": 2, "la ni\u00f1a seasons": 1, "season": 2, "yearly": 1}
+{"1985": 1, "once per week": 1, "15 percent of the year": 1, "100-year storm event": 1, "an entire decade": 1, "decades": 1, "centuries": 1, "millennia": 1, "five or ten years ago": 1}
+{"2:47 a.m. edt": 1, "aug. 27": 1, "a few hours": 1}
+{"sunday": 1, "wednesday": 1, "august 24": 1, "year-round": 1, "last year": 1}
+{"august 25, 2011": 2, "10:02 a.m. edt": 1, "this morning": 2, "thursday morning": 1, "august 24": 1, "august 24, 2011": 1, "18:15 utc": 1, "2:15 p.m. edt": 1, "11 a.m. edt": 1, "the day before": 1, "8 a.m. edt": 1, "friday, august 26": 1, "5:30 a.m. edt": 1, "the next day or two": 1}
+{"may": 1, "2011": 1, "april 27": 1}
+{"july 22": 5, "0845 utc": 1, "4:45 a.m. edt": 1, "8 a.m. edt": 2, "noon (edt)": 1, "the weekend": 4, "july 22 and 23": 1, "monday, july 25": 1}
+{"late summer 2005": 1, "september 2006": 1, "days immediately following katrina's landfall": 1}
+{"past three months": 1, "last year": 1, "10 days": 1, "june 18, 2011": 1, "this year": 1, "this summer": 1, "late august and september": 1, "2011": 1}
+{"this year": 3, "april": 2, "recent": 1, "one year": 2, "short time frame": 1, "wintertime": 1, "summertime": 1, "may": 1, "autumn": 1}
+{"2005": 1, "2004": 1, "2003": 1, "1995": 1, "next half century": 1}
+{"may 22": 1, "2042 utc": 1, "3:42 p.m. cdt": 1, "two hours": 2, "a few hours later": 1, "may 25": 1, "over 60 years": 1, "this evening": 1, "at least wednesday morning": 1}
+{"dec. 7 and 10, 2010": 1, "1935": 1, "nearly a month": 1, "december": 1, "1985": 1, "six decades": 1, "1998": 1, "may": 1, "eight-month wet season": 1, "2011": 2}
+{"2100": 2, "2009": 1, "2005": 1, "this month": 1, "may 23": 1, "next 10 years": 1, "end of the century": 1, "weekly": 1, "100 years ago": 1}
+{"2004": 1, "1987 to 2008": 1, "24 hours": 3, "six hours": 1, "three to six hours": 1, "30-hour window": 1}
+{"2002": 3, "2006": 3, "recent": 1, "past decade": 1, "future": 1, "2001 to 2006": 1, "2001-06": 1, "year": 2}
+{"few months": 1, "two years": 2, "nine months": 1, "21 months": 1, "2004": 1, "first year": 2, "almost a year": 1, "several months": 1}
+{"one year": 1, "2005-06": 1, "2009-10": 1, "high summer": 1}
+{"may 12, 2008": 1, "march 2011": 1, "spring 2006": 1, "one-year": 1, "a week": 1}
+{"october 1998": 1, "1994": 1, "four years before hurricane mitch": 1, "2002": 2, "1998": 2, "1998 to 2002": 1, "between 1998 and 2001": 1, "2008": 1}
+{"five years": 1, "2001": 1, "1861-62": 1, "45 days": 1, "first year": 1, "december": 2, "more than a century": 1}
+{"dec. 10 to 22, 2010": 1, "dec. 22": 1, "feb. 11": 2, "the end of february": 1, "friday morning": 1, "the first full day of winter": 1, "this weekend": 1, "24-hour": 1}
+{"august 1992": 1, "decades": 1}
+{"aug. 19, 1812": 2, "1812": 6, "the last decade": 1, "late 19th century": 1, "2006": 1, "18 months": 1, "hourly": 2, "local midnight": 1, "afternoon": 1}
+{"feb. 2": 2, "03:35 utc": 1, "1:35 p.m. australia local time": 1, "today": 1, "03:29 utc": 1, "1:29 p.m. australia local time": 1, "february 2": 1, "10:29 p.m. est, feb. 1": 1, "1500 utc": 1, "10 a.m. est": 1, "1 a.m. australia local time on feb. 3": 1, "this morning": 1, "3 a.m. local time": 1, "48 hours": 1}
+{"feb. 2": 2, "feb. 1, 2011": 1, "7:17 a.m. pst": 1, "10:17 a.m. est": 1, "late evening local time": 1, "early morning": 1}
+{"jan. 31, 2011": 1, "6:29 a.m. pst": 1, "9:29 a.m. est": 1, "36 hours": 1, "midnight local time on wednesday, feb. 2": 1}
+{"last year": 1, "summer": 1, "late fall": 1, "early winter": 1, "october through december": 2, "end of 2010": 1, "july 1 -- december 31": 1, "2010": 2, "end of the year": 1, "spring": 1, "2011": 1, "since 1950": 1, "next year": 2, "next winter": 1}
+{"early this year": 1, "1980s": 1, "2009": 1, "this year": 1}
+{"2010": 1, "september 16": 1, "september 17": 1, "nine to 12 hours": 1, "months and years": 1, "years": 1}
+{"mid-october": 1, "this year": 1, "this season": 1, "2005": 2, "25-year": 1}
+{"overnight": 2, "more than 3,000 years ago": 2, "19": 1, "12 hours": 2, "four hours": 1}
+{"three-hour": 1, "september": 1, "10 years": 1}
+{"checkout period": 1, "24 hours": 1}
+{"2012-13": 1, "11-year": 1, "2008": 1, "several days": 1, "eighteen hours": 1, "a few minutes": 1, "six hours": 1, "50 years ago": 1, "may": 1}
+{"five-year mark": 1, "june 2009 through june 2010": 1, "january 2006": 1, "four years": 1, "march 2010": 1}
+{"nearly two years": 1, "two years": 2, "six months": 1, "two to six months": 1}
+{"this summer": 2, "august": 1, "september": 2, "early 1990s": 1, "last several years": 1, "april 2011": 1, "junior year of high school": 1}
+{"upcoming": 1}
+{"first time": 1, "3 months": 1, "in the past": 1, "hurricane season": 1, "in the last several years": 1}
+{"this summer": 2, "since 2001": 1, "24 hours": 1, "16 hours": 1, "a few hours": 1, "aug. 15": 1, "sept. 25": 1, "20 hours": 1, "eight hours": 1, "four hours": 1, "30 hours": 1, "consecutive days": 2}
+{"last spring": 1, "since 1995": 1, "august": 1, "june 1 to november 30": 1, "late may": 1, "next several months": 1, "peak months": 1}
+{"july": 1, "over the last few days": 1, "2005": 1, "short- and long-term": 1}
+{"november": 1, "2005": 1, "1851": 1, "early 20th century": 1, "once every 12 years": 1, "once every 500 years": 1, "once every 24 years": 1}
+{"august 15 to september 30, 2010": 1, "hurricane season": 1, "several days": 1}
+{"2008": 1, "five days in advance": 2, "last week": 1, "since 2004": 1, "past 10 years": 1, "last 200 years": 1, "last few years": 1, "last month": 1}
+{"june 18, 2010": 1, "july 11": 1, "july 12": 1, "to date": 1, "full moon": 1}
+{"july/august 2010": 1, "between 2005 and 2008": 1, "two and three years after katrina": 1, "2-1/2 months": 1, "three years later": 1, "two months after the hurricane": 1}
+{"july 12": 2, "1550 utc": 2, "1:50 p.m. edt": 2, "1:50 a.m. local time": 1, "july 13": 1}
+{"two weeks": 1, "june 2010": 1, "friday, june 25 at 6 p.m. edt": 1, "5 a.m. edt on saturday, june 26": 1, "11 p.m. edt on june 29": 1, "10 p.m. edt": 1, "8 a.m. edt on july 1": 1, "days following": 1}
+{"1945": 1, "2007": 1, "mid-1990s": 1, "1970s": 1, "1950s": 1}
+{"six-week": 1, "20 hours": 2, "2010": 1}
+{"january": 1, "2007": 1, "upcoming hurricane season": 1}
+{"long-term": 1, "currently": 1}
+{"one million computing hours": 1, "every six hours": 1, "72-hour forecast": 1, "three hours": 1, "each day": 1, "coming months": 1}
+{"may 6": 1, "eighteen days later": 1, "2005": 1}
+{"now nearly five years later": 1, "june 3": 1, "several days": 1, "three days": 3, "annual": 1}
+{"last year": 1, "2007": 1, "this year": 1, "next five years": 1, "2012 to 2014": 1}
+{"this season": 1, "june 1": 1, "nov. 30": 1, "2009": 2, "the previous 14 hurricane seasons": 1, "from 1995 to 2009": 1, "this year": 2, "five years": 1, "last year": 2, "2006": 1}
+{"six-month season": 1, "june 1": 1, "this season": 2, "summer": 1, "may 23-29, 2010": 1, "early august": 1, "peak period": 1}
+{"may 15": 1, "nov. 30": 1, "july through september": 1, "this year's": 1, "since 1995": 1, "summer months": 1, "any given season": 1}
+{"10 june": 1, "june 1": 1, "last month": 1, "2004": 1, "nearly a week": 1}
+{"may 27": 1, "2010": 1, "one-day": 1, "2009": 1, "two-year": 1, "30 miles farther south": 2, "one-month": 1, "100-year": 1}
+{"august 2005": 1, "six months": 1, "storm season": 1, "years": 1}
+{"next few weeks": 1, "earlier this year": 1, "last four days": 1, "monday": 1, "three to six months": 1}
+{"2005": 1, "1989": 1, "april": 1}
+{"2010": 2, "may 24, 2006": 1, "june 2009": 1, "march 4, 2010": 1, "august 2010": 1, "1974": 1, "6:11 p.m. edt": 1}
+{"october and november of 2009": 1, "hurricane season": 1, "april": 1, "1972": 1}
+{"pliocene epoch": 2, "three to five million years ago": 1, "today": 2, "two to three days": 1, "future": 2}
+{"2008": 1, "this year": 1, "june": 1}
+{"september 2005": 1, "september 2006": 1}
+{"five years": 1, "three weeks": 1}
+{"a year after": 1, "september 2009": 1}
+{"two years": 1, "three year": 1, "2005 hurricane season": 1}
+{"18 to 27 months": 1, "four years": 1}
+{"recent months": 1, "about 5 years": 1, "nov. 23": 1, "over the weekend": 1, "coming days": 1, "10-year-old": 1, "two-year lifetime": 1, "2007": 1}
+{"2006": 2, "2007": 2, "long-term": 1}
+{"1995": 1, "1997": 1, "1998": 1, "2004": 1, "2005": 1, "11 days": 1}
+{"1960s": 1, "early 90s": 1, "20th century": 1, "about a week": 1}
+{"summer": 1, "fall of 2005": 1}
+{"2004": 1, "more than 20 years ago": 1, "later in the season": 1}
+{"past 150 years": 1, "past 20 years": 1, "currently": 1, "next spring": 1, "2010": 1}
+{"two days": 1, "1995": 2, "1948": 2, "2008": 2, "1920": 2, "1948-1964": 1, "2004": 1, "2005": 2}
+{"more than 30 years": 1, "august": 1, "33 years": 1}
+{"each year": 1, "in the future": 1, "currently": 1, "1:30 p.m. local time": 1, "every one to two days": 1}
+{"the next two days": 1, "aug. 13 at 5 a.m. edt": 1, "a month away": 1}
+{"mid-1990s": 1, "recent decades": 1, "1,500 years": 1, "aug. 13": 1, "ad 900 to 1100": 1, "past 1,000 years": 1}
+{"august 6": 2, "5 a.m. edt": 2, "the next couple of days": 1, "the next day or two": 1, "august 5": 1, "3 p.m. edt": 1, "the past few hours": 1}
+{"1980": 1, "three or four years": 1, "2009": 1}
+{"this past weekend": 1, "monday, august 3, 2009 at 5 a.m. edt": 1, "sunday, august 2": 2, "less than 24 hours later": 1, "august 4": 1, "august 5": 1}
+{"this year": 2, "2001": 1, "early '90s": 1, "2008": 2, "july 2008": 1, "since the 1990s": 1, "1979": 1, "first few years": 1, "last year": 1, "long time": 1}
+{"five years": 1, "this year": 1, "june 1": 2, "six-month hurricane season": 1, "early fall months": 1, "20 years": 1, "1986 to 2005": 1, "2006": 1, "five-year": 1}
+{"last week": 1, "july 13": 1, "tuesday": 1, "july 14, 2009": 1, "6 a.m. edt": 1, "3 a.m. pdt": 1, "saturday": 1, "july 18, 2009": 1}
+{"april 2009": 1}
+{"december": 1, "may": 1, "summer": 1, "one month": 1, "june": 1, "number of months": 1, "time": 1}
+{"recently": 1, "recent": 1}
+{"dec. 14-15, 2006": 1, "10 years": 2, "2008": 2, "2002": 1, "2003": 1, "2006": 2, "2000": 1, "1997": 1, "fall": 2, "winter": 2, "spring": 1, "september through may": 1, "october": 1, "december": 2, "january": 1, "march": 1, "24 hours": 1, "five days": 1, "two days": 1, "three hours": 1}
+{"60 to 84 hour": 1, "2009 hurricane season": 1, "every hour": 1, "15 to 30 minute intervals": 1}
+{"45-minute": 1, "five-minute": 1, "may 4-june 5": 1}
 {"2007": 1}
-{"June 1": 1, "November 30": 1, "between May 15 and November 30": 1, "each year": 1, "the year": 1, "the Atlantic season": 1, "May 27": 1, "the past few years": 1, "the summer": 2, "1995": 1, "May": 1, "a long summer": 1, "today": 3, "fall": 1, "any hurricane season": 1}
-{"23 years": 1}
-{"5000 BC to AD 1492": 1, "1997": 1, "the end of the last Ice Age": 1, "hundreds or even": 1, "this week\u00e2\u0080\u0099s": 1}
-{"the age of": 1, "June 1": 1}
-{"the past 150 years": 1, "2007": 1}
-{"years": 1, "100-year": 2, "the final two years": 1}
-{"the hurricane season": 1, "a hundred years": 1, "next week": 1, "several thousand years ago": 1, "next year": 1, "this summer": 1, "2010": 1}
-{"the past 50 years": 1, "1983 to 2006": 1}
-{"last year's": 1, "the days": 2, "May 2": 2, "multi-day": 1, "March 26": 1, "late April 2008": 1, "the months": 1, "2007": 1, "2003": 1, "daily": 1}
-{"1492": 1, "1979": 1, "1972": 1, "August 2, 2007": 1, "August 20, 2008": 1, "Aug. 15": 1, "Hanna": 1, "Ike": 1, "the ensuing": 1, "two weeks": 1, "Aug. 26, 2008": 1, "only one day": 1, "Just one week later": 1, "Sept. 3": 1, "Sept. 7": 1, "November 1997": 1, "Sept. 1, 2008": 1, "Sept. 15, 2008.Only": 1, "Sept. 23\u00e2\u0080\u009324 became Kyle after": 1, "two days": 1, "Sept. 25": 1, "a calmer hurricane season": 1, "2009": 1}
-{"1980": 1, "decade": 1, "1994": 1, "year": 4, "2005": 2, "recent decades": 1, "years": 2, "2004": 1, "the last 26 years": 1, "1982": 1}
+{"june 1": 1, "november 30": 2, "may 15": 1, "each year": 1, "all through the year": 1, "may 27": 1, "11 a.m. edt": 1, "since 1995": 1, "every 10 to 20 years": 1, "in may": 1, "by fall": 1, "today": 2}
+{"23 years": 1, "recent": 1}
+{"5000 bc": 1, "ad 1492": 1, "1997": 1, "5,000 years": 1, "this week": 1}
+{"june 1": 1, "next time": 1, "future": 1}
+{"each year": 2, "annual": 2, "future": 2, "150 years": 1, "2007": 1}
+{"fifth": 1, "final": 2, "previous": 1, "years": 2, "100-year": 2, "two years": 1}
+{"next week": 1, "hurricane season": 1, "a hundred years": 1, "several thousand years ago": 1, "next year": 1, "this summer": 1, "2010": 1, "historical times": 1}
+{"1983 to 2006": 1, "50 years": 1, "past 50 years": 1}
+{"last year": 1, "may 2": 2, "march 26": 1, "late april 2008": 1, "24 hours": 1, "months": 1, "2007": 1, "2003": 1, "every 12 hours": 1}
+{"1492": 1, "1979": 1, "august 2, 2007": 1, "august 20, 2008": 1, "aug. 15": 1, "aug. 26, 2008": 1, "sept. 3": 1, "sept. 7": 1, "september 1, 2008": 1, "september 15, 2008": 1, "september 23\u201324": 1, "september 25": 1, "november 1997": 1, "2009": 1, "two weeks": 1, "one day": 1, "one week": 1}
+{"since 1980": 1, "per decade": 1, "1994": 1, "2005": 2, "recent decades": 1, "during that time": 1, "the last 26 years": 1, "1982": 1, "1991": 1, "long-term": 1, "year to year": 1}
+{"recently": 2, "2005": 1, "over time": 1}
+{"2005": 1, "sept. 29-oct. 3": 1, "sept. 23-oct. 24": 1, "march 12": 1, "6 to 7 p.m.": 1}
+{"year 2100": 1}
+{"two years": 1, "six years": 1, "january 2009": 1, "twenty-first century": 1}
+{"final 24 hours": 1, "may 2, 2008": 2, "about a month earlier": 1, "between may 1 and 2, 2008": 1, "2005": 1, "this month": 1}
+{"november 2008": 1, "post-katrina": 1}
+{"april 2009": 1}
+{"august 2005": 1, "year following hurricane katrina": 1, "month following the disaster": 1, "remainder of the year": 1, "previous year": 1, "one year before and after hurricane katrina": 1, "first month after katrina": 1, "next year": 1, "pre-katrina year": 1, "end of the year": 1}
+{"five years": 1}
+{"six months": 2, "nov. 22": 1, "more than six years": 1}
+{"the last 60 years": 2, "the last century": 1, "recent decades": 1, "the period from 1948 to 2006": 1, "at present": 1}
+{"1970": 1, "over time": 1, "study period": 1}
+{"several years": 1, "sept. 13": 1, "2008 hurricane season": 1, "several feet per year": 1, "april through mid-july": 1, "may and june": 1, "prior to ike": 1, "post-ike": 1}
+{"year": 3, "1997": 1, "1998": 1, "1990 to 1999": 1, "2005": 1}
+{"2008": 2, "august through september": 1, "every 100 miles": 1}
+{"this season": 1, "may": 1, "august": 2, "this year": 1, "the past 14 years": 1, "1944": 1, "five consecutive months": 1, "july": 1, "september": 1, "october": 1, "november": 1}
 {}
-{"2005": 1, "the weeks immediately after": 1, "Sept. 29-Oct. 3": 1, "Sept. 23-Oct. 24": 1, "March 12": 1}
-{"the year 2100": 1, "winter": 1}
-{"Two years": 1, "six years": 1, "January 2009).Moss": 1, "21st century": 1, "the twenty-first century": 1, "the modern era": 1}
-{"May 2, 2008.Lead": 1, "about a month earlier": 1, "Between May 1 and 2, 2008": 1, "May 2": 1, "this month": 1}
-{"November 2008": 1}
-{"April 2009": 1}
-{"August 2005": 1, "the year following": 1, "the month": 2, "the year": 1, "the previous year.\u00e2\u0080\u009dResearchers": 1, "the age of 65": 1, "one year": 1, "the next year": 1, "the pre-Katrina year": 1, "the first month": 1, "the ensuing year": 1, "the end of the year": 1}
-{"today": 1, "five years": 1}
-{"six months": 2, "Nov. 22": 1, "more than six years": 1, "centuries": 1}
-{"the last 60 years": 2, "the last century": 1, "recent decades": 1, "the period from 1948 to 2006": 1}
-{"1970": 1, "winter": 2, "summer": 2}
-{"several years": 1, "Sept. 13.But": 1, "the 2008": 1, "the years": 1, "April through mid-July": 1, "May": 1, "June": 1, "decades ago": 1}
-{"the year": 1, "1997": 1, "1998": 1, "the year before": 1, "1990 to 1999": 1, "2005": 1}
-{"August": 1, "September": 1}
-{"this  ": 1, "May": 1, "August": 3, "the past 14 years": 1, "the season": 2, "1944": 1, "the first year": 1, "five consecutive months": 1, "July": 1, "September": 1, "October": 1, "November": 1, "this  year\u00e2\u0080\u0099s": 1, "season": 1}
-{}
-{"16 October": 1, "27 October": 1, "the same day": 1, "October 2000": 1, "25 October": 1, "20 September": 1, "a decade ago": 1, "Today": 1}
-{"just a week and a half": 1, "this summer": 1, "last Sept. 13": 1, "hundreds of thousands of years ago": 1, "Nov. 6-8": 1, "the months": 1}
-{"2100": 1, "2005": 2, "present-day": 1, "the period 1946-2007": 1}
-{"Ike": 1, "the 2008": 1, "season": 1, "July": 1, "August": 1}
-{"August, 2000": 1, "five years": 1, "2005": 1, "the 1950s": 1, "November 16-19": 1}
-{"the next few decades": 1, "years": 1, "between 1995 and 2055.The": 1, "three decades": 1, "1995-2005": 1, "2020-2030": 1, "2045-2055": 1, "these decades": 1, "several decades": 1, "decade-long": 1}
-{"2007": 1, "six-years old": 1, "the summer of 2007": 1, "every summer": 1, "June through August 2008.\"Hurricanes": 1, "October and November of 2007": 1, "all year long": 1, "Five years from now": 1, "about one year": 1, "two years": 1, "a few more years": 1}
-{"just this week": 1, "this century": 1, "2001": 1, "2080": 3, "2005": 3, "this week": 1}
-{"this fall": 1, "Tuesday, 7 October": 1, "2008": 1, "this week": 1, "October 7": 1}
-{"the years": 1, "Oct. 29-31": 1}
-{"1996": 1}
-{"Thursday": 1, "Wednesday, Sept. 17": 1}
-{"7 September": 1}
-{"September": 3, "the peak month": 1, "the Northern Hemisphere ocean warming season": 1, "2008": 2, "May 30": 1, "Alma": 1, "one month and four days": 1, "Sept. 3": 1, "August": 2, "Sept. 2": 4, "Sept. 1": 1, "Sept. 3 and 4": 1, "the year": 1, "Sept. 4": 1, "ten-day": 1, "December 2007": 1, "the season": 1, "this year": 2, "an active season": 1, "the first half of the 2008": 1, "1995": 3, "2003": 1, "2005": 1, "2004": 1, "1936": 1, "mid-September": 1}
-{"25 August 2008": 1, "28 August": 1, "29 August": 1, "30 August": 1, "31 August": 1, "1 September": 1}
-{"2005": 1, "each year": 1, "25-year": 1, "1981": 1, "2006": 1}
-{"15 months": 2, "2003": 1, "every year": 1, "December 2006": 1, "between 35 and 64 years of age": 1}
-{"the last decade": 1}
+{"16 october": 1, "27 october": 1, "october 2000": 1, "25 october": 1, "20 september": 1, "a decade ago": 1}
+{"a week and a half": 1, "last sept. 13": 1, "this summer": 1, "nov. 6-8": 1}
+{"2100": 1, "2005": 2, "1946-2007": 1, "recent past": 1, "future": 2, "present-day": 1, "long-term": 1}
+{"2008 hurricane season": 1, "july": 1, "august": 1}
+{"august, 2000": 1, "five years before katrina": 1, "2005": 1, "1950s": 1, "november 16-19": 1}
+{"next few decades": 1, "years": 1, "recent": 1, "1995": 1, "2055": 1, "1995-2005": 1, "2020-2030": 1, "2045-2055": 1, "decades": 2, "decade-long": 1}
+{"2007": 3, "summer of 2007": 1, "october and november of 2007": 1, "june through august 2008": 1, "five years from now": 1, "one year": 1, "two years": 1, "a few more years": 1, "hurricane off-season": 2, "all year long": 1, "every summer": 1, "six-years old": 1}
+{"this week": 2, "this century": 1, "2001": 1, "2005": 2, "2080": 3}
+{"this fall": 1, "tuesday": 1, "7 october": 1, "2008": 1, "this week": 1, "october 7": 1, "long term": 1}
+{"during and immediately after ike": 1, "a critical time": 1, "in the years since allison": 1, "a long night during ike": 1, "oct. 29-31": 1}
+{"1996": 1, "17 hours": 1}
+{"thursday": 1, "wednesday": 1, "sept. 17": 1}
+{"7 september": 1}
+{"september": 5, "2008": 3, "may 30": 1, "one month and four days": 1, "august": 3, "sept. 3": 2, "sept. 2": 2, "sept. 1": 1, "sept. 4": 2, "december 2007": 1, "1995": 2, "2003": 1, "2005": 1, "2004": 1, "1936": 1, "mid-september": 1}
+{"25 august 2008": 1, "later that day": 1, "the following morning": 1, "28 august": 1, "29 august": 1, "30 august": 1, "31 august": 1, "1 september": 1}
+{"2005": 1, "1981": 1, "2006": 1, "25-year period": 1, "each year": 1}
+{"15 months": 2, "post-katrina period": 1, "2003": 1, "1984": 1, "december 2006": 1, "medium-term post-katrina": 1, "foreseeable future": 1}
+{"last decade": 1, "five-minute": 1, "six-minute": 2, "three-minute": 1, "current": 1}
 {"this year": 1}
-{"50 years": 1, "the years": 1, "about two days": 1, "earlier this year": 1, "the course of": 1, "the next year or so": 1}
+{"50 years": 1, "two days": 1, "earlier this year": 1, "the next year or so": 1}
 {"40 years": 1}
-{"a season": 1, "an above-average 2007 hurricane season": 1, "the season": 1, "June through November": 1, "2007": 4, "2005": 1, "seasons": 1, "Aug. 14": 1, "the 2006": 1, "2006": 3, "season": 1, "between June 2005 and June 2006": 1, "early summer": 1, "the following month's": 1, "past hurricane seasons": 1}
+{"2007": 3, "june": 2, "november": 1, "2005": 2, "aug. 14": 1, "2006": 3, "early summer": 1, "the following month": 1}
 {}
-{"an above-normal season": 1, "May": 2, "the entire season": 2, "November 30": 1, "an above-normal season during 2008": 1, "1995": 1, "season": 2, "July": 2, "1886": 1, "a near normal season": 1, "this season": 1, "late May": 1, "early June": 1, "July 3-20": 1, "July 25": 1, "August 5": 1, "the hurricane season": 1, "August through October": 1}
-{"11-12 December 1992": 1, "a week earlier": 1, "December 1992": 1, "several days": 1, "the coming decades": 1}
-{"this season": 1, "May 27 -- June 23, 2008": 1, "the past five years": 1, "the next six months": 2, "three week": 1, "between May 27 and June 23, 2008.The": 1, "ages 18": 1, "days of the week": 1}
-{"the last 40 years": 1, "November 1992": 1, "December 2004": 1, "about three years": 1}
+{"may": 3, "november 30": 1, "2008": 1, "since 1995": 1, "july": 2, "1886": 1, "late may": 1, "early june": 1, "july 3-20": 1, "july 25": 1, "august 5": 1, "august through october": 1}
+{"11-12 december 1992": 1, "a week earlier": 1, "december 1992": 1, "several days": 1, "per century": 2, "coming decades": 1}
+{"may 27 -- june 23, 2008": 2, "past five years": 1, "next six months": 2}
+{"last 40 years": 1, "november 1992": 1, "december 2004": 1, "two hours": 1, "three years": 1}
 {}
-{"Last year": 1}
-{"18th-century": 1, "the past 50 years": 1, "the past half century": 1}
-{"the past three Atlantic hurricane seasons": 1, "May": 1}
-{"season": 3, "a near normal season": 1, "this year\u00e2\u0080\u0099s hurricane season": 1, "past seasons": 1, "seasons": 1, "2008": 2, "the season": 1, "five days": 1, "previous seasons": 1, "this year\u00e2\u0080\u0099s seasonal": 1, "1995": 2, "August 7": 1}
-{"May 18": 1, "last October": 1, "year-by-year": 1, "from 1980 to 2006": 1, "the end of the 21st century": 1, "the past century": 1, "at least 1950": 1, "the last half century": 1}
-{"thousands of years old\u00e2\u0080\u0094form": 1, "a few years ago": 1, "May": 1, "hurricane years": 1, "2006": 1, "2007": 1, "the last three years": 1, "each year": 1, "years": 1, "the past five years": 1}
-{"58-year-old": 1, "daily": 1, "two years": 1}
-{"the fall of 2006---one year": 1, "a year later": 1, "the month": 1, "the past 30 days": 1, "a year": 1}
-{"2005": 1, "just three weeks": 1, "the last 30 years": 1, "The last 25 years'": 1}
-{"April 7, 2008": 1}
-{"last year": 1, "year": 1, "2004": 1, "the 1990s": 1, "five-day": 1}
-{"years": 1, "1999": 1, "every year": 1}
-{"an active Atlantic basin hurricane season": 1, "25th year": 1, "between June 1 and Nov. 30": 1, "last-century": 1, "this year": 1, "2004": 3, "2005": 3, "seasons": 3, "an active hurricane season": 1, "most years": 1, "1995": 1, "2008": 3, "the next few months": 1, "1950": 1, "1989": 1, "1999": 1, "2000": 1, "these four seasons": 1, "the 2008 season": 1, "these four years": 1, "the average season": 2, "the last two years": 1, "Humberto - 2007": 1, "2006": 1, "2007": 1, "the hurricane seasons": 1, "each year": 1, "these two years": 1, "future seasons": 1, "June 3": 1, "Aug. 5": 1, "Sept. 2": 1, "Oct. 1": 1, "August": 1, "September": 1, "October": 1, "those months.(1950": 1, "1950-2000": 1}
-{"1993": 1, "1988": 1}
-{"two days": 1, "the 1930s": 2, "decades": 2, "many years": 1, "Five years ago": 1, "1938": 1}
-{"some decades": 1, "every 10 to 15 years": 1, "today": 2, "1998": 1, "2001": 1, "1926": 1, "yearly": 1}
-{"today": 1, "138 years ago": 1, "the 17th century": 1, "22-year-old": 1, "the next century": 1, "2003": 1, "September 2003": 1, "February 2004": 1, "26-year-old": 1, "the second year": 1}
-{"the 1980s": 2, "'90s": 1, "seasons": 1, "2004": 1, "25-year": 1, "several months": 1, "2007": 2, "previous years": 1, "a particularly dusty": 1, "spring": 1, "early summer": 1, "year": 1, "each year": 1, "years": 1, "fall 2006": 1, "today": 1, "the past few decades": 1, "up to nine months": 1}
-{"110 years later": 1, "less than 725 thousand years old": 1, "725-475 thousand years ago": 1, "February": 1}
-{"1950-2000": 1, "between 1996 and 2005.The": 1, "between 1950 and 2005": 1, "between 1965 and 2005": 1, "31 January": 1}
-{"January 23": 1, "the middle nineteenth century": 1, "1854 to 2006": 1}
-{"the past 150 years": 1, "January 18, 2008": 1}
-{"2003": 1, "each spring": 1}
-{"annual": 2, "2007": 7, "twentieth century": 1, "February": 1, "April": 1, "March": 2, "August": 3, "113-year": 1, "the winter": 1, "the summer": 1, "late March": 1, "early April": 1, "daily": 1, "1880": 1, "2001": 1, "1997": 1, "the start of the twentieth century": 1, "1976": 1, "century": 1, "1979": 1, "2005": 1, "mid-summer into December": 1, "the year": 1, "June": 1, "July": 1, "early December": 1, "Felix": 1, "the same year": 1, "the latter half of 2007": 1, "the end of November": 1, "early 2008": 1}
-{"the past decade": 1}
-{"a decade": 1, "daily": 11, "today": 1, "the season": 2, "a given year": 1, "any given day": 2, "the \"cooling degree day": 1, "degree day": 1, "1998-2006": 1, "days": 2, "September": 1, "October": 1, "the Atlantic hurricane season": 1, "the entire season": 1, "the hurricane season": 1, "day": 1, "1997": 1, "monthly": 1, "1979": 1, "tropical storm days": 1, "annually": 1, "2013": 1}
-{"the past 75 years": 1, "between Jan. 19 and March 31, 2006": 1, "five to seven months": 1, "30 days": 1, "younger than age 60": 1}
-{"a powerful hurricane season": 1, "2004": 1, "2005": 1, "today": 1, "last February": 1, "the last two decades": 1, "up to a year": 1, "season": 1, "the hurricane season": 1}
-{"this century": 1, "the 1930s": 1, "1950s": 1, "2005": 1, "2007": 1}
-{"that year": 1, "the early 1900s": 1, "1870": 2, "1944": 3, "the 1970s": 1, "more than 60 years": 1, "the current season": 1, "a little more than one week": 1, "the season": 1, "2006": 1, "one year": 1, "the past decade": 1}
-{"Nov. 12": 1, "the very next day": 1, "The following day": 1, "several years ago": 1}
-{"Aug. 29, 2005": 1, "Sept. 24, 2005": 1, "between August 2005 and October 2005": 1}
-{"August 2005": 1, "years": 1, "annual": 1, "an average year": 1, "Nov. 15": 1}
-{"seven decades": 1, "two years ago": 1, "today": 1, "several years": 1, "nearly two years": 1}
+{"last year": 1}
+{"18th-century": 1, "past 50 years": 1, "half century": 1}
+{"may": 1, "past three atlantic hurricane seasons": 1}
+{"this year": 1, "2008": 1, "august 7": 1, "since 1995": 2, "five days in advance": 1}
+{"may 18": 1, "last october": 1, "1980 to 2006": 1, "21st century": 1, "past century": 1, "since at least 1950": 1, "last half century": 1, "2007": 1}
+{"a few years ago": 1, "may": 1, "2008": 1, "2006": 1, "2007": 1, "the last three years": 1, "five years": 1}
+{"two years": 1}
+{"fall of 2006": 1, "one year after the hurricane": 1, "a year later": 1, "the past 30 days": 1, "the month before the hurricane hit": 1}
+{"2005": 1, "three weeks": 1, "the last 30 years": 1, "recently": 1, "the last 25 years": 1}
+{"april 7, 2008": 1}
+{"last year": 2, "six minutes": 2, "19 hours": 1, "2004": 1, "six hours": 1, "1990s": 1, "every six minutes": 1, "several hours": 1, "a day or more": 1, "every few hours": 1, "three- and five-day": 1}
+{"1999": 1, "24 hours": 1, "every year": 1}
+{"25th year": 1, "june 1": 1, "nov. 30": 1, "per year": 1, "this year": 1, "2004": 2, "2005": 2, "1995": 1, "2008": 3, "next few months": 1, "1950": 1, "1989": 1, "1999": 1, "2000": 1, "four years": 1, "2006": 1, "2007": 1, "last two years": 1, "2004 and 2005": 1, "june 3": 1, "aug. 5": 1, "sept. 2": 1, "oct. 1": 1, "august": 1, "september": 1, "october": 1, "1950-2000": 1}
+{"1993": 1, "1988": 1, "now": 2, "future": 1}
+{"two days": 1, "per year": 1, "1930s": 2, "two decades": 1, "recent": 2, "five years ago": 1, "1938": 1}
+{"decades": 1, "10 to 15 years": 1, "1900-2005": 1, "1998": 1, "2001": 1, "1926": 1, "yearly": 1}
+{"today": 1, "138 years ago": 1, "17th century": 1, "22-year-old": 1, "next century": 1, "spring flood of 2003": 1, "september 2003": 1, "february 2004": 1, "second year": 1, "2003": 1, "2004": 1}
+{"1980s": 2, "2004": 1, "2005": 1, "2006": 1, "2007": 2, "1999": 1, "nine months": 1, "25-year": 1, "fall 2006": 1, "several months": 1, "recent": 1, "past few decades": 1, "spring": 1, "early summer": 1, "each year": 1, "previous years": 1}
+{"over 110 years later": 1, "725 thousand years old": 1, "725-475 thousand years ago": 1, "400-275 ka": 1, "225-150 ka": 1, "150-75 ka": 1, "725 to 475 ka": 1, "400 to 275 ka": 1, "ca. 200 and 100 ka": 1, "february": 1}
+{"1996 and 2005": 1, "1950-2000": 1, "between 1950 and 2005": 1, "1965 and 2005": 1, "31 january": 1}
+{"january 23": 1, "middle nineteenth century": 1, "1854 to 2006": 1, "long term": 2}
+{"january 18, 2008": 1, "150 years": 1}
+{"2003": 1, "each spring": 1, "38 minutes": 1}
+{"2007": 6, "twentieth century": 2, "february": 1, "april": 2, "march": 2, "august": 2, "113-year record": 1, "late march": 1, "early april": 1, "summer": 2, "winter": 1, "1880": 1, "since 2001": 1, "since 1997": 1, "since 1976": 1, "1979": 2, "2005": 1, "mid-summer": 1, "december": 2, "june": 1, "july": 1, "early december": 1, "november": 1, "latter half of 2007": 1, "early 2008": 1}
+{"past decade": 1, "long-term": 1}
+{"a decade": 1, "today": 1, "1998-2006": 1, "september": 1, "october": 1, "1997": 1, "2013": 1}
+{"past 75 years": 1, "jan. 19 and march 31, 2006": 1, "five to seven months after the storm": 1, "30 days of the interview": 1, "2007": 1}
+{"2004": 1, "2005": 1, "last february": 1, "last two decades": 1, "today": 1, "up to a year in advance": 1}
+{"1930s": 1, "1950s": 1, "2005": 1, "this century": 1}
+{"the past": 1, "that year": 1, "the early 1900s": 1, "1944": 2, "the 1970s": 1, "more than 60 years": 1, "before 1944": 1, "back to 1870": 2, "1944 to 2006": 1, "one year": 1, "the past decade": 1}
+{"nov. 12": 1, "the very next day": 1, "the following day": 1, "several years ago": 1}
+{"aug. 29, 2005": 1, "sept. 24, 2005": 1, "august 2005": 1, "october 2005": 1, "2005": 1, "2007": 1}
+{"august 2005": 1, "nov. 15": 1, "years to come": 1}
+{"seven decades": 1, "two years": 2, "today": 1, "several years": 1}
+{"currently": 1}
 {}
-{}
-{"the last three decades": 1, "the last decade": 1, "1998": 1}
-{"later this year": 1, "2005": 1, "the end of 2008": 1}
-{"The individual month of September": 1, "the two-month": 1, "October-November": 2, "September": 1, "the season": 1, "August": 5, "an active season": 1, "September-November": 1, "an active year": 1, "24 years": 1, "June-July 2007": 1, "two-month": 1, "June": 1, "July": 1, "3.75 days": 1, "the most days": 1, "the month of August": 1}
-{"August 17": 1, "August 19": 1, "Tuesday": 2, "36 hours": 1, "today": 1}
-{"early Tuesday": 1, "5 days ahead": 1}
-{"late June": 1, "annual": 1, "from January 1, 2007": 1, "the 2004 and 2005": 1, "seasons": 1, "the past few years": 1, "late-season": 1, "an above or below average hurricane season": 1, "Hurricane season": 1, "November 30": 1}
-{"1900": 1, "between 1900 and 1930": 1, "From 1930 to 1940": 1, "from 1995 to 2005": 1, "the average hurricane season": 1, "this time": 1, "the last century": 2, "the last 100 years": 1, "the years": 1, "1930": 2, "1995": 1, "2004": 1, "2005": 1, "recent decades": 1, "1944": 1, "about 1970": 1, "recent years": 1, "The 2006": 1, "the two preceding years": 1, "that year": 1, "a century ago": 1, "a quiet year": 1, "today": 1, "an average year": 1, "the 20th century": 1, "July 30, 2007": 1}
-{"2005": 1, "June 18 - July 10, 2007": 1, "two days": 3, "six days": 2, "up to one day": 1, "three or more days": 1, "the past three years": 1, "more than two days": 1, "the next six months": 1, "more than three days": 1, "between June 18 and July 10, 2007": 1, "ages 18": 1, "days of the week": 1}
-{"two decades": 1, "the last 10 to 20 years": 1, "12 years'": 1, "every four years": 1, "late 1989": 1, "the same year": 1, "about 100 years ago": 1, "every six to 10 years": 1, "12 years": 1, "2002": 1, "1979": 1, "the coming years": 1, "the last four years": 1, "many lifetimes": 1}
-{"the years": 1, "2006": 1, "the 2008": 1, "2001": 1, "the 2007 Atlantic hurricane season": 1, "this year.\u00e2\u0080\u009cWe": 1, "El Nino": 1, "about every 60 years": 1}
-{"the next century": 1, "the next 25 to 75 years": 1, "the year 2080": 1, "the next 75 years": 3, "the last several decades": 1, "the last four years": 1, "the previous 20 years": 1, "2001": 1, "2030": 1, "2080": 2, "September 1996": 1, "days": 1, "the year 2100": 1}
-{"2005": 1, "a week or longer\u00e2\u0080\u0094including": 1, "the month": 1, "1995": 1, "centuries": 1}
-{"annually": 1, "March, 2007": 1}
-{}
-{"the past four decades": 1, "between 1970 and 1999": 1, "1998": 1, "between 1997 and 2003": 1, "today": 1}
-{"40 years": 1, "June": 1, "every 100 years": 1}
-{"2001": 1, "today": 2, "May 31": 1, "1981": 1}
-{"Two days": 1, "June 1": 1, "the 2007": 1, "recent years.\u00e2\u0080\u009cWhen": 1, "2004": 1}
-{"2003": 1, "5,000-year": 1, "many centuries": 1, "5,000 to 3,600 years ago": 1, "2,500 to 1,000 years ago": 1, "1700 AD": 1, "3,600 to 2,500 years ago": 1, "from 1,000 to 300 years ago": 1, "individual years": 1, "the past": 1, "May 24": 1}
-{"2007": 2, "the past 155 years": 1, "January through May 2007": 1, "the year": 1, "10 years": 1, "the past eight years": 1, "the upcoming storm season": 1, "the summer": 1, "this year": 1, "an average year": 1, "1851": 1, "at least one week's": 1, "the years": 1}
-{"the 2007 Atlantic hurricane season": 1, "Last            ": 1, "this year": 1, "the next one to three months": 1, "pre-season": 1, "early            May": 1, "an above normal season": 1, "an active season": 1, "June 1 through November 30": 1, "August": 2, "October": 1, "the season": 1, "1998": 1, "200 years": 1, "1807": 1, "the            ": 1, "1870s": 1, "2007": 1}
-{"the 1980s": 1, "this year's": 1, "June 1.To": 1, "2004": 1, "five-day": 1}
-{"2007": 2, "May 16-19, 2007": 1, "Friday, May 18th": 1, "May 2007": 1}
-{"1998": 1, "June 2007": 1, "the past five decades": 1, "several days": 1, "January 2006": 1, "a couple days": 1, "today": 1}
-{"two months": 1, "October 2005": 1, "seasonal": 1}
-{"March 2007": 1, "2002 to 2004": 1, "2003": 1, "2004": 1, "The 2005 Hurricane season": 1}
-{"The past 10 hurricane seasons": 1, "another 10 to 40 years": 1, "early April": 1, "2007": 1, "November 30": 1, "early fall 2005": 1, "up to 5 years": 1, "many years": 1}
-{"April 18th": 1, "the 21st century": 1}
-{"hurricane season": 1, "March 8": 1, "the1990s": 1, "May 2003": 1, "500 years": 1, "later this year": 1}
-{"December 2004": 1, "last summer": 1, "2004": 1}
-{"December 26, 2004": 1}
-{"between June 1 and Nov. 30": 1, "The 2006 season": 2, "The 2005 season": 1, "a very active hurricane season": 1, "this year": 3, "2004": 3, "2005": 4, "seasons": 3, "last-century": 1, "December": 1, "January": 1, "late this winter": 1, "2007": 2, "the average season": 1, "last year": 1, "1945": 1, "consecutive-year": 1, "1981-1982": 1, "2000-2001.\"The": 1, "the hurricane seasons": 1, "each year": 1, "these two years": 1, "24 years ago": 1, "the two very active seasons of 2004": 1, "2006": 1, "1995": 2, "another 15 or 20 years": 1, "future seasons": 1, "most years since 1995": 1, "1952": 1, "1964": 1, "1966": 1, "2003": 1, "these five seasons": 1, "the 2007 season": 1, "these five years": 1, "the last century": 1, "the last 30 years": 1, "the past 12 years": 1}
-{"September 16": 1}
-{"June and July 2006": 1, "The 2006": 1, "Nov. 30": 1, "2005": 4, "the 2006": 1, "2006": 6, "June": 1, "July": 1, "just two weeks": 1, "Feb. 27": 1, "the season": 3, "the hurricane season": 1, "1997": 1, "season": 2}
-{"approximately 20-30 years": 1, "the last 150 years or so": 1, "thousands of years": 1, "March": 1, "the past 3,800 years": 1, "any given year": 1, "more that 15 years": 1, "five years": 1, "the summer and fall of 2006": 1, "1998": 1, "the past year": 1}
-{"July and August 2006": 1, "late-season": 1}
-{"the historic 2005 hurricane season": 1, "2005": 2, "March 2": 1, "recent years": 1, "days": 1, "less than a day": 1, "three weeks": 1, "August and September 2005": 1}
-{"Feb. 18": 1, "winter days": 1, "About two years ago": 1, "today": 1, "two days": 1, "the past few years": 1, "2003": 1}
-{"last year": 1, "decades": 1, "the 1960s": 1, "the years 1983 through 2005": 1, "1983": 1}
-{"the U.S. spring and summer months": 1, "the winter": 1, "March-June": 1, "December-February": 1, "the following": 1, "March-May": 1, "1998-2001": 1, "March 15": 1, "May": 1, "200            years": 1, "1807": 1, "the            ": 1, "1870s": 1}
-{"some three to four days later": 1, "March 1": 1, "Feb 26": 1, "several years": 1, "February 2": 1, "February 21 to March 10": 1}
-{"The Atlantic hurricane season": 1, "Nov. 30": 1, "the past three years": 1, "2006": 15, "2005": 13, "This past year": 1, "2004": 2, "this year": 2, "last year": 1, "This year": 1, "July, 2006": 1, "this hurricane season's": 1, "the hurricane season": 1, "the spring": 1, "the summer": 1, "the summer of 2006": 1, "the past few decades": 1, "this past summer": 1, "seasons": 1, "the entire season": 1, "any given year": 1, "the 2006 season": 1, "the 2007 season": 1}
-{"bimonthly": 1, "December 2006": 1, "2004": 2, "three-month": 1, "the weeks": 1, "months": 2, "the coming years": 1}
-{"five to seven years": 1, "annual": 1, "yearly": 1}
-{"April": 1, "each day": 3, "next year": 1, "daily": 1, "year": 1, "two days": 1, "this year": 1, "only a few months": 1}
-{"1953": 1, "August 2005": 1}
-{"July 2005": 1, "2006": 1, "July 22": 1, "July 23": 1, "The next day": 1, "July 22 to July 25": 1}
-{"July 2005": 1, "July 7, 2005": 1, "July 8": 1, "an entire day": 1}
-{"2006": 11, "30-year": 2, "1861 to the present": 1, "the start of the 20th century": 1, "1976": 1, "1997-2006": 1, "1961-1990": 1, "The beginning of 2006": 1, "winter": 3, "spring": 1, "January-September": 1, "monthly": 4, "January": 3, "April": 3, "late December 2005": 1, "early March": 1, "1 January": 1, "Spring 2006": 1, "September-November": 2, "1950": 1, "March": 1, "31 January": 1, "July": 2, "August": 4, "Autumn 2006": 1, "the warmest autumn": 1, "1659": 1, "1706": 1, "1768": 1, "a decade": 1, "2002-2003": 1, "1997-1998": 1, "5 to 10 years": 1, "around 30 years": 1, "early December": 1, "the year": 1, "summer": 2, "autumn": 1, "the 2005/2006 rainy season": 1, "the first quarter of 2006": 2, "February": 1, "1923": 1, "the same month": 1, "50 years": 2, "October": 1, "November": 2, "year": 2, "the first months of the year": 1, "early May": 1, "a five-day period in February": 1, "the Indian monsoon season": 1, "Only months": 1, "2005": 2, "more than a century": 1, "10-15 May": 1, "70 years": 1, "June": 1, "daily": 1, "December 2005": 1, "the second quarter of 2006": 1, "the end of the year": 1, "the first quarter of 2007.In": 1, "the severest year in a decade": 1, "November/December 2006": 1, "the 2006 Atlantic hurricane season": 1, "1918": 1, "25 September": 1, "September 2000": 1, "these two years": 1, "late January": 1, "the entire month of September": 1, "September": 1, "up to the end of November": 1, "annual": 1, "early March 2007.This": 1}
-{"a month": 1, "2007": 1, "annual": 1, "January 2007": 1}
-{"August     ": 1, "day": 1, "three-year": 1}
-{"2003": 1, "Sunday, 22 October": 1, "most years": 1, "each year": 1}
-{"2004": 1, "the 2050's": 1, "the twentieth century": 1, "the last decade": 1, "the early twentieth century": 1, "2001": 3, "the 2080s": 1, "2005": 1, "2006": 1, "the 2050s": 2, "annual": 1, "the week of Oct. 23.To": 1, "1995": 3, "Sept. 3, 1821": 1, "Sept. 21, 1938": 1, "today": 1}
-{"two years": 1, "the coming year": 1, "later next year": 1}
-{"daily": 2, "10-day": 2, "winter": 2, "a normal year": 1, "an El Ni\u00c3\u00b1o year": 1, "the winter": 2, "a La Ni\u00c3\u00b1a year": 1, "El Nino and La Nina": 1}
-{"Oct. 4": 1, "July 4, 2005": 1}
-{"decade": 1, "today (Oct. 10, 2006": 1, "25 years": 1, "2006": 1, "years": 1, "some years": 2, "as few as five days": 1, "the summer": 1, "summer and winter months": 1}
-{"1998-2005": 1, "August 1998": 1, "the 2005": 1, "August 2005": 1, "September 2004": 1, "September 2005": 1}
-{"weeks": 1, "December": 1}
-{"1997": 1}
-{"August 23, 2006": 1, "the late spring": 1, "summer": 1, "early fall": 1, "mid-September, 2006": 1}
-{"four-day": 1, "today": 1, "Sept. 14.James": 1, "September 14": 1, "one month": 1, "2005": 1}
-{"one-to-three-day": 1, "late 2007": 1, "the last year": 1}
-{"the last century": 1, "the period 1906-2005": 1, "20th century": 1, "this week": 1, "the 21st century": 1}
-{"2004": 1, "2005": 1, "the spring of 2007": 1}
-{"2004": 1, "the past year": 1, "8-month": 1, "May 22, 2006": 1, "the Past 35 Years": 1, "the past 35 years": 1, "Nov. 28, 2005": 1}
-{"Aug. 28": 1, "late September": 1, "days": 1}
-{"several years earlier": 1, "2001-03": 1, "every 10 years": 1, "between January 19 and March 31, 2006": 1}
-{"Aug. 23": 1, "Aug. 25": 1, "Aug. 31": 1, "weeks": 1, "the 20th century": 1, "2005": 1, "year": 1, "at least the next decade": 1}
-{"the past 50 years": 1, "between June and November": 1, "23 August": 1, "the past several decades": 1, "the past half-century": 1}
-{"the past several years": 1, "1995": 1, "2005": 1, "60": 1, "65": 1, "the twenty-first century": 1}
-{"the 20th century": 1, "a single decade": 1}
-{"2006": 1, "Aug. 15 to mid-September": 1, "the late spring": 1, "summer": 1}
-{"1970s": 1, "earlier this month": 1, "decades": 1, "1994": 1, "two years": 1, "2001": 1, "2004": 1, "1992": 1, "the 1970s and": 1, "1980s": 1}
-{"today": 2, "March 29": 1, "13 days": 1, "5 days": 1, "four days": 1}
-{"2003": 1, "June 29.Davis": 1}
-{"2005": 2, "July of that year": 1, "month-long": 1, "The month of June": 1, "June": 1, "the first month of summer": 1}
-{"1995": 1, "hurricane seasons": 1, "Last year": 1, "last year's": 2, "1901-1970": 1, "decades-long": 1, "the early 20th century": 1, "the 2004-05": 1, "60-to-80-year": 1, "year": 1, "the 20th century\u00e2\u0080\u0094and": 1, "the 1950s": 1, "from about 1970 to 1990": 1, "each year": 1, "Each year": 1}
-{"2005": 1, "the past decade": 1, "seasonal": 2, "approximately 25 years": 1, "2007": 1, "recent decades": 1, "the twenty- first century": 1, "the twentieth century": 1, "three to four days": 1}
-{"the past 40 years": 1, "1980": 1, "1963": 1, "the first five years": 1}
-{"20, 30, or even 100 years": 1, "40 years": 1, "40 years ago": 1, "the three years": 1, "August 2005": 1, "each year": 1, "about 100 years": 1, "2106": 1, "the first few years": 1, "the 1960s": 1, "the 1940s": 1}
-{"from 50 to 70 years": 1, "a little more than the last 100 years": 1, "the 19th century": 1, "1950": 1, "between 1950 and the 1980s": 1, "late 20th century": 1, "the late summer": 1, "the 1980s": 1}
-{"the next three to six months": 1, "this year\u00e2\u0080\u0099s hurricane season": 1, "1995": 1, "any given season": 1, "2003": 1, "season": 1, "November 30": 1, "July through September": 1}
-{"the hurricane season": 1, "the 2006": 1, "the north Atlantic hurricane season": 1, "2005": 1, "the Atlantic hurricane season": 1, "last year's": 1, "season": 2, "1995": 1, "the El Ni\u00c3\u0083\u00c2\u00b1o years of 1997": 1, "the next three to six months": 1, "year": 1, "an active hurricane season": 1, "this year": 1, "a bad season": 1, "June 1 through November 30": 1, "mid-season": 1, "early August": 1, "August through October": 1}
-{"2006": 1, "Aug. 29, 2005": 1, "many years": 1, "Aug. 24, 1992": 1, "years": 1, "five to seven years": 1, "longer than a week": 1, "years later": 1}
-{"recent years": 1, "the past year": 1, "the past 25 years": 1, "the past couple of years": 1}
-{"April 6, 2006": 1, "the month of April": 1, "April": 1, "3-12 months": 1, "August": 3, "September": 2, "about two weeks": 1, "this year": 1, "decades": 1, "1995": 1, "another 10 to 25 years": 1, "summer": 1}
-{"the summer of 2005": 1, "the week of April 24, 2006": 1, "July 22": 1, "July 23": 1, "July 24th": 1}
-{"last season": 1, "April 24": 1, "July 2005": 1, "2005": 1}
-{"Sept. 11, 2001": 1, "five years ago": 1, "November 2005": 1, "today": 1, "September 2005": 1, "March 12": 1, "March 19": 1, "one week": 1, "June": 1, "several years": 1}
-{"wintertime": 1, "tropical storm seasons": 1, "the last two Atlantic hurricane seasons": 1}
-{"Last summer": 1, "A month later": 1, "the past 35 years": 1, "35-year": 2, "a particular season": 1, "March 16": 1}
-{"Aug. 29, 2005": 1, "1928": 1, "the month of September, 2005": 1, "5 days": 1}
-{}
-{"the next several decades": 1, "at least another several decades": 1, "late January": 1, "hurricane years": 1, "spring": 1, "summer": 1, "seasonal": 1, "2000": 1}
-{"2005": 8, "1895-2004": 1, "November": 1, "July": 1, "daily": 1, "seven consecutive days": 1, "late July": 1, "The 2004-2005 winter": 1, "winter": 2, "early spring": 1, "five years": 1, "early 2005": 1, "the end of winter": 1, "subsequent months": 1, "spring": 1, "March-November": 1, "2000": 1, "a wildfire season": 1, "the end of November": 1, "the end of November last year": 1, "October": 3, "1895": 1, "the month": 1, "late January": 1, "January": 1, "The 2005": 1, "a single season": 1, "early December": 1, "annual": 1, "1998": 1, "the year": 2, "the past eight years": 1, "the second-warmest year": 1, "1880-2004": 1, "the past century": 1, "1976": 1, "September": 1, "the late 1970s": 1, "late 2004": 1, "early in the year": 1, "late February": 1, "decades": 1, "year": 1}
-{"Jan. 15": 1, "years": 1, "three-day": 1, "Sept. 16-18": 1, "18 days": 1, "the spring": 1, "summer": 1}
-{"400 years": 1, "about a century": 1, "the last 100 years": 1, "100 years": 1, "Vol. 15, 2000": 1, "the Oligo-Miocene period": 1, "25-30 million years ago": 1, "the last 1000 years": 1, "the previous 2000 years": 1, "the previous millennia": 1, "thousand year": 1, "a thousand years ago": 1}
+{"in the last three decades": 1, "over the last decade": 1, "1998": 1}
+{"later this year": 1, "2005": 1, "by the end of 2008": 1}
+{"september": 3, "october-november": 2, "october": 1, "november": 1, "august": 3, "june-july 2007": 1, "june": 1, "july": 1, "3.75 days": 1, "24 years": 1, "2004": 1}
+{"8:00 a.m. edt": 2, "august 17": 1, "august 19": 1, "tuesday": 2, "tuesday night": 1, "36 hours": 1, "today": 1}
+{"early tuesday": 1, "within the hour": 1, "5 days ahead": 1}
+{"late june": 1, "24 hours": 1, "january 1, 2007": 1, "2004": 1, "2005": 1, "november 30": 1}
+{"1900": 2, "1930": 3, "1940": 1, "1995": 2, "2005": 2, "2004": 1, "2006": 1, "last century": 2, "recent decades": 1, "early part of the 20th century": 1, "july 30, 2007": 1, "100 years": 1}
+{"june 18 - july 10, 2007": 2, "past three years": 1, "six months": 1, "four hours": 1, "two days": 2, "six days": 2, "three days": 1}
+{"two decades": 1, "12 years": 2, "four years": 2, "late 1989": 1, "1979": 2, "2002": 1, "100 years ago": 1, "six to 10 years": 1, "last four years": 1, "a few years ago": 1}
+{"1995": 1, "2006": 1, "2008 hurricane season": 1, "2001": 1, "2007 atlantic hurricane season": 1, "every 60 years": 1, "1954": 1}
+{"next century": 1, "next 25 to 75 years": 2, "year 2080": 1, "next 75 years": 3, "last several decades": 1, "last four years": 1, "previous 20 years": 1, "since 2001": 1, "september 1996": 1, "year 2100": 1}
+{"july": 1, "2005": 1, "a week or longer": 1, "the month after the storm": 1, "1995": 1}
+{"march, 2007": 1, "annually": 1}
+{"recent": 1, "current": 2, "historical": 1}
+{"days": 1, "four decades": 1, "1970": 1, "1999": 1, "1998": 1, "1997": 1, "2003": 1, "hour": 1}
+{"40 years": 1, "june": 1, "100 years": 1}
+{"2001": 1, "may 31": 1, "1981 to the present": 1}
+{"two days before the june 1 start of the 2007 hurricane season": 1, "2007": 1, "june 1": 1, "1992": 1, "2004": 1, "recent years": 1}
+{"2003": 1, "5,000-year": 1, "many centuries": 1, "5,000 to 3,600 years ago": 1, "2,500 to 1,000 years ago": 1, "1700 ad to the present": 1, "3,600 to 2,500 years ago": 1, "1,000 to 300 years ago": 1, "may 24": 1}
+{"2007": 3, "155 years": 1, "january through may 2007": 1, "the rest of the year": 1, "10 years": 1, "the past eight years": 1, "the upcoming storm season": 1, "this year": 1, "an average year": 1, "at least one week's worth": 1, "since 1851": 1, "98 percent of the years": 1}
+{"2007": 3, "last year": 1, "next one to three months": 1, "early may": 1, "june 1 through november 30": 1, "august through october": 1, "august": 1, "1998": 1, "1807": 1, "1870s": 1, "200 years": 1}
+{"1980s": 1, "1990s": 1, "six minutes": 1, "10-15 hours": 1, "june 1": 1, "2004": 1, "six hours": 1, "recent": 1, "three- and five-day": 1}
+{"2007": 3, "may 16-19, 2007": 1, "friday, may 18th": 1, "9:00 am": 1, "volume 14, issue 5s, the may 2007 supplement": 1, "ten times": 1, "long term": 1}
+{"1998": 1, "june 2007": 1, "five decades": 1, "january 2006": 1, "several days": 1, "a couple days": 1}
+{"october 2005": 1, "two months": 1}
+{"march 2007": 1, "2002": 1, "2004": 2, "2003": 1, "2005 hurricane season": 1}
+{"the past 10 hurricane seasons": 1, "another 10 to 40 years": 1, "early april": 1, "2007": 1, "november 30": 1, "early fall 2005": 1, "5 years": 1, "many years": 1}
+{"april 18th": 1, "21st century": 1}
+{"march 8": 1, "the1990s": 1, "may 2003": 1, "this year": 1}
+{"december 2004": 1, "last summer": 1, "2004": 1}
+{"last week": 1, "december 26, 2004": 1}
+{"june 1": 1, "nov. 30": 1, "2006": 3, "2005": 3, "2004": 2, "december": 1, "january": 1, "1995": 2, "2007": 2, "1945": 1, "1981-1982": 1, "2000-2001": 1, "24 years ago": 1, "15 or 20 years": 1, "1952": 1, "1964": 1, "1966": 1, "2003": 1, "last century": 1, "last 30 years": 1, "past 12 years": 1}
+{"early on september 16": 1}
+{"june and july 2006": 2, "nov. 30": 1, "2005": 3, "feb. 27": 1, "1997": 1, "2006": 8, "two weeks": 1}
+{"aftermath": 1, "currently": 1, "20-30 years": 1, "last 150 years": 1, "thousands of years": 1, "march": 1, "past 3,800 years": 1, "any given year": 1, "more than 15 years": 1, "five years": 1, "summer and fall of 2006": 1, "1998": 1, "past year": 1}
+{"july and august 2006": 1, "hours": 1, "late-season": 1, "over time": 1, "very short time": 1}
+{"2005": 4, "march 2": 1, "august": 1, "september 2005": 1, "three weeks": 1, "less than a day": 1, "recent years": 1}
+{"feb. 18": 1, "two years ago": 1, "today": 1, "two days from now": 1, "two or three days after": 1, "2003": 1, "17 flights": 1}
+{"last year": 1, "decades": 1, "1960s": 1, "1983 through 2005": 1, "1983": 1}
+{"spring": 1, "summer": 1, "winter": 1, "march-june": 1, "december-february": 1, "march-may": 1, "1998-2001": 1, "march 15": 1, "may": 1, "1807": 1, "1870s": 1, "200 years": 1}
+{"three to four days later": 1, "several years": 1, "international polar year": 1, "march 1": 1, "feb 26": 1, "february 2": 1, "february 21 to march 10": 1}
+{"nov. 30": 1, "2006": 10, "2005": 8, "2004": 2, "july, 2006": 1, "this past year": 1, "this year": 1, "this summer": 1, "the summer of 2006": 1, "the past few decades": 1, "this past summer": 1}
+{"bimonthly": 1, "december 2006": 1, "2004 hurricane season": 1, "three-month period": 1, "weeks": 1, "months": 2, "long-term": 2, "coming years": 1}
+{"within five to seven years": 1, "a century-old": 1, "15 minutes": 1, "90 minutes": 1}
+{"april": 1, "next year": 1, "this year": 2, "two days in advance": 1, "a few months": 1}
+{"a day or two in advance": 1, "1953": 1, "august 2005": 1}
+{"july 2005": 1, "july 22": 1, "july 23": 1, "july 25": 1, "2006": 1}
+{"july 2005": 1, "july 7, 2005": 1, "july 8": 1, "two hours": 1, "entire day": 1, "65,000 feet": 1, "12,000 feet": 1, "nine miles high": 1}
+{"2006": 12, "30-year": 2, "1861": 1, "20th century": 1, "1976": 1, "1997-2006": 1, "1961-1990": 1, "late december 2005": 1, "early march": 1, "1 january": 1, "september-november": 1, "1950": 1, "january until march": 1, "31 january": 1, "july and august": 1, "july": 1, "1659": 1, "1706": 1, "1768": 1, "5 to 10 years": 1, "30 years": 1, "early december": 1, "early part of the year": 1, "summer": 1, "autumn": 1, "2005/2006": 1, "first quarter of 2006": 1, "2005": 1, "february": 2, "august": 3, "october and november": 1, "first months of the year": 1, "early may": 1, "five-day period": 1, "24-hours": 1, "april": 1, "10-15 may": 1, "june": 1, "november": 2, "december 2005": 1, "second quarter of 2006": 1, "september": 1, "end of the year": 1, "november/december 2006": 1, "atlantic hurricane season": 1, "25 september": 1, "september 2000": 1, "first part of january": 1, "late january": 1, "end of november": 1, "early march 2007": 1}
+{"a month": 1, "2007": 2, "january 2007": 1}
+{"august 2005": 1, "today": 1, "three-year": 1}
+{"2003": 1, "sunday, 22 october": 1, "most years": 1, "each year": 1}
+{"2004": 1, "twentieth century": 2, "early twentieth century": 1, "2001": 2, "2100": 1, "2080s": 1, "2050s": 2, "2005": 1, "2006": 1, "oct. 23": 1, "1995": 2, "sept. 3, 1821": 1, "sept. 21, 1938": 1}
+{"two years": 1, "right after hurricane katrina": 1, "in the coming year": 1, "later next year": 1}
+{"10-day": 2, "daily": 2, "year": 3, "winter": 3}
+{"oct. 4": 1, "july 4, 2005": 1}
+{"oct. 10, 2006": 1, "25 years": 1, "1981 to 2006": 1, "five days": 1, "summer": 2, "winter": 1}
+{"1998-2005": 1, "august 1998": 1, "2005 hurricane season": 1, "august 2005": 1, "september 2004": 1, "september 2005": 1}
+{"weeks": 1, "december": 1}
+{"1997": 1, "three hour periods": 1, "currently": 1}
+{"august 23, 2006": 1, "late spring": 1, "summer": 1, "early fall": 1, "mid-september, 2006": 1, "eight hour": 1, "previous two flights": 1}
+{"four-day": 1, "today": 1, "september 14": 2, "one month after hurricane katrina": 1, "2005": 1}
+{"late 2007": 1, "last year": 1}
+{"last century": 1, "1906-2005": 1, "20th century": 1, "this week": 1, "21st century": 1}
+{"2004": 1, "2005": 1, "spring of 2007": 1, "recent": 1, "long-term": 1, "near future": 1}
+{"35 years": 2, "may 22, 2006": 1, "nov. 28, 2005": 1, "8-month": 1, "past year": 1, "several dozen": 1, "2004": 1, "2001": 1, "rapid-response": 1}
+{"aug. 28": 1, "late september": 1, "twice a day": 1, "20-minute": 1, "once per hour": 1, "between about 10 and 20 degrees north": 1, "days": 1}
+{"several years earlier": 1, "2001-03": 1, "every 10 years": 1, "january 19 and march 31, 2006": 1}
+{"aug. 23": 1, "aug. 25": 1, "aug. 28": 1, "aug. 31": 1, "2005": 1, "20th century": 1, "next decade": 1, "early in the morning": 1, "late": 1, "weeks": 1}
+{"past 50 years": 1, "hurricane season": 1, "between june and november": 1, "23 august": 1, "past several decades": 1, "past half-century": 1, "2005": 1}
+{"1995": 1, "2005": 1, "past several years": 1, "twenty-first century": 1}
+{"20th century": 1, "single decade": 1, "24 hour period": 1}
+{"aug. 15": 1, "mid-september": 1, "late spring": 1, "summer": 1, "early fall": 1}
+{"1970s": 2, "earlier this month": 1, "1994": 1, "two years after Hurricane Andrew": 1, "2001": 1, "four 2004 hurricanes": 1, "before 1992": 1, "1970s and 1980s": 1}
+{"today": 1, "march 29": 1, "13 days": 1, "5 days": 1, "four days": 1}
+{"2003": 1, "june 29": 1}
+{"in 2005": 2, "july of that year": 1, "month-long": 1, "during the flights": 1, "the month of june": 1, "the first month of summer": 1}
+{"last year": 2, "1995": 1, "1901-1970": 1, "early 20th century": 1, "2004-05": 1, "60-to-80-year": 1, "20th century": 1, "1950s": 1, "1970 to 1990": 1}
+{"11\u201312 january 2006": 1, "2005": 1, "2007": 1, "twenty-first century": 1, "twentieth century": 1, "past decade": 1, "recent decades": 1, "three to four days": 1}
+{"past 40 years": 1, "1980": 1, "2003": 1, "1963": 1, "september 11": 2, "first five years": 1}
+{"20 years": 1, "30 years": 1, "100 years": 2, "40 years": 2, "three years": 1, "august 2005": 1, "1960s": 1, "2106": 1}
+{"upcoming": 1, "50 to 70 years": 1, "last 100 years": 1, "19th century": 1, "before 1950": 1, "1950": 1, "1980s": 1, "late 20th century": 1, "late summer": 1, "since the 1980s": 1}
+{"1995": 2, "2003": 1, "2005": 1, "three to six months": 1, "may 15 through november 30": 1, "july through september": 1}
+{"2006": 1, "2005": 1, "1995": 1, "1997": 1, "2002": 1, "next three to six months": 1, "june 1 through november 30": 1, "early august": 1, "august through october": 1, "last 11 hurricane seasons": 1, "nine of the last 11 hurricane seasons": 1, "two below-normal seasons": 1, "2005 Atlantic hurricane season": 1}
+{"2006": 1, "aug. 29, 2005": 1, "aug. 24, 1992": 1, "five to seven years": 1, "years": 2, "long-term": 1, "short-term": 1, "recently": 1, "immediately": 2}
+{"recent years": 1, "past year": 1, "past 25 years": 1, "past couple of years": 1, "future": 1}
+{"april 6, 2006": 1, "month of april": 1, "end of april": 1, "3-12 months": 1, "august and september": 2, "august": 1, "this year": 1, "1995": 1, "10 to 25 years": 1, "summer": 1, "fall": 1}
+{"summer of 2005": 1, "week of april 24, 2006": 1, "july 22": 1, "early on the 23rd": 1, "july 23": 1, "july 24th": 1}
+{"april 24": 1, "july 2005": 1, "last season": 1, "2005": 1}
+{"september 11, 2001": 1, "five years ago": 1, "november 2005": 1, "march 12": 1, "march 19": 1, "june": 1, "september 2005": 1, "15 minutes to two hours": 1}
+{"future": 1, "more than 100 scientific studies": 1, "past": 1, "long term": 1, "last two atlantic hurricane seasons": 1}
+{"last summer": 1, "a month later": 1, "the past 35 years": 2, "35-year trend": 1, "35-year period": 1, "march 16": 1}
+{"aug. 29, 2005": 1, "7:10 a.m. cdt": 1, "september, 2005": 1, "5 days": 1, "1928": 1}
+{"recently": 1, "2005": 1}
+{"late january": 1, "next several decades": 2, "post-world war ii": 1, "2000": 1}
+{"2005": 10, "1895-2004": 1, "end of november": 2, "july": 2, "late july": 1, "2004-2005": 1, "early spring": 1, "early 2005": 1, "end of winter": 1, "spring": 1, "march-november": 1, "2000": 1, "end of november last year": 1, "fall": 1, "october": 2, "late january": 1, "1998": 2, "past eight years": 1, "past century": 1, "1976": 1, "september": 1, "late 1970s": 1, "since 1979": 1, "late 2004": 1, "early in the year": 1, "late february": 1, "remainder of the year": 1, "decades": 1}
+{"jan. 15": 1, "three-day period": 1, "sept. 16-18": 1, "18 days after the hurricane": 1, "spring": 1, "summer": 1, "years": 1}
+{"400 years": 1, "about a century": 1, "100 years": 2, "5,000 years": 1, "Oligo-Miocene period": 1, "25-30 million years ago": 1, "last 1000 years": 1, "previous 2000 years": 1, "previous millennia": 1, "thousand year period": 1, "a thousand years ago": 1}
 {"this month": 1}
-{"Oct. 11": 1, "only a few days": 1, "five to nine days": 1}
-{"the required 60 days": 1, "a month": 1, "daily": 1, "last weekend\u00e2\u0080\u0099s Hurricane Rita": 1}
-{"annual": 1}
-{"year": 1}
-{"late last week": 1, "the weekend": 1}
-{"September 10": 1, "a week": 1, "Tuesday": 1, "Days": 1}
-{"Sept. 18": 1, "1982": 1}
-{"late last week": 1, "2001": 1, "2004": 1, "decades": 1, "millions of years": 1, "years": 2}
-{"from 1970 to 2004": 1, "the 1970s": 2, "1990": 1, "the1970s": 1, "the last decade": 3, "1995": 1, "the period of 1975-89": 1, "the period of 1990-2004": 1, "July": 1}
-{"the weekend": 1}
-{"1982": 1}
-{"the coming weeks": 1}
+{"oct. 11": 1, "a year": 1, "a few days": 1, "five to nine days": 1}
+{"immediate wake": 1, "a matter of hours": 1, "60 days": 1, "2005-06": 1, "midnight on sept. 11": 1, "mid-afternoon on sept. 12": 1, "a month": 1, "last weekend": 1}
+{"24 september": 1, "morning": 1, "annual": 1}
+{"48 hours": 1, "five years ago": 1, "this year": 1}
+{"late last week": 1, "over the weekend": 1}
+{"september 10": 1, "a week": 1, "weekend": 1, "tuesday morning": 1, "days before the hurricane": 1, "1969": 1}
+{"sept. 18": 1, "twice per week": 1, "1982": 1, "long-term": 1, "future": 1}
+{"2001": 1, "2004": 1, "late last week": 1, "millions of years": 1, "decades": 1}
+{"1970": 2, "2004": 1, "1970s": 2, "1990": 1, "last decade": 2, "1975-89": 1, "1990-2004": 1, "july": 1, "since 1995": 1}
+{"weekend": 1}
+{"since 1982": 1, "during hurricane katrina": 1, "long before storms reach land": 1}
+{"coming weeks": 1, "at this point in time": 1, "long term": 1}
+{"short and long": 2}
+{"aug. 30": 1, "2004": 1, "sept. 1": 1, "2001": 1, "10 minutes": 1, "two hours": 1}
+{"thursday": 1, "tomorrow": 1}
+{"august 24": 1, "august 28": 1, "24 hours": 1, "12 hours": 1, "60 hours": 1, "7:10 a.m. edt": 1}
+{"sept. 11, 2001": 1, "just days after the attacks": 1}
+{"hourly": 1, "10 years": 1}
+{"monday": 1, "today": 1}
+{"today": 1, "mid-1970s": 1, "recent": 1, "coming years": 1, "future": 2}
+{"april 1, 2003": 1, "september 1997": 1, "first time": 1}
+{"aug. 15": 1, "this year's atlantic hurricane season": 1, "a day": 1}
+{"late-season": 1, "past fifty years": 1, "thursday, 11 august": 1, "this week": 1, "100 years": 1, "a century": 1, "227 years": 1, "1450 ad": 1, "early-year": 1, "late-year": 1, "dozen or so days": 1, "recently": 1}
+{"september of 2004": 1, "august 5, 2005": 1, "between 8:00 pm cdst and midnight on september 15": 1, "september 15 at 5:00 pm cdst": 1}
+{"peak of the season": 1, "june": 1, "july": 1, "august to october": 1, "2003": 1, "2004": 1, "1995": 2, "1950s": 1, "1960s": 1, "1970-1994": 1, "25-year period": 1, "august and november": 1, "june 1 through november 30": 1, "1933": 1, "1969": 1, "1950": 1, "2005": 1, "last eleven years": 1, "multi-decadal (approximately 20-30 year) cycles": 1, "another decade or perhaps longer": 1}
+{"past decade": 1, "1998": 1}
+{"three hours": 1, "2004": 1}
+{"1995": 1, "june 1": 1, "november 30": 1, "2005": 1, "early august": 1, "late august through october": 1, "today": 1, "last year": 1}
+{"2002": 2, "1994": 3, "2001": 1, "today": 1, "later this year": 1, "over the years": 1, "recent": 1}
+{"first full spring": 1, "this spring": 1, "5 minutes": 1, "a minute or less": 1, "5- to 10-second resolution": 1, "1995": 1}
+{"1995": 1, "may 3, 1999": 1, "1999": 2, "five minutes": 1, "a minute or less": 1, "five- to 10-second resolution": 1, "this spring": 1}
+{"this year": 3, "2005": 1, "the past 154 years": 2, "last year": 2, "the past 10 years": 1, "1990": 1, "1996": 2, "1989": 1}
+{"may 19": 2, "1998": 1, "may 17": 1, "may 18": 1, "03:22 a.m. local time": 1, "09:22 utc": 1, "afternoon": 1, "evening": 1, "night": 1, "intensification period": 1}
+{"8:30 a.m. feb. 20": 1, "2005": 1, "1971": 1, "more than a decade": 1, "after 1983": 1, "nine months": 2, "six months": 1, "12-month": 1, "christmastime": 1}
+{"daily": 2, "every 12 hours": 1, "two days ahead": 1, "november 2003": 1, "last summer": 1, "1995": 1, "next year": 1, "24 hours": 1}
+{"weeks": 1, "2004 summer": 1, "last 30 years": 1, "next few years": 1, "last summer": 1, "thousands of years": 1, "beginning of the 20th century": 1, "last few years": 1, "few hours": 1}
 {}
-{"Aug. 30": 1, "Sept. 1": 1, "2001": 1}
-{"Thursday": 1, "Tomorrow": 1}
-{"Wednesday": 1, "daily": 2, "between August 24 andAugust 28": 1}
-{"just days": 1, "Sept. 11, 2001.The": 1}
-{"the past 10 years": 1}
-{"Monday": 1, "today": 1}
-{"today": 1, "the mid-1970s": 1, "coming years": 1}
-{"September1997": 1}
-{"Aug. 15": 1, "this year's": 1, "a day": 1}
-{"late-season": 1, "annual": 2, "the past fiftyyears": 1, "Thursday, 11 August": 1, "this week": 1, "100 years": 1, "a century": 1, "227 years": 1, "1450 AD": 1, "early-year": 1, "late-year": 2}
-{"September of 2004to": 1, "August 5, 2005": 1}
-{"season": 3, "the last eleven years": 1, "June": 1, "July": 1, "the season": 1, "last spring": 1, "August toOctober": 1, "2003": 1, "2004": 1, "multi-decadal(approximately 20-30 year": 1, "seasons": 1, "another decade or perhapslonger": 1, "1995": 1, "1950s": 1, "and1960s": 1, "1970-1994resulted": 1, "25-year": 1, "August": 1, "November": 1, "even a few days": 1, "June 1 throughNovember 30": 1, "1933": 1, "1969": 1, "2005": 1}
-{"the past decade": 1, "1998": 1}
-{"2004": 1}
-{"1995": 1, "June 1": 1, "November 30": 1, "2005": 2, "season": 1, "early August": 1, "late August": 1, "the Eastern Pacific hurricane season": 1, "today": 1}
-{"2002": 2, "between 1994 and 2001": 1, "1994": 3, "the years": 1, "today": 1, "later this year": 1, "pre-1994": 2}
-{"first full spring": 1, "this spring": 1, "1995": 1, "many years": 1}
-{"the past": 1, "1995": 1, "May 3, 1999": 1, "1999": 1, "many years": 1, "ROTATE-05, this spring": 1}
-{"this year": 2, "the past 154 years": 2, "2005": 1, "last year": 1, "several days": 1, "every week": 1, "This year": 1, "Last year": 1, "past 10 years": 1, "1990": 1, "from 1990 to 1996": 1, "1996": 1, "1989": 1}
-{"May 19": 2, "1998": 1, "May 18": 1}
-{"Feb. 20": 1, "2005": 1, "the North Atlantic hurricane season": 1, "1971": 1, "more than a decade": 1, "1983": 1, "nine months": 1, "six months": 1, "nine-month": 1, "12-month": 1}
-{"daily": 2, "two days": 1, "November 2003": 1, "Last summer": 1, "1995": 1, "next year": 1}
-{"weeks later": 1, "2004": 1, "the last 30 years": 1, "the next few years": 1, "last summer": 1, "years": 1, "the beginning of the 20th century": 1, "the last few years": 1}
-{}
-{"the last ten days": 1, "May": 2, "year": 1, "1998": 2, "yearly": 1, "Every year": 1, "any month of the year": 1, "the months of March": 1, "2004": 1, "August": 5, "September": 6, "1979": 1, "1994": 1, "1992": 1, "1993": 1, "1967": 1, "Other years": 1, "1996": 1, "2001": 1, "September 1967": 1, "the year": 1, "early May": 1}
-{"2004": 6, "1895-2003": 1, "the 24th warmest year": 1, "the end of November": 1, "annual": 2, "1971-2000": 2, "1918": 1, "a record warm summer": 1, "May": 1, "June": 2, "July": 1, "August": 4, "the summer of 2004": 1, "June-August": 2, "the low 50s": 1, "the middle of August": 1, "Spring": 1, "the season": 2, "Fall": 1, "Winter": 1, "November": 2, "early December": 2, "1886": 2, "1992": 1, "Ivan": 1, "September": 1, "the hurricane season": 1, "season": 1, "1900": 1, "a wetter-than-average": 1, "summer": 3, "the year": 2, "four-to-five-year": 1, "the first half of 2004": 1, "the fall": 1, "October": 1, "year's end": 1, "the wildfire season": 1, "the summer": 1, "the 92 days": 1, "19 days": 1, "January-December 2004": 1, "1880-2003": 1, "1880": 1, "Boreal fall (September-November": 1, "an active tropical season": 1, "June-October": 1, "March": 1, "February": 1, "the latter half of 2004": 1, "early 2005": 1}
-{"the last 10 years": 1, "1961": 1}
-{"This season": 1, "the summer": 1, "several months": 1, "season": 1, "2004": 1, "5-year": 1, "FY01-FY05": 1}
-{"September": 1, "next year's": 1, "2002": 1}
-{"four-day": 1, "Nov. 7 through 10.Sinkholes": 1, "Sunday, Nov. 7": 1, "1872": 1, "Today": 1}
-{"three nights": 1}
-{"a light production year": 1, "annually": 1, "many years": 1, "years": 1, "Next year's": 1, "winter": 1}
-{"1992": 1, "prior years": 1}
-{"Ivan": 1, "Sept. 4": 1, "Sept. 5, 2004": 1, "December 1999": 1, "every 9 days": 1}
+{"four of the last ten days in may": 1, "1998": 2, "2003": 1, "every year": 1, "march through july": 1, "2004": 1, "august and september": 2, "august": 3, "1979": 1, "1994": 1, "1992": 1, "1993": 1, "1985": 1, "september": 3, "1967": 2, "1996": 1, "2001": 1, "early may": 1, "last part of may": 1}
+{"2004": 6, "1895-2003": 1, "november": 2, "1971-2000": 2, "1918": 1, "may": 1, "june": 3, "july": 1, "august": 3, "summer of 2004": 1, "june-august": 2, "spring": 1, "fall": 2, "winter": 1, "early december": 1, "1886": 2, "1992": 1, "september": 1, "october": 2, "1900": 1, "january-december 2004": 1, "1880-2003": 1, "1880": 1, "boreal fall (september-november)": 1, "march": 1, "february": 1, "latter half of 2004": 1, "early 2005": 1}
+{"current": 1, "last 10 years": 1, "1961": 1}
+{"this season": 2, "summer": 1, "fall": 1, "2004": 1, "5-year": 1, "fy01-fy05": 1, "several months": 1}
+{"september": 1, "next year's hurricane season": 1, "2002": 1}
+{"four-day period": 1, "nov. 7 through 10": 1, "nov. 7": 1, "2:15 p.m.": 1, "1872": 1}
+{"4 p.m.": 1, "an hour and a half later": 1, "three nights after the hurricane": 1, "two hours earlier": 1, "nights prior to the storm": 1, "about dusk": 1, "a few hours later": 1, "7:30 p.m.": 1, "nearly seven hours": 1}
+{"late in the growing season": 1, "next year": 1, "extended period": 1}
+{"1992": 1, "prior years": 1, "a year": 1}
+{"24- to 48-hour timescales": 1, "sept. 4, 2004": 1, "sept. 5, 2004": 1, "december 1999": 1, "9 days": 1}
 {"a week ago": 1, "2003": 1, "this year": 1}
+{"duration of extreme loads": 1}
+{"saturday": 1, "friday": 1, "hurricane season": 2, "less than a month": 1, "march 2002": 1, "two and a half years": 1, "starting on monday": 1, "week": 1, "2002": 1, "1995": 1, "1991": 1}
+{"july": 1, "1998 through 2000": 1, "last 30 years": 1}
+{"last seven years": 1, "1997": 1, "three-year": 1, "four years": 1, "more than 3 years": 1, "this year's hurricane season": 1, "next month": 2, "end of the decade": 1, "brief period": 1}
+{"1998": 1, "august 2001": 1, "two years": 1, "november 2003": 1, "end of the decade": 1, "every three hours": 1}
+{"more than 100 years": 1, "early": 1, "the last 50 years": 1, "since 1900": 1, "between 1900 and 2000": 1, "since 1994": 1, "coming months": 1}
+{"1998": 2, "2001": 1, "two to three weeks": 1, "late 1998": 1}
+{"1996": 3, "1999": 3, "2000": 1, "2001": 1, "june 14": 2, "the week of monday, june 14, 2004": 1, "several years after the storms": 1, "the 1990s": 1, "this week": 1, "hurricane season": 2, "long-term": 2, "shortly after the storms": 1}
+{"monday, january 12": 1, "august 1998": 1, "a few days": 1, "six hours": 1}
+{"2003": 1, "this year": 1, "the past four years": 1, "since the 1960s": 1, "1\u20132% a year": 1, "since 2000": 1, "prior to 2000": 1, "the late 1990s": 1, "the mid-1990s": 1, "2001": 2, "1992": 1, "the next decade": 1, "late 2004": 1, "this autumn": 1, "2006": 1}
+{"early hours": 1, "one-year pilot program": 1, "one-year testing phase": 1, "one-year implementation phase": 1, "day-to-day basis": 1, "january 2003": 1, "june 2003 to may 2004": 1}
+{"20 minutes": 1}
+{"five-to-ten seconds": 1, "two-day": 1, "morning": 1, "five-day": 1, "week": 1, "future": 1}
+{"noon edt": 1, "wednesday": 1, "sept. 17": 2, "6:00 a.m. edt": 1, "9:00 a.m. edt": 1, "throughout the day": 1}
+{"late august to mid-september": 1, "thirty years ago": 1, "over the past 10 years": 1, "several times a day": 1}
 {}
-{"Saturday": 1, "hurricane season": 1, "less than a month": 1, "Friday": 1, "1995": 1, "summer months": 1, "the past": 1, "March 2002": 1, "1991": 1, "two and a half years": 1, "Monday": 1, "last year's": 1, "2002": 1, "the week": 1}
-{"July": 1, "1998 through 2000": 1, "the last 30 years": 1}
-{"the last seven years": 1, "1997": 1, "three-year": 1, "four years": 1, "more than 3 years": 1, "this year's": 1, "another full season": 1, "next month": 2, "the end of the decade": 1, "next month's": 1}
-{"1998": 1, "August 2001": 1, "two years": 1, "November 2003.NASA": 1, "the end of the decade": 1}
-{"more than 100 years": 1, "1900": 1, "the last 50 years": 1, "between 1900 and 2000": 1, "1994": 1, "the coming months": 1}
-{"between 1998 and 2001": 1, "1998": 1, "season": 1, "late 1998": 1, "two to three weeks": 1}
-{"1996": 4, "this week": 1, "June 14": 1, "Irene": 1, "1999": 3, "the 1999 hurricane season": 1, "the 1990s": 1, "2000": 1, "2001": 1, "The week of Monday, June 14, 2004": 1, "two hurricane seasons": 1, "several years": 1, "annual": 1, "the second hurricane season": 1}
-{"annual": 1, "Monday, January 12": 1, "August 1998": 1, "a few days": 1}
-{"2003": 1, "year": 3, "the past four years": 1, "the 1960s": 1, "2000": 2, "the late 1990s": 1, "the mid-1990s": 1, "2001": 2, "1992": 1, "the next decade": 1, "late 2004": 1, "day": 1, "this autumn": 1}
-{"one-year": 1, "day": 1, "January 2003": 1, "June 2003": 1, "May 2004": 1}
+{"august": 2, "years": 1, "late 1990s": 1}
+{"april 1, 2003": 1, "september 1997": 1, "first time": 1}
+{"this year's": 1, "the past": 1, "recent": 1, "interglacial stages of the pleistocene epoch": 1, "geological time": 1, "older times": 1}
+{"may 2": 1, "the past": 1, "this summer": 1, "the next three years": 1}
+{"march 2002": 1, "between 1900 and 1996": 1, "two out of every three years": 1, "15 to 20 years": 1}
+{"last month": 1, "past events": 2, "future": 3, "past": 2, "100 years": 1}
+{"monday, dec. 17": 1, "september 1999": 1, "spring": 1}
+{"september 24": 2, "the last three days": 1, "september 10": 1, "eight different locations": 1, "aug. 16 through sept. 24": 1, "this year's mission": 1}
+{"earlier this summer": 1, "tuesday, aug. 14": 1, "late september": 1, "thanksgiving": 1, "september 1999": 1, "this summer": 1, "fall of 2001": 1}
+{"2004": 1, "1984": 1, "more than a day later": 1}
+{"fall of 1999": 1, "1997": 1, "late 1999": 1, "one year later": 1, "july 5, 2001": 1, "1998": 1, "a month after hurricane floyd": 1, "six hours": 1, "ten days": 1, "spring of 2003": 1}
+{"most recent": 1}
+{"march": 1, "august": 1, "september": 1, "june 17, 1997": 1, "three days advance notice": 1, "three years ago": 1}
+{"december 1999": 1}
+{"the start of the 20th century": 1, "the last century": 1, "later in this century": 1, "1990 through 1997": 1, "one or several days": 1}
+{"june 1999": 1, "1999 hurricane season": 1, "12 to 48 hours": 1, "three hours": 1, "46 hours": 2, "a few days": 1, "june 6": 1, "current hurricane season": 1}
+{"one hour": 1, "june 1999": 1, "18 months earlier": 1}
+{"24 hours": 1, "december 1999": 1}
+{"this year": 1, "oct. 31": 1, "early august": 1, "last year": 1, "fourth season": 1, "ninth year": 1, "10 hours": 1}
+{"20th century": 3, "since 1900": 1, "each year": 1, "september 1900": 1, "june 1972": 1, "july 1976": 1, "spring and summer of 1993": 1, "more than 110 years": 1}
+{"today": 1, "december 1997": 1, "1978": 1, "late this year": 1}
+{"1999": 1, "11.6 minutes": 1, "41 minutes": 1, "25-year": 1, "1997": 1, "april 1994": 1}
+{"this hurricane season": 1, "two years ago": 1, "1995": 1, "the past two years": 1, "last month": 1, "the coming hurricane season": 1, "1992": 1, "this winter": 1}
+{"1938 to 1999": 1, "50- to 70-year": 1, "62 years": 1, "2000 season": 1, "later this year": 1}
+{"1949 through 1997": 1, "15 days": 1, "a couple of weeks": 1, "March 17": 1, "a week in advance": 1, "30 to 60 days": 1, "June through November": 1, "48 years": 1, "1979 to 1997": 1, "earlier years": 1, "later years": 1}
+{"feb. 19": 1, "feb. 17-22": 1, "2000": 1, "1969": 1, "5,000 years": 1, "10 years": 1, "two years": 1, "300-600 years": 2, "past millennium": 2, "1,000 years": 1, "1970s": 1, "1980s": 1, "1990s": 1, "past decade": 1, "past five millennia": 1, "past 150 years": 1}
+{"first 12 hours": 1, "3 days": 1, "aug. 1 to aug. 5, 1998": 1, "\u00e2\u0080\u009999 hurricane season": 1, "december 1997": 1, "years": 1}
+{"2000": 6, "1999": 5, "1995": 3, "1996": 2, "1998": 2, "1970-94": 2, "1950-1990": 1, "16 years": 1, "June 1-Nov. 30": 1, "100-year": 1, "last year": 1, "two years": 1, "12-16 months": 1, "26 to 30 months": 1, "roughly two years": 1, "1995-99": 1, "five consecutive years": 1}
+{"24-hour": 1, "every 4 hours": 1}
+{"now": 1, "periodically": 1, "coming months": 1, "weeks": 1, "months": 1}
+{"this season": 1, "11 to 14 months": 1, "several months": 1, "right now": 1}
 {}
-{"two-day": 1, "five-day": 1, "this week": 1}
-{"Wednesday, Sept. 17": 1, "Sept. 17": 1, "the day": 1}
-{"late August to mid-September": 1, "El Nino and La Nina": 1, "Thirty years ago": 1, "the past 10 years": 1, "Today": 1}
-{}
-{"as early as August": 1, "years": 1, "the late 1990s": 1, "August": 1}
-{"April 1, 2003,": 1, "September 1997": 1}
-{"year": 1, "the Pleistocene epoch": 1}
-{"May 2": 1, "this summer": 1, "the next three years": 1}
-{"March 2002": 1, "between 1900 and 1996": 1, "the years": 1, "generations": 1, "the 15 to 20 years": 1}
-{"last month": 1, "the past 100 years": 1}
-{"this testing season": 1, "Monday, Dec. 17": 1, "the spring": 1, "September 1999": 1}
-{"September 24.\"We": 1, "the last three days": 1, "September 10": 1, "year": 1, "Aug. 16 through Sept. 24": 1, "the hurricane season": 1}
-{"earlier this summer": 1, "Tuesday, Aug. 14": 1, "late September": 1, "Thanksgiving": 1, "September 1999": 1, "this summer": 1, "the fall of 2001": 1}
-{"daily": 2, "1984": 1, "more than a day later": 1, "day": 1, "everyday": 1}
-{"the fall of 1999": 1, "1997": 1, "just months": 1, "late 1999": 1, "two months": 1, "One year later": 1, "July 5, 2001": 1, "1998": 1, "a month": 1, "less than ten days old": 1, "the spring of 2003": 1}
-{}
-{"March": 1, "August": 1, "September": 1, "only three days": 1, "June 17, 1997": 1, "that day": 1, "Three years ago": 1}
-{"December 1999": 1}
-{"the start of the 20th century": 1, "daily": 1, "the last century": 1, "several days": 1, "later in this century": 1, "summer": 1, "1997": 1, "1990": 1, "the next century": 1}
-{"June 1999": 1, "every day": 1, "the 1999": 1, "a few days": 1, "the current hurricane season": 1, "June 6": 1, "This year": 1}
-{"June 1999": 1, "18 months earlier": 1}
-{"December 1999": 1}
-{"this year": 1, "this hurricane season": 1, "Oct. 31": 1, "early August": 1, "last year": 1, "fourth season": 1, "the ninth year": 1}
-{"the 20th century": 2, "1900": 1, "each year": 1, "more than 110 years": 1, "June 1972": 1, "Four years later": 1, "July 1976": 1, "the spring and summer of 1993": 1, "the 20th Century\u00e2\u0080\u0094USGS Measures a Century of Floods": 1}
-{"today": 1, "1978": 1, "December 1997": 1, "late this year": 1}
-{"every day": 1, "1999": 1, "25-year": 1, "1997": 1, "April 1994": 1, "the Atlantic hurricane season": 1}
-{"This hurricane season": 1, "Just two years ago": 1, "1995": 1, "the past two years": 1, "last month": 1, "the coming hurricane season": 1, "this winter": 1, "1992": 1}
-{"1938 to 1999": 1, "an El Nino year": 1, "a La Nina year": 1, "El Nino and La Nina": 1, "the 62 years": 1, "years": 1, "El Nino years": 1, "the 2000 season": 1, "this season": 1, "later this year": 1}
-{"1949 through 1997": 1, "about 15 days": 1, "a couple of weeks": 1, "March 17": 1, "a week": 1, "every 30 to 60 days": 1, "June through November": 1, "the Atlantic Ocean hurricane season": 1, "each of": 1, "the 48 years": 1, "earlier years": 1, "later years": 1, "1979 to 1997": 1}
-{"the most recent millennium": 1, "Feb. 19": 1, "annual": 2, "2000": 1, "Feb. 17-22": 1, "day": 1, "some 5,000 years": 1, "the past": 1, "about 150 years": 1, "1969": 1, "the past five millennia": 1, "the past 10 years": 1, "the past two years": 1, "one millennium": 1, "300-600-year": 1, "the past millennium": 1, "millennial": 1, "the past 1,000 years": 1, "the past decade": 1, "the 1970s": 1, "the 1990s": 1}
-{"3 days": 1, "three-day": 1, "Aug. 1 to Aug. 5, 1998": 1, "years": 1, "the \u00e2\u0080\u009999 hurricane season": 1, "December 1997": 1}
-{"a \"moderate\" season": 1, "2000": 6, "the years": 1, "1995": 3, "1996": 2, "1998": 1, "1999": 4, "the 1999 season": 1, "the 16 years": 1, "seasonal": 1, "the season": 1, "the end of the June 1-Nov. 30": 1, "the period 1950-1990": 1, "recent years": 1, "the average season": 1, "the relatively quiet period between 1970-94": 1, "next season": 2, "year": 1, "100-year": 1, "last year": 1, "the 2000 season": 1, "the seasons of 1998": 1, "the last third of August of this year": 1, "the first two-plus months of the 1999 season": 1, "the summer of 2000": 1, "this year": 2, "Next year": 1, "12-16 months": 1, "about 26 to 30 months": 1, "roughly two years": 1, "the last year": 1, "1970 to 1994": 1, "The years 1995-99": 1, "the most-active five consecutive years": 1}
-{}
-{"the coming months": 1, "weeks": 1, "months": 1}
-{"season": 1, "this season": 1, "every 11 to 14 months": 1, "several months": 1}
-{}
-{"last month": 1, "the next year": 1, "each year": 1}
-{"September 20": 1, "September 21": 1, "earlier this week": 1}
-{"Sept. 21": 1, "125-year-old": 1, "February": 1, "1989": 1, "1886": 1}
-{"this yearcalled": 1, "June 1": 1, "Nov. 30": 1, "mid-August through October": 1, "more than a decade": 1, "an active year": 2, "1999": 3, "today": 1, "the season": 1, "a season": 1, "each year": 1, "1950-1990": 1, "this season": 1, "this year": 1, "1950": 1, "1955": 1, "1961": 1, "1964": 1, "1995": 1, "seasons": 2, "the year": 1, "The period": 1, "four consecutive years": 1, "1900-25": 1, "1970-94": 1, "the early 1930s": 1, "1960s": 1, "hurricane seasons": 1, "decades": 1, "between 1994 and 1995": 1, "seasonal": 1, "16th year": 1}
-{"1989": 1, "Every three years": 1, "1993": 1, "10 years": 1, "Ten years": 1, "130 years": 1, "a couple of hundred years old": 1, "another 100 years": 1, "today": 1, "September": 1, "2000": 1, "2003": 1}
-{}
-{"the weekend": 1, "Monday": 2, "late Monday": 1, "Wednesday": 1, "a few days": 1, "Sept. 14": 1}
-{"between 1950 and 1998": 1, "a season": 1, "the last 50 years": 1, "1999": 1, "a non-El Ni\u00c3\u00b1o-related year": 1, "the mid-1960s": 1, "the early 1990s": 1, "annually": 1, "some years": 1, "Christmas": 1, "June 1": 1, "September 10": 1, "November 30": 1, "between mid-August and mid-October": 1}
-{"last summer": 1, "a new hurricane season": 1, "October 1997": 1, "February 1998": 1, "August 1998": 1, "the 1998 season": 1, "1992": 1, "1997": 1}
-{"this year": 4, "season": 1, "1996": 1, "1998": 1, "the extreme season of 1995": 1, "Last year's": 1, "1950-1990": 1, "annually": 1, "the past century": 1, "100-year": 2, "December 1998": 1, "April 7": 1, "December": 1, "early April": 1, "the month of May": 1, "an active season": 1, "June 1-Nov. 30": 1, "1999": 1, "August and September 1999.The": 1, "its 16th year": 1, "1995": 1, "two or more decades": 1}
-{"this summer": 1, "today": 2, "June 1 - Nov. 30": 1, "later this summer": 1, "1992": 1, "about two days": 1}
-{"today": 1, "Feb. 19": 1, "August 1997": 1, "Dec. 26, 1997": 1}
-{"annual": 1, "year": 1, "1925-1995": 1, "1960-1994": 1, "1983-1996(based": 1, "1997": 2, "annually": 1}
-{"seven-week": 1, "last summer": 1}
-{"1997-98": 1, "1993": 1, "15-year": 1, "a season": 1, "a century": 1, "August 1998": 1, "early August": 1, "the fall of 1998": 1, "thiscentury": 1, "the past year or so": 1, "winter": 2, "several weeks": 1, "winters": 1, "Spring": 1, "fromApril through June 1998": 1, "summer": 1, "the winter": 1, "spring": 1, "August": 1, "1997": 2, "1998": 1, "El Nino-related": 1}
-{"Nov. 27, 1997": 1, "Dec. 8, 1997": 1, "year": 1, "Last July": 1}
-{"806": 1, "1988": 1, "the years": 1, "six-week": 1, "1981": 1, "1989": 1, "1971": 1, "1997": 1, "Aug. 31, 1971": 1}
-{"today": 1}
-{"the past 15 years": 1, "recent years": 1, "the years": 1, "1985": 1, "months": 1}
-{"winter": 2, "the past 18 years": 1, "the past 10 or 11 years": 1}
-{"this summer": 1, "many years": 1, "1995": 1, "August": 1, "1996": 1, "this year": 1}
-{"Wednesday": 1, "last year": 1, "June 1997": 1, "1963": 1, "Today": 1, "1995": 1, "Contact\"(1997": 1}
-{}
-{"season": 2, "next year's": 1, "September 1989": 1}
-{"Sunday": 1, "the 1998 season": 1}
-{"August": 1, "September": 1}
-{"weekend": 2, "the weekend": 3, "Monday": 1, "Tuesday": 3, "Wednesday": 1, "weekly": 1, "daily": 5, "day of the week": 1, "days": 1, "weeks": 1, "seven-day": 2, "week": 1, "a weekend": 1, "Thursday": 2, "Sunday": 2, "from 1945 to 1996": 1, "each day of the week": 1, "50 years": 1, "the week": 1, "Saturday": 1, "the 1960s": 1, "August 6": 1}
-{"October 19": 1, "1993": 1, "July 31, 1998": 1, "the three years": 1, "just days before": 1, "the following months": 1, "six weeks": 1, "up to one year": 1, "the past 20 years": 1}
-{"1992": 1}
-{"31 years": 1, "the 7 years": 1, "the other 24 years": 1, "El Ni\u00c3\u00b1o years": 1, "years": 1, "Christmas": 1, "March of 1997": 1, "this century": 1, "the hurricane season": 1, "September of 1997": 1, "decades": 1, "the last 30 years": 1, "about 2 days": 1, "between 1963 and 1993.While": 1, "year": 2, "the 31 years": 1, "1964": 1, "1973": 1, "1987": 1, "the years": 1, "March 1998": 1}
-{"August 1992": 1}
-{"Nov. 26": 1, "1997": 8, "August": 3, "the season": 1, "the season,": 1, "Nov. 30": 1, "annually": 1, "the hurricane season": 2, "the period between 1995-1997": 1, "three-year": 2, "116 hurricane days": 1, "year": 1, "this time of year": 1, "other years": 1, "1957": 2, "1972": 2, "1982": 2, "1982-83": 1, "this year": 4, "1991-1993": 1, "the 1998": 1, "the nine years": 1, "the 1998 season": 1, "Dec. 5": 1, "early December": 1, "April": 1, "June": 1}
-{"between the years 1965 to 1990": 1, "September": 2, "November": 1, "January": 1, "March": 1, "May": 1, "June": 1, "spring": 1, "summer": 1, "the years 1900 to 1990": 1, "the months of November": 1, "December": 1, "1913": 1, "Nov. 10, 1975": 1}
+{"last month": 1, "next year": 1}
+{"september 20": 1, "september 21": 1, "earlier this week": 1}
+{"september 21": 1, "10th anniversary": 1, "1989": 1, "1886": 1, "february": 1}
+{"this year": 1, "june 1": 1, "nov. 30": 1, "mid-august through october": 1, "more than a decade": 1, "1999": 3, "1950-1990": 1, "1950": 1, "1955": 1, "1961": 1, "1964": 1, "1995": 1, "to date": 1, "1995-98": 1, "four consecutive years": 1, "1900-25": 1, "1970-94": 1, "early 1930s through the late 1960s": 1, "between 1994 and 1995": 1, "16th year": 1}
+{"1989": 1, "after the hurricane": 1, "every three years since 1993": 1, "within 10 years": 1, "ten years": 2, "130 years": 1, "a couple of hundred years": 1, "another 100 years": 1, "today": 1, "september": 1, "2000": 1, "2003": 1}
+{"first nine hours": 1, "additional 19 hours": 1}
+{"over the weekend": 1, "monday night": 1, "late monday": 1, "wednesday": 1, "september 14": 1, "4:00 pm edt": 1, "per year": 1}
+{"1950": 1, "1998": 1, "in the last 50 years": 1, "1999": 1, "mid-1960s": 1, "early 1990s": 1, "every three to seven years": 1, "june 1": 1, "september 10": 1, "november 30": 1, "mid-august": 1, "mid-october": 1}
+{"last summer": 1, "october 1997": 1, "february 1998": 1, "august 1998": 1, "1998 season": 1, "1992": 1, "1997": 1}
+{"this year": 3, "1996": 1, "1998": 2, "1995": 1, "last year": 1, "1950-1990": 1, "the past century": 1, "december 1998": 1, "april 7": 1, "may": 1, "june 1-nov. 30": 1, "1999": 1, "august and september 1999": 1, "16th year": 1, "since 1995": 1, "two or more decades": 1}
+{"this summer": 1, "june 1 - nov. 30 hurricane season": 1, "1992": 1, "two days away": 1}
+{"feb. 19": 1, "august 1997": 1, "dec. 26, 1997": 1, "today": 1, "11 hours": 1, "a few hours": 1, "minutes": 1}
+{"1925-1995": 1, "1960-1994": 1, "1983-1996": 1, "1997": 2}
+{"seven-week": 1, "last summer": 1, "132 hours": 1}
+{"1997-98": 1, "august 1998": 1, "early august": 1, "fall of 1998": 1, "past year or so": 1, "december-february": 1, "february": 1, "winter": 3, "spring": 2, "april through june 1998": 1, "august": 1, "1997": 2, "1993": 1, "season": 1, "century": 1}
+{"nov. 27, 1997": 1, "dec. 8, 1997": 1, "last july": 1}
+{"1988": 1, "1981": 1, "1989": 1, "1971": 2, "aug. 31, 1971": 1, "six-week": 1, "twenty minutes": 1, "six-hour": 1, "five hours": 1, "eight hours": 1}
+{"later on": 2, "today": 1}
+{"past 15 years": 1, "1985": 1, "recent years": 1}
+{"18 years": 1, "10 or 11 years": 1, "soon": 1, "during hurricane andrew": 1}
+{"this summer": 1, "many years": 1, "1995": 1, "august": 1, "12 hours": 1, "1996": 1, "this year": 1}
+{"early tuesday": 1, "late tuesday morning": 1, "wednesday morning": 1, "monday night": 1, "last year": 1, "june 1997": 1, "1963": 1, "1995": 1, "1997": 1}
+{"24 hours": 1}
+{"this season": 1, "next year's hurricane season": 1, "september 1989": 1, "multi-year": 1}
+{"sunday afternoon": 1, "1:34 p.m. edt": 1, "seven-hour mission": 1, "1998 season": 1, "11 a.m. (15z)": 1}
+{"august": 1, "september": 1, "27,000 feet": 2, "35,000-40,000 feet": 1, "65,000 feet": 1, "5,000-10,000 feet": 1}
+{"weekend": 5, "monday": 1, "tuesday": 3, "wednesday": 1, "thursday": 2, "sunday": 2, "middle of the week": 1, "1945 to 1996": 1, "first part of the week": 1, "last part of the week": 1, "every 6 hours": 1, "1960s": 1, "august 6": 1}
+{"october 19": 1, "1993": 1, "july 31, 1998": 1, "three years preceeding the storm": 1, "six weeks after the hurricane": 1, "one year": 1, "20 years": 1}
+{"1992": 1, "one year later": 1}
+{"31 years": 2, "7 years": 1, "24 years": 1, "march of 1997": 1, "this century": 1, "hurricane season": 1, "september of 1997": 1, "the last 30 years": 1, "2 days": 1, "1963": 1, "1993": 1, "1964": 1, "1973": 1, "1987": 1, "1990": 1, "march 1998": 1}
+{"august 1992": 1}
+{"nov. 26": 1, "august": 2, "nov. 30": 1, "annually": 1, "1995-1997": 1, "three-year period": 1, "this time of year": 1, "1957": 2, "1972": 2, "1982": 2, "1982-83": 1, "1991-1993": 1, "this year": 3, "1997": 5, "1998": 2, "dec. 5": 1, "early december": 1, "april": 1, "june": 1}
+{"1965 to 1990": 1, "september": 2, "january to march": 1, "may and june": 1, "spring and summer": 1, "1900 to 1990": 1, "november": 2, "november and december": 1, "nov. 10, 1975": 1, "1913": 1}
 {}

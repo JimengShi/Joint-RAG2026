@@ -4,7 +4,7 @@ import json
 import os
 
 DATASETS = ["nq", "popqa", "legalbench", "hurricane", "geography", "aging_dam"]
-MODELS = ["gpt-4o-mini", "llama3", "gpt-4o"]
+MODELS = ["gpt-4o-mini", "llama3", "llama3-local", "gpt-4o"]
 RETRIEVAL_METHODS = ["hypercube", "bm25", "nvembed", "hybrid", "raptor", "graphrag", "hipporag2", "none"]
 
 

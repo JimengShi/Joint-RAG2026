@@ -1,0 +1,844 @@
+{"hurricane": 1, "hurricane maria": 1, "storms": 1}
+{"tropical cyclones": 5, "typhoon ophelia": 1, "hurricanes": 1, "storm events": 2}
+{"hurricanes": 10, "cyclones": 1, "typhoons": 1}
+{"tropical cyclones": 1, "storms": 2, "hurricane mitch": 1, "natural disasters": 2, "extreme weather events": 2, "disasters": 2}
+{"storm": 4, "tropical cyclones": 2, "hurricane": 2, "hurricane floyd": 1, "heatwaves": 1, "floods": 1, "wildfires": 1}
+{"el ni\u00f1o-southern oscillation": 1, "hurricane": 5, "tempest": 2, "tempestites": 2, "storm": 3}
+{"hurricanes": 2, "tropical depressions": 2, "tropical cyclones": 3, "super typhoon haiyan": 1, "hurricane maria": 1, "storms": 3, "tropical storm events": 1}
+{"tropical cyclones": 3, "hurricanes": 3, "typhoons": 1, "storms": 1}
+{"hurricane": 1, "tropical cyclones": 1, "hurricanes": 2, "hurricane irma": 2, "storms": 1}
+{"melting ice sheets": 2, "sea level rise": 3, "hurricanes": 2, "storm surge": 2, "ice sheet melt": 1, "ice cliffs collapse": 1, "ice shelf depletion": 1, "ice sheet retreat": 1}
+{"tropical storm": 1, "hurricane": 1}
+{"hurricane laura": 1, "hurricane sally": 1, "hurricane michael": 3, "hurricane hanna": 1, "hurricane marco": 1, "marine heatwave": 2}
+{"hurricanes": 4, "storm": 2, "tropical storms": 1}
+{"natural disasters": 1}
+{"hurricane": 5, "hurricane maria": 1, "storm": 2}
+{"flooding": 7, "hurricane harvey": 2, "flood": 4, "road inundations": 1, "mobility disruptions": 1, "natural disasters": 1}
+{"sea level changes": 1, "extreme weather": 1, "hurricane intensification": 1}
+{"tropical storms": 2, "hurricanes": 2, "tropical cyclones": 3, "hurricane isaias": 1, "storms": 1}
+{"hurricane season": 5, "named storms": 5, "hurricanes": 4, "major hurricanes": 2, "storm surge": 2, "la nina": 1}
+{"hurricane": 3, "tropical cyclone": 1, "hurricane lane": 2}
+{"tropical cyclones": 10, "typhoon york": 1, "severe tropical storm goni": 1, "storms": 1}
+{"harvey": 5, "ike": 2, "katrina": 1, "Hurricane Harvey": 1, "Hurricane Ike": 1}
+{"hurricane maria": 1, "covid-19 pandemic": 1, "covid-19 crisis": 1}
+{"tropical storms": 2, "hurricane dorian": 1, "hurricanes maria": 1, "hurricane harvey": 1, "hurricane irma": 1}
+{"cyclone lua": 1, "cyclone": 5, "hurricane": 1, "typhoon": 1, "storms": 1}
+{"hurricane": 5, "tropical cyclones": 1, "storms": 2, "flood risks": 1}
+{"hurricanes": 4, "tropical cyclones": 3, "storm": 2, "major hurricane": 1, "vortex": 1}
+{"cyclones": 2, "flooding": 1, "hurricane katrina": 1, "tsunami": 1}
+{"hurricane": 5, "hurricane harvey": 1, "hurricane dorian": 1, "tropical cyclones": 1, "tropical storm": 1}
+{"earthquake": 3, "tsunami": 1, "hurricane katrina": 1}
+{"irma": 2, "maria": 3, "dorian": 1, "hurricane harvey": 1}
+{"flooding": 6, "storm surge": 1, "hurricane": 1, "coastal flooding": 1}
+{"hurricanes": 2, "tropical storms": 3, "tropical cyclones": 2, "hurricane irma": 1}
+{"storms": 3, "tropical cyclones": 2, "hurricanes": 3, "extra-tropical cyclones": 1, "nor'easters": 1, "storm surge": 4, "extreme storm surges": 1, "extreme sea level events": 1}
+{"hurricanes": 2, "floods": 1, "heatwaves": 2, "droughts": 2, "fires": 2, "storms": 1, "el ni\u00f1o": 2, "coral bleaching event": 1, "wildfires": 1}
+{"hurricane irma": 1, "hurricane": 2, "storm": 2, "extreme weather events": 1, "flooding": 1, "drought": 1, "tsunamis": 1}
+{"hurricane katrina": 1, "hurricane rita": 1, "sea level rise": 1}
+{"hurricane florence": 3, "extreme storms": 2, "natural disasters": 1}
+{"hurricane irma": 2, "storm": 1, "natural disaster": 1}
+{"tropical hurricanes": 1, "atlantic storms": 1, "hurricanes": 2}
+{"hurricane michael": 1, "polar vortex": 1}
+{"hurricane harvey": 1, "hurricanes": 4, "tropical storms": 4, "tropical cyclones": 2, "cyclones": 2}
+{"natural disasters": 2, "hurricane": 3, "hurricane florence": 1, "mass shootings": 1, "wildfires": 1, "major catastrophes": 1}
+{"hurricane": 5, "hurricanes": 3, "extreme weather": 1}
+{"hurricane maria": 3}
+{"tropical cyclones": 2, "hurricane": 1, "hurricane harvey": 1}
+{"hurricane katrina": 2, "hurricane harvey": 2, "hurricane maria": 1}
+{"stormquakes": 3, "hurricanes": 3, "nor'easters": 1, "hurricane bill": 1, "hurricane ike": 1, "hurricane irene": 1, "hurricane sandy": 1}
+{"hurricane katrina": 1}
+{"hurricane florence": 1, "hurricane dorian": 1}
+{"hurricane maria": 1, "dorian": 1, "hurricane katrina": 1, "natural disasters": 3, "extreme disasters": 3}
+{"tropical cyclone": 2, "hurricane": 2, "storm": 1}
+{"hurricane dorian": 3, "storm-related damages": 1, "storm surges": 1, "climate disasters": 1}
+{"hurricane nicole": 4, "hurricanes": 4}
+{"hurricanes": 4, "oil spills": 1, "storms": 4, "climate change": 2}
+{"storms": 1, "natural disasters": 2, "lockdowns": 1, "evacuation orders": 1, "public health emergencies": 1, "major emergency": 2, "power outage": 1, "hurricane": 2, "tornado": 1, "earthquake": 1, "flood": 1, "fire": 1}
+{"black swan weather events": 1, "subtropical storm alberto": 1, "hurricane florence": 1, "hurricane michael": 1, "tropical cyclones": 2}
+{"hurricane harvey": 3, "hurricanes": 2, "storm": 2}
+{"superstorm sandy": 2, "hurricane katrina": 1}
+{"tropical cyclone": 5, "hurricanes floyd": 1, "hurricane matthew": 1, "hurricane florence": 1, "flooding": 2, "floods": 2, "storm events": 1}
+{"heavy rainfall events": 1, "hres": 3, "hurricane": 2, "extreme weather event": 1}
+{"hurricane": 2}
+{"hurricane florence": 2}
+{"hurricane katrina": 1, "deepwater horizon spill": 3}
+{"sandy": 3, "hurricane sandy": 1, "future disasters": 1}
+{"hurricane harvey": 3, "flooding": 1}
+{"hurricane maria": 2, "storm": 3, "natural disaster": 1}
+{"hurricane harvey": 1}
+{"hurricane maria": 5, "hurricane harvey": 2, "hurricane katrina": 1, "Maria rainfall record": 1}
+{"hurricane harvey": 3, "flooding": 3, "flood": 3, "storm surges": 1}
+{"bp oil spill": 1, "hurricane katrina": 1}
+{"hurricane maria": 3, "hurricane hugo": 1, "hurricane georges": 1}
+{"hurricane maria": 4, "storm": 1, "natural disasters": 1}
+{"hurricane florence": 1}
+{"hurricane sandy": 1, "hurricane irene": 1, "southeast/ohio valley/midwest tornadoes": 1, "louisiana flooding": 1, "midwest/southeast tornadoes": 1}
+{"hurricane maria": 1, "tropical cyclone systems": 1, "hurricane": 1, "tropical storm": 1}
+{"katrina": 4, "harvey": 1, "irma": 1, "maria": 1, "jose": 1, "florence": 1, "michael": 1}
+{"hurricane": 1}
+{"hurricane maria": 3, "natural disaster": 1, "hurricanes": 2}
+{"hurricane": 1, "hurricane irma": 2, "hurricane maria": 2, "storms": 1, "rainstorms": 1}
+{"hurricane maria": 5}
+{"tropical cyclone": 4, "hurricane katrina": 2, "hurricane harvey": 1}
+{"hurricane harvey": 5, "hurricane florence": 1, "extreme weather events": 1, "extreme tropical cyclone rainfall": 1}
+{"hurricane harvey": 2, "storm": 3}
+{"hurricane katrina": 3, "hurricane andrew": 1}
+{"hurricanes": 10, "monsoon": 6, "el ni\u00f1o-southern oscillation (enso)": 1, "la ni\u00f1a": 4}
+{"hurricane michael": 3, "storm": 2, "hurricane": 2}
+{"extreme weather": 4, "flood": 2, "tornado": 2, "hurricane": 2, "drought": 4, "polar vortex": 3, "climate change": 3}
+{"supercell thunderstorms": 1, "tornadoes": 1, "tornadic thunderstorms": 1, "hurricane harvey": 1, "category 4 hurricane": 1, "category 1": 1}
+{"el ni\u00f1o": 1, "bleaching": 1, "hurricane": 2}
+{"hurricane florence": 4, "storm surge warning": 1, "storm surge watch": 1, "hurricane warning": 1, "hurricane watch": 1, "tropical storm warning": 1}
+{"hurricane maria": 3, "natural disasters": 2, "disasters": 2}
+{"hurricane matthew": 1}
+{"tropical cyclones": 8, "hurricane": 4, "tropical storm": 2, "tropical storms": 2}
+{"hurricane harvey": 1}
+{"hurricanes": 1, "storm": 1}
+{"floods": 1, "droughts": 2, "heatwaves": 1, "hurricane maria": 1, "hurricane harvey": 1}
+{"tornado": 4, "tornadoes": 3, "thunderstorms": 2, "hurricane": 1, "severe weather": 2}
+{"hurricane": 1, "hurricane maria": 3, "weather disasters": 1}
+{"hurricane harvey": 5}
+{"hurricanes": 1, "hurricane irma": 2, "tropical storm katia": 1, "tropical storm jose": 1, "solar flare": 2, "hurricane jose": 1, "solar flares": 2, "coronal mass ejections": 1, "geomagnetic storms": 1}
+{"hurricane harvey": 1, "hurricane irma": 1}
+{"hurricane": 5, "hurricane harvey": 1, "hurricane irma": 2, "hurricane maria": 1, "storm": 2, "natural disaster": 1, "selective event": 1}
+{"storm": 3, "hurricanes": 3, "dust storms": 2, "tropical cyclone activity": 1}
+{"hurricane katrina": 1, "hurricanes": 1}
+{"hurricane": 3, "hurricane sandy": 2, "sandy": 2}
+{"hurricanes": 3, "hurricane wilma": 1, "hurricane irma": 1, "storm surge": 2, "extreme events": 1}
+{"hurricane maria": 4, "storm": 2}
+{"nuisance flooding": 3, "storm surges": 1, "sunny-day flooding": 1}
+{"hurricane": 10, "irma": 1, "harvey": 1, "jose": 1, "el ni\u00f1o": 1}
+{"hurricane": 8, "hurricane harvey": 2, "storm": 2}
+{"hurricane maria": 4, "storm": 2, "natural disaster": 1, "disaster": 1, "Maria": 1}
+{"hurricane ike": 1, "hurricane ernesto": 1, "hurricane gustav": 1, "hurricane harvey": 1, "hurricane season": 1, "sandy": 1, "katrina": 1}
+{"hurricane": 1, "storm": 2, "thunderstorm": 3, "terrestrial gamma-ray flashes": 3, "tgfs": 4}
+{"hurricane sandy": 1, "hurricane harvey": 1, "hurricane irma": 1}
+{"storm": 5, "hurricane harvey": 3, "hurricane": 2, "supercharged storms": 2, "supercharged hurricanes": 1}
+{"hurricanes": 5, "storms": 3, "rapid intensification": 3}
+{"global warming hiatus": 1, "la ni\u00c3\u00b1a": 1, "cyclone": 3, "storms": 2, "tropical cyclones": 2}
+{"hurricane harvey": 2, "flood": 3, "flooding": 3, "storm": 1}
+{"harvey": 2, "hurricane": 1, "storm": 3, "flooding": 1, "natural disasters": 1}
+{"hurricane of 1871": 1, "storm": 1, "floods": 2, "droughts": 2, "high surf": 1, "landslides": 1, "earthquakes": 1, "tsunamis": 1, "volcanic eruptions": 1, "el-nino-la nina patterns": 1}
+{"tropical cyclones": 2, "tropical cyclone olwyn": 1, "cyclone": 2, "severe tropical cyclone": 1}
+{"hurricane maria": 1, "environmental disaster": 1, "disaster": 3}
+{"extreme weather events": 2, "hurricane harvey": 3, "harvey floodwaters": 1, "floods": 1}
+{"tropical storms": 1, "hurricane katrina": 2, "hurricane matthew": 1, "hurricanes harvey, irma and maria": 1, "hurricanes": 3}
+{"hurricane sandy": 1, "snow storm": 1}
+{"storm surges": 1, "extreme sea-level events": 3, "hurricane sandy-like flood event": 1, "hurricanes": 1, "large storms": 1, "coastal flooding": 1}
+{"hurricane matthew": 1}
+{"hurricanes": 3, "typhoons": 4, "tropical cyclones": 4, "storms": 4}
+{"hurricanes irma and maria": 1, "hurricane irma": 2, "hurricane maria": 2, "storms": 2, "natural disasters": 1, "catastrophic disaster": 1}
+{"extratropical cyclones": 5, "nor'easters": 1, "non-tropical storms": 1, "superstorm sandy": 2, "great appalachian storm": 1}
+{"climate change": 3, "coastal erosion": 2, "flooding": 2, "reef degradation": 2}
+{"hurricane harvey": 4, "flooding": 2, "wildfires": 1}
+{"flood": 2, "hurricane": 2, "tsunami": 2, "hurricane harvey": 1, "extreme hydrologic events": 1, "natural disasters": 2}
+{"earthquakes": 1, "hurricane winds": 1, "river flooding": 1, "hurricane storm surge": 1, "hurricane harvey": 1}
+{"natural disasters": 2, "hurricane katrina": 1, "disaster": 3}
+{"flash flood": 3, "flooding": 2, "floods": 2, "storm": 4, "hurricane harvey": 1}
+{"hurricane sandy": 2, "super storm sandy": 2, "hurricanes harvey": 1, "hurricanes irma": 1, "hurricanes maria": 1}
+{}
+{"hurricanes harvey": 1, "irma": 1, "maria": 1, "hurricane harvey": 3}
+{"cyclone nilofar": 1, "cyclone chapala": 1, "cyclone megh": 1, "cyclone ockhi": 1}
+{"hurricanes": 3, "hurricane katrina": 1, "hurricane arthur": 1, "hurricane harvey": 1, "tropical storm": 1, "storms": 5}
+{"hurricanes": 4, "climate change": 4, "extreme events": 2, "earthquakes": 1, "tsunamis": 1, "floods": 1}
+{"global warming": 2, "climate change": 1, "tropical cyclone": 3, "hurricane katrina": 1, "volcanic eruptions": 1, "natural disasters": 1}
+{"hurricane harvey": 5, "flood": 1, "storm": 4, "disaster": 2}
+{"sandy": 1, "hurricane": 3, "storm": 3, "hurricanes": 2, "cyclone": 1}
+{"coastal hazards": 3, "natural hazards": 1, "natural disasters": 1}
+{"hurricane earl": 3}
+{"harvey": 4, "tax day floods": 1}
+{"hurricane": 4, "storm": 2, "storm surge": 1, "flooding": 1, "harvey": 1, "irma": 1, "maria": 1}
+{"hurricanes harvey": 1, "irma": 1, "maria": 1, "nate": 1, "hurricane sandy": 3}
+{"hurricane": 5, "storm": 2}
+{"hurricanes": 4, "storms": 2}
+{"hurricane irma": 2, "hurricane matthew": 1}
+{"hurricane katrina": 1, "disaster": 3, "extreme events": 2, "hurricanes": 2}
+{"hurricane harvey": 3}
+{"katrina": 5, "hurricane katrina": 1}
+{"hurricane ike": 1, "tropical storms erin": 1, "allison": 1, "rainstorms": 1, "flooding": 5}
+{"extreme weather": 6, "severe storms": 1, "hurricane harvey": 1, "hurricane irma": 1, "coastal flooding": 1, "catastrophic weather": 1}
+{"hurricane harvey": 1, "storm": 1}
+{"hurricane harvey": 1}
+{"hurricane katrina": 2, "natural disaster": 2}
+{"hurricane irene": 1, "hurricane sandy": 1}
+{"extreme waves": 1, "storms": 3, "superstorm": 2, "hurricane sandy": 1, "cyclones": 1, "hurricanes": 1, "east-coast lows": 1}
+{"storm surges": 2, "extreme events": 3, "extreme sea levels": 3, "hurricane": 1}
+{"tropical cyclones": 4, "monsoons": 1, "west african monsoon": 1}
+{"hurricane": 3, "category 5": 2}
+{"north atlantic hurricane season": 1, "hurricane alex": 1, "hurricane matthew": 1, "otto": 1}
+{"hurricane katrina": 1, "tropical cyclone": 2, "floods": 1, "heat waves": 1}
+{"hurricanes": 3, "typhoons": 1, "storm": 2, "hurricane flights": 1}
+{"hurricanes": 3, "tropical storm delia": 1, "storm": 2}
+{"sea level rise": 4}
+{"tropical cyclones": 1, "hurricanes": 2, "hurricane matthew": 1, "tropical storm": 2, "storm": 2}
+{"tropical cyclones": 5, "hurricanes": 4, "typhoons": 1, "extreme waves": 2, "midlatitude storms": 1}
+{"hurricanes": 6, "hurricane formation": 1, "hurricane seasons": 1, "hurricane activity": 1, "landfalls": 1}
+{"hurricane matthew": 1, "katrina": 1, "sandy": 1}
+{"hurricane matthew": 1, "superstorm sandy": 1}
+{"storm": 2, "hurricane": 2, "tropical cyclones": 1, "hurricane katrina": 1, "hurricane matthew": 1}
+{"hurricanes": 1, "hurricane katrina": 1, "tropical storms": 1, "coastal storms": 1}
+{"hurricanes": 8, "hurricane sandy": 3, "cyclonic storms": 1, "tropical cyclones": 1}
+{"hurricane isaac": 2, "deepwater horizon spill": 2}
+{"hurricane katrina": 2, "katrina": 4, "storm": 1, "natural disaster": 1}
+{"el ni\u00f1o": 3, "hurricane matthew": 2, "floods": 1, "flooding": 2, "landslides": 1, "heatwave": 1, "wildfire": 1, "droughts": 1}
+{"storm development": 1, "storm formation": 1, "storm intensity": 1, "storms": 3}
+{"storm": 2}
+{"hurricane matthew": 1, "hurricanes": 2, "tropical cyclones": 3, "storms": 1}
+{"sandy": 4, "hurricane hermine": 1, "1821 hurricane": 1, "1938 hurricane": 1, "1944 hurricane": 1}
+{"hurricane matthew": 3, "storm": 2, "tropical storm": 1}
+{"hurricane katrina": 1, "typhoon haiyan": 1, "hurricane catarina": 1, "el ni\u00f1o": 2}
+{"floods": 2, "hurricane": 1, "storm surges": 2, "flooding": 1, "storms": 2, "storm surge incidents": 1}
+{"storm": 5, "hurricanes": 4, "hurricane katrina": 1, "hurricane sandy": 1, "hurricane andrew": 1, "hurricane floyd": 1, "hurricane patricia": 1}
+{"tropical cyclones": 2, "hurricane": 3, "climate change": 2, "global warming": 2}
+{"extreme weather events": 1, "natural disaster": 1, "high intensity hurricane": 1}
+{"tropical cyclones": 6, "tropical storm": 2, "hurricanes": 2, "typhoons": 1, "super typhoon nepartak": 1, "typhoon haiyan": 1, "hurricane patricia": 1}
+{"hurricanes": 1, "storm systems": 1, "evacuation orders": 1, "hurricane katrina": 1}
+{"dead zone": 3, "hypoxic zone": 2, "hurricanes": 1, "tropical storms": 1}
+{"superstorm sandy": 4, "hurricane sandy": 2, "winter storm jonas": 1, "nor'easters": 1}
+{"hurricanes": 5, "earthquakes": 1, "volcanoes": 1, "tropical cyclones": 1, "tropical storms": 2, "hurricane katrina": 3, "storm system": 2}
+{"hurricane": 8, "tropical cyclones": 1, "storm": 3}
+{"tropical cyclones": 7, "hurricanes": 2, "droughts": 2}
+{"hurricane joaquin": 1}
+{"climate change": 5, "natural disasters": 1, "hurricane": 1}
+{"severe weather": 2, "storms": 2, "hurricanes": 7, "hurricane karl": 1}
+{"hurricane sandy": 1, "heat waves": 1, "cold events": 1, "droughts": 2, "extreme rainfall": 1, "hurricanes": 2, "typhoons": 1, "storms": 2}
+{"hurricane": 5, "typhoon": 2, "super typhoon muifa": 1, "hurricane sandy": 1, "hurricane irene": 3}
+{"hurricanes": 13, "storm": 1, "tropical cyclone": 1}
+{"hurricane sandy": 2, "1992 winter storm": 1, "historical floods": 1}
+{"superstorm like sandy": 1, "sandy": 5, "hurricanes": 3, "storm": 5, "fujiwhara effect": 2, "perfect storm": 2}
+{"tropical low pressure area": 1, "system 90l": 2, "subtropical storm": 1, "hurricane alex": 2, "hurricane": 3, "tropical transition": 1, "extra-tropical storm": 1}
+{"tropical storm pali": 1, "hurricane pali": 2}
+{"tropical cyclones": 4, "typhoon": 2, "hurricanes": 1}
+{"hurricane sandy": 2, "hurricane katrina": 1}
+{"extreme weather": 3, "hurricane": 2, "wildfires": 2, "heat waves": 1, "natural disasters": 1}
+{"hurricane": 1, "hurricanes katrina": 1, "sandy": 1, "ike": 2, "wilma": 1}
+{"temperature extremes": 1, "extreme events": 3, "wildfires": 1, "antarctic sea ice extent": 1}
+{"hurricane": 2, "hurricanes": 1, "katrina": 1}
+{"amo": 3, "tropical storms": 1, "hurricanes": 1, "global warming": 1}
+{"hurricane sandy": 2, "tropical cyclones": 1, "storms": 3, "flood": 1, "flooding": 2, "coastal inundation": 1}
+{"hurricane katrina": 1, "disaster": 3, "large-scale disasters": 1}
+{"drainage canal wall failures": 1, "catastrophic flooding": 1, "disaster": 3, "levee failures": 1, "flooding": 1}
+{"hurricane katrina": 2, "storm surges": 1, "sea-level rise": 1, "saline intrusion": 1, "erosion": 1, "flooding": 1}
+{"hurricane katrina": 1, "hurricane season": 1, "dry spell": 2, "fires": 3, "tropical storms": 1, "hurricane landfalls": 1, "drought": 2}
+{"tropical storm": 2, "hurricane": 2, "hurricane hunter aircraft flights": 1, "hurricane-generated currents": 1}
+{"superstorm sandy": 3, "hurricane katrina": 2}
+{"compound flooding": 5, "hurricane sandy": 1}
+{"hurricane activity": 2, "climate change": 2, "sea-level rise": 2}
+{"hypoxic zones": 1, "hypoxia forecast": 2, "dead zone": 2}
+{}
+{"hurricanes": 1, "flooding": 2, "hurricane isaac": 1}
+{"hurricane season": 3, "named storms": 2, "hurricanes": 2, "major hurricanes": 1, "el ni\u00f1o": 2, "tropical storm ana": 1, "storm surge": 3, "tropical cyclone": 2, "hurricane": 1, "tropical storm": 1}
+{"tropical cyclones": 2, "tropical storm": 2, "hurricane": 2, "drought": 2}
+{"hurricanes": 3, "storm": 3, "tropical cyclones": 2, "major hurricane": 2}
+{"super typhoon maysak": 2, "storm": 4, "typhoon": 1, "hurricane": 1}
+{"hurricane": 10, "storms": 1, "natural disasters": 2}
+{"tropical cyclone": 6, "el ni\u00f1o": 4, "la ni\u00f1a": 2, "flood": 3, "hurricanes": 1, "storms": 2}
+{"cyclones": 3, "tropical cyclone": 4, "storms": 2}
+{"atlantic multidecadal oscillation": 2, "el nino": 1, "hurricane activity": 1, "droughts": 1, "coastal storms": 1, "hurricanes": 1}
+{"hurricanes": 5, "tropical storms": 1, "thunderstorms": 2}
+{"tsunami": 6, "super-typhoon": 1, "hurricane gilbert": 1}
+{"hurricane": 3, "typhoons": 1}
+{"storm surge": 3, "hurricane katrina": 1, "typhoon haiyan": 1, "winter storm": 1, "flooding": 1}
+{"hurricane sandy": 1}
+{"hurricane": 3, "storm": 3, "typhoon": 1}
+{"hurricanes": 4, "storm": 4, "blackouts": 1, "outages": 2}
+{"hurricane sandy": 3, "extreme weather events": 1, "natural disasters": 1}
+{"hurricane sandy": 2, "tropical storm fay": 1, "hurricane irene": 1, "hurricanes": 1}
+{"el ni\u00f1o": 5, "la ni\u00f1a": 2, "hurricane": 4, "tropical cyclone": 2, "typhoon": 1, "super typhoon hainan": 1}
+{"global warming": 4, "extreme weather": 1, "severe weather events": 1, "russian heat wave": 1, "hurricane sandy": 1, "typhoon": 1}
+{"tropical cyclones": 1, "hurricanes": 1, "typhoons": 1, "hurricane sandy": 2, "natural disasters": 2, "extreme weather events": 1}
+{"global warming hiatus": 1, "ocean warming": 2, "hurricane tracks": 1, "coral bleaching": 1}
+{"hurricane season": 1, "tropical cyclones": 5, "hurricanes": 1, "hurricane irene": 1, "hurricane sandy": 1}
+{"hurricane": 1, "hurricane sandy": 2, "snowstorms": 1, "disasters": 1}
+{"floods": 6, "flood": 3, "hurricane sandy": 1, "storm surges": 1}
+{"bleaching": 2}
+{"hurricane sandy": 1}
+{"hurricane": 3, "storm": 3, "paleohurricane": 2, "storm surge": 4}
+{"hurricane": 3, "severe storm": 1, "storm": 1}
+{"hurricane": 3, "storm": 1}
+{"hurricane": 4, "storm": 5, "tropical cyclones": 1, "hurricane ike": 2, "flooding": 2}
+{"hurricane sandy": 3, "natural disaster": 1}
+{"hurricane flossie": 2, "tropical storm flossie": 1, "vog plume": 2}
+{"storm": 4, "hurricane": 4, "tropical cyclones": 1}
+{"hurricane": 3, "hurricane ingrid": 2, "hurricane earl": 1, "hurricane karl": 1}
+{"el ni\u00f1o": 1, "hurricane remnants": 1, "storm": 1, "landslide": 1}
+{"tropical storms": 2, "hurricane": 3, "storm": 2}
+{"hurricane": 4, "tropical depression": 1, "tropical storm": 1, "extra-tropical storm": 1, "tropical cyclones": 2}
+{"el ni\u00f1o": 2, "hurricanes": 1, "iceberg movements": 1}
+{"storm": 5, "hurricane sandy": 2, "sandy": 5}
+{"global warming": 4, "ice age": 1, "global storm": 1, "hurricane katrina": 1}
+{"fire": 1, "insects": 1, "hurricane": 1}
+{"hurricanes": 5, "storm": 4, "hurricane katrina": 1, "hurricane audrey": 1, "hurricane alexandra": 1, "hurricane christina": 1, "hurricane victoria": 1, "hurricane alexander": 1, "hurricane christopher": 1, "hurricane victor": 1}
+{"hurricane": 3, "severe storm": 1, "storms": 2, "hurricane formation": 1, "hurricane investigations": 1, "marine storms": 1}
+{"el ni\u00f1o": 5, "tropical storms": 3, "hurricanes": 5, "storm surge": 2}
+{"hurricane": 6, "el ni\u00f1o": 2, "tropical storms": 2, "storm surge": 1}
+{"tropical cyclones": 3, "tropical depressions": 1, "tropical storms": 1, "hurricanes": 2, "el ni\u00f1o": 3}
+{"storms": 3, "cyclones": 4, "tropical cyclones": 3, "violent cyclones": 1}
+{"hurricane katrina": 2, "hurricane rita": 2, "hurricanes": 4, "tropical cyclones": 1}
+{"rainstorms": 1, "atlantic hurricanes": 2, "droughts": 2, "humanitarian disasters": 1, "tropical cyclone": 1}
+{"hurricane floyd": 1, "hurricane irene": 1, "hurricane sandy": 1}
+{"hurricane sandy": 3}
+{"hurricane katrina": 2, "storm": 2}
+{"hurricanes": 2, "tropical storms": 1, "tropical waves": 1}
+{"hurricane sandy": 2, "superstorm sandy": 1, "tropical cyclones": 1, "hurricanes": 2, "storm": 5, "cyclones": 1}
+{"hurricane katrina": 2, "hurricanes": 5, "typhoons": 2, "cyclones": 1, "tropical storms": 2, "storm": 3}
+{"hurricanes": 1, "hurricane sandy": 2, "hurricane katrina": 2, "hurricane isaac": 1}
+{"hurricane sandy": 4}
+{"tropical storms": 2, "hurricanes": 2, "storm surges": 1, "hurricanes ivan": 1, "dennis": 1, "tropical storm katrina": 1}
+{"extreme arctic cyclones": 2, "storminess": 1, "erosion of arctic coastlines": 2}
+{"earthquake": 2, "hurricane": 1, "flood": 1}
+{"typhoon paka": 1, "tropical cyclone": 1, "tropical cyclones": 1}
+{"hurricane sandy": 2, "superstorms": 1}
+{"hurricane": 2, "global warming": 1}
+{"cyclone": 10, "storm": 3, "hurricane": 2, "typhoon": 1}
+{"hurricane": 2, "hurricane ike": 1, "storm": 5, "sandy": 3}
+{"tropical cyclones": 7, "hurricanes": 2, "storms": 1}
+{"hurricane irene": 2, "paleostorm": 2}
+{"hurricane katrina": 1}
+{"super typhoon haiyan": 2, "typhoon": 1, "hurricane": 1}
+{"hurricane sandy": 5}
+{"sandy": 4, "hurricanes": 1, "storm surges": 1, "tsunamis": 1}
+{"flooding": 2, "hurricanes": 1, "storm surge": 1, "devastation": 1}
+{"hurricane sandy": 3, "hurricane irene": 1}
+{"storm": 3, "hurricane": 3, "sandy": 3}
+{"hurricanes irene": 1, "hurricane sandy": 2, "storms": 2, "extreme weather": 1}
+{"african dust": 4, "dust storms": 2, "hurricanes": 2, "tropical cyclones": 2, "saharan air outbreaks": 1}
+{"hurricane ike": 1, "hurricane": 1, "storm surges": 1}
+{"storm": 1, "hurricane": 1, "tropical storm": 1}
+{"hurricane sandy": 2, "sandy": 3, "tropical cyclone": 1, "hurricane agnes": 1}
+{"storms": 1, "volcanic ash clouds": 1, "wildfires": 1, "drought": 1}
+{"hurricane": 3, "storm surge": 6}
+{"hurricane": 10, "superstorm sandy": 2, "hurricane isaac": 1, "hurricane gustav": 1, "hurricane ike": 2, "irene": 1, "sandy": 4}
+{"tropical cyclone": 5, "tropical storm": 2, "hurricane sandy": 1, "erin": 2, "extratropical cyclones": 2, "tropical cyclone maintenance and intensification events": 1, "tcmi": 1}
+{"hurricane sandy": 3, "storm surges": 1, "tsunami inundation": 1}
+{"storms": 3, "hurricane": 2, "cyclone": 1}
+{"enso": 8, "global warming": 3, "volcanic eruption": 1, "floods": 1, "droughts": 1}
+{"tropical cyclone": 2, "tropical storm": 2, "hurricane": 2, "storm": 3, "hurricane nadine": 2, "nadine": 3}
+{"brown tide": 5, "hurricane sandy": 1, "algal blooms": 1}
+{"hurricanes": 5, "storm": 2}
+{"atlantic hurricane season": 1, "hurricane season": 1, "el ni\u00f1o": 2}
+{"tropical storms": 2, "hurricane formation": 1, "hurricanes": 2, "hurricane investigations": 1, "hurricane imaging radiometer": 1}
+{"hurricane season": 3, "sandy": 2, "tropical storm": 1, "post-tropical cyclones": 1}
+{"tropical cyclones": 8, "hurricanes": 2, "tropical storms": 1, "storms": 2}
+{"hurricane sandy": 2, "hurricane katrina": 2, "camille": 1, "tropical cyclone": 3, "la ni\u00f1a": 1}
+{"hurricane": 2, "sandy": 8, "superstorm": 1, "hurricane katrina": 1, "storm": 5}
+{"tropical cyclones": 2, "el ni\u00f1o": 1, "hurricane katrina": 2, "storm surges": 4}
+{"storm": 3, "katrina": 3, "hurricane": 2, "natural disasters": 2, "major disasters": 1}
+{"hurricane katrina": 3, "hurricane sandy": 1}
+{"superstorm sandy": 2, "hurricane sandy": 2, "extratropical cyclone": 1, "monster tempest": 1, "storm surge": 2}
+{"hurricane sandy": 3, "hurricanes": 2, "tropical cyclones": 1, "tropical storms": 1}
+{"hurricane sandy": 3, "natural disaster": 1, "storm": 1}
+{"hurricane sandy": 1, "tropical cyclones": 1}
+{"superstorm sandy": 1, "hurricane katrina": 1}
+{"drought": 5, "wildfires": 2, "tropical cyclones": 1, "sandy": 2, "isaac": 2, "tornado outbreaks": 1, "tornado": 2, "waldo canyon fire": 1, "whitewater-baldy complex fire": 1}
+{"natural disasters": 2, "earthquake": 5, "volcanoes": 2, "landslides": 3, "wildfires": 2, "hurricanes": 2, "tropical storms": 2, "flooding": 1, "drought": 1, "magnetic storm": 3}
+{"hurricane sandy": 2, "sandy": 2}
+{"driest november": 1, "abnormal dryness": 2, "coolest november": 1}
+{"hurricane sandy": 1, "tropical cyclones": 1, "storms": 2}
+{"hurricane sandy": 2}
+{"hurricane": 2, "hurricane-force storms": 1, "severe storms": 1}
+{"hurricane sandy": 2}
+{"hurricane sandy": 3, "hurricane igor": 1, "super storm": 2}
+{"hurricane sandy": 1, "storm surge": 1}
+{"hurricane sandy": 2, "hurricane katrina": 2, "earthquake": 1, "tsunami": 1}
+{"hurricane katrina": 1, "hurricane gustav": 3}
+{"sandy": 3, "superstorm": 1, "storm": 2}
+{"hurricane sandy": 2, "japanese tsunami": 1, "hurricane katrina": 2, "natural disasters": 2, "coastal flooding": 1, "severe weather": 1, "droughts": 1}
+{"hurricane katrina": 1, "hurricane sandy": 1}
+{"extreme weather": 1, "storms": 8, "snow storms": 1, "rain events": 1, "flooding": 2, "hurricane sandy": 2, "nor'easter": 1, "pineapple express": 1, "atmospheric rivers": 1, "wildfires": 1, "el ni\u00f1o": 2}
+{"super storm sandy": 3, "hurricane sandy": 1, "storm swell": 2, "flooding": 2}
+{"sandy": 1, "storms": 1}
+{"storm": 2, "hurricane sandy": 2}
+{"hurricane sandy": 2, "nor'easter": 1, "sandy": 4}
+{"hurricane katrina": 1, "hurricane": 1, "disaster": 3, "catastrophic events": 1}
+{"hurricane sandy": 4, "tropical storm sandy": 2, "storm": 2, "flooding": 2, "storm surge": 1}
+{"hurricane sandy": 1, "storm": 3}
+{"sandy": 3, "storm": 3, "hurricanes": 2}
+{"storm": 4, "hurricanes": 1}
+{"hurricane sandy": 5, "storm": 2, "tropical storm": 3, "blizzard": 1}
+{"hurricane sandy": 6, "tropical storm": 1}
+{"hurricane sandy": 5, "storm": 5, "storm surge": 3, "flooding": 2, "flood watches": 2, "tropical storm warning": 1, "high wind warnings": 1}
+{"hurricane": 1, "storm": 5, "hurricanes ida": 1, "irene": 1, "northeastern storms": 1}
+{"storm": 5, "irene": 1, "sandy": 1, "hurricane rita": 1, "hurricanes": 1, "tropical storms": 1}
+{"hurricane sandy": 3, "storm": 5, "tropical cyclone": 1, "tropical storm": 2, "post-tropical low": 1, "frankenstorm": 1}
+{"hurricane sandy": 5, "storm": 5, "derecho": 1, "frankenstorm": 1}
+{"hurricane sandy": 2, "sandy": 7}
+{"hurricane": 5, "tropical cyclones": 6, "storms": 5, "el nino": 3, "hurricane linda": 1, "atmospheric river": 1}
+{"tropical cyclones": 3, "tropical storms": 1, "hurricane surges": 1, "katrina": 2}
+{"hurricane leslie": 1, "tropical cyclone": 2, "hurricane nadine": 2, "tropical storm": 3, "hurricane ginger": 1, "hurricane/typhoon john": 1, "tropical depression 14": 2, "system 91l": 1, "extra-tropical storm": 2}
+{"hurricane irene": 2, "storm": 1}
+{"hurricane": 3, "tropical storms": 2, "atlantic hurricanes": 1, "storms": 3}
+{"hurricane katrina": 1}
+{"hurricane leslie": 1, "tropical depression 14": 3, "system 91l": 2, "tropical storm": 1, "convective storms": 1}
+{"hurricane": 6, "hurricanes": 3, "extreme events": 1}
+{"hurricane leslie": 1, "hurricanes": 4, "tropical storms": 2, "cyclones": 1, "thunderstorm systems": 1}
+{"storm": 3, "thunderstorms": 2, "rainfall": 1, "tropical depression": 1, "post-tropical remnant low-pressure system": 1}
+{"hurricane isaac": 3, "hurricane katrina": 1, "storm surge": 2, "flooding": 1}
+{"hurricane isaac": 4, "storm surge": 1, "inland flooding": 1, "landfall": 2, "tropical cyclones": 1}
+{"hurricane katrina": 1, "hurricane ivan": 1, "hurricanes katrina and rita": 1, "isaac": 1}
+{"hurricane": 3, "tropical storm": 3, "storm surge": 1, "flooding": 1, "hurricane katrina": 1}
+{"hurricanes andrew": 1, "hurricane charley": 1, "hurricane ike": 2}
+{"hurricanes": 1, "severe storms": 2, "flooding": 1}
+{"tornado": 3, "hurricane katrina": 2, "storm": 2}
+{"hurricanes": 5, "storm clouds": 1}
+{"hurricane": 5, "severe storm": 2}
+{"hurricane": 3, "tropical storms": 5, "cyclone nargis": 1, "cyclones": 3, "omar": 4}
+{"tropical storms alberto": 1, "beryl": 1, "debbie": 1, "florence": 1, "hurricanes chris": 1, "ernesto": 1, "hurricane irene": 1, "tropical storm lee": 1}
+{"hurricanes": 1, "hurricane flights": 1}
+{"heat wave": 3, "hurricane katrina": 1, "floods": 1}
+{"drought": 6, "tropical cyclone": 4, "tropical storms": 2, "hurricanes": 1, "tropical disturbances": 1, "tropical depressions": 1, "drought busters": 2, "storm": 1}
+{"tropical storm": 3, "hurricane": 4, "tropical storm allison": 1, "hurricane ike": 1}
+{"hurricane": 2, "devastating weather events": 2}
+{"tropical storm debby": 6, "tropical cyclone": 1}
+{"hurricane": 5, "storm": 5, "hurricane andrew": 2, "el ni\u00f1o": 1}
+{"tropical storm beryl": 1}
+{"hurricane": 3, "hurricane ike": 3, "hurricane katrina": 1, "storm surge": 2}
+{"hurricane": 4, "tropical cyclones": 1, "tropical storms": 2}
+{"extreme weather events": 1, "drought": 1, "flooding": 1, "heat records": 1, "tropical storms": 1, "hurricane wilma": 1, "el ni\u00f1o": 1}
+{"cyclone lua": 3, "tropical cyclone lua": 1, "cyclone warning": 1, "cyclone watch": 1, "yellow alert": 1, "blue alert": 1, "flash flooding": 1}
+{"storm surges": 5, "flooding": 3, "hurricanes": 2, "norfolk and long island hurricane": 1}
+{"cyclones": 2, "tropical cyclones": 3, "storms": 3, "high-intensity storms": 1}
+{"tropical cyclone funso": 3, "storm": 2, "cyclone": 1}
+{"cyclone warning": 1, "cyclone watch": 1, "blue alert": 1, "tropical storm iggy": 1, "tropical cyclone": 1, "category two cyclone": 1, "category three storm": 1}
+{"tropical cyclone funso": 2, "storm": 2, "cyclone": 1}
+{"tropical cyclone iggy": 1, "cyclone": 1, "flood": 1}
+{"hurricane katrina": 4}
+{"tropical cyclone funso": 3, "cyclone funso": 2, "major tropical cyclone funso": 1, "powerful tropical cyclone funso": 1, "storm": 1}
+{"tornadoes": 8, "hurricanes": 2}
+{"sahel droughts": 1, "atlantic hurricanes": 1}
+{"very wet rain events": 1, "landslides": 2, "earthquakes": 3, "natural hazards": 1, "tropical cyclone season": 1, "tropical cyclone events": 1, "typhoons morakot": 1, "typhoon herb": 1, "typhoon flossie": 1, "hurricanes": 1, "tropical storms": 1, "earthquake-triggering mechanism": 1}
+{"tropical storm": 2, "tropical cyclone": 2, "tropical storm alenga": 1, "alenga": 3, "extra-tropical storm": 1}
+{"tropical cyclone 01s": 3, "tc01s": 4}
+{"hurricanes": 1, "tropical cyclones": 1, "hurricane irene": 2, "typhoons": 1}
+{"hurricane ike": 2, "storm": 3, "hurricane-surge flooding": 1}
+{"solar maximum": 2, "solar flare": 2, "coronal mass ejection": 1, "cme": 2, "space weather": 3, "hurricanes": 1}
+{"hurricane rina": 4, "tropical storm": 2, "storm": 2, "hurricane": 3, "tropical cyclone": 1, "storm surge": 2}
+{"tropical depression eighteen": 1, "tropical storm rina": 3, "tropical cyclone": 2, "hurricane": 1}
+{"tropical cyclones": 1, "hurricanes": 8, "cyclones": 2, "storms": 3}
+{"tropical depression irwin": 2, "tropical storm": 2}
+{"hurricane jova": 3, "storm": 1, "tropical storm": 1}
+{"oil spill": 2, "hurricane katrina": 1}
+{"tropical depression": 2, "tropical storm irwin": 3, "tropical depression 10e": 2, "td10e": 2, "hurricane": 1}
+{"tropical storm philippe": 2, "hurricane": 2, "tropical cyclone": 1, "philippe": 5}
+{}
+{"storms": 6, "hurricanes": 1, "tropical cyclones": 1}
+{"hurricane irene": 2, "storm": 3, "floodwaters": 1}
+{"irene": 2, "storm": 1}
+{"hurricane": 2, "hurricane irene": 3, "hurricane earl": 1, "storm": 3}
+{"hurricane irene": 6, "tropical depression 10": 2, "tropical storm": 2}
+{"tornado": 3, "hurricane": 3, "severe weather": 1}
+{"tropical depression bret": 2, "tropical storm cindy": 2, "hurricane dora": 3, "tropical wave": 2}
+{"hurricane katrina": 2}
+{"el ni\u00f1o": 3, "la ni\u00f1a": 3, "la nada": 2, "hurricane season": 2, "drought": 1}
+{"tornado": 6, "tornado outbreak": 1, "thunderstorm": 2, "severe thunderstorms": 1, "severe storms": 2, "heat waves": 1, "blizzards": 1}
+{"floods": 1, "hurricane katrina": 1, "indonesian tsunami": 1, "paris heat wave": 1, "kobe earthquake": 1}
+{"hurricane": 1, "tornado": 3, "supercell thunderstorm": 2, "supercell": 1, "twister": 1}
+{"flooding": 1, "deluge": 1, "storm": 2, "hurricane mitch": 1, "floods": 2}
+{"katrina": 2, "hurricane": 2, "storm": 3, "flood damage": 2}
+{"tropical storms": 2, "hurricanes": 4, "hurricane charlie": 1, "cyclones": 1, "storm": 5, "storms": 5}
+{"droughts": 3, "wildfires": 2, "hurricanes": 2, "hurricane katrina": 1, "biscuit fire": 1}
+{"hurricane charley": 2, "hurricane": 5, "storm": 1, "disaster": 2}
+{"hurricane katrina": 2}
+{"tsunami": 1, "earthquake": 1, "natural disasters": 1}
+{"hurricane mitch": 4, "tropical storms": 1}
+{"rainstorm": 1, "storm": 3, "hurricane katrina": 1, "arkstorm": 3, "atmospheric river storm": 1, "megastorm": 1, "storm simulation": 1}
+{"atmospheric rivers": 6, "winter storms": 2, "pineapple express": 1}
+{"hurricane andrew": 1}
+{"great louisiana hurricane of 1812": 1, "hurricane katrina": 2, "hurricane betsey": 1, "1915 hurricane": 1, "august 1812 hurricane": 2}
+{"cyclone yasi": 4, "tropical cyclone": 1, "cyclone": 1, "severe tropical cyclone yasi": 1}
+{"yasi": 3, "hurricane": 1, "storm": 1}
+{"yasi": 3, "cyclone-force winds": 1}
+{"drought": 3, "el ni\u00f1o": 1, "la ni\u00f1a": 5, "hurricane alex": 1, "tropical storm hermine": 1, "tropical storms": 1, "wildfire": 2}
+{"hurricanes": 2, "storm": 1, "tropical wave": 1, "tropical disturbance": 1, "tropical depression": 1, "tropical storm": 1}
+{"hurricane": 10, "tropical depressions": 2, "storm": 4}
+{"coral bleaching": 5, "bleaching": 5, "bleaching event": 1, "hurricanes": 1, "tropical storms": 2}
+{"typhoons": 1, "storm surges": 2, "tsunami": 1}
+{"hurricane season": 2, "deepwater horizon tragedy": 1, "exxon-valdez event": 1}
+{"hurricane": 1}
+{"solar storms": 2, "hurricane katrina": 1, "solar eruptions": 2, "coronal mass ejections": 1, "solar flares": 2}
+{"hurricane katrina": 2, "flooding of new orleans": 1}
+{"oklahoma city bombing": 2, "hurricane katrina": 3, "hurricane ike": 1}
+{"hurricane": 6, "storm": 5, "tropical storms": 1, "storms": 5}
+{"typhoons": 1, "hurricanes": 5, "tropical cyclones": 1, "storms": 1, "thunderstorms": 1}
+{"typhoon": 3, "hurricane": 1, "super typhoons": 1, "tropical cyclones": 1}
+{"tropical depression": 1, "hurricane": 6, "tropical storms": 2, "cyclone": 1}
+{"la ni\u00f1a": 1, "hurricane season": 3, "storms": 2}
+{"deepwater horizon": 1, "oil disaster": 2, "oil spill": 2, "hurricane katrina": 2}
+{"hurricane": 8, "hurricanes andrew": 1, "hurricanes katrina": 1, "hurricane wilma": 1}
+{"storms": 2, "hurricanes": 3, "tropical storms": 1}
+{"tropical cyclone nargis": 2, "tropical cyclones": 2, "hurricanes": 1, "typhoons": 1, "cyclones": 2}
+{"hurricane alex": 1}
+{"katrina": 4, "hurricane": 3}
+{"tropical storm conson": 2, "typhoon conson": 2, "hurricane": 1}
+{"hurricane alex": 2, "tropical depression one": 1, "tropical storm alex": 1, "hurricane": 1, "tropical depression": 1, "tropical storm": 1}
+{"hurricane": 6, "tropical cyclones": 3, "cyclones": 1, "tropical storms": 1, "el ni\u00c3\u00b1o phenomenon": 1}
+{"tropical cyclone": 3, "tropical storms": 1, "hurricanes": 2, "hurricane": 2}
+{"earthquake": 2, "hurricane": 2, "extreme wind events": 1}
+{"oil spill": 3, "hurricane": 1}
+{"oil spill": 3, "hurricane": 2, "swine flu outbreak": 1}
+{"hurricane katrina": 1}
+{"hurricane": 2, "disaster": 5}
+{"hurricanes": 2, "severe storm": 1}
+{"hurricanes": 5, "tropical storms": 3, "hurricane season": 2, "oil spill": 3}
+{"storms": 1, "hurricane": 4, "la ni\u00f1a": 2}
+{"hurricane": 5, "named storms": 2, "major hurricanes": 2, "tropical storms": 2, "el ni\u00f1o": 1, "la ni\u00f1a": 1}
+{"hurricane": 8, "hurricane ivan": 3, "deep horizon oil spill": 1}
+{"hurricane ike": 1, "hurricane carla": 1}
+{"hurricane katrina": 3, "hurricanes": 2, "hurricane rita": 1}
+{"spill": 2, "hurricane katrina": 1, "oil catastrophe": 1, "flooding": 1, "ash cloud": 2}
+{"katrina": 2, "hurricane": 1, "tropical storm": 1}
+{"hurricane season": 1, "storms": 1}
+{"hurricane": 4, "katrina": 2}
+{"tropical cyclones": 4, "hurricanes": 2, "typhoons": 1, "storms": 3, "el ni\u00f1o-like conditions": 1}
+{"disaster": 10, "earthquake": 2, "hurricanes": 2, "landslides": 2, "aftershocks": 1}
+{"hurricane katrina": 3}
+{"earthquake": 2, "hurricane": 1}
+{"hurricane katrina": 5}
+{"loop current": 3, "loop current eddies": 2, "eddy": 1, "tropical storms": 1, "storm occurrences": 1}
+{"storm": 3}
+{"hurricanes": 1, "storms": 1}
+{"hurricane activity": 1, "coral bleaching": 1}
+{"storm": 3, "hurricane": 3, "hurricanes": 1}
+{"hurricane": 5, "hurricanes": 4, "hurricane andrew": 1, "climate change": 1}
+{"hurricane katrina": 1, "mass coral bleaching event": 1}
+{"hurricane ivan": 2, "hurricanes": 2, "storm": 1}
+{"el ni\u00f1o": 10, "la ni\u00f1a": 1, "hurricanes": 2, "drought conditions": 1}
+{"hurricanes": 4, "tornadoes": 8, "tropical cyclones": 2, "hurricane-induced tornadoes": 2, "storm surge": 1, "flooding": 1}
+{"monsoon": 3, "storm": 7, "tropical storms": 1, "hurricane": 2, "indian monsoon depressions": 1}
+{"hurricanes": 5, "typhoons": 1, "cyclones": 3, "tropical storms": 2, "tropical cyclones": 3, "hurricane katrina": 1}
+{"maka": 2, "felicia": 2, "tropical depression 9e": 2, "tropical depression 10e": 2, "tropical storm guillermo": 2, "guillermo": 3, "hurricane season": 1}
+{"hurricanes": 9, "el ni\u00c3\u00b1o": 2, "el ni\u00c3\u00b1o southern oscillation (enso)": 1, "la ni\u00c3\u00b1a": 1, "medieval climate anomaly": 1, "north atlantic oscillation (nao)": 1, "atlantic tropical storms": 1}
+{"hurricane felicia": 2, "tropical storm enrique": 2}
+{"bleaching": 5, "hurricane": 3, "storm": 3, "tropical storms": 1}
+{"hurricane": 1, "storm": 2, "tropical storm": 2, "tropical depression": 1}
+{"hurricane ike": 2, "storm season": 1}
+{"hurricane": 3, "el nino": 2, "tropical cyclones": 1}
+{"carlos": 5, "tropical depression #4e": 1, "hurricane carlos": 1}
+{"flood": 4, "flash floods": 1}
+{"el ni\u00f1o": 8, "el ni\u00f1o modoki": 4, "hurricanes": 4, "la ni\u00f1a": 3, "tropical storm": 1}
+{"katrina": 2}
+{"tropical cyclones": 4, "extratropical cyclones": 10, "hanukkah eve extratropical cyclone": 1}
+{"hurricane": 3, "tropical cyclone": 1, "storm": 1, "storm surge": 1}
+{"storms": 2, "storm system": 1, "severe storm": 1, "storm formation": 1, "hazardous weather events": 1}
+{"hurricane": 4, "earthquake": 2, "extreme wind events": 2, "storm-driven water": 1, "flooding": 1}
+{"hurricane season": 2, "tropical cyclone": 4, "hurricanes": 3, "typhoons": 1, "tropical storms": 1, "tropical depressions": 1, "tropical depression": 1, "el ni\u00f1o": 2, "la ni\u00f1a": 2, "hurricane": 3, "typhoon": 1}
+{"tropical cyclones": 4, "global warming": 1, "deep convection": 2}
+{"climate change": 4, "hurricane": 2, "storm surges": 1, "flooding": 2}
+{"storm": 2, "hurricane": 1}
+{"hurricanes": 4, "hurricane katrina": 1, "storm": 1}
+{"hurricane katrina": 3, "hurricane": 4, "storm surges": 2, "flooding": 3, "tropical storms": 1}
+{"tsunami": 6, "hurricane": 2, "earthquake": 2, "landslide": 2}
+{"tropical cyclones": 6, "storms": 2, "cyclone": 1, "global warming": 1, "climate change": 1}
+{"tropical cyclones": 2, "cyclone nargis": 3, "cyclones": 5, "hurricanes": 1, "typhoons": 1}
+{"hurricane david": 1, "tropical cyclones": 2, "fay": 3, "hurricanes gustav": 2, "hanna": 2, "ike": 3, "kyle": 1}
+{"hurricanes": 2, "storms": 2, "volcano activity": 1, "volcanoes": 2, "volcanic activity": 1, "el chich\u00f3n": 1, "mount pinatubo": 1, "hurricane seasons": 1, "hurricane formation": 1, "hurricane variability": 1}
+{"hurricane katrina": 1}
+{"hurricane": 1, "hurricane ike": 4, "hurricane rita": 4}
+{"sea level rise": 4, "thermal expansion": 2, "north atlantic ocean circulation": 1, "hurricane": 1, "winter storm surge": 1, "flooding": 1, "submersion": 1, "erosion": 1, "conversion of wetlands to open water": 1, "increase in the salinity of estuaries": 1}
+{"hurricane katrina": 1, "september 11 attacks": 1, "blizzard": 1, "earthquake": 1}
+{"storm": 3, "nargis": 6, "cyclones": 1, "hurricanes katrina and rita": 1, "hurricane": 1, "tropical cyclones": 2}
+{"hurricane katrina": 2, "natural disaster": 1, "major catastrophe": 1}
+{"hurricane katrina": 1}
+{"hurricane katrina": 3}
+{"hurricane ike": 1}
+{"hurricane": 2, "storm": 3, "storm surge": 2, "flooding": 1}
+{"polar lows": 8, "tropical cyclone": 1}
+{"tornadoes": 2, "heat": 2, "drought": 2, "flooding": 1, "floods": 1, "wildfires": 1, "hurricanes": 2, "earthquakes": 2, "heat waves": 1}
+{"hurricane ike": 3}
+{"natural disasters": 1, "hurricane": 1, "red river flood": 1, "katrina": 1, "rita": 1}
+{"tropical cyclones": 4, "typhoons": 2, "storm": 1}
+{"named storms": 3, "hurricanes": 4, "major hurricanes": 4, "tropical cyclones": 1}
+{}
+{"floods": 1, "landslides": 1, "tropical depression": 1, "hurricane mitch": 2}
+{"hurricane ike": 2, "storm surges": 1}
+{"hurricane": 6, "major hurricanes": 1}
+{"hurricanes hanna and ike": 1}
+{"katrina": 2}
+{"hurricanes": 6, "hurricane gustav": 1, "hurricane ike": 1, "storms": 2}
+{"hurricane": 5, "storm": 1, "flooding": 1}
+{"climate change": 8, "hurricane": 2, "hurricane wilma": 1, "storm events": 2}
+{"hurricanes": 1, "storm": 5, "storm surge": 4}
+{"ike": 2, "allison": 1, "storm": 1, "flood": 1}
+{"hurricane": 5, "ike": 4, "landfall": 1}
+{"storm": 1}
+{"hurricane": 4, "hurricane ike": 2, "storm": 2}
+{"hurricanes": 4, "tropical storm arthur": 1, "alma": 1, "bertha": 1, "gustav": 2, "tropical storm fay": 2, "tropical storm hanna": 1, "tropical storm ike": 1, "tropical storm josephine": 1, "tropical depression 10": 1}
+{"tropical depression seven": 1, "tropical storm gustav": 1, "hurricane gustav": 3}
+{"tropical cyclones": 6, "hurricanes": 3, "storms": 2, "typhoons": 1, "tropical storms": 1}
+{"natural disasters": 1, "katrina": 3, "hurricane": 1}
+{"katrina": 3, "hurricane": 2}
+{"tropical storm gustav": 1, "gustav": 1, "katrina": 2, "rita": 2}
+{"hurricane": 5, "hurricanes katrina and rita": 1, "hurricane fay": 1}
+{"hurricane": 1}
+{"hurricanes": 6, "el ni\u00f1o": 1}
+{"hurricane": 8, "tropical storm": 1, "global warming": 1, "climate change": 1}
+{"hurricane": 5, "tropical storm": 3, "la ni\u00f1a": 1}
+{"tropical storm floyd": 3, "nor'easter": 2, "category 1 hurricane": 1, "category-3 hurricane": 1}
+{"hurricane katrina": 3, "hurricane": 3, "major storm": 3}
+{"hurricane": 3, "tsunami": 5, "tropical cyclones": 2}
+{"katrina": 1}
+{"hurricane andrew": 1, "extreme wind events": 2, "flooding": 1, "storm-driven water": 1}
+{"storm": 6, "hurricanes": 1, "hurricane katrina": 1, "cyclone nargis": 1, "tornado": 1, "dust storms": 2}
+{"tropical storms": 3, "hurricanes": 2, "tropical cyclone": 1, "extra-tropical cyclones": 2, "frontal storm system": 1, "thunderstorm": 1, "torrents of rainfall": 1, "deadly flooding": 1}
+{"hurricane season": 3, "storm": 3, "tropical cyclone": 1, "depression": 1, "hurricane": 3, "tropical storm": 1, "major hurricanes": 2, "la ni\u00f1a": 1}
+{"hurricanes": 5, "tropical storm": 1}
+{"storms": 4, "hurricane": 1, "climate change": 2}
+{"katrina": 1, "katrina diaspora": 1}
+{"hurricane": 2, "disaster": 2}
+{"hurricane": 3, "hurricane katrina": 1, "tropical cyclones": 1}
+{"hurricanes": 3, "cyclones": 1}
+{"hurricane": 10, "storm": 4, "tropical depression": 1, "hurricane humberto": 1, "hurricane charley": 1}
+{"hurricane": 5, "tropical cyclones": 1, "hurricane gert": 1, "cyclones": 1}
+{"hurricane season": 4, "hurricanes": 5, "major hurricanes": 3, "tropical cyclone activity": 2, "hurricane landfall": 2, "landfalling hurricanes": 1}
+{"hurricane katrina": 1, "storm flooding": 1, "drought": 1, "wildfires": 1}
+{"hurricane": 2}
+{"land-falling hurricanes": 2, "hurricane damage": 2, "hurricane losses": 1, "hurricane areas": 1, "great miami hurricane": 1, "hurricane katrina": 1, "storms": 1}
+{"storm": 1, "hurricane juan": 1, "white juan": 1}
+{"hurricane": 4, "dust storms": 3, "dust storm": 1}
+{"outburst-flood events": 1}
+{"hurricane": 4, "storm": 1}
+{"atlantic hurricanes": 3, "u.s. landfalling hurricanes": 3, "hurricane activity": 2}
+{"floods": 2, "hurricane katrina": 1}
+{"dead zone": 3, "hurricane": 1}
+{"heat wave": 1, "cold outbreak": 1, "drought": 3, "flooding": 1, "tropical storm erin": 1, "wildfire season": 1, "hurricanes dean and felix": 1, "la ni\u00f1a": 1}
+{"hurricanes": 3, "tropical cyclone": 1, "storms": 2, "hurricane activity": 1}
+{"hurricane katrina": 1, "cyclone": 2, "tropical depressions": 2, "category five hurricanes": 1, "hurricanes": 2, "tropical storms": 2, "storms": 3}
+{"hurricane katrina": 3}
+{"hurricane": 12, "storm": 2, "hurricane season": 3, "hurricane activity": 5, "hurricane development": 2}
+{"hurricane katrina": 2, "us dust bowl": 1}
+{"tropical storms": 3, "atlantic tropical cyclones": 2, "hurricanes": 1, "el nino/la nina": 1}
+{"cyclone": 1, "storm surge": 3, "hurricane": 1}
+{"hurricane katrina": 2, "hurricane rita": 1}
+{"hurricane": 1, "hurricane katrina": 2, "storm": 2}
+{"hurricane": 1, "hurricane katrina": 3, "natural disaster": 1}
+{"natural and man-made disasters": 2, "hurricane katrina": 1, "earthquakes": 1, "hurricane": 1, "storms": 2, "climate change": 2, "global warming": 1}
+{"hurricanes": 1}
+{"hurricane georges": 1, "hurricane katrina": 1}
+{"hurricane": 5, "storm": 4, "thunderstorm": 1}
+{"hurricanes": 2, "major hurricanes": 2, "la nina": 1, "tropical cyclone formations": 1, "hurricane frances": 1, "hurricane dean": 1}
+{"hurricane": 5, "storm surge flooding": 2, "flash floods": 1, "mud slides": 1}
+{"hurricane": 6, "hurricane dean": 2, "tropical cyclone": 1}
+{"tropical depressions": 1, "tropical storms": 1, "hurricanes": 3, "la nina": 1, "hurricane season": 2}
+{"hurricane": 8, "tropical storm": 5, "tropical cyclone": 3, "el nino": 1}
+{"hurricanes": 4, "hurricane katrina": 3, "storm": 3, "major hurricane": 3}
+{"hurricane hugo": 2}
+{"hurricane": 5, "typhoon": 2, "el nino": 1, "la nina": 1, "storm": 3, "storm surge": 1, "inland flooding": 1}
+{"climate change": 5, "global warming": 1, "sea level rise": 3, "hurricane": 3, "hurricane fran": 1}
+{"hurricane katrina": 2, "earthquakes": 2, "earthquake": 2, "storms": 1, "disasters": 5, "typhoons": 1, "volcanic eruptions": 1, "tsunamis": 1}
+{"perfect storm": 1, "hurricane": 2, "extreme wind event": 2}
+{"hurricane": 3, "tropical cyclone": 1}
+{"tropical storms": 3, "hurricanes": 5, "tropical depression charley": 1}
+{"hurricane katrina": 2}
+{"hurricanes": 8, "cyclones": 5, "el ni\u00f1o": 1}
+{"hurricane": 5, "hurricane andrew": 1, "storms": 1}
+{"hurricanes": 7, "storm surges": 2, "tropical storms": 1, "tropical cyclones": 1}
+{"hurricane": 3, "storms": 2, "hurricane-force winds": 3, "la ni\u00f1a": 2}
+{"hurricane": 8, "storm": 5, "el ni\u00f1o": 2, "la ni\u00f1a": 4, "subtropical storm andrea": 1}
+{"hurricane": 5, "hurricane charley": 2, "storm": 2}
+{"hurricane katrina": 1, "storm": 2, "disaster": 1}
+{"hurricane bonnie": 3, "storm": 4, "hurricanes": 2}
+{"hurricanes": 1, "hurricanes katrina and rita": 1, "floodwaters": 2}
+{"hurricane": 9, "hurricanes fabian": 1, "hurricanes frances": 1, "tropical storms": 1, "typhoons": 1}
+{"hurricane": 6, "hurricanes katrina and rita": 2, "storm": 1}
+{"hurricane": 5, "el ni\u00f1o": 1, "la ni\u00f1a": 1}
+{"hurricane season": 1, "hurricanes": 2, "natural disasters": 1, "flooding": 2, "storms": 1, "cyclones": 1, "mudslides": 1}
+{"hurricane katrina": 1, "tsunami": 2}
+{"hurricanes": 2, "tsunamis": 2, "storm surge": 5, "hurricane katrina": 2, "indian ocean tsunami": 1}
+{"hurricanes": 9, "major hurricanes": 4, "intense hurricanes": 2, "tropical cyclone": 3, "el nino": 2, "la nina": 1}
+{"hurricane": 3, "hurricane ivan": 3, "storm": 2, "storm surge": 2}
+{"dust storms": 1, "hurricanes": 6, "tropical storms": 3, "dust outbreak": 1}
+{"hurricane katrina": 1, "hurricane mitch": 1}
+{"hurricanes": 4, "tropical cyclones": 3, "tropical depressions": 1, "storms": 2, "easterly waves": 2, "dust outbreaks": 1, "storm clouds": 1, "thunderstorms": 3}
+{"hurricane": 5, "katrina": 3, "rita": 6, "wilma": 1, "emily": 1, "dennis": 1}
+{"melting event": 1, "cyclone": 1}
+{"hurricanes": 6, "storm": 1}
+{"la ni\u00f1a": 7, "el ni\u00f1o": 2, "drought": 1}
+{"tip jets": 1, "barrier winds": 1, "mesoscale cyclones": 1, "polar lows": 1}
+{"hurricane": 8, "storms": 12, "el ni\u00f1o": 3, "la nina": 1, "dust storm": 2, "thunderstorm": 1}
+{"hurricane": 3, "storms": 7, "extreme storm events": 1}
+{"hurricane katrina": 1}
+{"hurricane ernesto": 1, "tropical storm bilis": 1, "cyclones": 1, "solar storms": 1}
+{"flood": 4, "hurricane katrina": 1}
+{"tropical storm gert": 4, "hurricane": 1, "tropical depression": 2}
+{"hurricane dennis": 3, "tropical cyclone": 1, "storm": 5, "hurricanes": 2, "tropical storms": 1}
+{"heat waves": 2, "drought": 5, "floods": 4, "flooding": 3, "landslide": 2, "el ni\u00f1o": 1, "la ni\u00f1a": 2, "tropical cyclones": 2, "typhoons": 1, "tropical storm": 1, "hurricanes": 1, "wildfire": 1}
+{"hurricane": 1, "tropical cyclones": 1, "hurricane katrina": 1}
+{"hurricane katrina": 2}
+{"heat wave": 2, "hurricane katrina": 2, "hurricane": 1, "storms": 1}
+{"climate change": 3, "sea level rise": 6, "flooding": 2, "hurricane storm surge": 2, "storm surge": 2, "hurricanes": 3, "hurricane": 2, "great hurricane of 1938": 1}
+{"hurricane landfalls": 1, "hurricane katrina": 1, "storm": 1}
+{"hurricanes": 3, "el nino": 5, "la nina": 5, "tropical cyclones": 2, "tropical depressions": 1, "tropical storms": 1, "typhoons": 1, "floods": 1, "droughts": 1, "winter storms": 1}
+{"hurricane dennis": 3, "storm surge": 5, "trapped wave": 3}
+{"hurricanes": 6, "dust storms": 5}
+{"hurricane": 5, "hurricane bonnie": 2, "hurricane katrina": 1, "hurricane ivan": 1, "hurricane rita": 1}
+{"hurricane katrina": 1}
+{"storms": 1, "hurricane": 2, "hot towers": 1}
+{"hurricanes": 1, "tropical disturbance": 1, "storm": 5, "tropical cyclone": 2}
+{"hurricanes": 3, "hurricane katrina": 3, "hurricane rita": 1, "tornadoes": 1, "storm surge": 2}
+{"hurricane": 2, "squall lines": 1, "supercell thunderstorms": 1, "severe weather": 1}
+{"hurricane": 4, "hurricane formation": 3, "hurricane intensity": 2, "hurricane strength": 1, "post-katrina": 1}
+{"hurricanes": 2, "hurricane damage": 1, "katrina impacts": 1, "storm": 1}
+{"hurricane katrina": 4, "hurricane rita": 2, "tsunami": 1}
+{"hurricane formation": 2, "hurricanes": 2, "tropical storms": 1, "easterly waves": 2}
+{"hurricane katrina": 5}
+{"katrina": 6, "hurricane": 2, "storm": 4, "storm surge": 2, "flooding": 1}
+{"hurricane": 4, "tropical cyclones": 1, "atlantic multidecadal oscillation": 1, "katrina": 1, "rita": 1}
+{"chicago heat wave": 1, "hurricane katrina": 1}
+{"flooding": 1, "hurricane katrina": 1, "tropical storms": 1, "hurricanes": 4}
+{"tropical cyclones": 1, "tropical depressions": 2, "storms": 2, "hurricanes": 3, "cyclone": 1}
+{"hurricane": 3, "hurricane andrew": 1, "four 2004 hurricanes": 1, "storms": 2}
+{"solar storms": 1, "coronal mass ejection (cme)": 2, "solar flare": 2, "hurricane": 1, "space weather events": 1, "thunderstorms": 1}
+{"hurricane fabian": 2}
+{"hurricane": 5, "hurricane emily": 4, "tropical storm gert": 1, "hurricane dennis": 1, "hurricanes katrina": 1, "hurricanes rita": 1}
+{"hurricane": 8, "hurricanes katrina": 1, "rita": 1, "wilma": 1, "el nino": 2}
+{"hurricanes katrina and rita": 2, "hurricanes": 5, "cyclone": 1, "storm surge": 3, "flooding": 3, "subsidence": 3, "climate change": 1, "disaster preparedness and response": 1}
+{"disaster": 8, "landslide": 1, "flood": 1, "terrorist attack": 1}
+{"hurricane katrina": 1, "hurricanes": 1, "hurricanes katrina and rita": 1}
+{"tropical cyclone activity": 2, "hurricanes": 3, "hurricane activity": 2, "hurricane numbers": 2}
+{"hurricane": 5, "tropical storms": 2, "hurricane ignacio": 1, "hurricane adrian": 1}
+{"hurricane": 8, "storms": 4, "el ni\u00f1o": 2, "la ni\u00f1a": 1}
+{"hurricane andrew": 4, "hurricane katrina": 3}
+{"hurricane": 6, "tropical cyclones": 2, "storm": 3, "major hurricane": 2, "monster hurricane": 1}
+{"la nina": 6, "hurricanes": 6, "tropical storms": 1}
+{"hurricane": 1, "storm": 5, "tropical storm gert": 3, "tropical depression": 1, "gert": 6}
+{"tropical storms": 3, "hurricanes": 2, "hurricane": 1, "tropical cyclones": 2, "tropical disturbances": 1, "flooding": 1}
+{"hurricane katrina": 2}
+{"tropical storms": 2, "floods": 1, "droughts": 1, "hurricane": 1, "flooding": 2}
+{"hurricanes": 4, "cyclonic storms": 2}
+{"hurricane katrina": 2, "hurricanes": 1, "storms": 1}
+{"hurricane": 2, "tropical cyclones": 3, "hurricane ophelia": 1, "extra-tropical storms": 2, "storm": 5}
+{"hurricanes": 3, "floodwaters": 1, "floods": 2, "droughts": 2, "storms": 3}
+{"heat wave": 2, "flooding": 1, "landslides": 1, "drought": 5, "wildfire season": 1, "storm systems": 1, "snow storm": 1, "blizzard of 2005": 1, "hurricane season": 1, "hurricanes": 1, "tropical storms": 1, "tropical cyclone activity": 1, "el ni\u00f1o": 3, "monsoon-related rainfall": 1}
+{"flooding": 2, "flood": 1, "hurricane": 2, "katrina": 2, "floodwaters": 1}
+{"hurricane": 4, "big storms": 3, "storm events": 1, "massive tidal surges": 1, "tsunami-like": 1}
+{"natural disaster": 1}
+{"hurricane katrina": 2, "floodwaters": 10, "flooding": 1}
+{"hurricane katrina": 1, "hurricane rita": 1}
+{"hurricane rita": 3, "tropical cyclones": 1}
+{"hurricane katrina": 1, "hurricane ophelia": 1, "hurricane rita": 2}
+{"hurricane katrina": 3}
+{"hurricane katrina": 1, "hurricane camille": 1}
+{"el ni\u00f1o": 1, "la ni\u00f1a": 1, "hurricanes": 1}
+{"hurricane katrina": 2, "tsunamis": 1, "hurricanes": 1, "volcanoes": 1, "earthquakes": 1, "floods": 2, "natural disaster": 2, "catastrophe": 1}
+{"hurricanes": 10, "typhoons": 1, "tropical cyclones": 3, "hurricane katrina": 1, "storms": 2}
+{"hurricane katrina": 2, "tsunami": 1}
+{"hurricane katrina": 2, "tropical storm ophelia": 2}
+{"hurricanes": 1, "floods": 1, "natural disasters": 1, "hurricane katrina": 1}
+{"hurricane katrina": 3}
+{"hurricane charley": 2, "katrina": 2, "storm surge": 1}
+{"hurricane": 1, "storm": 1, "disaster": 1}
+{"hurricane katrina": 3, "tropical storm": 2, "category five hurricane": 1, "category four hurricane": 1}
+{"hurricane katrina": 1}
+{"storm": 1, "hurricanes": 1}
+{"storm": 3, "hurricane": 1}
+{"hurricane": 5, "storms": 2, "tropical hurricane activity": 1}
+{"hurricane nora": 3}
+{"hurricane": 8, "storm": 2}
+{"hurricanes": 5, "tropical cyclone": 1, "storm": 2}
+{"hurricane ivan": 4, "rogue wave": 1, "super wave": 1}
+{"hurricane": 8, "tropical storms": 2, "storms": 2}
+{"hurricanes": 3, "cyclones": 1, "storms": 1, "squall": 1}
+{"hurricane": 5, "tropical cyclone": 2, "storm": 4}
+{"hurricane": 8, "tropical storm": 3, "tropical cyclones": 1, "remnants": 1}
+{"hurricane charley": 1, "hurricane": 2}
+{"tornado": 5, "tornadoes": 3, "mulhall tornado": 1}
+{"tornado": 5, "hurricane": 2}
+{"hurricane": 3, "hurricane charley": 1, "storms": 3}
+{"storm": 6, "hurricane": 2, "hurricane mitch": 1, "tropical depression adrian": 1, "tropical storm": 1, "adrian": 6}
+{"el nino": 2, "el nino southern oscillation (enso)": 2, "hurricane season": 1}
+{"hurricane ivan": 1, "storm": 3, "tsunamis": 1}
+{"hurricanes": 3, "hurricane ivan": 1, "tsunami disaster": 1, "natural disaster": 1}
+{"tropical cyclones": 2, "hurricane": 2, "storm": 2}
+{"tropical storm": 2, "hurricanes": 3, "tornado reports": 3, "tornadoes": 10, "hurricane season": 1, "tropical systems": 1}
+{"hurricane": 1, "hurricanes": 5, "hurricane charley": 1, "hurricane andrew": 1, "hurricanes frances, ivan and jeanne": 1, "hurricane gaston": 1, "tropical systems": 1, "tropical storm landfalls": 1, "el ni\u00f1o": 2, "wildfires": 1, "heat wave": 1}
+{"hurricane": 4, "tropical cyclones": 1, "tropical cyclone": 1}
+{"hurricane": 8, "storm": 3, "hurricane jeanne": 2, "frances": 1}
+{"hurricane jeanne": 1, "hurricanes": 1}
+{"hurricane ivan": 2}
+{"hurricane charley": 2, "storm": 3}
+{"hurricanes": 2, "hurricane ivan": 1}
+{"hurricane andrew": 2, "hurricanes": 1, "storms": 4}
+{"hurricanes": 3, "hurricane intensification": 1, "hurricane dissipation": 1, "hurricane intensity": 1, "hurricane observations": 2, "hurricanes frances": 1, "hurricanes ivan": 1}
+{"hurricane ivan": 1, "hurricane frances": 1, "hurricane isabel": 1, "hurricane charley": 1}
+{"hurricane charley": 1, "tropical storm isodore": 1, "hurricanes bonnie": 1, "hurricanes dennis": 1, "hurricanes floyd": 1}
+{"hurricane": 8, "hurricane frances": 2, "hurricane opal": 1, "tropical cyclone": 3, "el nino": 1}
+{"tropical cyclones": 5, "tropical storms": 3, "category 5 hurricanes": 1, "category 1 and 2 hurricanes": 1, "category 3 to 5 hurricanes": 1, "hurricane": 1}
+{"storms": 2, "hurricanes": 1, "severe storms": 1}
+{"hurricane bonnie": 1, "storm": 1}
+{"hurricane strikes": 2, "hurricane andrew": 1, "tropical storms": 1}
+{"hurricanes": 4, "hurricane bonnie": 1, "el ni\u00f1o": 1}
+{"hurricane fran": 3, "hurricanes dennis, floyd and irene": 2, "storms": 8}
+{"hurricane bonnie": 2, "tropical cyclone": 3, "cyclone": 2, "storm": 1}
+{"hurricanes": 3, "hurricane michelle": 1, "tropical storm allison": 1, "hurricane andrew": 1, "hurricane isabel": 2}
+{"hurricane isabel": 2}
+{"hurricane": 2, "storm": 1}
+{"storm": 2, "hurricanes": 2, "tornadoes": 2, "isabel": 2, "fran": 1, "bonnie": 1, "floyd": 1, "georges": 1, "lili": 1}
+{"isabel": 5, "storm": 3, "hurricane": 1, "storms": 1}
+{"hurricane": 8, "tropical cyclones": 2, "el nino": 1, "la nina": 1, "storms": 2, "typhoon": 1}
+{"hurricane": 4, "tornado": 2}
+{"hurricane": 8, "storm": 3}
+{"hurricane nora": 2, "hurricane": 2, "storm": 1}
+{"hurricanes": 2, "storm": 2, "storms": 1}
+{"hurricanes": 4, "storm surges": 1, "hurricane landfall": 1}
+{"hurricanes": 5, "major hurricane": 2, "storm": 1, "wild fires": 1}
+{"natural disasters": 2, "natural hazards": 2, "hurricane": 3, "chaotic events of nature": 1}
+{"hurricane floyd": 2}
+{"hurricane humberto": 2, "hurricane erin": 2, "hurricanes": 2}
+{"hurricane floyd": 2, "natural disasters": 1}
+{"tropical cyclone": 2, "hurricane diana": 2, "hurricanes": 2, "storm": 2}
+{"hurricane floyd": 3, "hurricane": 4}
+{"storm": 3, "hurricane": 3, "storm surge": 2, "hurricane storm surge": 1, "hurricane-force breaking waves": 1}
+{"tornadoes": 2, "hurricanes": 3, "microburst": 1, "horizontal windstorms": 1, "inland floods": 1, "severe straight-line winds": 1}
+{"hurricane debby": 1}
+{"el nino": 3, "hurricanes": 2, "midlatitude storms": 1, "extreme weather": 2, "climate-induced extinctions": 1}
+{"storm": 3, "tropical depression": 3, "hurricane": 4}
+{"storm": 3}
+{"wildfires": 1, "hurricane hector": 2, "tropical cyclone": 1, "tropical storm": 1}
+{"hurricanes": 2, "storms": 3, "hurricane floyd": 1}
+{"floods": 6, "flooding": 2, "hurricane": 2, "superstorm": 1, "storm surge": 2, "flash floods": 3, "thunderstorms": 1}
+{"tropical storm": 1, "hurricanes": 1, "el ni\u00f1o": 1, "la ni\u00f1a": 1}
+{"tornado": 1, "flash floods": 1, "hurricane season": 1}
+{"hurricane": 3, "storm surge": 6, "hurricane opal": 1, "hurricane andrew": 1}
+{"hurricanes": 6, "el nino": 6, "la nina": 4, "north pacific oscillation": 3, "npo": 4}
+{"hurricanes": 5, "tropical storms": 3, "storm activity": 1, "storm formation": 1}
+{"hurricane": 10, "hurricane andrew": 1, "hurricane camille": 2, "storm": 3, "storm surge": 1, "storm overwash": 1}
+{"hurricane": 2, "major hurricanes such as dennis and floyd": 1}
+{"hurricane": 8, "storm": 8, "la nina": 3, "el nino": 1, "tropical storm": 1, "floyd": 1, "bret": 1}
+{"hurricane": 1, "hurricane lenny": 1, "landslides": 1}
+{"hurricane floyd": 3}
+{"hurricanes": 3, "storm": 3}
+{"hurricane": 4, "storm": 2, "storm surge": 1}
+{"hurricane": 4, "severe storms": 1}
+{"tropical storms harvey": 2, "tropical storm hilary": 2, "hurricane gert": 2}
+{"hurricane hugo": 2, "hurricanes": 2, "earthquake": 2, "floods": 1, "fire": 1, "natural disasters": 2}
+{"hurricane": 5, "storms": 5, "hurricane landfall": 1, "hurricanes dennis and floyd": 1, "storm landfalls": 1}
+{"hugo": 3, "hurricane": 4}
+{"hurricane floyd": 1}
+{"hurricane floyd": 1, "storm": 2, "hurricane": 3}
+{"el ni\u00f1o": 9, "la ni\u00f1a": 1, "el ni\u00f1o-southern oscillation": 1}
+{"hurricane bonnie": 2, "tropical storm": 2, "northeaster storm": 1, "hurricane andrew": 1}
+{"hurricanes": 5, "tropical storms": 2, "major hurricanes": 3, "storm": 2, "hurricane seasons": 2, "storm formation": 1, "landfalling storms": 1}
+{"hurricane": 6, "hurricane andrew": 1}
+{"eruption": 5, "explosion": 3, "pyroclastic flows": 2, "ash hurricanes": 3, "landslide collapses": 1, "collapse": 2}
+{"hurricanes": 2, "floods": 2, "tornadoes": 2}
+{"hurricane": 5, "storm": 2, "thunderstorms": 1}
+{"el nino": 5, "la nina": 3, "hurricane mitch": 1, "tornado outbreaks": 1, "floods": 3, "ice storm": 1, "wildfires": 1}
+{"hurricane bonnie": 2, "la nina": 4, "el nino": 3, "enso": 2}
+{"hurricane bonnie": 1}
+{"hurricane mitch": 3, "disaster": 4}
+{"hurricane georges": 3, "hurricane andrew": 1, "hurricane bonnie": 2, "hurricane elena": 1}
+{"hurricanes": 2, "tropical storms": 2, "winter storms": 1, "hurricane andrew": 1}
+{"hurricane": 5, "hurricane georges": 2, "hurricane bonnie": 1, "tornadoes": 2, "storm": 3}
+{"hurricane": 4, "mud slides": 1, "thunderstorms": 1}
+{"hurricane": 2, "hurricane georges": 2, "flood": 1}
+{"storms": 2, "hurricane": 3, "hurricane hugo": 1, "wind storms": 1}
+{"hurricane": 3, "tropical storm charlie": 1}
+{"hurricane": 6, "tropical storm": 4, "storms": 4}
+{"hurricanes": 4, "hurricane": 5, "storms": 3, "storm": 2, "el nino": 1}
+{"hurricane lili": 2}
+{"tornadoes": 1, "hurricanes": 1, "hurricane andrew": 1}
+{"el ni\u00f1o": 8, "hurricane linda": 1, "hurricanes": 8, "storm": 2}
+{"tornadoes": 1, "hurricane andrew": 1, "hurricanes": 1}
+{"el ni\u00f1o": 10, "hurricane": 8, "storms": 3}
+{"cyclones": 8, "storms": 5, "great storm of 1913": 1, "major storm": 1}
+{}

@@ -4,34 +4,34 @@
 {}
 {}
 {}
-{"Typhoon Nina": 1, "the Johnstown Flood": 1}
+{"Typhoon Nina": 1, "the Johnstown Flood": 1, "evacuation of more than 100,000 people": 1}
 {"dam collapse": 1}
-{"Oroville Dam": 1}
-{}
+{"Oroville Dam": 1, "evacuation of 188,000 people": 1}
+{"Oroville Dam spillway failure": 1}
 {}
 {"Festival of Races": 1, "Sloan Auto Fair": 1, "flooding in Midland County": 1}
 {"the Great Flood of 1986": 1}
+{"2019 dam collapse in Brazil": 1}
 {}
 {}
-{}
-{}
-{}
-{}
+{"catastrophic failure": 1, "dam failure": 1, "massive flooding": 1}
+{"Russian gold mine dam collapse": 1}
+{"evacuation near Oroville Dam 2017": 1}
 {"dam failure": 1}
 {"Formula E": 1}
 {}
 {"the Flint Water Case": 1}
 {}
+{"evacuation order": 1, "spillway failure": 1}
+{"Edenville Dam failure": 1}
 {}
-{}
-{}
-{}
-{"Hurricane Agnes": 1}
+{"excessive groundwater pumping": 1, "aquifer depletion": 1, "subsidence": 1}
+{"Hurricane Agnes": 1, "dam failure consequences": 1}
 {}
 {}
 {}
 {"'Salute To America": 1, "Independence Weekend Fireworks": 1, "Weekend Fest & Fireworks": 1, "Independence Day Celebration": 1, "Independence Day": 1, "Independence Day Fest": 1, "'Big Bang On The Bay": 1, "Firecracker Run": 1, "Surf City Run": 1, "4th of July 5K": 1, "Yankee Doodle Dash": 1, "Red, White & Blue": 1, "BREW 5": 1, "'Independence Day On Back Bay": 1, "Family YMCA July 4th": 1, "Run In The Parks": 1, "Country Fair": 1, "Star-Spangled Spectacular": 1, "Community Parade": 1, "Annual Street Faire": 1, "Sun & Sail Club": 1, "Old Glory Boat Parade": 1, "Fest, Music, Kids' Fun & Fireworks": 1, "Celebration & Fireworks": 1, "'Springsteen Experience' Free Tribute Concert": 1, "'Music of Queen' Concert & Fireworks": 1}
-{"Vietnam War": 1, "the Sept. 11, 2001,": 1, "the Great Recession": 1}
+{"Vietnam War": 1, "the Sept. 11, 2001,": 1, "the Great Recession": 1, "dam failure": 1}
 {"Hurricane Lane": 1}
 {}
 {"Kaloko": 2, "Vietnam War": 1, "the Sept. 11, 2001,": 1, "the Great Recession": 1}
@@ -39,15 +39,15 @@
 {}
 {}
 {"Mariana": 1}
+{"Midland dam failure": 1, "Michigan lawsuit": 1}
 {}
-{}
-{}
+{"Edenville Dam failure": 1}
 {"Samarco": 1, "dam failure in Brazil": 1}
 {}
+{"dam failures in Michigan": 1}
+{"failure of the Oroville Dam": 1}
 {}
-{}
-{}
-{"Hurricane Maria": 4}
+{"Hurricane Maria": 4, "repair efforts": 1}
 {}
 {"SXSW": 2}
 {}
@@ -58,17 +58,17 @@
 {"the National Cherry Festival": 2, "Senate hearing": 1}
 {}
 {}
+{"Beaver dam failure": 1}
 {}
 {}
-{}
-{}
+{"Edenville Dam failure": 1}
 {"WWII": 1}
 {"Comedy Festival": 1, "Canadian Grand Prix": 2, "Stanley Cup Finals": 1, "Stanley Cup": 2, "Stanley Cup Fever": 1, "Season 8": 1}
 {}
 {"Winter Olympics": 1}
 {}
 {}
-{}
+{"dam failures in India": 1}
 {}
 {"mining dam collapse": 1}
 {"Tropical Storm Arthur": 1, "Tropical Storm": 1}
@@ -78,7 +78,7 @@
 {}
 {}
 {"Formula E": 1}
-{}
+{"English lawsuit": 1, "Brazil dam failure": 1}
 {"T20 World Cup": 2, "ICC World Cup": 1}
 {}
 {"ESPYS": 1, "Tuolumne Lumber Jubilee": 1}
@@ -90,26 +90,26 @@
 {"ESPYS": 1}
 {"The Flood of 1986": 1, "the Flood of 1986": 2, "the Flood of 1986.If": 1, "the Flood of 1986.At": 1}
 {}
-{}
+{"dam failure": 1}
 {"the Johnstown Flood": 1, "Hurricane Harvey": 1, "Harvey": 5}
 {}
 {}
 {}
-{}
+{"flooding in Midland County": 1}
 {"The Big Game Big Race \u2013 Daytona Masters Report": 1, "Black History Month": 1, "Folk Fest": 1, "International Food Fest": 1, "WWII Medal of Honor": 1, "Folkfest": 1}
 {}
 {}
 {}
 {}
 {}
-{}
+{"Edenville Dam failure": 1}
 {}
 {}
 {"ESPY": 1}
 {"Hurricane Katrina": 1, "El Nino": 1}
 {"WWII": 1}
 {}
-{}
+{"dam failures": 1, "prevent future dam failures": 1}
 {"Alberto": 2}
 {"Stanley Cup": 2, "Oroville Dam crisis": 1}
 {"TribFest22": 1, "Hurricane Harvey": 2, "Harvey": 1}
@@ -128,59 +128,59 @@
 {}
 {}
 {"Tropical Storm Irene": 1, "Irene": 1, "dam failures": 1}
+{"failure of Edenville Dam": 1}
 {}
 {}
-{}
-{"Florence": 1}
-{}
+{"Florence": 1, "Florence's floodwaters": 1}
+{"National Dam Safety Awareness Day": 1}
 {"Doce River Disaster": 1, "environmental concerns": 1}
 {}
 {}
 {}
-{"Tropical Storm Arthur": 1}
+{"Tropical Storm Arthur": 1, "500-year flood event": 1}
 {}
-{}
-{}
+{"tailings dam collapse": 1}
+{"Florence's floodwaters": 1}
 {"SF Pride Parade": 1}
 {"Hurricane Katrina": 1}
-{}
-{}
+{"lawsuit in British Columbia": 1}
+{"Samarco mine disaster": 1, "mine disaster": 1}
 {"dam failure": 1}
 {}
 {}
-{}
+{"dam failure": 1}
 {"MM Awards": 1}
 {}
-{}
+{"repeated warnings": 1}
 {"Reproductive Freedom Rally": 1}
 {"ESPYS": 1, "Hurricane Katrina": 1}
 {}
 {}
 {}
 {"Olympics": 1}
-{}
+{"damage claims": 1, "dam failure": 1}
 {"Hurricane Maria": 2}
-{"Reproductive Freedom Rally": 1}
+{"Reproductive Freedom Rally": 1, "mid-Michigan dam failures": 1}
 {}
 {}
 {}
+{"reassessment of dam safety": 1}
 {}
-{}
-{}
-{"Hurricane Maria": 3, "September 11 attacks": 1, "COP": 1}
-{}
+{"partial dam failure": 1}
+{"Hurricane Maria": 3, "September 11 attacks": 1, "COP": 1, "increased risk of dam failure": 1, "flood risk management": 1}
+{"catastrophic flooding": 1, "flooding in Michigan": 1}
 {"Hurricane Irene": 1, "9/11 death benefits": 1}
 {}
 {"Hurricane Maria": 5, "Maria": 1, "Hurricane Maria's": 1, "Hurricane) Irma": 1}
 {"SipFest": 1}
 {"the Johnstown Flood": 1, "Hurricane Katrina": 1}
 {}
-{}
+{"dam failure": 1}
 {"Hurricane Laura": 1, "catastrophic flood": 1}
 {"Hurricane Matthew": 12}
 {}
-{"Wimbledon": 1, "Carolina Fear Fest": 2, "'Wizard of Oz Festival'": 2, "Fourth of July": 1}
+{"Wimbledon": 1, "Carolina Fear Fest": 2, "'Wizard of Oz Festival'": 2, "Fourth of July": 1, "Hurricane Matthew": 1}
 {"Hurricane Matthew": 2, "Hurricane": 1}
 {"Great Famine": 1, "catastrophic floods": 1}
-{}
+{"2019 Brazil dam collapse": 1}
 {}

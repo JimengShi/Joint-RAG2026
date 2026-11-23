@@ -53,7 +53,7 @@ def main():
     ]
 
     # Create output directory
-    output_dir = f"hypercube_new/{args.data}"
+    output_dir = f"hypercube/{args.data}"
     os.makedirs(output_dir, exist_ok=True)
 
     if args.data == "scifact":

@@ -7,7 +7,7 @@
 {"Lake Oroville": 1, "the Feather River": 1, "Lake Conemaugh": 1, "the Mississippi River": 1}
 {"the Mekong River": 1, "International Rivers": 1}
 {"Lake Oroville": 3, "Lake Oroville\u2019s": 1}
-{"Lake Oroville": 2, "the Feather River": 1, "Friends of the River": 2}
+{"Lake Oroville": 2, "the Feather River": 1, "Friends of the River": 2, "Feather River": 1}
 {}
 {"the Tittabawassee River": 8, "Wixom Lake": 3}
 {"Wixom Lake": 1}
@@ -22,10 +22,10 @@
 {}
 {"the Flint River": 1}
 {"the Rio Doce river": 1}
-{"Lake Oroville": 4}
+{"Lake Oroville": 4, "Feather River": 1}
 {}
 {"the Rio Doce river": 1}
-{"Lake Oroville's": 1, "Lake Oroville": 3}
+{"Lake Oroville's": 1, "Lake Oroville": 3, "groundwater": 1}
 {"riverRaystown Lake": 1, "Raystown Lake": 2, "Lake Oroville": 3, "Lake Redman?Even": 1, "Lake Heritage Dam": 1, "Lake Meade Dam": 2, "Lake Lehman Dam": 1, "Lake Marburg Dam": 1, "Lake Pahagaco": 1, "Lake Redman Dam": 1, "Lake Williams Dam": 1}
 {"Coyote Creek": 2}
 {"the Stikine River": 1, "the Taku River": 1}
@@ -92,7 +92,7 @@
 {"the Bacanuchi River": 1}
 {"Sucker Creek": 1, "O'Neal Lake": 2}
 {"Cypress Creek": 1}
-{"the Niobrara River": 2}
+{"the Niobrara River": 2, "Niobrara River": 2}
 {"the Tittabawassee River": 1, "Wixom Lake": 1}
 {}
 {"the Tittabawassee River": 2, "Lake Wixom": 1, "Tittabawassee River": 1}
@@ -144,11 +144,11 @@
 {}
 {"San Joaquin Rivers": 1, "American Rivers": 2, "the Stanislaus River": 1, "San Joaquin River": 1}
 {"Hazeltine Creek": 1}
-{}
+{"Rio Doce": 1}
 {"Wixom Lake": 7, "Tobacco Rivers": 1, "American Rivers": 1}
 {"Dalrymple Creek": 1}
 {}
-{"the Madison River": 3, "the Upper Madison River": 2, "River Edge Fly shop": 1}
+{"the Madison River": 3, "the Upper Madison River": 2, "River Edge Fly shop": 1, "Madison River": 1}
 {}
 {"Boardman River": 3, "the Boardman River": 3, "Lake Michigan": 1}
 {"Great Lakes": 3, "Lake Michigan": 1}
@@ -168,19 +168,19 @@
 {"the Periyar river": 1, "Vaigai river": 2}
 {}
 {"Rye Brook": 1}
-{"the Tittabawassee River": 4, "Sanford Lake": 1}
+{"the Tittabawassee River": 4, "Sanford Lake": 1, "Tittabawassee River": 1}
 {"Lake ChamplainNew": 3, "Lake George": 1}
 {}
 {}
 {"Tolt River": 1}
 {"Lake Isabella Dam": 1, "Lake Isabella": 13}
 {"Great Lakes": 2, "Sanford Lake": 5, "Wixom Lake": 1, "Lake Michigan": 1}
-{"Lake Dunlap": 6, "Canyon Lake": 1, "Lake Travis": 2}
+{"Lake Dunlap": 6, "Canyon Lake": 1, "Lake Travis": 2, "Guadalupe River": 1}
 {"Lake Charles": 1}
 {"Little River": 2, "Lake Surf": 1}
 {"Lake Hickory": 6, "the Catawba River": 2, "Lakes James": 1, "Lookout Shoals Lake": 1, "Lake James": 1, "Lakes Norman": 1, "Mountain Island Lake": 1, "Catawba River": 1}
 {"Hope Mills Lake": 2}
-{"Lake Surf": 1, "Crains Creek": 1}
+{"Lake Surf": 1, "Crains Creek": 1, "Cape Fear River": 1}
 {"Yangtze River": 1, "the Yangtze River": 2}
 {}
 {"the Tamarack River": 1, "the St. Croix River": 3, "St. Croix River": 1}
