@@ -86,20 +86,22 @@ Results are saved to `output/<data>/<model>/`. Entity embeddings are cached in `
 
 
 ### 4. Evaluation
-We have automatic metrics from the NLP domain and LLM-as-judge to evaluate the quality of answers.
+We use automatic metrics (EM, F1, Semantic) and LLM-as-Judge to evaluate the answers. Both scripts accept `--data` in `nq`, `popqa`, `legalbench`, `hurricane`, `geography`, `aging_dam`, and read the output file saved by the QA scripts (`output/<data>/<model>/...`). Use `--input` to point to a specific output file, e.g., one saved with extra options such as the NQ command above.
 
 #### 4.1 NLP metrics
+EM and F1 are computed on normalized answers and take the maximum over all gold answers; Semantic is the cosine similarity of `all-MiniLM-L6-v2` embeddings.
 ```
-python evaluation/nlp_metric.py --data hurricane --model gpt-4o --retrieval_method hypercube --metric all
+python evaluation/nlp_metric.py --data popqa --model gpt-4o-mini --retrieval_method hypercube --k 5 --metric all
+python evaluation/nlp_metric.py --data nq --model gpt-4o-mini \
+    --input output/nq/gpt-4o-mini/llm_output_hypercube_k5_dense_tiebreak_fill_qahipporag_norefusal2_responses.json
 ```
 
-
-
-#### 4.2 LLM-as-judge
-
+#### 4.2 LLM-as-Judge
+Three LLM judges, GPT-4o (`gpt-4o-2024-11-20`), GPT-5.2 (`gpt-5.2-2025-12-11`) and GPT-6.1 (`gpt-6.1-sol`), rate each answer on correctness and completeness (0 or 1 each). For each judge we compute the average correctness, and the reported LLM-as-Judge score is the mean over the three judges. Per-sample judgments are saved to `*_judged.json`; re-running the script reuses them, so an interrupted run can be resumed.
 ```
-python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_method hypercube
+python evaluation/llm_as_judge.py --data legalbench --model gpt-4o-mini --retrieval_method hypercube --k 5
 ```
+Use `--judges` to select a subset of judges (e.g., `--judges gpt-4o`) and `--workers` to set the number of concurrent API requests (default 8).
 
 
 ### 5. Results
