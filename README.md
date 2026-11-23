@@ -9,19 +9,6 @@
 <img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/ours_vs_baselines.png" alt="joint-rag" width="1000"/>   
 
 
-### Datasets
-
-| Dataset (newly added) | Domain | #QA | #Passages | Index dimensions | Files |
-|---|---|---|---|---|---|
-| NQ | Open-domain (Wikipedia) | 1,000 | 9,633 | person, organization, location, date, event, work_title, fictional_character, concept | `corpus/nq`, `QA/nq`, `hypercube/nq` |
-| PopQA | Long-tail entities (Wikipedia) | 1,000 | 1,475 | person, organization, location, date, nationality, occupation | `corpus/popqa`, `QA/popqa`, `hypercube/popqa` |
-
-Notes:
-- `hypercube/<data>/passages.txt` is the passage-level retrieval corpus; line *i* of every `hypercube/<data>/<dimension>.txt` holds the entities extracted from passage *i*.
-- `QA/nq/gold_passage_ids.json` gives the gold passage ids of each NQ question, used for retrieval recall.
-- `hypercube/nq/cells_v1.json` caches the entities extracted from each NQ question, so that question decomposition does not need to be re-run.
-
-
 ### 1. Organization
 
 - `QA`: saves the question-answering pairs
@@ -101,7 +88,7 @@ python evaluation/llm_as_judge.py --data hurricane --model gpt-4o --retrieval_me
 
 #### QA and Retrieval Performance
 <div align="left">
-<img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/qa_and_retrieval_performance.png" alt="qa_performance" width="1000"/> 
+<img src="https://github.com/JimengShi/Joint-RAG2026/blob/main/figures/result.png" alt="qa_performance" width="1000"/> 
 </div>
 
 
