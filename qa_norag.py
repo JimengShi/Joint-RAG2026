@@ -37,7 +37,7 @@ def llm_answer(question, data_type, model_type):
 
 
     if model_type == 'llama3':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  # or set it externally
+        os.environ.setdefault("TOGETHER_API_KEY", "your TOGETHER_API_KEY")  # or export TOGETHER_API_KEY
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
             model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
@@ -52,7 +52,7 @@ def llm_answer(question, data_type, model_type):
         return res
     
     elif model_type == 'deepseek':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  # or set it externally
+        os.environ.setdefault("TOGETHER_API_KEY", "your TOGETHER_API_KEY")  # or export TOGETHER_API_KEY
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
             model="deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free",  # deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free, deepseek-ai/DeepSeek-R1
@@ -72,7 +72,7 @@ def llm_answer(question, data_type, model_type):
         return cleaned_res
     
     elif model_type == 'qwen':
-        os.environ["TOGETHER_API_KEY"] = "your TOGETHER_API_KEY"  # or set it externally
+        os.environ.setdefault("TOGETHER_API_KEY", "your TOGETHER_API_KEY")  # or export TOGETHER_API_KEY
         client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
         completion = client.chat.completions.create(
             model="Qwen/Qwen2.5-7B-Instruct-Turbo", 
